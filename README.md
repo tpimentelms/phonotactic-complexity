@@ -94,7 +94,7 @@ Artificial type can be:
 You can also call a script to train all models sequentially (it might take a while):
 
 ```bash
-$ python learn_layer/train_multi.sh
+$ source learn_layer/train_multi.sh
 ```
 
 ## Plot Results
