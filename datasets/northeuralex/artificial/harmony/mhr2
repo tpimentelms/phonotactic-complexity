@@ -1,0 +1,1122 @@
+Auge::N	шинча́	ʃ i n t͡ʃ o	ʃ i n t͡ʃ ɑ
+Ohr::N	пы́лыш	p u l y ʃ	p ɤ l ɤ ʃ
+Nase::N	нер	nʲ i r	nʲ e r
+Mund::N	умша́	ø m ʃ e	u m ʃ ɑ
+Zahn::N	пӱй	p o j	p y j
+Zunge::N	йы́лме	j e l m ø	j ɤ l m e
+Lippe::N	тӱ́рвӧ	t ø r v o	t y r v ø
+Wange::N	шӱ́ргӧ	ʃ i r ɡ i	ʃ y r ɡ ø
+Gesicht::N	чури́й	t͡ʃ i r o j	t͡ʃ u r i j
+Stirn::N	саҥга́	s ø ŋ ɡ y	s ɑ ŋ ɡ ɑ
+Haar::N	ӱп	y p	y p
+Schnurrbart::N	ӧ́рыш	e r ɤ ʃ	ø r ɤ ʃ
+Bart::N	понда́ш	p ø n d o ʃ	p o n d ɑ ʃ
+Kinn::N	оҥыла́ш	ɤ ŋ ø l i ʃ	o ŋ ɤ l ɑ ʃ
+Kiefer[Anatomie]::N	пӱйдӱ́ҥ	p ɤ j d i ŋ	p y j d y ŋ
+Kiefer[Anatomie]::N	пӱйората́	p u j o r ø t y	p y j o r ɑ t ɑ
+Kehle::N	лога́р	l u ɡ u r	l o ɡ ɑ r
+Hals::N	шӱй	ʃ ø j	ʃ y j
+Genick::N	шӱйло́дыш	ʃ ɤ j l y d ɑ ʃ	ʃ y j l o d ɤ ʃ
+Kopf::N	вуй	v u j	v u j
+Rücken::N	туп	t o p	t u p
+Bauch::N	мӱ́шкыр	m y ʃ k ɤ r	m y ʃ k ɤ r
+Nabel::N	кы́лымде	k u l e m d u	k ɤ l ɤ m d e
+Busen::N	чы́зе	t͡ʃ u z ɑ	t͡ʃ ɤ z e
+Brust::N	оҥ	ɤ ŋ	o ŋ
+Schulter::N	ва́че	v u t͡ʃ o	v ɑ t͡ʃ e
+Arm::N	кид	k u d	k i d
+Ellenbogen::N	кынерву́й	k o nʲ u r v ɤ j	k ɤ nʲ e r v u j
+Hand::N	кид	k e d	k i d
+Hand::N	копа́	k e p ø	k o p ɑ
+Handfläche::N	со́во	s u v ɑ	s o v o
+Finger::N	парня́	p e r nʲ i	p ɑ r nʲ ɑ
+Fingernagel::N	кидкӱ́ч	k ɤ d k y t͡ʃ	k i d k y t͡ʃ
+Fingernagel::N	парнягӱ́ч	p o r nʲ ø ɡ ɤ t͡ʃ	p ɑ r nʲ ɑ ɡ y t͡ʃ
+Nagel[Anatomie]::N	кӱч	k u t͡ʃ	k y t͡ʃ
+Zeh::N	йолварня́	j ɤ l v y r nʲ e	j o l v ɑ r nʲ ɑ
+Fuß::N	йол	j y l	j o l
+Fuß::N	йолкопа́	j i l k i p ø	j o l k o p ɑ
+Ferse::N	тага́н	t o ɡ ɑ n	t ɑ ɡ ɑ n
+Knie::N	пулву́й	p ø l v u j	p u l v u j
+Oberschenkel::N	э́рде	u r d ø	e r d e
+Bein::N	йол	j o l	j o l
+Körper::N	кап	k ɑ p	k ɑ p
+Haut::N	кова́ште	k ø v e ʃ tʲ ɑ	k o v ɑ ʃ tʲ e
+Blut::N	вӱр	v ø r	v y r
+Ader::N	шӧн	ʃ ɤ n	ʃ ø n
+Sehne::N	шӧн	ʃ i n	ʃ ø n
+Sehne::N	кӱсе́н	k ɤ s ɤ n	k y s e n
+Knochen::N	лу	l ø	l u
+Gehirn::N	вем	v u m	v e m
+Gehirn::N	вуйве́м	v o j v o m	v u j v e m
+Herz::N	шӱм	ʃ ø m	ʃ y m
+Magen::N	пага́р	p i ɡ u r	p ɑ ɡ ɑ r
+Leber::N	мокш	m e k ʃ	m o k ʃ
+Atem::N	шӱ́лыш	ʃ i l i ʃ	ʃ y l ɤ ʃ
+Hunger::N	шужыма́ш	ʃ u ʒ ɑ m o ʃ	ʃ u ʒ ɤ m ɑ ʃ
+Träne::N	шинчавӱ́д	ʃ ɑ n t͡ʃ ø v e d	ʃ i n t͡ʃ ɑ v y d
+Geschmack::N	там	t ø m	t ɑ m
+Geruch::N	пуш	p y ʃ	p u ʃ
+Schlaf::N	о́мо	i m e	o m o
+Traum::N	йӱдо́мо	j i d ɤ m o	j y d o m o
+Himmel::N	кава́	k e v y	k ɑ v ɑ
+Sonne::N	ке́че	k o t͡ʃ o	k e t͡ʃ e
+Mond::N	ты́лзе	t y l z i	t ɤ l z e
+Stern::N	шӱ́дыр	ʃ ɤ d y r	ʃ y d ɤ r
+Luft::N	юж	j e ʒ	j u ʒ
+Wind::N	марде́ж	m ɑ r d ɤ ʒ	m ɑ r d e ʒ
+Welle::N	то́лкын	t y l k u n	t o l k ɤ n
+Wasser::N	вӱд	v o d	v y d
+Stein::N	кӱ	k y	k y
+Boden::N	рок	r e k	r o k
+Erde::N	мла́нде	m l i n d ø	m l ɑ n d e
+Staub::N	пура́к	p i r ɑ k	p u r ɑ k
+Rauch::N	шикш	ʃ e k ʃ	ʃ i k ʃ
+Funke::N	сеске́м	s u s k u m	s e s k e m
+Funke::N	тулйы́п	t o l j o p	t u l j ɤ p
+Feuer::N	тул	t o l	t u l
+Licht::N	со́то	s i t ø	s o t o
+Schatten::N	ӱ́мыл	ɤ m i l	y m ɤ l
+Wetter::N	иге́че	j y ɡ e t͡ʃ i	j i ɡ e t͡ʃ e
+Nebel::N	тӱтыра́	t ɑ t i r ø	t y t ɤ r ɑ
+Wolke::N	пыл	p ø l	p ɤ l
+Regen::N	йӱр	j ɤ r	j y r
+Schnee::N	лум	l e m	l u m
+Eis::N	ий	j e j	j i j
+Frost::N	чатлама́	t͡ʃ e t l o m e	t͡ʃ ɑ t l ɑ m ɑ
+Kälte::N	йӱ́штӧ	j ɑ ʃ t ɑ	j y ʃ t ø
+Hitze::N	шо́кшо	ʃ y k ʃ i	ʃ o k ʃ o
+Raureif::N	пӧрш	p ɤ r ʃ	p ø r ʃ
+Raureif::N	по́кшым	p ɤ k ʃ ø m	p o k ʃ ɤ m
+Regenbogen::N	шонанпы́л	ʃ ø n y n p ɤ l	ʃ o n ɑ n p ɤ l
+Donner::N	кӱ́дырчӧ	k ɤ d i r t͡ʃ u	k y d ɤ r t͡ʃ ø
+Strömung::N	йо́гын	j ɑ ɡ e n	j o ɡ ɤ n
+Tropfen::N	чӱча́лтыш	t͡ʃ y t͡ʃ ø l t o ʃ	t͡ʃ y t͡ʃ ɑ l t ɤ ʃ
+Schaum::N	шоҥ	ʃ u ŋ	ʃ o ŋ
+Schmutz::N	лавыра́	l o v y r e	l ɑ v ɤ r ɑ
+See::N	ер	j i r	j e r
+Sumpf::N	лӱ́кӧ	l ø k o	l y k ø
+Moor::N	куп	k y p	k u p
+Wiese::N	о́лык	ɑ l o k	o l ɤ k
+Wald::N	чодыра́	t͡ʃ u d o r ø	t͡ʃ o d ɤ r ɑ
+Hügel::N	арка́	y r k ɑ	ɑ r k ɑ
+Anhöhe::N	тӧва́	t u v ɤ	t ø v ɑ
+Anhöhe::N	кӱкшака́	k i k ʃ u k u	k y k ʃ ɑ k ɑ
+Berg::N	ку́рык	k y r ø k	k u r ɤ k
+Gipfel::N	чаҥга́	t͡ʃ ɑ ŋ ɡ o	t͡ʃ ɑ ŋ ɡ ɑ
+Gipfel::N	курыкву́й	k e r ɤ k v i j	k u r ɤ k v u j
+Höhle::N	пеще́р	p o ɕʲ i r	p e ɕʲ e r
+Höhle::N	курыкпо́мыш	k i r i k p u m ɑ ʃ	k u r ɤ k p o m ɤ ʃ
+Abhang::N	та́йыл	t ø j ɤ l	t ɑ j ɤ l
+Quelle::N	важ	v o ʒ	v ɑ ʒ
+Quelle::N	вӱдшинча́	v ø d ʃ e n t͡ʃ u	v y d ʃ i n t͡ʃ ɑ
+Bach::N	изэҥе́р	j i z ø ŋ y r	j i z e ŋ e r
+Fluss::N	эҥе́р	i ŋ ø r	e ŋ e r
+Ufer::N	сер	s ɑ r	s e r
+Küste::N	вӱдтӱ́р	v o d t ɤ r	v y d t y r
+Festland::N	мла́нде	m l o n d ɑ	m l ɑ n d e
+Meer::N	те́ҥыз	tʲ ɤ ŋ y z	tʲ e ŋ ɤ z
+Bucht::N	икса́	j i k s u	j i k s ɑ
+Insel::N	отро́	i t r ɤ	o t r o
+Blume::N	пеле́дыш	p ɤ ʎ ɤ d ɤ ʃ	p e ʎ e d ɤ ʃ
+Gras::N	шу́до	ʃ ɑ d u	ʃ u d o
+Wurzel::N	вож	v ɤ ʒ	v o ʒ
+Baum::N	пуше́ҥге	p ɤ ʃ o ŋ ɡ ɑ	p u ʃ e ŋ ɡ e
+Stamm::N	йы́тыр	j ɤ t u r	j ɤ t ɤ r
+Rinde::N	шӱм	ʃ ɑ m	ʃ y m
+Ast::N	укш	ɑ k ʃ	u k ʃ
+Zweig::N	торма́к	t ø r m ɑ k	t o r m ɑ k
+Blatt::N	лышта́ш	l ø ʃ t ø ʃ	l ɤ ʃ t ɑ ʃ
+Birke::N	куэ́	k ø ɤ	k u e
+Kiefer[Baum]::N	пӱ́нчӧ	p i n t͡ʃ ø	p y n t͡ʃ ø
+Weide[Baum]::N	уа́	e o	u ɑ
+Tanne::N	кож	k o ʒ	k o ʒ
+Horn::N	шур	ʃ i r	ʃ u r
+Feder::N	пы́стыл	p i s t o l	p ɤ s t ɤ l
+Fell::N	кова́ште	k ø v u ʃ tʲ y	k o v ɑ ʃ tʲ e
+Flügel::N	шу́лдыр	ʃ ø l d u r	ʃ u l d ɤ r
+Klaue::N	кӱч	k ɤ t͡ʃ	k y t͡ʃ
+Kralle::N	ла́па	l ø p o	l ɑ p ɑ
+Kralle::N	копа́	k ɑ p y	k o p ɑ
+Schwanz::N	поч	p ø t͡ʃ	p o t͡ʃ
+Ei::N	му́но	m o n e	m u n o
+Nest::N	пыжа́ш	p e ʒ e ʃ	p ɤ ʒ ɑ ʃ
+Bau::N	пыжа́ш	p y ʒ i ʃ	p ɤ ʒ ɑ ʃ
+Tier::N	я́нлык	j ɤ n l e k	j ɑ n l ɤ k
+Tier::N	живо́тный	ʒ ɤ v o t n ø j	ʒ i v o t n ɤ j
+Herde::N	кӱ́тӱ	k ø t e	k y t y
+Herde::N	тӱшка́	t e ʃ k u	t y ʃ k ɑ
+Kuh::N	ушка́л	ɤ ʃ k i l	u ʃ k ɑ l
+Bulle::N	ӱ́шкыж	u ʃ k ɤ ʒ	y ʃ k ɤ ʒ
+Pferd::N	и́мне	j ø m nʲ i	j i m nʲ e
+Schaf::N	шо́рык	ʃ y r y k	ʃ o r ɤ k
+Schwein::N	сӧсна́	s o s n y	s ø s n ɑ
+Hund::N	пий	p i j	p i j
+Katze::N	пы́рыс	p y r o s	p ɤ r ɤ s
+Bär::N	маска́	m ɤ s k ɑ	m ɑ s k ɑ
+Eichhörnchen::N	ур	y r	u r
+Elch::N	шо́рдо	ʃ ɤ r d i	ʃ o r d o
+Fuchs::N	ры́выж	r e v ɑ ʒ	r ɤ v ɤ ʒ
+Hase::N	мера́ҥ	m e r ɤ ŋ	m e r ɑ ŋ
+Maus::N	коля́	k ɤ ʎ o	k o ʎ ɑ
+Wolf::N	пи́ре	p ɤ r ɑ	p i r e
+Vogel::N	ка́йык	k u j ɤ k	k ɑ j ɤ k
+Schwarm::N	каша́к	k y ʃ ɤ k	k ɑ ʃ ɑ k
+Huhn::N	чы́ве	t͡ʃ y v ɑ	t͡ʃ ɤ v e
+Hahn::N	агыта́н	u ɡ e t ɤ n	ɑ ɡ ɤ t ɑ n
+Gans::N	ко́мбо	k ø m b i	k o m b o
+Adler::N	карагу́ш	k e r ø ɡ ø ʃ	k ɑ r ɑ ɡ u ʃ
+Ente::N	лу́до	l y d y	l u d o
+Eule::N	тумна́	t ɑ m n u	t u m n ɑ
+Kranich::N	турня́	t ɤ r nʲ i	t u r nʲ ɑ
+Krähe::N	кора́к	k i r ø k	k o r ɑ k
+Kuckuck::N	куку́	k o k ɑ	k u k u
+Schwan::N	йӱ́ксӧ	j ɤ k s e	j y k s ø
+Fisch::N	кол	k y l	k o l
+Barsch::N	ола́ҥге	ɑ l ɑ ŋ ɡ e	o l ɑ ŋ ɡ e
+Hecht::N	нуж	n i ʒ	n u ʒ
+Hecht::N	чорта́н	t͡ʃ y r t ø n	t͡ʃ o r t ɑ n
+Schlange[Tier]::N	ки́шке	k u ʃ k ø	k i ʃ k e
+Wurm::N	шукш	ʃ ø k ʃ	ʃ u k ʃ
+Spinne::N	эҥыре́мыш	i ŋ ɤ r ɑ m o ʃ	e ŋ ɤ r e m ɤ ʃ
+Ameise::N	ку́тко	k ɑ t k y	k u t k o
+Laus::N	тий	tʲ y j	tʲ i j
+Mücke::N	шыҥа́	ʃ ø ŋ o	ʃ ɤ ŋ ɑ
+Fliege::N	ка́рме	k ø r m ɑ	k ɑ r m e
+Schmetterling::N	лы́ве	l y v ɤ	l ɤ v e
+Beere::N	мӧр	m e r	m ø r
+Apfel::N	олма́	u l m ɤ	o l m ɑ
+Pilz::N	по́ҥго	p e ŋ ɡ ɤ	p o ŋ ɡ o
+Zwiebel::N	шога́н	ʃ i ɡ e n	ʃ o ɡ ɑ n
+Saat::N	нӧ́шмӧ	n e ʃ m ɤ	n ø ʃ m ø
+Saat::N	туш	t ɑ ʃ	t u ʃ
+Korn::N	шу́рно	ʃ y r n o	ʃ u r n o
+Heu::N	шу́до	ʃ ɤ d e	ʃ u d o
+Schale::N	шӱм	ʃ ɤ m	ʃ y m
+Grube::N	выне́м	v y nʲ ɤ m	v ɤ nʲ e m
+Falle::N	лӧ́дӧ	l ɑ d i	l ø d ø
+Schlinge::N	о́птыш	i p t o ʃ	o p t ɤ ʃ
+Schlinge::N	шӧрга́лтыш	ʃ ɑ r ɡ y l t y ʃ	ʃ ø r ɡ ɑ l t ɤ ʃ
+Spur::N	кыша́	k u ʃ o	k ɤ ʃ ɑ
+Asche::N	ло́мыж	l y m u ʒ	l o m ɤ ʒ
+Dreck::N	лавыра́	l ɑ v ɤ r ɑ	l ɑ v ɤ r ɑ
+Eisen::N	кӱ́ртньӧ	k ø r t nʲ ɤ	k y r t nʲ ø
+Gold::N	шӧ́ртньӧ	ʃ ɑ r t nʲ ɑ	ʃ ø r t nʲ ø
+Silber::N	ший	ʃ e j	ʃ i j
+Kohle::N	мландышӱ́й	m l o n d ɤ ʃ e j	m l ɑ n d ɤ ʃ y j
+Glas::N	янда́	j ɤ n d o	j ɑ n d ɑ
+Lehm::N	шун	ʃ ø n	ʃ u n
+Sand::N	ошма́	y ʃ m y	o ʃ m ɑ
+Mensch::N	еҥ	j i ŋ	j e ŋ
+Mensch::N	айде́ме	ɑ j d e m ɤ	ɑ j d e m e
+Mann::N	пӧръе́ҥ	p u r j e ŋ	p ø r j e ŋ
+Frau::N	ӱдырама́ш	e d y r u m e ʃ	y d ɤ r ɑ m ɑ ʃ
+Kind::N	аза́	y z ɤ	ɑ z ɑ
+Junge::N	рве́зе	r v o z ø	r v e z e
+Mädchen::N	ӱдыра́ш	ɑ d o r o ʃ	y d ɤ r ɑ ʃ
+Familie::N	еш	j u ʃ	j e ʃ
+Großvater::N	коча́	k u t͡ʃ i	k o t͡ʃ ɑ
+Großmutter::N	кова́	k ɑ v ø	k o v ɑ
+Eltern::N	ача́-ава́	u t͡ʃ o ø v o	ɑ t͡ʃ ɑ ɑ v ɑ
+Vater::N	ача́	e t͡ʃ o	ɑ t͡ʃ ɑ
+Mutter::N	ава́	o v y	ɑ v ɑ
+Sohn::N	э́рге	ɑ r ɡ y	e r ɡ e
+Tochter::N	ӱ́дыр	ɑ d e r	y d ɤ r
+Bruder::N	иза́	j e z i	j i z ɑ
+Bruder::N	шо́льо	ʃ ø ʎ i	ʃ o ʎ o
+Schwester::N	ака́	u k i	ɑ k ɑ
+Onkel::N	иза́	j e z ø	j i z ɑ
+Tante::N	кока́	k o k ø	k o k ɑ
+Ehemann::N	мари́й	m ɤ r ɑ j	m ɑ r i j
+Ehefrau::N	ва́те	v e tʲ i	v ɑ tʲ e
+Freude::N	куа́н	k y o n	k u ɑ n
+Freude::N	куаныма́ш	k ɤ o n ɑ m o ʃ	k u ɑ n ɤ m ɑ ʃ
+Gelächter::N	во́штылтыш	v u ʃ t e l t i ʃ	v o ʃ t ɤ l t ɤ ʃ
+Glück::N	пиа́л	p u e l	p i ɑ l
+Kummer::N	о́йго	e j ɡ i	o j ɡ o
+Wunsch::N	ку́мыл	k e m ɤ l	k u m ɤ l
+Lust::N	ку́мыл	k i m e l	k u m ɤ l
+Geist::N	ӧрт	i r t	ø r t
+Geist::N	чон	t͡ʃ ø n	t͡ʃ o n
+Gedanke::N	ой	ɑ j	o j
+Gedanke::N	шоныма́ш	ʃ ɑ n e m y ʃ	ʃ o n ɤ m ɑ ʃ
+Gedächtnis::N	шарныма́ш	ʃ i r n ɑ m e ʃ	ʃ ɑ r n ɤ m ɑ ʃ
+Verstand::N	уш	ø ʃ	u ʃ
+Sinn::N	смысл	s m e s l	s m ɤ s l
+Grund::N	ама́л	o m ɑ l	ɑ m ɑ l
+Wahrheit::N	чын	t͡ʃ u n	t͡ʃ ɤ n
+Gespräch::N	мутланыма́ш	m o t l i n u m ɑ ʃ	m u t l ɑ n ɤ m ɑ ʃ
+Märchen::N	йома́к	j e m o k	j o m ɑ k
+Erzählung::N	ойлыма́ш	i j l y m e ʃ	o j l ɤ m ɑ ʃ
+Nachricht::N	увертарыма́ш	u v i r t i r i m y ʃ	u v e r t ɑ r ɤ m ɑ ʃ
+Neuigkeit::N	уве́р	ø v u r	u v e r
+Name::N	лӱм	l i m	l y m
+Rätsel::N	ту́што	t ɑ ʃ t y	t u ʃ t o
+Rede::N	ойлыма́ш	o j l ɑ m u ʃ	o j l ɤ m ɑ ʃ
+Sprache::N	йы́лме	j ø l m ɑ	j ɤ l m e
+Stimme::N	йӱк	j i k	j y k
+Wort::N	ой	e j	o j
+Wort::N	мут	m o t	m u t
+Zeichen::N	ти́ште	tʲ ɤ ʃ tʲ ɤ	tʲ i ʃ tʲ e
+Zeichen::N	знак	z n y k	z n ɑ k
+Ruf::N	ӱжма́ш	e ʒ m ø ʃ	y ʒ m ɑ ʃ
+Lärm::N	лӱшкыма́ш	l o ʃ k u m ɤ ʃ	l y ʃ k ɤ m ɑ ʃ
+Lärm::N	йӱк-йӱа́н	j ɤ k j e y n	j y k j y ɑ n
+Laut::N	йӱк	j ø k	j y k
+Ton::N	йӱксе́м	j i k s ø m	j y k s e m
+Lied::N	му́ро	m e r u	m u r o
+Ruhe::N	ты́мык	t e m ø k	t ɤ m ɤ k
+Leute::N	еҥ-влак	j o ŋ v l u k	j e ŋ v l ɑ k
+Volk::N	ка́лык	k i l i k	k ɑ l ɤ k
+Arbeit::N	паша́	p ø ʃ i	p ɑ ʃ ɑ
+Gast::N	уна́	ɑ n e	u n ɑ
+Geschenk::N	пӧле́к	p ɤ ʎ ø k	p ø ʎ e k
+Spiel::N	мо́дыш	m ɤ d i ʃ	m o d ɤ ʃ
+Spiel::N	модма́ш	m ø d m ɤ ʃ	m o d m ɑ ʃ
+Gesellschaft::N	тӱшка́	t u ʃ k e	t y ʃ k ɑ
+Hilfe::N	по́лыш	p ɑ l ø ʃ	p o l ɤ ʃ
+Freund::N	таҥ	t u ŋ	t ɑ ŋ
+Freund::N	йолта́ш	j ɑ l t o ʃ	j o l t ɑ ʃ
+Kamerad::N	таҥ	t ɑ ŋ	t ɑ ŋ
+Angelegenheit::N	паша́	p i ʃ e	p ɑ ʃ ɑ
+Anzahl::N	чот	t͡ʃ o t	t͡ʃ o t
+Art::N	вид	v e d	v i d
+Stück::N	ка́тыш	k e t ɑ ʃ	k ɑ t ɤ ʃ
+Stück::N	ла́стык	l i s t i k	l ɑ s t ɤ k
+Teil::N	ужа́ш	u ʒ y ʃ	u ʒ ɑ ʃ
+Hälfte::N	пел	p i l	p e l
+Hälfte::N	пе́ле	p y ʎ ø	p e ʎ e
+Kreis::N	ты́ртыш	t y r t e ʃ	t ɤ r t ɤ ʃ
+Kreuz::N	ыре́с	y r e s	ɤ r e s
+Linie::N	ли́ний	ʎ ɤ nʲ u j	ʎ i nʲ i j
+Strich::N	коре́ш	k ɤ r ɤ ʃ	k o r e ʃ
+Abstand::N	кокла́	k y k l ɤ	k o k l ɑ
+Entfernung::N	тора́	t e r u	t o r ɑ
+Entfernung::N	ку́жыт	k u ʒ e t	k u ʒ ɤ t
+Gegend::N	кунде́м	k i n d u m	k u n d e m
+Platz::N	ку́мдык	k i m d o k	k u m d ɤ k
+Ort::N	вер	v i r	v e r
+Ort::N	о́лмо	e l m ø	o l m o
+Seite::N	ӧ́рдыж	ɤ r d ø ʒ	ø r d ɤ ʒ
+Mitte::N	покше́л	p o k ʃ ɑ l	p o k ʃ e l
+Gegenstand::N	наста́	n o s t i	n ɑ s t ɑ
+Sache::N	наста́	n e s t ø	n ɑ s t ɑ
+Rand::N	тӱр	t i r	t y r
+Kante::N	тӱр	t ø r	t y r
+Ecke::N	лук	l e k	l u k
+Spitze::N	вуй	v ø j	v u j
+Ende::N	муча́ш	m ø t͡ʃ ɤ ʃ	m u t͡ʃ ɑ ʃ
+Loch::N	рож	r o ʒ	r o ʒ
+Winkel::N	лук	l y k	l u k
+Muster::N	пеза́к	p ø z u k	p e z ɑ k
+Muster::N	узо́р	u z e r	u z o r
+Muster::N	ӱ́лгӧ	ɑ l ɡ e	y l ɡ ø
+Größe::N	кӱ́кшыт	k ɑ k ʃ i t	k y k ʃ ɤ t
+Länge::N	ку́тыш	k ɤ t ɑ ʃ	k u t ɤ ʃ
+Höhe::N	кӱ́кшыт	k i k ʃ ɑ t	k y k ʃ ɤ t
+Gewicht::N	не́лыт	nʲ ɤ l o t	nʲ e l ɤ t
+Menge::N	чот	t͡ʃ u t	t͡ʃ o t
+Haufen::N	кы́шыл	k ɑ ʃ ɤ l	k ɤ ʃ ɤ l
+Reihe::N	рада́м	r y d u m	r ɑ d ɑ m
+Boot::N	пуш	p i ʃ	p u ʃ
+Ruder::N	эшка́к	ɑ ʃ k ø k	e ʃ k ɑ k
+Schlitten::N	тер	tʲ e r	tʲ e r
+Schlitten::N	изде́р	j e z d u r	j i z d e r
+Ski::N	е́че	j ɤ t͡ʃ ø	j e t͡ʃ e
+Lagerfeuer::N	туло́то	t e l ø t o	t u l o t o
+Last::N	нӧ́лтыш	n ɤ l t o ʃ	n ø l t ɤ ʃ
+Gang::N	ошкылма́ш	o ʃ k y l m i ʃ	o ʃ k ɤ l m ɑ ʃ
+Schritt::N	о́шкыл	u ʃ k ɤ l	o ʃ k ɤ l
+Norden::N	йӱдйыма́л	j i d j ø m i l	j y d j ɤ m ɑ l
+Süden::N	кечывалве́л	k ø t͡ʃ y v i l v y l	k e t͡ʃ ɤ v ɑ l v e l
+Westen::N	касве́л	k ɤ s v e l	k ɑ s v e l
+Osten::N	эрве́л	o r v i l	e r v e l
+Holz::N	пу	p u	p u
+Brett::N	оҥа́	y ŋ o	o ŋ ɑ
+Platte::N	аста́р	ɤ s t o r	ɑ s t ɑ r
+Stütze::N	чара́к	t͡ʃ e r ɤ k	t͡ʃ ɑ r ɑ k
+Stange::N	лома́ш	l ø m o ʃ	l o m ɑ ʃ
+Stock::N	тоя́	t ɤ j u	t o j ɑ
+Stab::N	вара́	v i r u	v ɑ r ɑ
+Stab::N	кашта́	k ɤ ʃ t ɤ	k ɑ ʃ t ɑ
+Rohr::N	пуч	p u t͡ʃ	p u t͡ʃ
+Haus::N	пӧрт	p i r t	p ø r t
+Heim::N	мӧ́ҥгӧ	m u ŋ ɡ ɑ	m ø ŋ ɡ ø
+Ofen::N	комака́	k ø m ø k ø	k o m ɑ k ɑ
+Fußboden::N	кӱва́р	k ɑ v ɤ r	k y v ɑ r
+Tisch::N	ӱсте́л	ɑ s tʲ e l	y s tʲ e l
+Stuhl::N	пӱке́н	p e k u n	p y k e n
+Wiege::N	шепка́	ʃ y p k i	ʃ e p k ɑ
+Bett::N	ва́кшыш	v y k ʃ ɤ ʃ	v ɑ k ʃ ɤ ʃ
+Regal::N	шӧ́рлык	ʃ ø r l ø k	ʃ ø r l ɤ k
+Kiste::N	шо́ндык	ʃ y n d e k	ʃ o n d ɤ k
+Kiste::N	я́шлык	j ɤ ʃ l o k	j ɑ ʃ l ɤ k
+Fenster::N	окна́	y k n ɑ	o k n ɑ
+Tür::N	омса́	i m s u	o m s ɑ
+Tor::N	капка́	k u p k y	k ɑ p k ɑ
+Zaun::N	сава́р	s e v ɑ r	s ɑ v ɑ r
+Dach::N	леве́дыш	ʎ y v e d i ʃ	ʎ e v e d ɤ ʃ
+Leiter::N	тошка́лтыш	t ɤ ʃ k e l t y ʃ	t o ʃ k ɑ l t ɤ ʃ
+Besen::N	ӱштерво́штыр	o ʃ tʲ ɑ r v ɑ ʃ t ɤ r	y ʃ tʲ e r v o ʃ t ɤ r
+Spaten::N	ко́льмо	k e ʎ m y	k o ʎ m o
+Schaufel::N	сово́к	s y v o k	s o v o k
+Schaufel::N	су́ско	s u s k u	s u s k o
+Gabel::N	ви́лке	v u l k ɑ	v i l k e
+Löffel::N	па́не	p i nʲ e	p ɑ nʲ e
+Löffel::N	совла́	s i v l ø	s o v l ɑ
+Messer::N	кӱ́зӧ	k i z ɤ	k y z ø
+Nagel::N	пуда́	p e d ø	p u d ɑ
+Netz::N	вапш	v ø p ʃ	v ɑ p ʃ
+Haken::N	са́гыле	s o ɡ ɑ ʎ o	s ɑ ɡ ɤ ʎ e
+Griff::N	кыл	k ø l	k ɤ l
+Schloss::N	кӧгӧ́н	k y ɡ i n	k ø ɡ ø n
+Bild::N	сӱре́т	s y r u t	s y r e t
+Figur::N	фигу́р	f ø ɡ u r	f i ɡ u r
+Puppe::N	курча́к	k y r t͡ʃ u k	k u r t͡ʃ ɑ k
+Beutel::N	меша́к	m u ʃ ɤ k	m e ʃ ɑ k
+Bündel::N	арша́ш	e r ʃ e ʃ	ɑ r ʃ ɑ ʃ
+Tasche::N	сумка́	s i m k e	s u m k ɑ
+Eimer::N	ведра́	v ø d r e	v e d r ɑ
+Deckel::N	ко́мдыш	k i m d e ʃ	k o m d ɤ ʃ
+Geschirr::N	а́те	ø tʲ o	ɑ tʲ e
+Sack::N	куль	k y ʎ	k u ʎ
+Sack::N	меша́к	m o ʃ o k	m e ʃ ɑ k
+Tasse::N	чу́кыр	t͡ʃ ɤ k ɤ r	t͡ʃ u k ɤ r
+Tasse::N	чашка́	t͡ʃ o ʃ k ø	t͡ʃ ɑ ʃ k ɑ
+Topf::N	ми́ске	m y s k u	m i s k e
+Kessel::N	под	p e d	p o d
+Essen::N	ко́чкыш	k e t͡ʃ k ɤ ʃ	k o t͡ʃ k ɤ ʃ
+Nahrung::N	ку́рго	k ø r ɡ ɤ	k u r ɡ o
+Speise::N	ко́чкыш	k i t͡ʃ k o ʃ	k o t͡ʃ k ɤ ʃ
+Fleisch::N	шыл	ʃ u l	ʃ ɤ l
+Getreide::N	шу́рно	ʃ o r n y	ʃ u r n o
+Brei::N	пу́чымыш	p ɑ t͡ʃ ɤ m i ʃ	p u t͡ʃ ɤ m ɤ ʃ
+Brot::N	ки́нде	k ø n d y	k i n d e
+Scheibe::N	ка́тыш	k ɤ t u ʃ	k ɑ t ɤ ʃ
+Fett::N	коя́	k ø j e	k o j ɑ
+Butter::N	ӱй	o j	y j
+Öl::N	ӱй	y j	y j
+Salz::N	шинча́л	ʃ u n t͡ʃ y l	ʃ i n t͡ʃ ɑ l
+Suppe::N	шӱр	ʃ u r	ʃ y r
+Honig::N	мӱй	m ɑ j	m y j
+Milch::N	шӧр	ʃ ɤ r	ʃ ø r
+Tee::N	чай	t͡ʃ ɑ j	t͡ʃ ɑ j
+Leder::N	сура́н	s ɑ r i n	s u r ɑ n
+Leder::N	шӱ́штӧ	ʃ o ʃ t ɤ	ʃ y ʃ t ø
+Wolle::N	пун	p u n	p u n
+Stoff::N	куэ́м	k ɑ e m	k u e m
+Stoff::N	посто́	p u s t u	p o s t o
+Nadel::N	и́ме	j o m i	j i m e
+Faden::N	шӱ́ртӧ	ʃ ø r t o	ʃ y r t ø
+Knopf::N	по́лдыш	p o l d e ʃ	p o l d ɤ ʃ
+Knoten::N	пышке́м	p i ʃ k u m	p ɤ ʃ k e m
+Farbe::N	чия́	t͡ʃ ɤ j ø	t͡ʃ i j ɑ
+Kleidung::N	чие́м	t͡ʃ i j y m	t͡ʃ i j e m
+Kleidung::N	вурге́м	v ɑ r ɡ o m	v u r ɡ e m
+Hemd::N	ту́выр	t o v y r	t u v ɤ r
+Kragen::N	сога́	s y ɡ u	s o ɡ ɑ
+Ärmel::N	шокш	ʃ ɤ k ʃ	ʃ o k ʃ
+Hose::N	йола́ш	j y l y ʃ	j o l ɑ ʃ
+Gürtel::N	ӱ́штӧ	ɤ ʃ t o	y ʃ t ø
+Mütze::N	упш	ɑ p ʃ	u p ʃ
+Schuh::N	боти́нке	b ɤ tʲ e n k o	b o tʲ i n k e
+Stiefel::N	кем	k ɤ m	k e m
+Ring::N	шерга́ш	ʃ y r ɡ u ʃ	ʃ e r ɡ ɑ ʃ
+Band::N	тасма́	t u s m o	t ɑ s m ɑ
+Band::N	ле́нте	ʎ ø n tʲ ɤ	ʎ e n tʲ e
+Kamm::N	шерге́	ʃ ø r ɡ ø	ʃ e r ɡ e
+Spiegel::N	вошто́нчыш	v ɑ ʃ t y n t͡ʃ u ʃ	v o ʃ t o n t͡ʃ ɤ ʃ
+Riemen::N	кӱзанӱ́штӧ	k y z u n e ʃ t ø	k y z ɑ n y ʃ t ø
+Schnur::N	кере́м	k u r u m	k e r e m
+Schnur::N	кандыра́	k i n d ɑ r ø	k ɑ n d ɤ r ɑ
+Leine::N	вӱра́ҥ	v ɑ r i ŋ	v y r ɑ ŋ
+Decke::N	леве́дыш	ʎ o v e d ɑ ʃ	ʎ e v e d ɤ ʃ
+Decke::N	одея́л	o d i j i l	o d e j ɑ l
+Kissen::N	кӱ́пчык	k i p t͡ʃ e k	k y p t͡ʃ ɤ k
+Tuch::N	шо́выч	ʃ ø v o t͡ʃ	ʃ o v ɤ t͡ʃ
+Handtuch::N	со́лык	s ɤ l ɑ k	s o l ɤ k
+Kraft::N	вий	v y j	v i j
+Kraft::N	куа́т	k ɤ i t	k u ɑ t
+Stärke::N	куа́т	k i ɑ t	k u ɑ t
+Stärke::N	карма́н	k ɑ r m ø n	k ɑ r m ɑ n
+Gesundheit::N	таза́лык	t i z u l o k	t ɑ z ɑ l ɤ k
+Krankheit::N	чер	t͡ʃ e r	t͡ʃ e r
+Schmerz::N	ко́рштыш	k y r ʃ t o ʃ	k o r ʃ t ɤ ʃ
+Wunde::N	су́сыр	s ø s o r	s u s ɤ r
+Fieber::N	йӱштыму́ж	j u ʃ t i m ø ʒ	j y ʃ t ɤ m u ʒ
+Fieber::N	лихора́дке	ʎ ɤ x ɤ r ɤ d k e	ʎ i x o r ɑ d k e
+Arznei::N	эм	ɤ m	e m
+Brücke::N	кӱва́р	k ɑ v i r	k y v ɑ r
+Brunnen::N	вӱдвыне́м	v ɤ d v e nʲ ɑ m	v y d v ɤ nʲ e m
+Weide::N	нурше́р	n e r ʃ y r	n u r ʃ e r
+Pfad::N	йолго́рно	j ɤ l ɡ i r n y	j o l ɡ o r n o
+Pfad::N	сокма́к	s y k m e k	s o k m ɑ k
+Weg::N	ко́рно	k ø r n e	k o r n o
+Straße::N	ко́рно	k i r n e	k o r n o
+Dorf::N	ял	j ɑ l	j ɑ l
+Stadt::N	ола́	ø l ɤ	o l ɑ
+Brief::N	се́рыш	s e r ɤ ʃ	s e r ɤ ʃ
+Buch::N	книга́	k nʲ o ɡ ɑ	k nʲ i ɡ ɑ
+Buchstabe::N	буква́	b i k v ɤ	b u k v ɑ
+Zeitung::N	газе́т	ɡ u z ɑ t	ɡ ɑ z e t
+Leben::N	и́лыш	j ɤ l ø ʃ	j i l ɤ ʃ
+Tod::N	колыма́ш	k e l ø m e ʃ	k o l ɤ m ɑ ʃ
+Grab::N	шӱга́р	ʃ y ɡ ɤ r	ʃ y ɡ ɑ r
+Kirche::N	че́рке	t͡ʃ y r k ɑ	t͡ʃ e r k e
+Sünde::N	су́лык	s y l ø k	s u l ɤ k
+Gott::N	ю́мо	j u m ø	j u m o
+Arbeiter::N	паша́зе	p o ʃ ø z y	p ɑ ʃ ɑ z e
+Chef::N	тӧра́	t ɤ r i	t ø r ɑ
+Meister::N	маста́р	m u s t ɑ r	m ɑ s t ɑ r
+Arzt::N	врач	v r ɑ t͡ʃ	v r ɑ t͡ʃ
+Lehrer::N	ту́ныктышо	t u n ø k t e ʃ ɑ	t u n ɤ k t ɤ ʃ o
+Geld::N	окса́	i k s ɑ	o k s ɑ
+Geschäft::N	сатулыма́ш	s ɤ t y l e m ø ʃ	s ɑ t u l ɤ m ɑ ʃ
+Laden::N	ке́выт	k u v i t	k e v ɤ t
+Preis::N	ак	o k	ɑ k
+Ware::N	сату́	s i t u	s ɑ t u
+Nutzen::N	пайда́	p ø j d ø	p ɑ j d ɑ
+Reichtum::N	поя́нлык	p y j y n l u k	p o j ɑ n l ɤ k
+Welt::N	тӱня́	t o nʲ o	t y nʲ ɑ
+Land::N	эл	ɑ l	e l
+Staat::N	кугыжа́ныш	k ø ɡ ɑ ʒ e n ɑ ʃ	k u ɡ ɤ ʒ ɑ n ɤ ʃ
+König::N	кугыжа́	k ɑ ɡ u ʒ e	k u ɡ ɤ ʒ ɑ
+Macht::N	власть	v l o s tʲ	v l ɑ s tʲ
+Grenze::N	грани́ца	ɡ r y nʲ i t͡s u	ɡ r ɑ nʲ i t͡s ɑ
+Krieg::N	сар	s i r	s ɑ r
+Feind::N	тушма́н	t ɤ ʃ m ɑ n	t u ʃ m ɑ n
+Gewalt::N	виешлыма́ш	v e j e ʃ l y m e ʃ	v i j e ʃ l ɤ m ɑ ʃ
+Kampf::N	кредалма́ш	k r i d u l m i ʃ	k r e d ɑ l m ɑ ʃ
+Bogen[Waffe]::N	юҥе́ж	j ɤ ŋ u ʒ	j u ŋ e ʒ
+Pfeil::N	пикш	p e k ʃ	p i k ʃ
+Gewehr::N	пыча́л	p e t͡ʃ e l	p ɤ t͡ʃ ɑ l
+Fehler::N	йо́ҥылыш	j y ŋ ø l i ʃ	j o ŋ ɤ l ɤ ʃ
+Lüge::N	шоя́к	ʃ o j ɑ k	ʃ o j ɑ k
+Schaden::N	зия́н	z ø j u n	z i j ɑ n
+Unglück::N	эҥге́к	u ŋ ɡ i k	e ŋ ɡ e k
+Schuld::N	тита́к	tʲ o t i k	tʲ i t ɑ k
+Schuld::N	йола́	j o l ɑ	j o l ɑ
+Alter::N	ийго́т	j y j ɡ ɑ t	j i j ɡ o t
+Schluss::N	муча́ш	m ɤ t͡ʃ ø ʃ	m u t͡ʃ ɑ ʃ
+Zeit::N	жап	ʒ e p	ʒ ɑ p
+Zeit::N	па́гыт	p ɑ ɡ o t	p ɑ ɡ ɤ t
+Tag::N	ке́че	k o t͡ʃ ø	k e t͡ʃ e
+Morgen::N	эр	ø r	e r
+Mittag::N	кечыва́л	k i t͡ʃ ø v e l	k e t͡ʃ ɤ v ɑ l
+Abend::N	кас	k ø s	k ɑ s
+Nacht::N	йӱд	j u d	j y d
+Woche::N	арня́	i r nʲ ø	ɑ r nʲ ɑ
+Monat::N	ты́лзе	t y l z e	t ɤ l z e
+Jahr::N	ий	j o j	j i j
+Frühling::N	шо́шо	ʃ u ʃ i	ʃ o ʃ o
+Sommer::N	кеҥе́ж	k o ŋ y ʒ	k e ŋ e ʒ
+Herbst::N	шы́же	ʃ o ʒ ɤ	ʃ ɤ ʒ e
+Winter::N	те́ле	tʲ u ʎ i	tʲ e ʎ e
+Januar::N	шоркыйол	ʃ ɑ r k i j i l	ʃ o r k ɤ j o l
+Januar::N	идалыкву́й	j ø d i l e k v ø j	j i d ɑ l ɤ k v u j
+Januar::N	янва́рь	j o n v e r	j ɑ n v ɑ r
+Februar::N	пургыж	p e r ɡ e ʒ	p u r ɡ ɤ ʒ
+Februar::N	февра́ль	f y v r i ʎ	f e v r ɑ ʎ
+März::N	ӱярня	y j ɑ r nʲ e	y j ɑ r nʲ ɑ
+März::N	март	m ɤ r t	m ɑ r t
+April::N	апре́ль	ɤ p r y ʎ	ɑ p r e ʎ
+Mai::N	ага	y ɡ ø	ɑ ɡ ɑ
+Mai::N	май	m ɤ j	m ɑ j
+Juni::N	пеледыш	p ø ʎ i d ɑ ʃ	p e ʎ e d ɤ ʃ
+Juni::N	ию́нь	j o j ø nʲ	j i j u nʲ
+Juli::N	сӱрем	s u r ɤ m	s y r e m
+Juli::N	ию́ль	j y j ɑ ʎ	j i j u ʎ
+August::N	сорла	s i r l i	s o r l ɑ
+August::N	агарма́н	e ɡ o r m u n	ɑ ɡ ɑ r m ɑ n
+August::N	а́вгуст	y v ɡ e s t	ɑ v ɡ u s t
+September::N	идым	j o d y m	j i d ɤ m
+September::N	сентя́брь	s u n tʲ e b r	s e n tʲ ɑ b r
+Oktober::N	шыжа	ʃ ø ʒ o	ʃ ɤ ʒ ɑ
+Oktober::N	октя́брь	e k tʲ y b r	o k tʲ ɑ b r
+November::N	кылме тылзе	k u l m y _ t ɤ l z ø	k ɤ l m e _ t ɤ l z e
+November::N	ноя́брь	n e j u b r	n o j ɑ b r
+Dezember::N	дека́брь	d u k e b r	d e k ɑ b r
+Montag::N	шо́чмо	ʃ y t͡ʃ m ɑ	ʃ o t͡ʃ m o
+Dienstag::N	ку́шкыжмо	k i ʃ k e ʒ m ɑ	k u ʃ k ɤ ʒ m o
+Mittwoch::N	вӱрге́че	v e r ɡ ɑ t͡ʃ ɑ	v y r ɡ e t͡ʃ e
+Donnerstag::N	изарня́	j ɤ z ɑ r nʲ ɤ	j i z ɑ r nʲ ɑ
+Freitag::N	кугарня́	k ɤ ɡ ɑ r nʲ y	k u ɡ ɑ r nʲ ɑ
+Samstag::N	шуматке́че	ʃ y m e t k ɑ t͡ʃ ɤ	ʃ u m ɑ t k e t͡ʃ e
+Sonntag::N	рушарня́	r ɑ ʃ ɤ r nʲ e	r u ʃ ɑ r nʲ ɑ
+groß::A	кугу́	k e ɡ i	k u ɡ u
+klein::A	изи́	j o z u	j i z i
+lang::A	кужу́	k y ʒ ø	k u ʒ u
+kurz::A	кӱ́чык	k u t͡ʃ e k	k y t͡ʃ ɤ k
+breit::A	кумда́	k ɑ m d o	k u m d ɑ
+schmal::A	а́ҥысыр	u ŋ ɑ s y r	ɑ ŋ ɤ s ɤ r
+dicht::A	ну́гыдо	n ø ɡ o d ɤ	n u ɡ ɤ d o
+dick[Gegenstand]::A	кӱ́жгӧ	k ø ʒ ɡ e	k y ʒ ɡ ø
+dünn::A	ви́чкыж	v e t͡ʃ k ɑ ʒ	v i t͡ʃ k ɤ ʒ
+fein::A	ты́гыде	t i ɡ e d ɤ	t ɤ ɡ ɤ d e
+fest::A	чо́ткыдо	t͡ʃ ɤ t k ɤ d ɑ	t͡ʃ o t k ɤ d o
+flach::A	лапка́	l e p k ɤ	l ɑ p k ɑ
+glatt::A	яклака́	j i k l e k ɑ	j ɑ k l ɑ k ɑ
+hart::A	пе́ҥгыде	p i ŋ ɡ e d ɑ	p e ŋ ɡ ɤ d e
+weich::A	пу́шкыдо	p i ʃ k e d e	p u ʃ k ɤ d o
+rund::A	йырге́шке	j u r ɡ ø ʃ k e	j ɤ r ɡ e ʃ k e
+spitz::A	коша́р	k u ʃ ɤ r	k o ʃ ɑ r
+scharf::A	пӱ́сӧ	p y s e	p y s ø
+stumpf::A	токма́к	t u k m e k	t o k m ɑ k
+schwer::A	не́ле	nʲ ø ʎ e	nʲ e ʎ e
+schön::A	сы́лне	s i l nʲ y	s ɤ l nʲ e
+heiß::A	шо́кшо	ʃ ø k ʃ ø	ʃ o k ʃ o
+warm::A	ле́ве	ʎ u v ɑ	ʎ e v e
+kalt::A	йӱ́штӧ	j ɤ ʃ t y	j y ʃ t ø
+kühl::A	юа́лге	j e ø l ɡ ɑ	j u ɑ l ɡ e
+kühl::A	южгата́	j ø ʒ ɡ y t ø	j u ʒ ɡ ɑ t ɑ
+frisch::A	свежа́	s v o ʒ y	s v e ʒ ɑ
+feucht::A	вӱ́дыжгӧ	v y d ø ʒ ɡ ø	v y d ɤ ʒ ɡ ø
+nass::A	нӧ́рӧ	n u r i	n ø r ø
+trocken::A	ку́кшо	k u k ʃ i	k u k ʃ o
+voll::A	тич	tʲ o t͡ʃ	tʲ i t͡ʃ
+leer::A	яра́	j e r y	j ɑ r ɑ
+offen::A	виш	v u ʃ	v i ʃ
+geschlossen::A	пе́тырыме	p ø t u r ɑ m ø	p e t ɤ r ɤ m e
+geschlossen::A	тӱ́чмӧ	t i t͡ʃ m ø	t y t͡ʃ m ø
+sauber::A	ару́	ɤ r ɑ	ɑ r u
+sauber::A	янда́р	j y n d ø r	j ɑ n d ɑ r
+schmutzig::A	лавыра́н	l ɑ v e r ø n	l ɑ v ɤ r ɑ n
+schmutzig::A	ла́выргыше	l ɤ v e r ɡ e ʃ ø	l ɑ v ɤ r ɡ ɤ ʃ e
+roh::A	кӱ́чымӧ	k ø t͡ʃ ø m y	k y t͡ʃ ɤ m ø
+reif::A	лӧза́	l e z ø	l ø z ɑ
+lecker::A	ту́тло	t ɑ t l e	t u t l o
+süß::A	ше́ре	ʃ i r o	ʃ e r e
+bitter::A	ко́чо	k u t͡ʃ y	k o t͡ʃ o
+sauer::A	шо́по	ʃ e p ɑ	ʃ o p o
+hell::A	во́лгыдо	v ɑ l ɡ y d ɑ	v o l ɡ ɤ d o
+dunkel::A	пычке́мыш	p u t͡ʃ k ɤ m ɤ ʃ	p ɤ t͡ʃ k e m ɤ ʃ
+schwarz::A	шола́	ʃ ɑ l u	ʃ o l ɑ
+weiß::A	ош	ɑ ʃ	o ʃ
+rot::A	йошка́р	j i ʃ k e r	j o ʃ k ɑ r
+gelb::A	сар	s u r	s ɑ r
+blau::A	ка́нде	k o n d o	k ɑ n d e
+grün::A	ужа́р	u ʒ ɤ r	u ʒ ɑ r
+grau::A	сур	s ø r	s u r
+bunt::A	олача́	u l o t͡ʃ u	o l ɑ t͡ʃ ɑ
+billig::A	шу́лдо	ʃ o l d y	ʃ u l d o
+teuer::A	ше́рге	ʃ o r ɡ i	ʃ e r ɡ e
+wertvoll::A	шергака́н	ʃ i r ɡ y k ɤ n	ʃ e r ɡ ɑ k ɑ n
+blind::A	со́кыр	s e k ɤ r	s o k ɤ r
+taub::A	соҥгыра́	s e ŋ ɡ o r i	s o ŋ ɡ ɤ r ɑ
+kräftig::A	куа́тле	k e u t ʎ y	k u ɑ t ʎ e
+stark::A	вия́н	v y j u n	v i j ɑ n
+schwach::A	а́лдыме	y l d y m i	ɑ l d ɤ m e
+fett::A	коя́	k y j y	k o j ɑ
+schlank::A	йоштката́	j ɑ ʃ t k e t u	j o ʃ t k ɑ t ɑ
+schlank::A	яжу́	j y ʒ ɑ	j ɑ ʒ u
+hübsch::A	чеве́р	t͡ʃ o v o r	t͡ʃ e v e r
+böse::A	шы́де	ʃ o d u	ʃ ɤ d e
+dumm::A	аҥыра́	u ŋ ɤ r ɑ	ɑ ŋ ɤ r ɑ
+faul::A	його	j o ɡ o	j o ɡ o
+fleißig::A	ты́ршыше	t o r ʃ ɤ ʃ ø	t ɤ r ʃ ɤ ʃ e
+geizig::A	чаҥга́	t͡ʃ ɤ ŋ ɡ u	t͡ʃ ɑ ŋ ɡ ɑ
+klug::A	уша́н	e ʃ ɑ n	u ʃ ɑ n
+geschickt::A	уста́	ɤ s t ɑ	u s t ɑ
+lieb::A	ала́л	ɤ l ø l	ɑ l ɑ l
+lustig::A	весела́	v ɑ s u l ɤ	v e s e l ɑ
+sanft::A	ны́жылге	n o ʒ i l ɡ e	n ɤ ʒ ɤ l ɡ e
+hungrig::A	шу́жышо	ʃ y ʒ e ʃ ø	ʃ u ʒ ɤ ʃ o
+krank::A	че́рле	t͡ʃ o r ʎ ɤ	t͡ʃ e r ʎ e
+nackt::A	чарама́т	t͡ʃ i r o m o t	t͡ʃ ɑ r ɑ m ɑ t
+traurig::A	ойга́н	o j ɡ u n	o j ɡ ɑ n
+lebendig::A	и́лыше	j o l ɤ ʃ o	j i l ɤ ʃ e
+gut::A	сай	s u j	s ɑ j
+schlecht::A	уда́	o d i	u d ɑ
+schlecht::A	шӱ́кшӧ	ʃ ø k ʃ e	ʃ y k ʃ ø
+richtig::A	чы́нле	t͡ʃ o n ʎ i	t͡ʃ ɤ n ʎ e
+schlimm::A	аля́к	e ʎ i k	ɑ ʎ ɑ k
+schlimm::A	тыра́н	t y r o n	t ɤ r ɑ n
+wahr::A	чы́нле	t͡ʃ ɤ n ʎ ø	t͡ʃ ɤ n ʎ e
+wahr::A	настоя́щий	n ɤ s t i j u ɕʲ e j	n ɑ s t o j ɑ ɕʲ i j
+alt::A	то́што	t o ʃ t ɑ	t o ʃ t o
+neu::A	у	ø	u
+ehemalig::A	о́нчычсо	i n t͡ʃ y t͡ʃ s u	o n t͡ʃ ɤ t͡ʃ s o
+ehemalig::A	онда́кысе	ɑ n d ɤ k o s e	o n d ɑ k ɤ s e
+alt[Lebewesen]::A	шо́нто	ʃ o n t u	ʃ o n t o
+jung::A	са́мырык	s e m ø r i k	s ɑ m ɤ r ɤ k
+arm::A	нужна́	n ɑ ʒ n ø	n u ʒ n ɑ
+reich::A	поя́н	p ɤ j i n	p o j ɑ n
+bekannt::A	па́лыме	p e l u m e	p ɑ l ɤ m e
+berühmt::A	лӱ́млӧ	l o m l ø	l y m l ø
+fremd::A	йот	j ɤ t	j o t
+verschieden::A	тӱ́рлӧ	t i r l ø	t y r l ø
+nah::A	ли́шыл	ʎ y ʃ ɑ l	ʎ i ʃ ɤ l
+fern::A	тора́	t ɑ r e	t o r ɑ
+fern::A	мӱ́ндыр	m i n d ø r	m y n d ɤ r
+linker::A	шола́	ʃ o l ɑ	ʃ o l ɑ
+rechter::A	пурла́	p ɑ r l u	p u r l ɑ
+anderer::A	вес	v e s	v e s
+anderer::A	мо́ло	m i l ɑ	m o l o
+erster::A	и́кымше	j ɑ k i m ʃ ø	j i k ɤ m ʃ e
+zweiter::A	ко́кымшо	k ø k ɤ m ʃ ɑ	k o k ɤ m ʃ o
+dritter::A	ку́мшо	k ø m ʃ ɤ	k u m ʃ o
+letzter::A	пыта́ртыш	p ɑ t ɤ r t u ʃ	p ɤ t ɑ r t ɤ ʃ
+allein::ADV	шкет	ʃ k ɑ t	ʃ k e t
+auf einmal::ADV	икана́ште	j u k u n u ʃ tʲ y	j i k ɑ n ɑ ʃ tʲ e
+zusammen::ADV	пырля́	p e r ʎ ɤ	p ɤ r ʎ ɑ
+lange::ADV	кужу́н	k o ʒ ɤ n	k u ʒ u n
+plötzlich::ADV	кенета́	k e nʲ u t i	k e nʲ e t ɑ
+sofort::ADV	кызыта́к	k y z i t o k	k ɤ z ɤ t ɑ k
+später::ADV	варара́к	v e r i r y k	v ɑ r ɑ r ɑ k
+jetzt::ADV	ы́нде	ø n d y	ɤ n d e
+jetzt::ADV	кы́зыт	k y z i t	k ɤ z ɤ t
+heute::ADV	та́че	t ɑ t͡ʃ ø	t ɑ t͡ʃ e
+morgen::ADV	эрла́	ɑ r l e	e r l ɑ
+bald::ADV	вашке́	v e ʃ k u	v ɑ ʃ k e
+dann::ADV	вара́	v ø r ɤ	v ɑ r ɑ
+gestern::ADV	теҥге́че	tʲ u ŋ ɡ ø t͡ʃ y	tʲ e ŋ ɡ e t͡ʃ e
+einst::ADV	икана́	j y k o n o	j i k ɑ n ɑ
+damals::ADV	туна́м	t u n e m	t u n ɑ m
+danach::ADV	вара́	v ɤ r i	v ɑ r ɑ
+vorher::ADV	о́нчыч	i n t͡ʃ ø t͡ʃ	o n t͡ʃ ɤ t͡ʃ
+zuerst::ADV	онда́к	o n d ø k	o n d ɑ k
+einmal::ADV	икана́	j y k ø n y	j i k ɑ n ɑ
+manchmal::ADV	ка́шын	k ø ʃ ɑ n	k ɑ ʃ ɤ n
+manchmal::ADV	кокла́н	k i k l u n	k o k l ɑ n
+oft::ADV	чӱ́чкыдын	t͡ʃ y t͡ʃ k y d o n	t͡ʃ y t͡ʃ k ɤ d ɤ n
+immer::ADV	эре́	e r o	e r e
+immer::ADV	ту́тыш	t y t o ʃ	t u t ɤ ʃ
+niemals::ADV	ок нигуна́м	y k _ nʲ e ɡ y n u m	o k _ nʲ i ɡ u n ɑ m
+hier::ADV	ты́ште	t y ʃ tʲ ɤ	t ɤ ʃ tʲ e
+hierhin::ADV	ты́шке	t i ʃ k u	t ɤ ʃ k e
+hierhin::ADV	тыш	t ɤ ʃ	t ɤ ʃ
+von hier::ADV	тыше́ч	t ɑ ʃ o t͡ʃ	t ɤ ʃ e t͡ʃ
+von hier::ADV	тыве́ч	t y v y t͡ʃ	t ɤ v e t͡ʃ
+dort::ADV	ту́што	t u ʃ t y	t u ʃ t o
+dorthin::ADV	туш	t u ʃ	t u ʃ
+dorthin::ADV	ту́шко	t ɤ ʃ k ɑ	t u ʃ k o
+geradeaus::ADV	вик	v ø k	v i k
+vorwärts::ADV	о́нчыко	ɑ n t͡ʃ e k y	o n t͡ʃ ɤ k o
+rückwärts::ADV	шеҥге́к	ʃ e ŋ ɡ e k	ʃ e ŋ ɡ e k
+zurück::ADV	мӧҥге́ш	m ø ŋ ɡ i ʃ	m ø ŋ ɡ e ʃ
+unten::ADV	ӱ́лнӧ	ø l n o	y l n ø
+unten::ADV	йыма́лне	j o m i l nʲ ɑ	j ɤ m ɑ l nʲ e
+hinab::ADV	йыма́к	j u m o k	j ɤ m ɑ k
+oben::ADV	кӱ́шнӧ	k u ʃ n ɤ	k y ʃ n ø
+oben::ADV	ӱмба́лне	u m b u l nʲ e	y m b ɑ l nʲ e
+hinauf::ADV	кӱ́ш	k o ʃ	k y ʃ
+hinauf::ADV	кӱ́шкӧ	k u ʃ k ɑ	k y ʃ k ø
+überall::ADV	чыла́ вере́	t͡ʃ u l e _ v y r e	t͡ʃ ɤ l ɑ _ v e r e
+nicht::ADV	ок	e k	o k
+nicht::ADV	о́геш	i ɡ ø ʃ	o ɡ e ʃ
+ein wenig::ADV	изи́ш	j ɤ z e ʃ	j i z i ʃ
+kaum::ADV	пыкше́	p u k ʃ y	p ɤ k ʃ e
+sehr::ADV	чот	t͡ʃ y t	t͡ʃ o t
+so::ADV	тыге́	t e ɡ i	t ɤ ɡ e
+noch::ADV	а́ле	y ʎ u	ɑ ʎ e
+nur::ADV	гына́	ɡ i n ɤ	ɡ ɤ n ɑ
+schon::ADV	ы́нде	ɤ n d y	ɤ n d e
+wieder::ADV	ада́к	e d o k	ɑ d ɑ k
+vergebens::ADV	ара́м	ɤ r e m	ɑ r ɑ m
+vor::PRP	о́нчыч	ɤ n t͡ʃ i t͡ʃ	o n t͡ʃ ɤ t͡ʃ
+hinter::PRP	шеҥге́лне	ʃ i ŋ ɡ i l nʲ e	ʃ e ŋ ɡ e l nʲ e
+unter::PRP	йыма́лне	j ɑ m u l nʲ ɑ	j ɤ m ɑ l nʲ e
+durch::PRP	вошт	v e ʃ t	v o ʃ t
+neben::PRP	вокте́н	v i k tʲ ɤ n	v o k tʲ e n
+zwischen::PRP	кокла́ште	k ø k l i ʃ tʲ u	k o k l ɑ ʃ tʲ e
+wegen::PRP	верч	v ø r t͡ʃ	v e r t͡ʃ
+dies::PRN	ти́де	tʲ ɑ d y	tʲ i d e
+das::PRN	са́де	s o d o	s ɑ d e
+alles::PRN	чыла́	t͡ʃ y l u	t͡ʃ ɤ l ɑ
+ich::PRN	мый	m o j	m ɤ j
+du::PRN	тый	t i j	t ɤ j
+er::PRN	ту́до	t ɑ d ø	t u d o
+wir::PRN	ме	m ɑ	m e
+ihr::PRN	те	tʲ y	tʲ e
+sie::PRN	ну́но	n ɑ n o	n u n o
+was::FPRN	мо	m u	m o
+wer::FPRN	кӧ	k o	k ø
+wo::FADV	куша́н	k ɤ ʃ i n	k u ʃ ɑ n
+wohin::FADV	куш	k u ʃ	k u ʃ
+wohin::FADV	ку́шко	k e ʃ k i	k u ʃ k o
+wie::FADV	кузе́	k ø z y	k u z e
+warum::FADV	мо	m ɤ	m o
+warum::FADV	мола́н	m ø l i n	m o l ɑ n
+wieviel::FNUM	куна́р	k o n ɑ r	k u n ɑ r
+eins::NUM	ик	j y k	j i k
+zwei::NUM	ко́кыт	k ɤ k ɑ t	k o k ɤ t
+drei::NUM	кум	k ɑ m	k u m
+vier::NUM	ныл	n y l	n ɤ l
+fünf::NUM	вич	v i t͡ʃ	v i t͡ʃ
+sechs::NUM	куд	k ɑ d	k u d
+sieben::NUM	шым	ʃ u m	ʃ ɤ m
+acht::NUM	канда́ш	k e n d ɤ ʃ	k ɑ n d ɑ ʃ
+neun::NUM	инде́ш	j o n d ø ʃ	j i n d e ʃ
+zehn::NUM	лу	l u	l u
+elf::NUM	лати́к	l ɑ tʲ i k	l ɑ tʲ i k
+zwölf::NUM	латко́к	l ɑ t k ɤ k	l ɑ t k o k
+zwanzig::NUM	ко́ло	k ø l u	k o l o
+dreißig::NUM	ку́мло	k i m l u	k u m l o
+vierzig::NUM	ны́лле	n ɤ l ʎ ɤ	n ɤ l ʎ e
+fünfzig::NUM	ви́тле	v i t ʎ ø	v i t ʎ e
+sechzig::NUM	ку́дло	k ɑ d l i	k u d l o
+siebzig::NUM	шы́мле	ʃ y m ʎ ɑ	ʃ ɤ m ʎ e
+achtzig::NUM	канда́шле	k ø n d y ʃ ʎ i	k ɑ n d ɑ ʃ ʎ e
+neunzig::NUM	инде́шле	j o n d ɤ ʃ ʎ ɤ	j i n d e ʃ ʎ e
+hundert::NUM	шӱ́дӧ	ʃ e d o	ʃ y d ø
+tausend::NUM	тӱже́м	t ø ʒ y m	t y ʒ e m
+und::CNJ	да	d e	d ɑ
+und::CNJ	ден	d y n	d e n
+oder::CNJ	я	j ɑ	j ɑ
+oder::CNJ	а́ле	u ʎ ɤ	ɑ ʎ e
+stehen::V	шога́ш	ʃ u ɡ u ʃ	ʃ o ɡ ɑ ʃ
+sitzen::V	шинча́ш	ʃ y n t͡ʃ y ʃ	ʃ i n t͡ʃ ɑ ʃ
+liegen::V	кия́ш	k ø j o ʃ	k i j ɑ ʃ
+hängen::V	кеча́ш	k e t͡ʃ u ʃ	k e t͡ʃ ɑ ʃ
+werden::V	лия́ш	ʎ ø j ɑ ʃ	ʎ i j ɑ ʃ
+passieren::V	лия́ш	ʎ i j o ʃ	ʎ i j ɑ ʃ
+beginnen::V	тӱҥгала́ш	t ø ŋ ɡ e l ɤ ʃ	t y ŋ ɡ ɑ l ɑ ʃ
+enden::V	пыта́ш	p y t e ʃ	p ɤ t ɑ ʃ
+wechseln::V	вашталта́ш	v u ʃ t o l t ø ʃ	v ɑ ʃ t ɑ l t ɑ ʃ
+aufgehen[Sonne]::V	лекта́ш	ʎ ɑ k t e ʃ	ʎ e k t ɑ ʃ
+untergehen[Sonne]::V	шинча́ш	ʃ e n t͡ʃ y ʃ	ʃ i n t͡ʃ ɑ ʃ
+scheinen[Sonne]::V	волгалта́ш	v ɑ l ɡ ɤ l t o ʃ	v o l ɡ ɑ l t ɑ ʃ
+donnern::V	кӱдырта́ш	k y d ɑ r t o ʃ	k y d ɤ r t ɑ ʃ
+donnern::V	сургалта́ш	s o r ɡ u l t y ʃ	s u r ɡ ɑ l t ɑ ʃ
+wehen::V	пуа́ш	p ɑ u ʃ	p u ɑ ʃ
+strömen::V	шийалтара́ш	ʃ e j y l t i r e ʃ	ʃ i j ɑ l t ɑ r ɑ ʃ
+fließen::V	йога́ш	j o ɡ o ʃ	j o ɡ ɑ ʃ
+sich drehen::V	пӧрда́ш	p o r d ɑ ʃ	p ø r d ɑ ʃ
+schwanken::V	лӱҥга́ш	l y ŋ ɡ ɤ ʃ	l y ŋ ɡ ɑ ʃ
+schwanken::V	тайныла́ш	t y j n i l o ʃ	t ɑ j n ɤ l ɑ ʃ
+schwingen::V	рӱпшалта́ш	r u p ʃ o l t e ʃ	r y p ʃ ɑ l t ɑ ʃ
+fallen::V	воза́ш	v u z ɑ ʃ	v o z ɑ ʃ
+fallen::V	йӧрла́ш	j e r l y ʃ	j ø r l ɑ ʃ
+brennen::V	йӱла́ш	j ɑ l ɑ ʃ	j y l ɑ ʃ
+rauchen::V	шикша́ш	ʃ ɤ k ʃ o ʃ	ʃ i k ʃ ɑ ʃ
+regnen::V	йӱра́ш	j o r y ʃ	j y r ɑ ʃ
+gefrieren::V	кылма́ш	k y l m i ʃ	k ɤ l m ɑ ʃ
+gefrieren::V	ияҥа́ш	j e j e ŋ u ʃ	j i j ɑ ŋ ɑ ʃ
+tauen::V	шула́ш	ʃ ø l i ʃ	ʃ u l ɑ ʃ
+schmelzen::V	лева́ш	ʎ e v y ʃ	ʎ e v ɑ ʃ
+trocknen::V	кошка́ш	k y ʃ k ɑ ʃ	k o ʃ k ɑ ʃ
+sieden::V	шола́ш	ʃ ɑ l u ʃ	ʃ o l ɑ ʃ
+faulen::V	шӱя́ш	ʃ ɤ j ɤ ʃ	ʃ y j ɑ ʃ
+verfaulen::V	шӱйы́н шуа́ш	ʃ e j ɑ n _ ʃ o i ʃ	ʃ y j ɤ n _ ʃ u ɑ ʃ
+reißen::V	кӱрла́ш	k e r l i ʃ	k y r l ɑ ʃ
+versinken::V	пуре́н кая́ш	p e r ɤ n _ k e j u ʃ	p u r e n _ k ɑ j ɑ ʃ
+vergehen::V	эрте́н кая́ш	ɑ r tʲ y n _ k y j ɑ ʃ	e r tʲ e n _ k ɑ j ɑ ʃ
+erscheinen::V	толы́н лекта́ш	t i l ø n _ ʎ i k t e ʃ	t o l ɤ n _ ʎ e k t ɑ ʃ
+verschwinden::V	йома́ш	j ø m e ʃ	j o m ɑ ʃ
+sinken::V	пуча́ш	p i t͡ʃ i ʃ	p u t͡ʃ ɑ ʃ
+abnehmen::V	пуча́ш	p ɤ t͡ʃ u ʃ	p u t͡ʃ ɑ ʃ
+zunehmen::V	шукема́ш	ʃ ø k i m ø ʃ	ʃ u k e m ɑ ʃ
+steigen::V	нӧлталта́ш	n ɑ l t o l t y ʃ	n ø l t ɑ l t ɑ ʃ
+wachsen::V	кушка́ш	k ɤ ʃ k ɤ ʃ	k u ʃ k ɑ ʃ
+glänzen::V	йылгыжа́ш	j ø l ɡ ɑ ʒ ø ʃ	j ɤ l ɡ ɤ ʒ ɑ ʃ
+funkeln::V	чолга́ш	t͡ʃ ɑ l ɡ ɑ ʃ	t͡ʃ o l ɡ ɑ ʃ
+lärmen::V	рӱшка́ш	r ɤ ʃ k ø ʃ	r y ʃ k ɑ ʃ
+läuten::V	мура́ш	m u r ɤ ʃ	m u r ɑ ʃ
+klingeln::V	йыҥгырта́ш	j o ŋ ɡ ɑ r t o ʃ	j ɤ ŋ ɡ ɤ r t ɑ ʃ
+klirren::V	чылдыртата́ш	t͡ʃ y l d y r t e t u ʃ	t͡ʃ ɤ l d ɤ r t ɑ t ɑ ʃ
+brausen::V	лӱшка́ш	l ø ʃ k ø ʃ	l y ʃ k ɑ ʃ
+rauschen::V	лыжга́ш	l ø ʒ ɡ u ʃ	l ɤ ʒ ɡ ɑ ʃ
+klingen::V	йоҥга́ш	j e ŋ ɡ ø ʃ	j o ŋ ɡ ɑ ʃ
+bellen::V	опта́ш	y p t o ʃ	o p t ɑ ʃ
+heulen::V	урмыжа́ш	i r m ɤ ʒ ɤ ʃ	u r m ɤ ʒ ɑ ʃ
+blasen::V	пуала́ш	p ɑ ɤ l e ʃ	p u ɑ l ɑ ʃ
+pfeifen::V	шӱ́шкаш	ʃ o ʃ k u ʃ	ʃ y ʃ k ɑ ʃ
+schreien::V	кычкыра́ш	k o t͡ʃ k o r ø ʃ	k ɤ t͡ʃ k ɤ r ɑ ʃ
+stöhnen::V	йыҥыса́ш	j ɑ ŋ ɤ s ø ʃ	j ɤ ŋ ɤ s ɑ ʃ
+zittern::V	чытыра́ш	t͡ʃ ɑ t y r ɤ ʃ	t͡ʃ ɤ t ɤ r ɑ ʃ
+leben::V	ила́ш	j y l ɑ ʃ	j i l ɑ ʃ
+geboren werden::V	шоча́ш	ʃ ɤ t͡ʃ i ʃ	ʃ o t͡ʃ ɑ ʃ
+atmen::V	шӱла́ш	ʃ u l ø ʃ	ʃ y l ɑ ʃ
+trinken::V	йӱа́ш	j i u ʃ	j y ɑ ʃ
+essen::V	кочка́ш	k u t͡ʃ k y ʃ	k o t͡ʃ k ɑ ʃ
+schlucken::V	нела́ш	nʲ y l y ʃ	nʲ e l ɑ ʃ
+müde werden::V	ноя́ш	n o j y ʃ	n o j ɑ ʃ
+einschlafen::V	мале́н колта́ш	m o ʎ u n _ k ø l t y ʃ	m ɑ ʎ e n _ k o l t ɑ ʃ
+schlafen::V	мала́ш	m e l ø ʃ	m ɑ l ɑ ʃ
+aufwachen::V	помыжалта́ш	p ø m y ʒ u l t ø ʃ	p o m ɤ ʒ ɑ l t ɑ ʃ
+aufstehen::V	кынела́ш	k ɤ nʲ e l u ʃ	k ɤ nʲ e l ɑ ʃ
+sich erholen::V	кана́ш	k ɑ n ɤ ʃ	k ɑ n ɑ ʃ
+krank werden::V	черлане́н воза́ш	t͡ʃ ɑ r l ɑ nʲ ø n _ v e z e ʃ	t͡ʃ e r l ɑ nʲ e n _ v o z ɑ ʃ
+krank sein::V	черлане́н кия́ш	t͡ʃ u r l e nʲ ø n _ k ɑ j ɤ ʃ	t͡ʃ e r l ɑ nʲ e n _ k i j ɑ ʃ
+schmerzen::V	коршта́ш	k y r ʃ t ɤ ʃ	k o r ʃ t ɑ ʃ
+husten::V	кокыра́ш	k ɤ k ø r ɑ ʃ	k o k ɤ r ɑ ʃ
+genesen::V	тӱрла́ш	t ɑ r l y ʃ	t y r l ɑ ʃ
+genesen::V	тазаҥа́ш	t ø z o ŋ e ʃ	t ɑ z ɑ ŋ ɑ ʃ
+sterben::V	кола́ш	k u l ɤ ʃ	k o l ɑ ʃ
+umkommen::V	вуй йома́ш	v ɤ j _ j ɤ m u ʃ	v u j _ j o m ɑ ʃ
+sich bewegen::V	кошта́ш	k e ʃ t ø ʃ	k o ʃ t ɑ ʃ
+sich rühren::V	тарвана́ш	t y r v e n i ʃ	t ɑ r v ɑ n ɑ ʃ
+sich erheben::V	кынела́ш	k e nʲ e l o ʃ	k ɤ nʲ e l ɑ ʃ
+sich setzen::V	шинча́ш	ʃ y n t͡ʃ o ʃ	ʃ i n t͡ʃ ɑ ʃ
+hinfallen::V	йӧрла́ш	j ɑ r l ɤ ʃ	j ø r l ɑ ʃ
+laufen::V	кошта́ш	k ɤ ʃ t e ʃ	k o ʃ t ɑ ʃ
+schreiten::V	ошкыла́ш	ɤ ʃ k o l e ʃ	o ʃ k ɤ l ɑ ʃ
+spazierengehen::V	гуля́яш	ɡ u ʎ i j u ʃ	ɡ u ʎ ɑ j ɑ ʃ
+eilen::V	вашка́ш	v ø ʃ k i ʃ	v ɑ ʃ k ɑ ʃ
+sich beeilen::V	вашкешта́ш	v o ʃ k ø ʃ t u ʃ	v ɑ ʃ k e ʃ t ɑ ʃ
+sausen::V	юлтка́ш	j ɤ l t k ø ʃ	j u l t k ɑ ʃ
+rennen::V	куржтала́ш	k e r ʒ t o l ɑ ʃ	k u r ʒ t ɑ l ɑ ʃ
+springen::V	тӧршта́ш	t ø r ʃ t i ʃ	t ø r ʃ t ɑ ʃ
+klettern::V	кӱза́ш	k ø z o ʃ	k y z ɑ ʃ
+schaukeln::V	лӱҥгалта́ш	l i ŋ ɡ y l t i ʃ	l y ŋ ɡ ɑ l t ɑ ʃ
+kriechen::V	нушка́ш	n o ʃ k ø ʃ	n u ʃ k ɑ ʃ
+schwimmen::V	ия́ш	j i j ɑ ʃ	j i j ɑ ʃ
+tauchen::V	шуҥгалта́ш	ʃ e ŋ ɡ ɤ l t e ʃ	ʃ u ŋ ɡ ɑ l t ɑ ʃ
+rudern::V	удыра́ш	e d ø r ɤ ʃ	u d ɤ r ɑ ʃ
+fahren::V	кудала́ш	k u d i l ɑ ʃ	k u d ɑ l ɑ ʃ
+fliegen::V	чоҥешта́ш	t͡ʃ e ŋ u ʃ t e ʃ	t͡ʃ o ŋ e ʃ t ɑ ʃ
+gehen::V	кая́ш	k o j e ʃ	k ɑ j ɑ ʃ
+weggehen::V	кораҥа́ш	k ø r o ŋ ø ʃ	k o r ɑ ŋ ɑ ʃ
+abfahren::V	лекта́ш	ʎ ɑ k t i ʃ	ʎ e k t ɑ ʃ
+anhalten::V	чарна́ш	t͡ʃ ɤ r n i ʃ	t͡ʃ ɑ r n ɑ ʃ
+hineingehen::V	пура́ш	p y r i ʃ	p u r ɑ ʃ
+eintreten::V	пура́ш	p i r ɑ ʃ	p u r ɑ ʃ
+kommen::V	тола́ш	t e l u ʃ	t o l ɑ ʃ
+ankommen::V	шуа́ш	ʃ ɤ i ʃ	ʃ u ɑ ʃ
+zurückkommen::V	пӧртыла́ш	p o r t e l ɑ ʃ	p ø r t ɤ l ɑ ʃ
+bleiben::V	кода́ш	k ɤ d ɑ ʃ	k o d ɑ ʃ
+warten::V	вуча́ш	v o t͡ʃ y ʃ	v u t͡ʃ ɑ ʃ
+erwarten::V	вуча́ш	v i t͡ʃ ɤ ʃ	v u t͡ʃ ɑ ʃ
+suchen::V	кычала́ш	k u t͡ʃ i l u ʃ	k ɤ t͡ʃ ɑ l ɑ ʃ
+finden::V	муа́ш	m u ɤ ʃ	m u ɑ ʃ
+versuchen::V	толаша́ш	t e l i ʃ y ʃ	t o l ɑ ʃ ɑ ʃ
+vorbereiten::V	ямдыла́ш	j o m d ø l ø ʃ	j ɑ m d ɤ l ɑ ʃ
+lieben::V	йӧрата́ш	j ɑ r ø t u ʃ	j ø r ɑ t ɑ ʃ
+mögen::V	йӧрата́ш	j y r ɤ t ɑ ʃ	j ø r ɑ t ɑ ʃ
+lachen::V	воштыла́ш	v ø ʃ t u l e ʃ	v o ʃ t ɤ l ɑ ʃ
+rühren::V	ку́мыл тарвата́ш	k ɤ m ɑ l _ t i r v e t y ʃ	k u m ɤ l _ t ɑ r v ɑ t ɑ ʃ
+weinen::V	шорта́ш	ʃ ɑ r t e ʃ	ʃ o r t ɑ ʃ
+schimpfen::V	каргаша́ш	k i r ɡ ɑ ʃ e ʃ	k ɑ r ɡ ɑ ʃ ɑ ʃ
+sich ärgern::V	сыра́ш	s ɑ r ø ʃ	s ɤ r ɑ ʃ
+sich fürchten::V	лӱда́ш	l u d i ʃ	l y d ɑ ʃ
+fürchten::V	лӱда́ш	l o d o ʃ	l y d ɑ ʃ
+fliehen::V	куржа́ш	k i r ʒ e ʃ	k u r ʒ ɑ ʃ
+flüchten::V	куржа́ш	k ɑ r ʒ u ʃ	k u r ʒ ɑ ʃ
+sehen::V	ужа́ш	y ʒ i ʃ	u ʒ ɑ ʃ
+anschauen::V	онча́ш	ɤ n t͡ʃ ɑ ʃ	o n t͡ʃ ɑ ʃ
+ansehen::V	эскера́ш	o s k ø r o ʃ	e s k e r ɑ ʃ
+hören::V	кола́ш	k e l u ʃ	k o l ɑ ʃ
+zuhören::V	колышта́ш	k ɑ l e ʃ t u ʃ	k o l ɤ ʃ t ɑ ʃ
+probieren::V	тамла́ш	t u m l o ʃ	t ɑ m l ɑ ʃ
+riechen::V	ӱпшынча́ш	ø p ʃ ɤ n t͡ʃ o ʃ	y p ʃ ɤ n t͡ʃ ɑ ʃ
+fühlen::V	шижа́ш	ʃ y ʒ e ʃ	ʃ i ʒ ɑ ʃ
+scheinen::V	чуча́ш	t͡ʃ ø t͡ʃ ɤ ʃ	t͡ʃ u t͡ʃ ɑ ʃ
+zu sehen sein::V	коя́ш	k y j o ʃ	k o j ɑ ʃ
+vernehmen::V	кола́ш	k i l i ʃ	k o l ɑ ʃ
+frieren::V	кылма́ш	k e l m o ʃ	k ɤ l m ɑ ʃ
+tun::V	ышта́ш	ɑ ʃ t ø ʃ	ɤ ʃ t ɑ ʃ
+können::V	мошта́ш	m y ʃ t e ʃ	m o ʃ t ɑ ʃ
+wollen::V	тӱна́ш	t e n ø ʃ	t y n ɑ ʃ
+anfangen::V	тӱҥала́ш	t e ŋ i l o ʃ	t y ŋ ɑ l ɑ ʃ
+beenden::V	пытара́ш	p o t e r y ʃ	p ɤ t ɑ r ɑ ʃ
+aufhören::V	чарна́ш	t͡ʃ ø r n e ʃ	t͡ʃ ɑ r n ɑ ʃ
+gelingen::V	сай лекта́ш	s ɤ j _ ʎ ɑ k t ɤ ʃ	s ɑ j _ ʎ e k t ɑ ʃ
+geraten::V	лекта́ш	ʎ ɑ k t o ʃ	ʎ e k t ɑ ʃ
+öffnen::V	поча́ш	p i t͡ʃ o ʃ	p o t͡ʃ ɑ ʃ
+schließen::V	петыра́ш	p y t ø r i ʃ	p e t ɤ r ɑ ʃ
+stellen::V	шында́ш	ʃ ø n d u ʃ	ʃ ɤ n d ɑ ʃ
+setzen::V	шында́ш	ʃ ɤ n d ø ʃ	ʃ ɤ n d ɑ ʃ
+legen::V	опта́ш	ø p t e ʃ	o p t ɑ ʃ
+legen::V	пышта́ш	p i ʃ t u ʃ	p ɤ ʃ t ɑ ʃ
+berühren::V	тӱка́ш	t ɤ k e ʃ	t y k ɑ ʃ
+verbinden::V	пида́ш	p e d u ʃ	p i d ɑ ʃ
+bedecken::V	леведа́ш	ʎ ɑ v e d ɑ ʃ	ʎ e v e d ɑ ʃ
+aufhängen::V	сака́ш	s y k e ʃ	s ɑ k ɑ ʃ
+anzünden::V	чӱкта́ш	t͡ʃ o k t e ʃ	t͡ʃ y k t ɑ ʃ
+aufheben::V	нӧлтала́ш	n o l t e l ɑ ʃ	n ø l t ɑ l ɑ ʃ
+zurücklassen::V	кода́ш	k ɑ d e ʃ	k o d ɑ ʃ
+verlieren::V	йомдара́ш	j e m d u r e ʃ	j o m d ɑ r ɑ ʃ
+fallen lassen::V	воза́ш	v ɑ z u ʃ	v o z ɑ ʃ
+machen::V	ышта́ш	i ʃ t ø ʃ	ɤ ʃ t ɑ ʃ
+herstellen::V	ямдыла́ш	j y m d ɤ l ɑ ʃ	j ɑ m d ɤ l ɑ ʃ
+bauen::V	чоҥа́ш	t͡ʃ i ŋ i ʃ	t͡ʃ o ŋ ɑ ʃ
+reparieren::V	ачала́ш	u t͡ʃ ø l e ʃ	ɑ t͡ʃ ɑ l ɑ ʃ
+verbessern::V	саемда́ш	s e j y m d u ʃ	s ɑ j e m d ɑ ʃ
+ändern::V	весемда́ш	v y s ɑ m d i ʃ	v e s e m d ɑ ʃ
+graben::V	кӱнча́ш	k u n t͡ʃ o ʃ	k y n t͡ʃ ɑ ʃ
+beugen::V	пӱгырта́ш	p y ɡ ø r t u ʃ	p y ɡ ɤ r t ɑ ʃ
+biegen::V	лывырта́ш	l o v ɑ r t i ʃ	l ɤ v ɤ r t ɑ ʃ
+drehen::V	пӱтыра́ш	p ø t e r ɑ ʃ	p y t ɤ r ɑ ʃ
+wenden::V	ирала́ш	j u r ø l ø ʃ	j i r ɑ l ɑ ʃ
+umdrehen::V	савырала́ш	s ø v y r e l ɤ ʃ	s ɑ v ɤ r ɑ l ɑ ʃ
+heben::V	нӧлта́ш	n u l t ɤ ʃ	n ø l t ɑ ʃ
+hochheben::V	нӧлта́ш	n i l t o ʃ	n ø l t ɑ ʃ
+ergreifen::V	руалта́ш	r ɑ y l t ø ʃ	r u ɑ l t ɑ ʃ
+halten::V	куча́ш	k y t͡ʃ i ʃ	k u t͡ʃ ɑ ʃ
+drücken::V	иша́ш	j i ʃ e ʃ	j i ʃ ɑ ʃ
+drücken::V	темда́ш	tʲ u m d o ʃ	tʲ e m d ɑ ʃ
+schieben::V	шӱкала́ш	ʃ u k y l i ʃ	ʃ y k ɑ l ɑ ʃ
+kratzen::V	удыра́ш	i d ø r u ʃ	u d ɤ r ɑ ʃ
+lecken::V	нула́ш	n i l ɤ ʃ	n u l ɑ ʃ
+beißen::V	пура́ш	p u r y ʃ	p u r ɑ ʃ
+abreißen::V	кӱрла́ш	k u r l o ʃ	k y r l ɑ ʃ
+abschneiden::V	пӱчка́ш	p y t͡ʃ k ɑ ʃ	p y t͡ʃ k ɑ ʃ
+binden::V	кылда́ш	k e l d ø ʃ	k ɤ l d ɑ ʃ
+stecken::V	шуралта́ш	ʃ o r y l t u ʃ	ʃ u r ɑ l t ɑ ʃ
+brechen::V	тодышта́ш	t e d o ʃ t ɤ ʃ	t o d ɤ ʃ t ɑ ʃ
+klopfen::V	кыра́ш	k y r e ʃ	k ɤ r ɑ ʃ
+hauen::V	тӱя́ш	t ɑ j u ʃ	t y j ɑ ʃ
+kleben::V	клеитла́ш	k ʎ ø j i t l ɑ ʃ	k ʎ e j i t l ɑ ʃ
+reiben::V	йыга́ш	j u ɡ o ʃ	j ɤ ɡ ɑ ʃ
+reiben::V	туржала́ш	t i r ʒ i l u ʃ	t u r ʒ ɑ l ɑ ʃ
+streichen::V	шӱра́ш	ʃ u r y ʃ	ʃ y r ɑ ʃ
+schleifen::V	шума́ш	ʃ u m o ʃ	ʃ u m ɑ ʃ
+schleifen::V	яна́ш	j y n o ʃ	j ɑ n ɑ ʃ
+schneiden::V	пӱчка́ш	p ø t͡ʃ k i ʃ	p y t͡ʃ k ɑ ʃ
+rütteln::V	рӱза́ш	r ɤ z i ʃ	r y z ɑ ʃ
+schütteln::V	почка́ш	p i t͡ʃ k ɤ ʃ	p o t͡ʃ k ɑ ʃ
+schwenken::V	рӱза́ш	r ɤ z ɤ ʃ	r y z ɑ ʃ
+schütten::V	опта́ш	ɤ p t ɑ ʃ	o p t ɑ ʃ
+füllen::V	тема́ш	tʲ ɤ m ɤ ʃ	tʲ e m ɑ ʃ
+einwickeln::V	вӱдыла́ш	v i d ø l o ʃ	v y d ɤ l ɑ ʃ
+tragen::V	нумала́ш	n u m e l e ʃ	n u m ɑ l ɑ ʃ
+schleppen::V	шӱдыра́ш	ʃ u d ɑ r y ʃ	ʃ y d ɤ r ɑ ʃ
+ziehen::V	шупша́ш	ʃ ø p ʃ y ʃ	ʃ u p ʃ ɑ ʃ
+aufbewahren::V	арала́ш	i r ø l ɤ ʃ	ɑ r ɑ l ɑ ʃ
+werfen::V	шуа́ш	ʃ ɤ ø ʃ	ʃ u ɑ ʃ
+werfen::V	кышка́ш	k o ʃ k ɤ ʃ	k ɤ ʃ k ɑ ʃ
+fangen::V	куча́ш	k y t͡ʃ ø ʃ	k u t͡ʃ ɑ ʃ
+packen::V	руалта́ш	r e ɑ l t ɑ ʃ	r u ɑ l t ɑ ʃ
+verstecken::V	тоя́ш	t ø j e ʃ	t o j ɑ ʃ
+teilen::V	пӧла́ш	p o l u ʃ	p ø l ɑ ʃ
+schicken::V	колта́ш	k ɑ l t y ʃ	k o l t ɑ ʃ
+bringen::V	конда́ш	k y n d i ʃ	k o n d ɑ ʃ
+hinzufügen::V	ешара́ш	j ø ʃ y r o ʃ	j e ʃ ɑ r ɑ ʃ
+bekommen::V	нала́ш	n i l i ʃ	n ɑ l ɑ ʃ
+erhalten::V	нала́ш	n ɑ l i ʃ	n ɑ l ɑ ʃ
+nehmen::V	нала́ш	n i l o ʃ	n ɑ l ɑ ʃ
+wählen::V	сайла́ш	s ɑ j l o ʃ	s ɑ j l ɑ ʃ
+auswählen::V	таҥгла́ш	t o ŋ ɡ l ɤ ʃ	t ɑ ŋ ɡ l ɑ ʃ
+bewahren::V	сакла́ш	s ɑ k l i ʃ	s ɑ k l ɑ ʃ
+behindern::V	чаракла́ш	t͡ʃ ɑ r u k l u ʃ	t͡ʃ ɑ r ɑ k l ɑ ʃ
+verderben::V	пужа́ш	p y ʒ o ʃ	p u ʒ ɑ ʃ
+beschädigen::V	пужа́ш	p e ʒ ɤ ʃ	p u ʒ ɑ ʃ
+zerbrechen::V	пудырта́ш	p ɤ d ɑ r t ɑ ʃ	p u d ɤ r t ɑ ʃ
+zerreißen::V	кӱрла́ш	k ɑ r l i ʃ	k y r l ɑ ʃ
+zerstören::V	шалата́ш	ʃ ɤ l ɑ t y ʃ	ʃ ɑ l ɑ t ɑ ʃ
+verbrennen::V	йӱлата́ш	j e l y t u ʃ	j y l ɑ t ɑ ʃ
+geben::V	пуа́ш	p i u ʃ	p u ɑ ʃ
+reichen::V	пуа́ш	p i ɤ ʃ	p u ɑ ʃ
+schenken::V	пӧлекла́ш	p ɑ ʎ e k l o ʃ	p ø ʎ e k l ɑ ʃ
+versprechen::V	сӧра́ш	s ɤ r ø ʃ	s ø r ɑ ʃ
+wünschen::V	тылана́ш	t y l e n i ʃ	t ɤ l ɑ n ɑ ʃ
+loben::V	мокта́ш	m y k t e ʃ	m o k t ɑ ʃ
+küssen::V	шупшала́ш	ʃ o p ʃ e l ø ʃ	ʃ u p ʃ ɑ l ɑ ʃ
+wiegen::V	рӱпша́ш	r u p ʃ o ʃ	r y p ʃ ɑ ʃ
+zudecken::V	леведа́ш	ʎ u v o d ø ʃ	ʎ e v e d ɑ ʃ
+wecken::V	помыжалтара́ш	p o m o ʒ ø l t u r u ʃ	p o m ɤ ʒ ɑ l t ɑ r ɑ ʃ
+zeigen::V	ончыкта́ш	ɤ n t͡ʃ i k t ɤ ʃ	o n t͡ʃ ɤ k t ɑ ʃ
+führen::V	вӱда́ш	v ø d e ʃ	v y d ɑ ʃ
+lehren::V	туныкта́ш	t ɑ n i k t ɑ ʃ	t u n ɤ k t ɑ ʃ
+unterrichten::V	туныкта́ш	t o n ø k t o ʃ	t u n ɤ k t ɑ ʃ
+aufziehen::V	орышта́ш	ø r i ʃ t e ʃ	o r ɤ ʃ t ɑ ʃ
+leiten::V	вӱда́ш	v ɤ d e ʃ	v y d ɑ ʃ
+leiten::V	вуйлата́ш	v ɤ j l y t ɤ ʃ	v u j l ɑ t ɑ ʃ
+antreiben::V	поктыла́ш	p e k t ɑ l e ʃ	p o k t ɤ l ɑ ʃ
+lassen::V	-та́ш	t o ʃ	t ɑ ʃ
+einladen::V	ӱжа́ш	ɤ ʒ u ʃ	y ʒ ɑ ʃ
+vereinigen::V	иктешла́ш	j ɤ k tʲ e ʃ l ɤ ʃ	j i k tʲ e ʃ l ɑ ʃ
+besuchen::V	то́лын кая́ш	t e l ø n _ k ɑ j i ʃ	t o l ɤ n _ k ɑ j ɑ ʃ
+treffen::V	вашлия́ш	v o ʃ ʎ ø j e ʃ	v ɑ ʃ ʎ i j ɑ ʃ
+sich versammeln::V	погына́ш	p ɤ ɡ ø n i ʃ	p o ɡ ɤ n ɑ ʃ
+sich versammeln::V	чумырга́ш	t͡ʃ o m y r ɡ ø ʃ	t͡ʃ u m ɤ r ɡ ɑ ʃ
+spielen::V	мода́ш	m u d y ʃ	m o d ɑ ʃ
+singen::V	мура́ш	m u r i ʃ	m u r ɑ ʃ
+tanzen::V	кушта́ш	k ɑ ʃ t e ʃ	k u ʃ t ɑ ʃ
+sich trennen::V	ойырла́ш	ø j o r l ø ʃ	o j ɤ r l ɑ ʃ
+verlassen::V	кудалта́ш	k ø d u l t ø ʃ	k u d ɑ l t ɑ ʃ
+retten::V	утара́ш	o t ɤ r i ʃ	u t ɑ r ɑ ʃ
+bewachen::V	орола́ш	ø r e l o ʃ	o r o l ɑ ʃ
+schützen::V	арала́ш	u r i l ɤ ʃ	ɑ r ɑ l ɑ ʃ
+verteidigen::V	арала́ш	ɤ r y l i ʃ	ɑ r ɑ l ɑ ʃ
+sich schlagen::V	кредала́ш	k r ɑ d o l i ʃ	k r e d ɑ l ɑ ʃ
+schießen::V	лӱя́ш	l o j i ʃ	l y j ɑ ʃ
+siegen::V	сеҥа́ш	s ø ŋ y ʃ	s e ŋ ɑ ʃ
+ärgern::V	сырыкта́ш	s o r i k t e ʃ	s ɤ r ɤ k t ɑ ʃ
+schlagen::V	пера́ш	p ɑ r ɑ ʃ	p e r ɑ ʃ
+treten::V	тошка́ш	t u ʃ k y ʃ	t o ʃ k ɑ ʃ
+stechen::V	кера́ш	k o r ɑ ʃ	k e r ɑ ʃ
+stoßen::V	шӱкала́ш	ʃ o k ø l i ʃ	ʃ y k ɑ l ɑ ʃ
+stehlen::V	шолышта́ш	ʃ o l u ʃ t ø ʃ	ʃ o l ɤ ʃ t ɑ ʃ
+stören::V	мешая́ш	m u ʃ u j o ʃ	m e ʃ ɑ j ɑ ʃ
+belästigen::V	толаштара́ш	t ɑ l e ʃ t y r ɑ ʃ	t o l ɑ ʃ t ɑ r ɑ ʃ
+verbergen::V	шылта́ш	ʃ ø l t u ʃ	ʃ ɤ l t ɑ ʃ
+täuschen::V	ондала́ш	u n d i l y ʃ	o n d ɑ l ɑ ʃ
+betrügen::V	ондала́ш	i n d i l ɑ ʃ	o n d ɑ l ɑ ʃ
+töten::V	пушта́ш	p ɤ ʃ t i ʃ	p u ʃ t ɑ ʃ
+wohnen::V	ила́ш	j y l i ʃ	j i l ɑ ʃ
+arbeiten::V	пашалана́ш	p y ʃ ɤ l y n ɑ ʃ	p ɑ ʃ ɑ l ɑ n ɑ ʃ
+arbeiten::V	паша́м ышта́ш	p ɑ ʃ ø m _ i ʃ t ɤ ʃ	p ɑ ʃ ɑ m _ ɤ ʃ t ɑ ʃ
+sammeln::V	пога́ш	p ø ɡ ɑ ʃ	p o ɡ ɑ ʃ
+pflücken::V	кӱра́ш	k u r u ʃ	k y r ɑ ʃ
+jagen::V	сонарла́ш	s ø n i r l u ʃ	s o n ɑ r l ɑ ʃ
+fischen::V	кол куча́ш	k y l _ k u t͡ʃ ɑ ʃ	k o l _ k u t͡ʃ ɑ ʃ
+fassen::V	куча́ш	k o t͡ʃ y ʃ	k u t͡ʃ ɑ ʃ
+hüten::V	кӱта́ш	k u t e ʃ	k y t ɑ ʃ
+treiben::V	покта́ш	p e k t u ʃ	p o k t ɑ ʃ
+anbinden::V	йолышта́ш	j y l ɑ ʃ t ø ʃ	j o l ɤ ʃ t ɑ ʃ
+füttern::V	пукша́ш	p ɑ k ʃ e ʃ	p u k ʃ ɑ ʃ
+melken::V	лӱшта́ш	l ɑ ʃ t ɤ ʃ	l y ʃ t ɑ ʃ
+hacken::V	руа́ш	r i ɤ ʃ	r u ɑ ʃ
+gießen::V	шава́ш	ʃ e v o ʃ	ʃ ɑ v ɑ ʃ
+reifen::V	кӱа́ш	k u ø ʃ	k y ɑ ʃ
+zubereiten::V	ямдыла́ш	j i m d o l ø ʃ	j ɑ m d ɤ l ɑ ʃ
+kochen::V	шолта́ш	ʃ o l t u ʃ	ʃ o l t ɑ ʃ
+backen::V	кӱкташ	k ø k t o ʃ	k y k t ɑ ʃ
+braten::V	пуштыла́ш	p ɑ ʃ t y l ɑ ʃ	p u ʃ t ɤ l ɑ ʃ
+braten::V	жаритла́ш	ʒ i r e t l i ʃ	ʒ ɑ r i t l ɑ ʃ
+umrühren::V	луга́ш	l o ɡ u ʃ	l u ɡ ɑ ʃ
+stricken::V	пида́ш	p ɑ d e ʃ	p i d ɑ ʃ
+nähen::V	урга́ш	i r ɡ ɤ ʃ	u r ɡ ɑ ʃ
+färben::V	чиялта́ш	t͡ʃ u j e l t e ʃ	t͡ʃ i j ɑ l t ɑ ʃ
+reinigen::V	эрыкта́ш	e r ɑ k t u ʃ	e r ɤ k t ɑ ʃ
+waschen::V	мушка́ш	m u ʃ k u ʃ	m u ʃ k ɑ ʃ
+abwischen::V	ӱшта́ш	o ʃ t e ʃ	y ʃ t ɑ ʃ
+spülen::V	шӱалта́ш	ʃ y i l t e ʃ	ʃ y ɑ l t ɑ ʃ
+fegen::V	ӱшта́ш	ø ʃ t y ʃ	y ʃ t ɑ ʃ
+kehren::V	ӱшта́ш	i ʃ t ɤ ʃ	y ʃ t ɑ ʃ
+baden::V	йӱштыла́ш	j y ʃ t o l y ʃ	j y ʃ t ɤ l ɑ ʃ
+sich waschen::V	мушкылта́ш	m o ʃ k u l t ø ʃ	m u ʃ k ɤ l t ɑ ʃ
+ausziehen::V	кудаша́ш	k ø d o ʃ ɤ ʃ	k u d ɑ ʃ ɑ ʃ
+anziehen::V	чия́ш	t͡ʃ ɑ j u ʃ	t͡ʃ i j ɑ ʃ
+sich anziehen::V	чия́ш	t͡ʃ y j y ʃ	t͡ʃ i j ɑ ʃ
+kämmen::V	шера́ш	ʃ e r y ʃ	ʃ e r ɑ ʃ
+schmücken::V	тӱзата́ш	t e z y t i ʃ	t y z ɑ t ɑ ʃ
+schmücken::V	чеверта́ш	t͡ʃ ɤ v ø r t i ʃ	t͡ʃ e v e r t ɑ ʃ
+sagen::V	ойла́ш	i j l u ʃ	o j l ɑ ʃ
+sagen::V	каласа́ш	k ø l e s u ʃ	k ɑ l ɑ s ɑ ʃ
+sprechen::V	кутыра́ш	k i t ɑ r u ʃ	k u t ɤ r ɑ ʃ
+reden::V	мутлана́ш	m e t l u n ø ʃ	m u t l ɑ n ɑ ʃ
+sich unterhalten::V	кутыра́ш	k e t ɤ r i ʃ	k u t ɤ r ɑ ʃ
+fragen::V	йода́ш	j ɤ d ɤ ʃ	j o d ɑ ʃ
+bitten::V	йода́ш	j i d o ʃ	j o d ɑ ʃ
+erzählen::V	ойла́ш	ɑ j l u ʃ	o j l ɑ ʃ
+mitteilen::V	увертара́ш	u v y r t y r ɑ ʃ	u v e r t ɑ r ɑ ʃ
+nennen::V	лӱмда́ш	l y m d e ʃ	l y m d ɑ ʃ
+rufen::V	ӱжа́ш	y ʒ ɑ ʃ	y ʒ ɑ ʃ
+prahlen::V	моктана́ш	m e k t e n ø ʃ	m o k t ɑ n ɑ ʃ
+übersetzen::V	кусара́ш	k o s ɑ r ɤ ʃ	k u s ɑ r ɑ ʃ
+denken::V	шона́ш	ʃ u n ɤ ʃ	ʃ o n ɑ ʃ
+glauben::V	ӱшана́ш	e ʃ y n o ʃ	y ʃ ɑ n ɑ ʃ
+bemerken::V	шижа́ш	ʃ o ʒ ɤ ʃ	ʃ i ʒ ɑ ʃ
+erkennen::V	пала́ш	p u l ɑ ʃ	p ɑ l ɑ ʃ
+begreifen::V	ыҥла́ш	ɑ ŋ l y ʃ	ɤ ŋ l ɑ ʃ
+verstehen::V	умыла́ш	u m i l ɤ ʃ	u m ɤ l ɑ ʃ
+lernen::V	тунема́ш	t ø nʲ ɤ m o ʃ	t u nʲ e m ɑ ʃ
+wissen::V	шинча́ш	ʃ u n t͡ʃ ø ʃ	ʃ i n t͡ʃ ɑ ʃ
+sich erinnern an::V	шарна́ш	ʃ ɤ r n u ʃ	ʃ ɑ r n ɑ ʃ
+vergessen::V	монда́ш	m ɤ n d u ʃ	m o n d ɑ ʃ
+messen::V	виса́ш	v o s u ʃ	v i s ɑ ʃ
+zählen::V	шотла́ш	ʃ ɤ t l u ʃ	ʃ o t l ɑ ʃ
+rechnen::V	шотла́ш	ʃ ɤ t l ø ʃ	ʃ o t l ɑ ʃ
+lesen::V	луда́ш	l u d ɑ ʃ	l u d ɑ ʃ
+malen::V	сӱретла́ш	s y r o t l ø ʃ	s y r e t l ɑ ʃ
+zeichnen::V	сӱретла́ш	s y r ɑ t l ø ʃ	s y r e t l ɑ ʃ
+schreiben::V	воза́ш	v e z e ʃ	v o z ɑ ʃ
+besitzen::V	лия́ш	ʎ y j ɑ ʃ	ʎ i j ɑ ʃ
+kaufen::V	нала́ш	n ɑ l ɑ ʃ	n ɑ l ɑ ʃ
+verkaufen::V	ужала́ш	i ʒ i l ø ʃ	u ʒ ɑ l ɑ ʃ
+bezahlen::V	тӱла́ш	t u l o ʃ	t y l ɑ ʃ
+zahlen::V	тӱла́ш	t u l ɑ ʃ	t y l ɑ ʃ
+beherrschen::V	куча́ш	k u t͡ʃ ɑ ʃ	k u t͡ʃ ɑ ʃ
+ertragen::V	турка́ш	t i r k i ʃ	t u r k ɑ ʃ

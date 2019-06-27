@@ -1,0 +1,1513 @@
+Auge::N	yasa	j i s ɔ	j a s a
+Ohr::N	šan	ʃ w n	ʃ a n
+Nase::N	oforo	a f a r ɔ	ɔ f ɔ r ɔ
+Mund::N	angga	i ŋ k ɔ	a ŋ k a
+Zahn::N	weihe	u a u x a	w ɤ i x ɤ
+Zunge::N	ilenggu	ɔ l u ŋ k ɤ	i l ɤ ŋ k u
+Lippe::N	femen	f w m ɤ n	f ɤ m ɤ n
+Wange::N	šakšaha	ʃ ɤ kʰ ʃ u x a	ʃ a kʰ ʃ a x a
+Gesicht::N	cira	t͡ʃ w r ʊ	t͡ʃ i r a
+Stirn::N	šenggin	ʃ w ŋ k ʊ n	ʃ ɤ ŋ k i n
+Haar::N	funiyehe	f ɔ n ʊ j w x ɔ	f u n i j ɤ x ɤ
+Schnurrbart::N	šungkulu	ʃ i ŋ kʰ a l ʊ	ʃ u ŋ kʰ u l u
+Bart::N	hūse	x ɤ s ɔ	x ʊ s ɤ
+Kinn::N	sencehe	s a n t͡ʃ ʊ x ɔ	s ɤ n t͡ʃ ɤ x ɤ
+Kiefer[Anatomie]::N	fiyada	f ɤ j ɔ t ɤ	f i j a t a
+Kehle::N	aksun da	i kʰ s i n _ t w	a kʰ s u n _ t a
+Hals::N	meifen	m ɔ a f a n	m ɤ i f ɤ n
+Hals::N	monggon	m w ŋ k a n	m ɔ ŋ k ɔ n
+Genick::N	meifen	m u i f a n	m ɤ i f ɤ n
+Kopf::N	uju	ɤ d͡ʒ u	u d͡ʒ u
+Rücken::N	fisa	f ʊ s ʊ	f i s a
+Rücken::N	seire	s a u r ɤ	s ɤ i r ɤ
+Bauch::N	hefeli	x a f i l ɔ	x ɤ f ɤ l i
+Nabel::N	cungguru	t͡ʃ ʊ ŋ k i r ɤ	t͡ʃ u ŋ k u r u
+Busen::N	tunggen	tʰ ʊ ŋ k ɔ n	tʰ u ŋ k ɤ n
+Busen::N	hefeliyen	x w f ʊ l a j ɤ n	x ɤ f ɤ l i j ɤ n
+Brust::N	huhun	x ɤ x w n	x u x u n
+Schulter::N	aidagan	ɔ u t w k a n	a i t a k a n
+Arm::N	gala	k i l ɔ	k a l a
+Arm::N	mayan	m ʊ j ɔ n	m a j a n
+Ellenbogen::N	mayan	m a j u n	m a j a n
+Hand::N	gala	k a l w	k a l a
+Handfläche::N	simhun hefeli	s u m x ɔ n _ x a f ɤ l ɔ	s i m x u n _ x ɤ f ɤ l i
+Finger::N	simhun	s a m x ɤ n	s i m x u n
+Fingernagel::N	hitahūn	x i tʰ ɔ x ʊ n	x i tʰ a x ʊ n
+Nagel[Anatomie]::N	hitahūn	x u tʰ a x i n	x i tʰ a x ʊ n
+Zeh::N	simhun	s u m x w n	s i m x u n
+Fuß::N	bethe	p ɤ tʰ x ʊ	p ɤ tʰ x ɤ
+Ferse::N	guye	k ɔ j ʊ	k u j ɤ
+Knie::N	tobgiya	tʰ ʊ p k u j u	tʰ ɔ p k i j a
+Oberschenkel::N	suksaha	s ɔ kʰ s u x w	s u kʰ s a x a
+Bein::N	bethe	p i tʰ x ɔ	p ɤ tʰ x ɤ
+Körper::N	beye	p i j a	p ɤ j ɤ
+Haut::N	sukū	s w kʰ ɤ	s u kʰ ʊ
+Haut::N	notho	n a tʰ x w	n ɔ tʰ x ɔ
+Blut::N	senggi	s a ŋ k u	s ɤ ŋ k i
+Ader::N	me	m ʊ	m ɤ
+Ader::N	jun	d͡ʒ ɔ n	d͡ʒ u n
+Ader::N	sudala	s a t i l ʊ	s u t a l a
+Sehne::N	ca	t͡ʃ a	t͡ʃ a
+Knochen::N	haihan	x u w x ɤ n	x a i x a n
+Knochen::N	giranggi	k i r i ŋ k w	k i r a ŋ k i
+Gehirn::N	fehi	f ɔ x ʊ	f ɤ x i
+Herz::N	niyaman	n w j w m i n	n i j a m a n
+Magen::N	guwejihe	k u w i d͡ʒ ɔ x u	k u w ɤ d͡ʒ i x ɤ
+Leber::N	fahūn	f ɔ x i n	f a x ʊ n
+Atem::N	ki	kʰ u	kʰ i
+Atem::N	ergen	ɤ r k u n	ɤ r k ɤ n
+Atem::N	sukdun	s ʊ kʰ t i n	s u kʰ t u n
+Hunger::N	omihon	a m ʊ x i n	ɔ m i x ɔ n
+Träne::N	hūwajambi	x u ɔ ɤ d͡ʒ u m p ɔ	x ʊ w a d͡ʒ a m p i
+Geschmack::N	amtan simten	w m tʰ ɤ n _ s ʊ m tʰ ʊ n	a m tʰ a n _ s i m tʰ ɤ n
+Geruch::N	amtan	ʊ m tʰ ʊ n	a m tʰ a n
+Schlaf::N	amu	ʊ m ɔ	a m u
+Traum::N	tolgin	tʰ i l k i n	tʰ ɔ l k i n
+Himmel::N	abka	ʊ p kʰ i	a p kʰ a
+Sonne::N	šun	ʃ u n	ʃ u n
+Mond::N	biya	p w j ɤ	p i j a
+Stern::N	usiha	ʊ s i x a	u s i x a
+Luft::N	sukdun	s ɔ kʰ t ɔ n	s u kʰ t u n
+Luft::N	abkai sukdun	ʊ p kʰ u ʊ _ s ɔ kʰ t ɔ n	a p kʰ a i _ s u kʰ t u n
+Wind::N	edun	a t u n	ɤ t u n
+Welle::N	boljon	p a l d͡ʒ w n	p ɔ l d͡ʒ ɔ n
+Wasser::N	muke	m i kʰ a	m u kʰ ɤ
+Stein::N	wehe	w u x u	w ɤ x ɤ
+Stein::N	wehengge	w ɔ x ʊ ŋ k a	w ɤ x ɤ ŋ k ɤ
+Boden::N	fere	f ɤ r ɤ	f ɤ r ɤ
+Boden::N	falan	f w l u n	f a l a n
+Erde::N	na	n i	n a
+Erde::N	boihon	p u ʊ x w n	p ɔ i x ɔ n
+Staub::N	buraki	p i r w kʰ w	p u r a kʰ i
+Staub::N	furanaha	f u r u n ɔ x ɤ	f u r a n a x a
+Staub::N	buraki toron	p u r ɔ kʰ ɔ _ tʰ ʊ r ʊ n	p u r a kʰ i _ tʰ ɔ r ɔ n
+Rauch::N	omimbi	a m ɤ m p a	ɔ m i m p i
+Funke::N	tuwa i fithen	tʰ i w ʊ _ ʊ _ f ʊ tʰ x ɤ n	tʰ u w a _ i _ f i tʰ x ɤ n
+Funke::N	yolonggi	j a l ɔ ŋ k i	j ɔ l ɔ ŋ k i
+Feuer::N	tuwa	tʰ ʊ u ɔ	tʰ u w a
+Licht::N	fiyan	f ʊ j ɤ n	f i j a n
+Schatten::N	helmen	x w l m a n	x ɤ l m ɤ n
+Wetter::N	abka	a p kʰ ʊ	a p kʰ a
+Wetter::N	abkai sukdun	u p kʰ ɤ i _ s i kʰ t ɤ n	a p kʰ a i _ s u kʰ t u n
+Nebel::N	talman	tʰ a l m ɤ n	tʰ a l m a n
+Wolke::N	tugi	tʰ ɔ k w	tʰ u k i
+Regen::N	aga	w k u	a k a
+Schnee::N	nimanggi	n ɔ m i ŋ k w	n i m a ŋ k i
+Eis::N	juhe	d͡ʒ w x w	d͡ʒ u x ɤ
+Frost::N	gecen	k ɤ t͡ʃ a n	k ɤ t͡ʃ ɤ n
+Frost::N	beiguwen	p ɔ ʊ k ɔ w a n	p ɤ i k u w ɤ n
+Kälte::N	edun	ɤ t a n	ɤ t u n
+Kälte::N	beikuwen	p u ɤ kʰ i ʊ ɔ n	p ɤ i kʰ u w ɤ n
+Hitze::N	halhūn	x w l x ɤ n	x a l x ʊ n
+Raureif::N	gecen	k w t͡ʃ w n	k ɤ t͡ʃ ɤ n
+Regenbogen::N	nioron	ɲ u r ʊ n	ɲ ɔ r ɔ n
+Donner::N	akjan	i kʰ d͡ʒ u n	a kʰ d͡ʒ a n
+Strömung::N	eyen	u j w n	ɤ j ɤ n
+Tropfen::N	sabdan	s w p t ʊ n	s a p t a n
+Schaum::N	obonggi	ɔ p i ŋ k a	ɔ p ɔ ŋ k i
+Schmutz::N	berten	p w r tʰ i n	p ɤ r tʰ ɤ n
+Schmutz::N	fongson	f u ŋ s ɔ n	f ɔ ŋ s ɔ n
+See::N	omo	a m a	ɔ m ɔ
+See::N	tenggin	tʰ u ŋ k ɤ n	tʰ ɤ ŋ k i n
+Sumpf::N	detu	t ʊ tʰ w	t ɤ tʰ u
+Sumpf::N	lifakū	l w f i kʰ u	l i f a kʰ ʊ
+Sumpf::N	lebenggi ba	l u p u ŋ k u _ p a	l ɤ p ɤ ŋ k i _ p a
+Moor::N	simelen	s i m u l ʊ n	s i m ɤ l ɤ n
+Wiese::N	ongko	i ŋ kʰ i	ɔ ŋ kʰ ɔ
+Wald::N	bujan	p i d͡ʒ u n	p u d͡ʒ a n
+Hügel::N	ala	i l u	a l a
+Anhöhe::N	kuru	kʰ ɤ r ɤ	kʰ u r u
+Anhöhe::N	bukduhun	p i kʰ t i x ɤ n	p u kʰ t u x u n
+Berg::N	alin	a l u n	a l i n
+Gipfel::N	uibo	u u p ɔ	u i p ɔ
+Gipfel::N	šokšohon	ʃ ɔ kʰ ʃ w x ʊ n	ʃ ɔ kʰ ʃ ɔ x ɔ n
+Höhle::N	dung	t u ŋ	t u ŋ
+Höhle::N	dunggu	t w ŋ k ɤ	t u ŋ k u
+Abhang::N	fiyeleku	f i j i l u kʰ u	f i j ɤ l ɤ kʰ u
+Quelle::N	sekiyen	s u kʰ w j ʊ n	s ɤ kʰ i j ɤ n
+Bach::N	muke	m ɔ kʰ ɤ	m u kʰ ɤ
+Bach::N	birgan	p ɔ r k i n	p i r k a n
+Fluss::N	muke	m u kʰ ɤ	m u kʰ ɤ
+Fluss::N	giyang	k a j w ŋ	k i j a ŋ
+Ufer::N	dalin	t i l u n	t a l i n
+Ufer::N	jecen dalin	d͡ʒ ʊ t͡ʃ ʊ n _ t w l i n	d͡ʒ ɤ t͡ʃ ɤ n _ t a l i n
+Küste::N	dalin	t ɤ l ʊ n	t a l i n
+Küste::N	jecen dalin	d͡ʒ ɔ t͡ʃ u n _ t i l ɔ n	d͡ʒ ɤ t͡ʃ ɤ n _ t a l i n
+Festland::N	ba na	p i _ n a	p a _ n a
+Festland::N	na	n ɔ	n a
+Meer::N	namu	n u m w	n a m u
+Meer::N	mederi	m i t ɤ r ɔ	m ɤ t ɤ r i
+Bucht::N	birgan	p i r k a n	p i r k a n
+Insel::N	tun	tʰ i n	tʰ u n
+Blume::N	ilha	ʊ l x w	i l x a
+Gras::N	orho	ʊ r x i	ɔ r x ɔ
+Wurzel::N	da	t ɔ	t a
+Wurzel::N	fulehe	f w l ʊ x ɔ	f u l ɤ x ɤ
+Baum::N	moo	m ʊ a	m ɔ ɔ
+Stamm::N	da	t w	t a
+Stamm::N	gurun	k i r i n	k u r u n
+Stamm::N	hithen	x a tʰ x i n	x i tʰ x ɤ n
+Rinde::N	notho	n i tʰ x u	n ɔ tʰ x ɔ
+Ast::N	gargan	k i r k ɔ n	k a r k a n
+Zweig::N	moo	m ɔ ɤ	m ɔ ɔ
+Zweig::N	gargan	k i r k w n	k a r k a n
+Blatt::N	abdaha	i p t w x w	a p t a x a
+Birke::N	fiya	f ɤ j w	f i j a
+Kiefer[Baum]::N	jakdan	d͡ʒ a kʰ t u n	d͡ʒ a kʰ t a n
+Weide[Baum]::N	fodoho	f u t a x a	f ɔ t ɔ x ɔ
+Tanne::N	jaksun	d͡ʒ w kʰ s u n	d͡ʒ a kʰ s u n
+Horn::N	laba	l a p ʊ	l a p a
+Horn::N	buleri	p ɔ l ɤ r a	p u l ɤ r i
+Feder::N	fungaha	f u ŋ a x ɤ	f u ŋ a x a
+Fell::N	furdehe	f ɔ r t ɤ x a	f u r t ɤ x ɤ
+Flügel::N	asha	a s x a	a s x a
+Klaue::N	ošoho	u ʃ ɤ x w	ɔ ʃ ɔ x ɔ
+Klaue::N	wasiha	ɔ a s w x w	w a s i x a
+Kralle::N	fatha	f ʊ tʰ x w	f a tʰ x a
+Schwanz::N	uncehen	ɔ n t͡ʃ ʊ x u n	u n t͡ʃ ɤ x ɤ n
+Ei::N	use	ʊ s ɤ	u s ɤ
+Ei::N	umhan	ʊ m x a n	u m x a n
+Nest::N	feye	f u j ɔ	f ɤ j ɤ
+Bau::N	yeru	j ɤ r a	j ɤ r u
+Tier::N	ulha	ɔ l x ɔ	u l x a
+Herde::N	mukūn	m ɔ kʰ a n	m u kʰ ʊ n
+Herde::N	fenihe	f ʊ n a x ʊ	f ɤ n i x ɤ
+Herde::N	feniyen	f i n ɤ j i n	f ɤ n i j ɤ n
+Kuh::N	ihan	ɤ x ɤ n	i x a n
+Bulle::N	ihan	ɤ x ʊ n	i x a n
+Pferd::N	morin	m u r ɤ n	m ɔ r i n
+Schaf::N	honin	x u n ɔ n	x ɔ n i n
+Schwein::N	ulgiyan	w l k ɔ j w n	u l k i j a n
+Hund::N	indahūn	u n t w x w n	i n t a x ʊ n
+Katze::N	ujirhi	i d͡ʒ i r x ɔ	u d͡ʒ i r x i
+Bär::N	lefu	l ɤ f u	l ɤ f u
+Eichhörnchen::N	soison	s ʊ ʊ s ɤ n	s ɔ i s ɔ n
+Elch::N	anami	u n ɤ m ɔ	a n a m i
+Fuchs::N	dobi	t w p ɔ	t ɔ p i
+Hase::N	gūlmahūn	k a l m w x i n	k ʊ l m a x ʊ n
+Maus::N	singgeri	s ɔ ŋ k ɔ r ɔ	s i ŋ k ɤ r i
+Wolf::N	niohe	ɲ ɔ x ɤ	ɲ ɔ x ɤ
+Vogel::N	cecike	t͡ʃ ɤ t͡ʃ ʊ kʰ ʊ	t͡ʃ ɤ t͡ʃ i kʰ ɤ
+Schwarm::N	borhon	p ɤ r x ʊ n	p ɔ r x ɔ n
+Huhn::N	coko	t͡ʃ a kʰ a	t͡ʃ ɔ kʰ ɔ
+Hahn::N	bulun	p ɔ l i n	p u l u n
+Gans::N	niongniyaha	ɲ a ŋ n ʊ j i x i	ɲ ɔ ŋ n i j a x a
+Adler::N	damin	t w m w n	t a m i n
+Adler::N	tashari	tʰ a s x u r ɤ	tʰ a s x a r i
+Ente::N	niyehe	n w j ʊ x u	n i j ɤ x ɤ
+Eule::N	humše	x ɤ m ʃ ʊ	x u m ʃ ɤ
+Kranich::N	bulehen	p i l ɤ x w n	p u l ɤ x ɤ n
+Krähe::N	karaki	kʰ ʊ r i kʰ u	kʰ a r a kʰ i
+Kuckuck::N	kekuhe	kʰ ɔ kʰ u x ʊ	kʰ ɤ kʰ u x ɤ
+Schwan::N	garu	k a r a	k a r u
+Fisch::N	nimaha	n i m u x u	n i m a x a
+Barsch::N	kiyakū	kʰ i j ʊ kʰ i	kʰ i j a kʰ ʊ
+Hecht::N	geošen	k ʊ ɤ ʃ ɔ n	k ɤ ɔ ʃ ɤ n
+Schlange[Tier]::N	meihe	m i u x a	m ɤ i x ɤ
+Wurm::N	umiyaha	ɔ m u j i x ʊ	u m i j a x a
+Spinne::N	helmeku	x i l m ɔ kʰ ʊ	x ɤ l m ɤ kʰ u
+Spinne::N	helmehen	x w l m u x u n	x ɤ l m ɤ x ɤ n
+Ameise::N	yeruhuwe	j ɤ r ɔ x i a a	j ɤ r u x u w ɤ
+Laus::N	cihe	t͡ʃ i x ɔ	t͡ʃ i x ɤ
+Mücke::N	oyo	ɤ j w	ɔ j ɔ
+Fliege::N	derhuwe	t ɤ r x w a ʊ	t ɤ r x u w ɤ
+Schmetterling::N	dondon	t ʊ n t w n	t ɔ n t ɔ n
+Beere::N	uluri	i l i r ɤ	u l u r i
+Beere::N	eritun	u r i tʰ w n	ɤ r i tʰ u n
+Beere::N	janjuri	d͡ʒ ʊ n d͡ʒ a r i	d͡ʒ a n d͡ʒ u r i
+Apfel::N	ping g'o	pʰ ɔ ŋ _ k ɤ	pʰ i ŋ _ k ɔ
+Pilz::N	megu	m a k ʊ	m ɤ k u
+Pilz::N	sence	s ɔ n t͡ʃ ɔ	s ɤ n t͡ʃ ɤ
+Zwiebel::N	elu	i l ɤ	ɤ l u
+Saat::N	use	i s a	u s ɤ
+Korn::N	aiha šušu	i a x ʊ _ ʃ ɔ ʃ ʊ	a i x a _ ʃ u ʃ u
+Heu::N	hife	x w f i	x i f ɤ
+Schale::N	fan	f w n	f a n
+Schale::N	notho	n w tʰ x w	n ɔ tʰ x ɔ
+Grube::N	yeru	j i r ʊ	j ɤ r u
+Falle::N	eye	i j a	ɤ j ɤ
+Falle::N	hūbin	x ɤ p w n	x ʊ p i n
+Schlinge::N	sengken	s ɔ ŋ kʰ i n	s ɤ ŋ kʰ ɤ n
+Schlinge::N	urgan	ɔ r k ɔ n	u r k a n
+Spur::N	songko	s w ŋ kʰ w	s ɔ ŋ kʰ ɔ
+Asche::N	furanaha	f u r a n a x u	f u r a n a x a
+Dreck::N	dasihi	t w s ʊ x u	t a s i x i
+Dreck::N	fongson	f u ŋ s u n	f ɔ ŋ s ɔ n
+Dreck::N	fongsonggi	f ɔ ŋ s ɤ ŋ k ɤ	f ɔ ŋ s ɔ ŋ k i
+Eisen::N	sele	s ɔ l a	s ɤ l ɤ
+Eisen::N	huwešeku	x ɔ ɔ ɤ ʃ w kʰ ɤ	x u w ɤ ʃ ɤ kʰ u
+Gold::N	aisin	ɔ i s a n	a i s i n
+Silber::N	menggun	m u ŋ k ʊ n	m ɤ ŋ k u n
+Kohle::N	yaha	j u x ʊ	j a x a
+Glas::N	boli	p ʊ l ɔ	p ɔ l i
+Glas::N	bolosu	p a l i s ɤ	p ɔ l ɔ s u
+Lehm::N	yeye boihon	j w j u _ p w ʊ x u n	j ɤ j ɤ _ p ɔ i x ɔ n
+Sand::N	yonggan	j ɔ ŋ k w n	j ɔ ŋ k a n
+Mensch::N	niyalma	n a j ɤ l m ʊ	n i j a l m a
+Mann::N	haha	x u x a	x a x a
+Mann::N	eigen	ɤ ʊ k ɔ n	ɤ i k ɤ n
+Mann::N	niyalma	n i j u l m w	n i j a l m a
+Frau::N	hehe	x ɔ x i	x ɤ x ɤ
+Frau::N	sargan	s ɔ r k ɔ n	s a r k a n
+Kind::N	jui	d͡ʒ a w	d͡ʒ u i
+Junge::N	tungdz	tʰ ʊ ŋ t z	tʰ u ŋ t z
+Junge::N	haha jui	x w x ɤ _ d͡ʒ ɔ ʊ	x a x a _ d͡ʒ u i
+Mädchen::N	niyang	n a j ʊ ŋ	n i j a ŋ
+Mädchen::N	sargan jui	s w r k ʊ n _ d͡ʒ ɤ a	s a r k a n _ d͡ʒ u i
+Familie::N	hala	x a l ɔ	x a l a
+Familie::N	boigon	p u w k ɤ n	p ɔ i k ɔ n
+Familie::N	boigon anggala	p ɔ i k i n _ ʊ ŋ k u l ʊ	p ɔ i k ɔ n _ a ŋ k a l a
+Großvater::N	mafa	m a f ɤ	m a f a
+Großmutter::N	mama	m i m a	m a m a
+Eltern::N	juru niyaman	d͡ʒ w r i _ n ʊ j ɔ m ʊ n	d͡ʒ u r u _ n i j a m a n
+Vater::N	ama	i m ɔ	a m a
+Mutter::N	eme	i m ʊ	ɤ m ɤ
+Mutter::N	eniye	ɔ n u j a	ɤ n i j ɤ
+Sohn::N	jui	d͡ʒ i ɤ	d͡ʒ u i
+Tochter::N	sargan jui	s ʊ r k a n _ d͡ʒ ɤ ʊ	s a r k a n _ d͡ʒ u i
+Bruder::N	ahūn	u x ɔ n	a x ʊ n
+Bruder::N	amji	ʊ m d͡ʒ i	a m d͡ʒ i
+Bruder::N	šajingga ahūn	ʃ ʊ d͡ʒ u ŋ k ɤ _ ɤ x ɔ n	ʃ a d͡ʒ i ŋ k a _ a x ʊ n
+Schwester::N	eyun	ɤ j ɤ n	ɤ j u n
+Schwester::N	gege	k a k ɔ	k ɤ k ɤ
+Schwester::N	non	n u n	n ɔ n
+Onkel::N	ecike	ɤ t͡ʃ ʊ kʰ w	ɤ t͡ʃ i kʰ ɤ
+Tante::N	deheme	t i x i m ʊ	t ɤ x ɤ m ɤ
+Ehemann::N	eigen	u i k ʊ n	ɤ i k ɤ n
+Ehefrau::N	urun	w r ɤ n	u r u n
+Freude::N	keksen	kʰ i kʰ s ɤ n	kʰ ɤ kʰ s ɤ n
+Glück::N	urgun	u r k w n	u r k u n
+Glück::N	keksen	kʰ ɔ kʰ s w n	kʰ ɤ kʰ s ɤ n
+Kummer::N	usacun	ɤ s i t͡ʃ w n	u s a t͡ʃ u n
+Kummer::N	jobocun	d͡ʒ ɤ p ʊ t͡ʃ w n	d͡ʒ ɔ p ɔ t͡ʃ u n
+Wunsch::N	forobun	f ɤ r ɔ p w n	f ɔ r ɔ p u n
+Lust::N	buyecun	p w j ɤ t͡ʃ ɔ n	p u j ɤ t͡ʃ u n
+Lust::N	buyen	p a j ɤ n	p u j ɤ n
+Lust::N	buyenin	p ɤ j a n u n	p u j ɤ n i n
+Geist::N	oori simen	ɤ ɤ r ɔ _ s ɤ m ʊ n	ɔ ɔ r i _ s i m ɤ n
+Gedanke::N	gūnigan	k ɔ n ʊ k a n	k ʊ n i k a n
+Gedächtnis::N	jon	d͡ʒ ʊ n	d͡ʒ ɔ n
+Gedächtnis::N	fehi	f i x u	f ɤ x i
+Gedächtnis::N	merkin	m ɤ r kʰ a n	m ɤ r kʰ i n
+Verstand::N	fehi	f w x u	f ɤ x i
+Sinn::N	jorin	d͡ʒ w r ɔ n	d͡ʒ ɔ r i n
+Grund::N	giyan	k a j ʊ n	k i j a n
+Grund::N	turgun	tʰ ɤ r k i n	tʰ u r k u n
+Wahrheit::N	yaargiyan	j u i r k a j ɤ n	j a a r k i j a n
+Gespräch::N	gisuren	k w s ɔ r ɔ n	k i s u r ɤ n
+Märchen::N	ulabun	i l ɔ p u n	u l a p u n
+Märchen::N	juben	d͡ʒ i p u n	d͡ʒ u p ɤ n
+Erzählung::N	juben	d͡ʒ a p ʊ n	d͡ʒ u p ɤ n
+Nachricht::N	mede	m ɤ t ɤ	m ɤ t ɤ
+Neuigkeit::N	mejige	m ɔ d͡ʒ i k w	m ɤ d͡ʒ i k ɤ
+Name::N	gebu	k a p ʊ	k ɤ p u
+Rede::N	gisun	k i s ʊ n	k i s u n
+Sprache::N	gisun	k a s i n	k i s u n
+Stimme::N	jilgan	d͡ʒ ɤ l k u n	d͡ʒ i l k a n
+Wort::N	gisun	k u s ɔ n	k i s u n
+Zeichen::N	gūnin	k i n i n	k ʊ n i n
+Ruf::N	dere	t ɔ r u	t ɤ r ɤ
+Lärm::N	jilgan	d͡ʒ ʊ l k ʊ n	d͡ʒ i l k a n
+Laut::N	mudan	m ɔ t ʊ n	m u t a n
+Ton::N	mudan	m w t ɔ n	m u t a n
+Lied::N	ucun	ʊ t͡ʃ w n	u t͡ʃ u n
+Ruhe::N	elhe	w l x i	ɤ l x ɤ
+Leute::N	niyalma	n ɤ j ʊ l m ɤ	n i j a l m a
+Volk::N	irgen	a r k i n	i r k ɤ n
+Volk::N	uksura	w kʰ s w r a	u kʰ s u r a
+Arbeit::N	baita	p u ɤ tʰ a	p a i tʰ a
+Arbeit::N	hūda	x w t w	x ʊ t a
+Arbeit::N	hūda maiman	x i t ʊ _ m ɤ ɤ m w n	x ʊ t a _ m a i m a n
+Gast::N	antaha	w n tʰ ʊ x ʊ	a n tʰ a x a
+Geschenk::N	doro	t ɔ r ɔ	t ɔ r ɔ
+Geschenk::N	doroi jaka	t w r ʊ ʊ _ d͡ʒ u kʰ ɔ	t ɔ r ɔ i _ d͡ʒ a kʰ a
+Spiel::N	efin	ɤ f ɔ n	ɤ f i n
+Gesellschaft::N	hūfan	x a f w n	x ʊ f a n
+Hilfe::N	aisilan	w ʊ s u l i n	a i s i l a n
+Freund::N	gargan	k w r k ɤ n	k a r k a n
+Kamerad::N	hoki	x ɤ kʰ w	x ɔ kʰ i
+Kamerad::N	gargan	k a r k a n	k a r k a n
+Angelegenheit::N	sita	s ɔ tʰ ɔ	s i tʰ a
+Angelegenheit::N	weile	u w i l ɔ	w ɤ i l ɤ
+Anzahl::N	be	p a	p ɤ
+Art::N	hacin	x u t͡ʃ ʊ n	x a t͡ʃ i n
+Art::N	sukdun	s u kʰ t a n	s u kʰ t u n
+Stück::N	tubi	tʰ w p ʊ	tʰ u p i
+Stück::N	farsi	f a r s a	f a r s i
+Stück::N	dalgan	t a l k ɤ n	t a l k a n
+Teil::N	ufuhi	w f a x u	u f u x i
+Teil::N	fiyentehe	f ʊ j w n tʰ ɤ x i	f i j ɤ n tʰ ɤ x ɤ
+Hälfte::N	hontoho	x w n tʰ u x w	x ɔ n tʰ ɔ x ɔ
+Kreis::N	fuka	f u kʰ w	f u kʰ a
+Kreuz::N	šaka	ʃ i kʰ ʊ	ʃ a kʰ a
+Linie::N	futa	f w tʰ ɤ	f u tʰ a
+Linie::N	sijin	s w d͡ʒ ɔ n	s i d͡ʒ i n
+Linie::N	juduran	d͡ʒ w t ʊ r ɤ n	d͡ʒ u t u r a n
+Strich::N	jijun	d͡ʒ ʊ d͡ʒ ʊ n	d͡ʒ i d͡ʒ u n
+Abstand::N	jaka	d͡ʒ ɤ kʰ i	d͡ʒ a kʰ a
+Abstand::N	siden	s ɤ t u n	s i t ɤ n
+Abstand::N	funtuhu	f i n tʰ w x ɤ	f u n tʰ u x u
+Entfernung::N	jugūn	d͡ʒ u k i n	d͡ʒ u k ʊ n
+Gegend::N	hošo	x ɤ ʃ ɤ	x ɔ ʃ ɔ
+Platz::N	ba	p i	p a
+Platz::N	siden	s w t w n	s i t ɤ n
+Platz::N	jalaktan	d͡ʒ ʊ l w kʰ tʰ w n	d͡ʒ a l a kʰ tʰ a n
+Ort::N	ba	p ʊ	p a
+Seite::N	ergi	i r k ɤ	ɤ r k i
+Seite::N	ashan	ʊ s x a n	a s x a n
+Mitte::N	dulin	t a l ʊ n	t u l i n
+Mitte::N	dulimba	t w l ɤ m p ɔ	t u l i m p a
+Gegenstand::N	hacin	x ʊ t͡ʃ ɔ n	x a t͡ʃ i n
+Sache::N	jaka	d͡ʒ ʊ kʰ i	d͡ʒ a kʰ a
+Rand::N	hošo	x i ʃ ʊ	x ɔ ʃ ɔ
+Kante::N	hošo	x i ʃ u	x ɔ ʃ ɔ
+Kante::N	jodorho	d͡ʒ u t w r x i	d͡ʒ ɔ t ɔ r x ɔ
+Ecke::N	šala	ʃ i l i	ʃ a l a
+Spitze::N	uju	ʊ d͡ʒ ʊ	u d͡ʒ u
+Spitze::N	bonggo	p ɤ ŋ k i	p ɔ ŋ k ɔ
+Ende::N	šala	ʃ i l ɤ	ʃ a l a
+Loch::N	yeru	j ɤ r ɔ	j ɤ r u
+Loch::N	angga	ʊ ŋ k u	a ŋ k a
+Loch::N	sangga	s u ŋ k ɔ	s a ŋ k a
+Winkel::N	hošo	x ʊ ʃ i	x ɔ ʃ ɔ
+Winkel::N	durbejen	t ʊ r p w d͡ʒ ʊ n	t u r p ɤ d͡ʒ ɤ n
+Muster::N	alhūdan	ɔ l x w t ʊ n	a l x ʊ t a n
+Größe::N	urgen	ʊ r k ɤ n	u r k ɤ n
+Länge::N	curhūn	t͡ʃ ɤ r x w n	t͡ʃ u r x ʊ n
+Höhe::N	kuru	kʰ i r ɤ	kʰ u r u
+Gewicht::N	toose	tʰ ɤ ɔ s ʊ	tʰ ɔ ɔ s ɤ
+Haufen::N	borhon	p a r x ɔ n	p ɔ r x ɔ n
+Reihe::N	futa	f ʊ tʰ w	f u tʰ a
+Reihe::N	sijin	s ɔ d͡ʒ u n	s i d͡ʒ i n
+Reihe::N	jurgan	d͡ʒ i r k ɤ n	d͡ʒ u r k a n
+Boot::N	cūwhan	t͡ʃ ɔ a x w n	t͡ʃ ʊ w x a n
+Boot::N	jahūdai	d͡ʒ w x a t w ʊ	d͡ʒ a x ʊ t a i
+Ruder::N	joolikū	d͡ʒ ʊ u l u kʰ w	d͡ʒ ɔ ɔ l i kʰ ʊ
+Schlitten::N	huncu	x i n t͡ʃ ɔ	x u n t͡ʃ u
+Ski::N	suntaha	s a n tʰ ɔ x w	s u n tʰ a x a
+Lagerfeuer::N	ihan tuwa	ɤ x ɤ n _ tʰ ɤ ʊ a	i x a n _ tʰ u w a
+Last::N	acin	ɤ t͡ʃ ɔ n	a t͡ʃ i n
+Last::N	aciha	ɔ t͡ʃ w x ɔ	a t͡ʃ i x a
+Gang::N	feliyen	f a l w j i n	f ɤ l i j ɤ n
+Schritt::N	fehūn	f a x ɤ n	f ɤ x ʊ n
+Norden::N	amargi	ɤ m ɤ r k w	a m a r k i
+Süden::N	julergi	d͡ʒ ɔ l w r k ɔ	d͡ʒ u l ɤ r k i
+Westen::N	wargi	ɤ ɔ r k u	w a r k i
+Osten::N	dergi	t a r k ʊ	t ɤ r k i
+Holz::N	moo	m u ʊ	m ɔ ɔ
+Brett::N	sarhū	s ɔ r x ɔ	s a r x ʊ
+Brett::N	jurgan	d͡ʒ w r k w n	d͡ʒ u r k a n
+Platte::N	undehen	u n t i x ɤ n	u n t ɤ x ɤ n
+Stütze::N	mašan	m i ʃ a n	m a ʃ a n
+Stütze::N	bangtu	p i ŋ tʰ w	p a ŋ tʰ u
+Stange::N	moo	m w i	m ɔ ɔ
+Stock::N	moo	m ɔ ʊ	m ɔ ɔ
+Stab::N	darhūwan	t i r x ɔ a w n	t a r x ʊ w a n
+Stab::N	teifun	tʰ w i f i n	tʰ ɤ i f u n
+Rohr::N	sihan	s a x u n	s i x a n
+Rohr::N	teifun	tʰ ɔ i f u n	tʰ ɤ i f u n
+Haus::N	boo	p i i	p ɔ ɔ
+Haus::N	ūlen	i l a n	ʊ l ɤ n
+Haus::N	gurun	k ɤ r ɤ n	k u r u n
+Heim::N	susu	s i s ɔ	s u s u
+Ofen::N	jun	d͡ʒ i n	d͡ʒ u n
+Ofen::N	ludz	l u t z	l u t z
+Fußboden::N	falan	f a l i n	f a l a n
+Tisch::N	dere	t a r a	t ɤ r ɤ
+Stuhl::N	ise	u s w	i s ɤ
+Stuhl::N	bandan	p ɤ n t ɔ n	p a n t a n
+Stuhl::N	nikeku mulan	n ɤ kʰ ɔ kʰ w _ m w l ʊ n	n i kʰ ɤ kʰ u _ m u l a n
+Wiege::N	duri	t ɤ r i	t u r i
+Bett::N	besergen	p ʊ s ɔ r k w n	p ɤ s ɤ r k ɤ n
+Regal::N	sarhū	s ʊ r x w	s a r x ʊ
+Kiste::N	hose	x w s ɔ	x ɔ s ɤ
+Kiste::N	hiyase	x u j i s ɔ	x i j a s ɤ
+Fenster::N	fa	f i	f a
+Tür::N	uce	u t͡ʃ u	u t͡ʃ ɤ
+Tor::N	duka	t ɔ kʰ ʊ	t u kʰ a
+Tor::N	angga	u ŋ k u	a ŋ k a
+Zaun::N	jerguwen	d͡ʒ ɤ r k u ɔ ʊ n	d͡ʒ ɤ r k u w ɤ n
+Dach::N	oyo	w j u	ɔ j ɔ
+Leiter::N	wan	i ɔ n	w a n
+Besen::N	eriku	i r ɤ kʰ ʊ	ɤ r i kʰ u
+Besen::N	šudu eriku	ʃ ɔ t a _ ʊ r i kʰ ɤ	ʃ u t u _ ɤ r i kʰ u
+Spaten::N	coo	t͡ʃ i ɤ	t͡ʃ ɔ ɔ
+Gabel::N	fajū	f i d͡ʒ ɤ	f a d͡ʒ ʊ
+Gabel::N	šolon	ʃ u l ɤ n	ʃ ɔ l ɔ n
+Gabel::N	fasilan	f ɔ s ɔ l a n	f a s i l a n
+Löffel::N	kuini	kʰ w u n ɤ	kʰ u i n i
+Messer::N	huwesi	x u u i s i	x u w ɤ s i
+Nagel::N	hitahūn	x ʊ tʰ ʊ x w n	x i tʰ a x ʊ n
+Netz::N	helmehen i ašu	x ɔ l m u x u n _ u _ ɤ ʃ ɤ	x ɤ l m ɤ x ɤ n _ i _ a ʃ u
+Haken::N	gohon	k ɔ x i n	k ɔ x ɔ n
+Haken::N	tabukū	tʰ u p a kʰ u	tʰ a p u kʰ ʊ
+Griff::N	fesin	f u s u n	f ɤ s i n
+Griff::N	jafakū	d͡ʒ w f u kʰ a	d͡ʒ a f a kʰ ʊ
+Schloss::N	jilkin	d͡ʒ i l kʰ i n	d͡ʒ i l kʰ i n
+Bild::N	ūren	w r w n	ʊ r ɤ n
+Bild::N	nirugan	n ʊ r u k w n	n i r u k a n
+Figur::N	ūren	ɤ r i n	ʊ r ɤ n
+Puppe::N	ūren	a r u n	ʊ r ɤ n
+Beutel::N	fulakcan	f i l ɤ kʰ t͡ʃ ɤ n	f u l a kʰ t͡ʃ a n
+Beutel::N	dabargan	t a p ʊ r k ʊ n	t a p a r k a n
+Beutel::N	fintaha	f ɤ n tʰ ʊ x ʊ	f i n tʰ a x a
+Bündel::N	boose	p ɤ a s a	p ɔ ɔ s ɤ
+Bündel::N	fulmiyen	f ɤ l m w j a n	f u l m i j ɤ n
+Tasche::N	doboton	t w p ɔ tʰ w n	t ɔ p ɔ tʰ ɔ n
+Tasche::N	dabargan	t u p i r k u n	t a p a r k a n
+Eimer::N	sihan	s ɔ x a n	s i x a n
+Deckel::N	dobtoloobi	t ɔ p tʰ i l a a p w	t ɔ p tʰ ɔ l ɔ ɔ p i
+Geschirr::N	tetun	tʰ w tʰ ʊ n	tʰ ɤ tʰ u n
+Sack::N	fulhū	f u l x ʊ	f u l x ʊ
+Tasse::N	hūntahan	x ɤ n tʰ ʊ x w n	x ʊ n tʰ a x a n
+Topf::N	fuifukū	f i w f a kʰ ɤ	f u i f u kʰ ʊ
+Kessel::N	fuifukū	f ɔ ɤ f w kʰ i	f u i f u kʰ ʊ
+Essen::N	buda	p ɔ t w	p u t a
+Essen::N	fungse	f u ŋ s ʊ	f u ŋ s ɤ
+Essen::N	jemengge	d͡ʒ a m ɔ ŋ k w	d͡ʒ ɤ m ɤ ŋ k ɤ
+Nahrung::N	buda	p w t a	p u t a
+Nahrung::N	jengge	d͡ʒ u ŋ k ɤ	d͡ʒ ɤ ŋ k ɤ
+Nahrung::N	jemengge	d͡ʒ a m i ŋ k ʊ	d͡ʒ ɤ m ɤ ŋ k ɤ
+Speise::N	badan	p w t ʊ n	p a t a n
+Speise::N	fan	f ɤ n	f a n
+Fleisch::N	yali	j i l ɔ	j a l i
+Getreide::N	jeku	d͡ʒ i kʰ ɤ	d͡ʒ ɤ kʰ u
+Getreide::N	aiha šušu	w a x ɔ _ ʃ i ʃ ɔ	a i x a _ ʃ u ʃ u
+Brei::N	lala	l ʊ l ʊ	l a l a
+Brot::N	efen	u f i n	ɤ f ɤ n
+Scheibe::N	fiyentehe	f i j u n tʰ i x a	f i j ɤ n tʰ ɤ x ɤ
+Fett::N	nimenggi	n a m w ŋ k a	n i m ɤ ŋ k i
+Fett::N	tarhūn	tʰ ɤ r x ʊ n	tʰ a r x ʊ n
+Butter::N	sun nimenggi	s w n _ n u m ɤ ŋ k u	s u n _ n i m ɤ ŋ k i
+Öl::N	io	w a	i ɔ
+Öl::N	nimenggi	n u m i ŋ k w	n i m ɤ ŋ k i
+Salz::N	dabsun	t u p s ʊ n	t a p s u n
+Suppe::N	šasihan	ʃ w s i x ɤ n	ʃ a s i x a n
+Honig::N	hibsu	x i p s i	x i p s u
+Honig::N	coko umgan	t͡ʃ u kʰ i _ w m k a n	t͡ʃ ɔ kʰ ɔ _ u m k a n
+Milch::N	huhun	x ɔ x w n	x u x u n
+Tee::N	cai	t͡ʃ ʊ ɤ	t͡ʃ a i
+Leder::N	sukū	s u kʰ i	s u kʰ ʊ
+Wolle::N	jafu	d͡ʒ ʊ f w	d͡ʒ a f u
+Stoff::N	bošo	p ɤ ʃ w	p ɔ ʃ ɔ
+Stoff::N	muten	m ʊ tʰ i n	m u tʰ ɤ n
+Nadel::N	ulme	ɤ l m ɔ	u l m ɤ
+Faden::N	siren	s i r a n	s i r ɤ n
+Faden::N	tonggo	tʰ ʊ ŋ k w	tʰ ɔ ŋ k ɔ
+Knopf::N	tohon	tʰ a x ʊ n	tʰ ɔ x ɔ n
+Knoten::N	mampin	m w m pʰ ɤ n	m a m pʰ i n
+Farbe::N	šugin	ʃ i k u n	ʃ u k i n
+Farbe::N	io	ʊ ʊ	i ɔ
+Kleidung::N	etuku	ʊ tʰ ɔ kʰ u	ɤ tʰ u kʰ u
+Hemd::N	cimci	t͡ʃ u m t͡ʃ ʊ	t͡ʃ i m t͡ʃ i
+Hemd::N	gahari	k i x u r u	k a x a r i
+Kragen::N	lingse	l ɔ ŋ s w	l i ŋ s ɤ
+Ärmel::N	ulhi	u l x ʊ	u l x i
+Hose::N	fakūri	f ʊ kʰ u r ʊ	f a kʰ ʊ r i
+Gürtel::N	telgin	tʰ ɔ l k w n	tʰ ɤ l k i n
+Gürtel::N	umiyesun	ɤ m ɤ j a s i n	u m i j ɤ s u n
+Mütze::N	yekse	j w kʰ s ʊ	j ɤ kʰ s ɤ
+Mütze::N	fulhutu	f ɔ l x a tʰ i	f u l x u tʰ u
+Schuh::N	sabu	s i p u	s a p u
+Stiefel::N	gūlha	k w l x u	k ʊ l x a
+Ring::N	guifun	k w ɔ f a n	k u i f u n
+Band::N	uše	a ʃ ʊ	u ʃ ɤ
+Band::N	subehe	s i p a x ʊ	s u p ɤ x ɤ
+Kamm::N	ijifun	ɔ d͡ʒ ɔ f a n	i d͡ʒ i f u n
+Spiegel::N	toli	tʰ u l i	tʰ ɔ l i
+Spiegel::N	buleku	p u l ɤ kʰ ɔ	p u l ɤ kʰ u
+Riemen::N	joolikū	d͡ʒ i w l a kʰ w	d͡ʒ ɔ ɔ l i kʰ ʊ
+Schnur::N	futa	f a tʰ w	f u tʰ a
+Schnur::N	sijin	s ʊ d͡ʒ i n	s i d͡ʒ i n
+Leine::N	sūna	s u n ɔ	s ʊ n a
+Decke::N	jafu	d͡ʒ i f u	d͡ʒ a f u
+Decke::N	dobtoloobi	t w p tʰ ɔ l w ɤ p ɔ	t ɔ p tʰ ɔ l ɔ ɔ p i
+Kissen::N	cirkū	t͡ʃ w r kʰ i	t͡ʃ i r kʰ ʊ
+Tuch::N	bošo	p ɔ ʃ i	p ɔ ʃ ɔ
+Handtuch::N	fungku	f w ŋ kʰ ɔ	f u ŋ kʰ u
+Kraft::N	hūsun	x a s ɤ n	x ʊ s u n
+Stärke::N	kulun	kʰ ɤ l ɔ n	kʰ u l u n
+Gesundheit::N	katun	kʰ w tʰ i n	kʰ a tʰ u n
+Krankheit::N	nimeku	n w m a kʰ i	n i m ɤ kʰ u
+Schmerz::N	nimeku	n ɔ m ʊ kʰ ɤ	n i m ɤ kʰ u
+Wunde::N	feye	f i j u	f ɤ j ɤ
+Arznei::N	daifu i doro	t i ʊ f u _ w _ t w r a	t a i f u _ i _ t ɔ r ɔ
+Arznei::N	okto	w kʰ tʰ ʊ	ɔ kʰ tʰ ɔ
+Brücke::N	kiyoo	kʰ ʊ j a a	kʰ i j ɔ ɔ
+Brücke::N	doohan	t ɤ ʊ x ɤ n	t ɔ ɔ x a n
+Brunnen::N	elmte sain	ɔ l m tʰ ʊ _ s i a n	ɤ l m tʰ ɤ _ s a i n
+Weide::N	ongko	u ŋ kʰ ʊ	ɔ ŋ kʰ ɔ
+Weide::N	fodoho	f ɔ t w x w	f ɔ t ɔ x ɔ
+Pfad::N	doko jugūn	t a kʰ ʊ _ d͡ʒ ɔ k w n	t ɔ kʰ ɔ _ d͡ʒ u k ʊ n
+Weg::N	doro	t w r ɤ	t ɔ r ɔ
+Straße::N	jugūn	d͡ʒ ʊ k a n	d͡ʒ u k ʊ n
+Dorf::N	tokso	tʰ i kʰ s ɔ	tʰ ɔ kʰ s ɔ
+Stadt::N	hecen	x ɤ t͡ʃ w n	x ɤ t͡ʃ ɤ n
+Brief::N	jasigan	d͡ʒ u s i k i n	d͡ʒ a s i k a n
+Buch::N	bithe	p i tʰ x ɤ	p i tʰ x ɤ
+Buchstabe::N	hergen	x i r k i n	x ɤ r k ɤ n
+Zeitung::N	boolan hoošan	p w ɤ l u n _ x i i ʃ u n	p ɔ ɔ l a n _ x ɔ ɔ ʃ a n
+Leben::N	ergen	ɔ r k u n	ɤ r k ɤ n
+Tod::N	aldasi	ɔ l t ɔ s ɔ	a l t a s i
+Grab::N	eifu	ɔ u f ʊ	ɤ i f u
+Grab::N	tomon	tʰ ɔ m u n	tʰ ɔ m ɔ n
+Kirche::N	tiyan ju tang miyoo	tʰ ʊ j ɤ n _ d͡ʒ a _ tʰ u ŋ _ m i j w ɔ	tʰ i j a n _ d͡ʒ u _ tʰ a ŋ _ m i j ɔ ɔ
+Sünde::N	ehe sui	u x w _ s i u	ɤ x ɤ _ s u i
+Gott::N	di	t i	t i
+Gott::N	enduri	w n t ʊ r i	ɤ n t u r i
+Arbeiter::N	hūsun	x ʊ s a n	x ʊ s u n
+Chef::N	uju	w d͡ʒ ɔ	u d͡ʒ u
+Meister::N	boigoji	p u i k i d͡ʒ i	p ɔ i k ɔ d͡ʒ i
+Meister::N	ejen	u d͡ʒ a n	ɤ d͡ʒ ɤ n
+Arzt::N	oktosi	i kʰ tʰ w s u	ɔ kʰ tʰ ɔ s i
+Lehrer::N	sefu	s ʊ f a	s ɤ f u
+Lehrer::N	giyoosi	k ɔ j ʊ i s a	k i j ɔ ɔ s i
+Lehrer::N	tacibukū	tʰ a t͡ʃ ʊ p ɤ kʰ a	tʰ a t͡ʃ i p u kʰ ʊ
+Geld::N	jiha	d͡ʒ a x a	d͡ʒ i x a
+Geschäft::N	hūda	x u t ɤ	x ʊ t a
+Geschäft::N	puseli	pʰ w s ɔ l w	pʰ u s ɤ l i
+Geschäft::N	hūda maiman	x ʊ t ɤ _ m ʊ ɤ m ɤ n	x ʊ t a _ m a i m a n
+Laden::N	jalan	d͡ʒ a l u n	d͡ʒ a l a n
+Laden::N	puseli	pʰ i s ʊ l ɤ	pʰ u s ɤ l i
+Preis::N	hūda	x ɔ t a	x ʊ t a
+Ware::N	hacin	x u t͡ʃ a n	x a t͡ʃ i n
+Nutzen::N	tusa	tʰ ɤ s i	tʰ u s a
+Reichtum::N	ulin bayan	i l w n _ p ɤ j ʊ n	u l i n _ p a j a n
+Welt::N	jalan	d͡ʒ a l ʊ n	d͡ʒ a l a n
+Land::N	gurun	k w r w n	k u r u n
+Staat::N	gurun	k i r ɤ n	k u r u n
+König::N	gurun i ejen	k u r u n _ i _ i d͡ʒ ɤ n	k u r u n _ i _ ɤ d͡ʒ ɤ n
+Macht::N	erdemu	i r t u m ʊ	ɤ r t ɤ m u
+Macht::N	horon	x ʊ r i n	x ɔ r ɔ n
+Macht::N	hoton toose	x ʊ tʰ ɤ n _ tʰ a u s i	x ɔ tʰ ɔ n _ tʰ ɔ ɔ s ɤ
+Grenze::N	gūsihiya	k ʊ s ʊ x ɤ j a	k ʊ s i x i j a
+Krieg::N	dain	t u ɤ n	t a i n
+Feind::N	bata	p ʊ tʰ u	p a tʰ a
+Feind::N	kimum bata	kʰ u m ɔ m _ p ɔ tʰ ɔ	kʰ i m u m _ p a tʰ a
+Gewalt::N	eten	ɔ tʰ u n	ɤ tʰ ɤ n
+Gewalt::N	ergelen	ɤ r k w l w n	ɤ r k ɤ l ɤ n
+Kampf::N	afan	ɔ f w n	a f a n
+Bogen[Waffe]::N	beri	p ʊ r a	p ɤ r i
+Pfeil::N	niru	n u r u	n i r u
+Pfeil::N	sirdan	s ɤ r t w n	s i r t a n
+Gewehr::N	miyoocan	m u j w u t͡ʃ u n	m i j ɔ ɔ t͡ʃ a n
+Fehler::N	ufaracun	i f i r ɔ t͡ʃ w n	u f a r a t͡ʃ u n
+Lüge::N	holo gisun	x u l ɔ _ k u s w n	x ɔ l ɔ _ k i s u n
+Schaden::N	dauran	t ɔ w r ɤ n	t a u r a n
+Schaden::N	kokiran	kʰ i kʰ ɔ r u n	kʰ ɔ kʰ i r a n
+Unglück::N	gosihon	k i s ɔ x ɤ n	k ɔ s i x ɔ n
+Unglück::N	suilacun	s a w l i t͡ʃ ɤ n	s u i l a t͡ʃ u n
+Schuld::N	fiyeren	f ɤ j ɤ r w n	f i j ɤ r ɤ n
+Schuld::N	jaka	d͡ʒ ɔ kʰ a	d͡ʒ a kʰ a
+Alter::N	mafa	m ɤ f a	m a f a
+Schluss::N	šala	ʃ i l ɔ	ʃ a l a
+Zeit::N	mudan	m i t ɤ n	m u t a n
+Tag::N	šun	ʃ ɤ n	ʃ u n
+Tag::N	inenggi	w n ɔ ŋ k i	i n ɤ ŋ k i
+Morgen::N	cimaha	t͡ʃ u m ɤ x w	t͡ʃ i m a x a
+Morgen::N	cimari	t͡ʃ ɔ m ʊ r u	t͡ʃ i m a r i
+Mittag::N	inenggi dulin	ɤ n w ŋ k ʊ _ t w l i n	i n ɤ ŋ k i _ t u l i n
+Abend::N	yamji	j w m d͡ʒ u	j a m d͡ʒ i
+Nacht::N	dobon	t a p a n	t ɔ p ɔ n
+Nacht::N	dobori	t i p ɤ r w	t ɔ p ɔ r i
+Monat::N	biya	p i j i	p i j a
+Jahr::N	se	s ʊ	s ɤ
+Frühling::N	selmin	s w l m u n	s ɤ l m i n
+Frühling::N	šeri	ʃ w r a	ʃ ɤ r i
+Sommer::N	juwari	d͡ʒ u u u r w	d͡ʒ u w a r i
+Herbst::N	bolori	p ɤ l w r i	p ɔ l ɔ r i
+Winter::N	tuweri	tʰ w w ɤ r u	tʰ u w ɤ r i
+Januar::N	aniya biya	a n i j ʊ _ p i j a	a n i j a _ p i j a
+Februar::N	juwe biya	d͡ʒ ɔ ɤ ɤ _ p ʊ j a	d͡ʒ u w ɤ _ p i j a
+März::N	ilan biya	a l a n _ p w j i	i l a n _ p i j a
+April::N	duin biya	t w ʊ n _ p w j u	t u i n _ p i j a
+Mai::N	sunja biya	s ʊ n d͡ʒ u _ p i j ɔ	s u n d͡ʒ a _ p i j a
+Juni::N	ninggun biya	n ɤ ŋ k i n _ p a j w	n i ŋ k u n _ p i j a
+Juli::N	nadan biya	n ɔ t ɤ n _ p i j ɤ	n a t a n _ p i j a
+August::N	jakūn biya	d͡ʒ i kʰ ɔ n _ p u j u	d͡ʒ a kʰ ʊ n _ p i j a
+September::N	uyun biya	i j ɔ n _ p ɤ j a	u j u n _ p i j a
+Oktober::N	juwan biya	d͡ʒ ʊ ʊ u n _ p ɤ j a	d͡ʒ u w a n _ p i j a
+November::N	omšon biya	ɔ m ʃ w n _ p ʊ j u	ɔ m ʃ ɔ n _ p i j a
+Dezember::N	jorgon biya	d͡ʒ i r k i n _ p u j w	d͡ʒ ɔ r k ɔ n _ p i j a
+groß::A	amba	i m p ɔ	a m p a
+klein::A	ajige	w d͡ʒ i k ɔ	a d͡ʒ i k ɤ
+lang::A	golmin	k w l m ɔ n	k ɔ l m i n
+kurz::A	foholon	f a x a l ʊ n	f ɔ x ɔ l ɔ n
+breit::A	leli	l ɔ l ɔ	l ɤ l i
+schmal::A	isheliyen	a s x w l u j ɤ n	i s x ɤ l i j ɤ n
+dicht::A	jira	d͡ʒ ɔ r w	d͡ʒ i r a
+dicht::A	fišin	f i ʃ ʊ n	f i ʃ i n
+dicht::A	jajuri	d͡ʒ i d͡ʒ ɔ r a	d͡ʒ a d͡ʒ u r i
+dick[Gegenstand]::A	luku	l u kʰ ɤ	l u kʰ u
+dick[Gegenstand]::A	tumin	tʰ ʊ m ɤ n	tʰ u m i n
+dick[Gegenstand]::A	jiramin	d͡ʒ w r u m ʊ n	d͡ʒ i r a m i n
+dünn::A	narhūn	n ʊ r x ɤ n	n a r x ʊ n
+dünn::A	niyekše	n ɤ j i kʰ ʃ a	n i j ɤ kʰ ʃ ɤ
+fein::A	oihori	a ʊ x ʊ r u	ɔ i x ɔ r i
+fein::A	nilukan	n i l i kʰ ɔ n	n i l u kʰ a n
+fest::A	beki	p ʊ kʰ i	p ɤ kʰ i
+fest::A	akdun	a kʰ t ɤ n	a kʰ t u n
+fest::A	akdungga	ʊ kʰ t u ŋ k a	a kʰ t u ŋ k a
+flach::A	neshun	n ɔ s x w n	n ɤ s x u n
+flach::A	kapahūn	kʰ ɤ pʰ u x w n	kʰ a pʰ a x ʊ n
+flach::A	halfiyan	x w l f i j ɔ n	x a l f i j a n
+glatt::A	nilukan	n u l a kʰ a n	n i l u kʰ a n
+hart::A	yak seme	j i kʰ _ s u m a	j a kʰ _ s ɤ m ɤ
+hart::A	cang seme	t͡ʃ i ŋ _ s ʊ m ɔ	t͡ʃ a ŋ _ s ɤ m ɤ
+weich::A	haihū	x u ɤ x a	x a i x ʊ
+weich::A	lalaha	l ɤ l i x u	l a l a x a
+weich::A	genggen	k u ŋ k u n	k ɤ ŋ k ɤ n
+weich::A	haihūngga	x ɔ a x ʊ ŋ k ɔ	x a i x ʊ ŋ k a
+rund::A	muheliyen	m i x ʊ l u j u n	m u x ɤ l i j ɤ n
+spitz::A	nukacuka	n ʊ kʰ ʊ t͡ʃ ɤ kʰ ʊ	n u kʰ a t͡ʃ u kʰ a
+spitz::A	jofohonggo	d͡ʒ u f w x ɤ ŋ k ɤ	d͡ʒ ɔ f ɔ x ɔ ŋ k ɔ
+scharf::A	hatan	x a tʰ u n	x a tʰ a n
+scharf::A	dacungga	t ʊ t͡ʃ ɤ ŋ k ɔ	t a t͡ʃ u ŋ k a
+stumpf::A	moco	m ɤ t͡ʃ w	m ɔ t͡ʃ ɔ
+stumpf::A	mufuyen	m i f w j ʊ n	m u f u j ɤ n
+schwer::A	laju	l i d͡ʒ a	l a d͡ʒ u
+schwer::A	lete lata	l a tʰ i _ l a tʰ ɤ	l ɤ tʰ ɤ _ l a tʰ a
+schön::A	oihori	a u x ʊ r u	ɔ i x ɔ r i
+schön::A	hocikon	x ɤ t͡ʃ w kʰ a n	x ɔ t͡ʃ i kʰ ɔ n
+schön::A	yangsangga	j ɔ ŋ s ɤ ŋ k ʊ	j a ŋ s a ŋ k a
+heiß::A	šalu	ʃ u l i	ʃ a l u
+heiß::A	halhūn	x ɤ l x i n	x a l x ʊ n
+warm::A	halhūn	x ʊ l x ʊ n	x a l x ʊ n
+warm::A	bulukan	p w l u kʰ u n	p u l u kʰ a n
+warm::A	keb seme	kʰ ʊ p _ s w m a	kʰ ɤ p _ s ɤ m ɤ
+kalt::A	beyen	p i j ɔ n	p ɤ j ɤ n
+kalt::A	antuhūri	u n tʰ ɤ x ɔ r i	a n tʰ u x ʊ r i
+kühl::A	seruken	s ɤ r ɔ kʰ ɔ n	s ɤ r u kʰ ɤ n
+kühl::A	serguwen	s i r k ɔ ɤ ɤ n	s ɤ r k u w ɤ n
+frisch::A	ice	i t͡ʃ ʊ	i t͡ʃ ɤ
+frisch::A	niyarhūn	n ʊ j ɤ r x i n	n i j a r x ʊ n
+feucht::A	surgin	s ʊ r k ɔ n	s u r k i n
+feucht::A	derbehun	t u r p w x ɔ n	t ɤ r p ɤ x u n
+nass::A	usuhin	ɔ s i x w n	u s u x i n
+trocken::A	olhon	ʊ l x ʊ n	ɔ l x ɔ n
+voll::A	jalu	d͡ʒ ɤ l w	d͡ʒ a l u
+leer::A	ebetuhun	u p ɤ tʰ a x w n	ɤ p ɤ tʰ u x u n
+leer::A	ebetuhun holo	w p ʊ tʰ a x w n _ x u l i	ɤ p ɤ tʰ u x u n _ x ɔ l ɔ
+offen::A	mila	m ʊ l ɔ	m i l a
+sauber::A	bolgo	p ɤ l k w	p ɔ l k ɔ
+schmutzig::A	hacuka	x u t͡ʃ ʊ kʰ ɤ	x a t͡ʃ u kʰ a
+roh::A	eshun	ʊ s x ʊ n	ɤ s x u n
+reif::A	urembi	a r a m p ɔ	u r ɤ m p i
+lecker::A	amtangga	ɤ m tʰ u ŋ k u	a m tʰ a ŋ k a
+süß::A	jancuhūn	d͡ʒ ʊ n t͡ʃ ɤ x ɤ n	d͡ʒ a n t͡ʃ u x ʊ n
+bitter::A	gosihon	k u s ɔ x w n	k ɔ s i x ɔ n
+sauer::A	jušuhun	d͡ʒ a ʃ a x u n	d͡ʒ u ʃ u x u n
+hell::A	gehun	k ɤ x a n	k ɤ x u n
+hell::A	ildamu	ɤ l t w m i	i l t a m u
+hell::A	iletungge	i l ɤ tʰ a ŋ k w	i l ɤ tʰ u ŋ k ɤ
+dunkel::A	butu	p w tʰ ɤ	p u tʰ u
+dunkel::A	tulhun	tʰ i l x ɔ n	tʰ u l x u n
+schwarz::A	sahaliyan	s a x a l w j a n	s a x a l i j a n
+weiß::A	šanggiyan	ʃ ɤ ŋ k ɔ j ʊ n	ʃ a ŋ k i j a n
+rot::A	fulgiyan	f i l k ɔ j ɔ n	f u l k i j a n
+gelb::A	suwayan	s a a ɤ j u n	s u w a j a n
+blau::A	lamun	l ɔ m a n	l a m u n
+blau::A	kūke	kʰ w kʰ ʊ	kʰ ʊ kʰ ɤ
+grün::A	niowanggiyan	ɲ u ɤ ʊ ŋ k ɤ j i n	ɲ ɔ w a ŋ k i j a n
+grau::A	boro	p ɤ r ʊ	p ɔ r ɔ
+bunt::A	boconggo	p a t͡ʃ ʊ ŋ k ʊ	p ɔ t͡ʃ ɔ ŋ k ɔ
+billig::A	ja	d͡ʒ ɤ	d͡ʒ a
+teuer::A	haji	x w d͡ʒ a	x a d͡ʒ i
+teuer::A	mangga	m u ŋ k ʊ	m a ŋ k a
+wertvoll::A	ujen	ɤ d͡ʒ ʊ n	u d͡ʒ ɤ n
+wertvoll::A	hihan	x ɤ x ʊ n	x i x a n
+wertvoll::A	buyecuke	p u j u t͡ʃ ɔ kʰ a	p u j ɤ t͡ʃ u kʰ ɤ
+blind::A	dogo	t ɔ k a	t ɔ k ɔ
+blind::A	hijuhūn	x u d͡ʒ ɔ x ʊ n	x i d͡ʒ u x ʊ n
+taub::A	dutu	t u tʰ ɤ	t u tʰ u
+taub::A	maigū	m ɤ ʊ k u	m a i k ʊ
+kräftig::A	hūsungge	x ɔ s ʊ ŋ k ɤ	x ʊ s u ŋ k ɤ
+stark::A	elhengge	w l x w ŋ k ɔ	ɤ l x ɤ ŋ k ɤ
+schwach::A	butu	p ɤ tʰ ɤ	p u tʰ u
+schwach::A	eberi	a p i r w	ɤ p ɤ r i
+schwach::A	eberhun	w p w r x ɤ n	ɤ p ɤ r x u n
+fett::A	tarhūn	tʰ u r x a n	tʰ a r x ʊ n
+schlank::A	kanggili	kʰ ɤ ŋ k i l u	kʰ a ŋ k i l i
+hübsch::A	yebcūngge	j ɤ p t͡ʃ w ŋ k ɔ	j ɤ p t͡ʃ ʊ ŋ k ɤ
+böse::A	ehe	ʊ x a	ɤ x ɤ
+böse::A	aburi	ɔ p u r i	a p u r i
+böse::A	miosihon	m a ɔ s ʊ x a n	m i ɔ s i x ɔ n
+dumm::A	eheliyan	i x ʊ l ɤ j a n	ɤ x ɤ l i j a n
+dumm::A	dusihiyen	t w s w x u j i n	t u s i x i j ɤ n
+faul::A	banuhūn	p u n ɔ x u n	p a n u x ʊ n
+fleißig::A	ejeke	ɔ d͡ʒ u kʰ ɤ	ɤ d͡ʒ ɤ kʰ ɤ
+fleißig::A	kicebe	kʰ a t͡ʃ ɤ p ʊ	kʰ i t͡ʃ ɤ p ɤ
+geizig::A	bušuhūn	p a ʃ ɔ x ʊ n	p u ʃ u x ʊ n
+geizig::A	jibge	d͡ʒ i p k u	d͡ʒ i p k ɤ
+klug::A	sektu	s a kʰ tʰ a	s ɤ kʰ tʰ u
+klug::A	ulhisu	a l x ɤ s u	u l x i s u
+klug::A	gabsihiyan	k ɤ p s u x ʊ j ɤ n	k a p s i x i j a n
+geschickt::A	faksi	f a kʰ s ʊ	f a kʰ s i
+geschickt::A	gabsihiyan	k ʊ p s ɔ x i j i n	k a p s i x i j a n
+geschickt::A	nergi	n i r k i	n ɤ r k i
+lieb::A	haji	x i d͡ʒ ʊ	x a d͡ʒ i
+lustig::A	urguntu	a r k u n tʰ ɤ	u r k u n tʰ u
+sanft::A	nesuken	n ʊ s ɔ kʰ w n	n ɤ s u kʰ ɤ n
+sanft::A	jilangga	d͡ʒ ɤ l ɤ ŋ k ɔ	d͡ʒ i l a ŋ k a
+hungrig::A	urunembi	w r ɤ n ɔ m p a	u r u n ɤ m p i
+krank::A	nimekungge	n ɤ m a kʰ u ŋ k ɔ	n i m ɤ kʰ u ŋ k ɤ
+nackt::A	niohušun	ɲ i x ʊ ʃ u n	ɲ ɔ x u ʃ u n
+traurig::A	urembi	w r a m p w	u r ɤ m p i
+lebendig::A	weihun	a w ʊ x ɤ n	w ɤ i x u n
+lebendig::A	ergengge	ɔ r k w ŋ k a	ɤ r k ɤ ŋ k ɤ
+gut::A	sain	s ɔ w n	s a i n
+gut::A	saintu	s i w n tʰ w	s a i n tʰ u
+schlecht::A	ehe	u x ɤ	ɤ x ɤ
+schlecht::A	ehelinggu	a x a l w ŋ k ʊ	ɤ x ɤ l i ŋ k u
+richtig::A	uru	i r w	u r u
+schlimm::A	cahi	t͡ʃ i x i	t͡ʃ a x i
+schlimm::A	delferi	t ɔ l f ɔ r a	t ɤ l f ɤ r i
+schlimm::A	oyoki	a j ɔ kʰ u	ɔ j ɔ kʰ i
+wahr::A	mujangga	m ʊ d͡ʒ u ŋ k w	m u d͡ʒ a ŋ k a
+wahr::A	yaargiyan	j ɤ w r k ɔ j w n	j a a r k i j a n
+wahr::A	yargiyangga	j ɤ r k ɔ j ɔ ŋ k ʊ	j a r k i j a ŋ k a
+alt::A	fe	f w	f ɤ
+alt::A	sakda	s u kʰ t w	s a kʰ t a
+neu::A	arda	ɤ r t u	a r t a
+neu::A	kišan	kʰ w ʃ w n	kʰ i ʃ a n
+neu::A	soningga	s ɔ n ɤ ŋ k w	s ɔ n i ŋ k a
+ehemalig::A	dunjihiyana	t w n d͡ʒ i x w j i n u	t u n d͡ʒ i x i j a n a
+ehemalig::A	nenehe	n ɔ n u x ʊ	n ɤ n ɤ x ɤ
+alt[Lebewesen]::A	fe	f u	f ɤ
+alt[Lebewesen]::A	sakda	s ɤ kʰ t w	s a kʰ t a
+jung::A	asiha	a s ɔ x w	a s i x a
+jung::A	ajigan	u d͡ʒ i k ʊ n	a d͡ʒ i k a n
+arm::A	jilun	d͡ʒ ɤ l ɤ n	d͡ʒ i l u n
+arm::A	yadahūn	j a t i x a n	j a t a x ʊ n
+reich::A	bayan	p ʊ j a n	p a j a n
+reich::A	badaraka	p ɤ t a r u kʰ ɤ	p a t a r a kʰ a
+bekannt::A	gebungge	k ɤ p u ŋ k ɤ	k ɤ p u ŋ k ɤ
+berühmt::A	algintu	i l k ʊ n tʰ u	a l k i n tʰ u
+berühmt::A	gebungge	k ʊ p w ŋ k u	k ɤ p u ŋ k ɤ
+berühmt::A	saišangga	s i ʊ ʃ a ŋ k ɔ	s a i ʃ a ŋ k a
+fremd::A	encu	ɤ n t͡ʃ w	ɤ n t͡ʃ u
+verschieden::A	encu	i n t͡ʃ u	ɤ n t͡ʃ u
+nah::A	hanci	x ɔ n t͡ʃ ɤ	x a n t͡ʃ i
+nah::A	hanciki	x i n t͡ʃ ɔ kʰ ɔ	x a n t͡ʃ i kʰ i
+fern::A	duyen	t w j i n	t u j ɤ n
+linker::A	hashū	x w s x w	x a s x ʊ
+rechter::A	ici	ɔ t͡ʃ i	i t͡ʃ i
+anderer::A	weri	ɤ ɤ r a	w ɤ r i
+anderer::A	jacin	d͡ʒ ʊ t͡ʃ ɔ n	d͡ʒ a t͡ʃ i n
+erster::A	unggu	a ŋ k w	u ŋ k u
+zweiter::A	jacin	d͡ʒ ɤ t͡ʃ u n	d͡ʒ a t͡ʃ i n
+dritter::A	ilaci	a l a t͡ʃ ʊ	i l a t͡ʃ i
+letzter::A	lala	l ɔ l ɤ	l a l a
+allein::ADV	emuhun	w m a x ɤ n	ɤ m u x u n
+allein::ADV	lokdohon	l ɔ kʰ t w x a n	l ɔ kʰ t ɔ x ɔ n
+auf einmal::ADV	emu derei	w m u _ t ɤ r ʊ u	ɤ m u _ t ɤ r ɤ i
+zusammen::ADV	emde	ʊ m t ʊ	ɤ m t ɤ
+zusammen::ADV	emgi	i m k u	ɤ m k i
+lange::ADV	golmin	k w l m ʊ n	k ɔ l m i n
+plötzlich::ADV	lok seme	l a kʰ _ s i m u	l ɔ kʰ _ s ɤ m ɤ
+sofort::ADV	uthai	w tʰ x ʊ i	u tʰ x a i
+sofort::ADV	andande	w n t w n t ɤ	a n t a n t ɤ
+später::ADV	amaga	ʊ m ʊ k u	a m a k a
+später::ADV	amaga inenggi	a m w k a _ ɤ n w ŋ k u	a m a k a _ i n ɤ ŋ k i
+jetzt::ADV	ne	n a	n ɤ
+heute::ADV	enenggi	ɤ n u ŋ k ɔ	ɤ n ɤ ŋ k i
+heute::ADV	ineku inenggi	a n ʊ kʰ i _ a n w ŋ k a	i n ɤ kʰ u _ i n ɤ ŋ k i
+morgen::ADV	cimari	t͡ʃ ɤ m ɤ r ʊ	t͡ʃ i m a r i
+bald::ADV	atanggi ocibe	ɔ tʰ w ŋ k a _ ʊ t͡ʃ w p a	a tʰ a ŋ k i _ ɔ t͡ʃ i p ɤ
+dann::ADV	tereci	tʰ i r u t͡ʃ a	tʰ ɤ r ɤ t͡ʃ i
+gestern::ADV	sikse	s u kʰ s ʊ	s i kʰ s ɤ
+einst::ADV	emkeci	ɤ m kʰ u t͡ʃ ɔ	ɤ m kʰ ɤ t͡ʃ i
+einst::ADV	emu mari	i m ɤ _ m ɔ r w	ɤ m u _ m a r i
+damals::ADV	tereci	tʰ ɤ r ɤ t͡ʃ a	tʰ ɤ r ɤ t͡ʃ i
+danach::ADV	amari	ʊ m u r w	a m a r i
+vorher::ADV	julergi	d͡ʒ i l a r k ʊ	d͡ʒ u l ɤ r k i
+vorher::ADV	onggolo	i ŋ k ɤ l i	ɔ ŋ k ɔ l ɔ
+zuerst::ADV	emuci	i m a t͡ʃ a	ɤ m u t͡ʃ i
+zuerst::ADV	tuktan	tʰ ʊ kʰ tʰ i n	tʰ u kʰ tʰ a n
+zuerst::ADV	emu oci	a m w _ ɔ t͡ʃ i	ɤ m u _ ɔ t͡ʃ i
+einmal::ADV	emgeri	ɔ m k ɔ r ɔ	ɤ m k ɤ r i
+einmal::ADV	emu mari	i m a _ m ɤ r u	ɤ m u _ m a r i
+manchmal::ADV	emembihede	ɔ m ɔ m p u x ɤ t w	ɤ m ɤ m p i x ɤ t ɤ
+manchmal::ADV	emend fonde	ʊ m ɔ n t _ f ɔ n t ʊ	ɤ m ɤ n t _ f ɔ n t ɤ
+manchmal::ADV	ememu erinde	ɤ m u m u _ w r w n t ɔ	ɤ m ɤ m u _ ɤ r i n t ɤ
+oft::ADV	jing	d͡ʒ a ŋ	d͡ʒ i ŋ
+oft::ADV	daruhai	t ɤ r u x ʊ ɔ	t a r u x a i
+oft::ADV	erin akū	ɤ r u n _ i kʰ w	ɤ r i n _ a kʰ ʊ
+immer::ADV	urui	ɔ r u ɤ	u r u i
+immer::ADV	aika ohode	u i kʰ u _ w x ɔ t i	a i kʰ a _ ɔ x ɔ t ɤ
+hier::ADV	ubade	a p ɔ t w	u p a t ɤ
+hierhin::ADV	ubade	u p w t u	u p a t ɤ
+von hier::ADV	ubaci	ɔ p ɔ t͡ʃ a	u p a t͡ʃ i
+dort::ADV	cargi	t͡ʃ u r k ɤ	t͡ʃ a r k i
+dort::ADV	tubade	tʰ ʊ p i t ʊ	tʰ u p a t ɤ
+dorthin::ADV	tubade	tʰ w p i t ɔ	tʰ u p a t ɤ
+geradeaus::ADV	nenembi	n ɔ n ʊ m p a	n ɤ n ɤ m p i
+vorwärts::ADV	julesi	d͡ʒ i l ʊ s w	d͡ʒ u l ɤ s i
+rückwärts::ADV	cashūn	t͡ʃ a s x i n	t͡ʃ a s x ʊ n
+zurück::ADV	cashūn	t͡ʃ ɤ s x ɔ n	t͡ʃ a s x ʊ n
+unten::ADV	nunggari	n ɤ ŋ k i r w	n u ŋ k a r i
+hinab::ADV	funggaha	f ɤ ŋ k u x w	f u ŋ k a x a
+hinab::ADV	fusihūn	f ʊ s w x ʊ n	f u s i x ʊ n
+hinab::ADV	lilci	l i l t͡ʃ w	l i l t͡ʃ i
+oben::ADV	dergi	t i r k i	t ɤ r k i
+hinauf::ADV	wesihun	a ʊ s u x ɔ n	w ɤ s i x u n
+überall::ADV	ba ba	p a _ p w	p a _ p a
+überall::ADV	babade	p ɔ p ɔ t i	p a p a t ɤ
+überall::ADV	akūname	ɤ kʰ ʊ n i m i	a kʰ ʊ n a m ɤ
+nicht::ADV	waka	w a kʰ a	w a kʰ a
+ein wenig::ADV	ajige ajige	u d͡ʒ a k w _ ʊ d͡ʒ ʊ k w	a d͡ʒ i k ɤ _ a d͡ʒ i k ɤ
+kaum::ADV	elekei	u l u kʰ w a	ɤ l ɤ kʰ ɤ i
+kaum::ADV	etneggi	ʊ tʰ n ɤ k k w	ɤ tʰ n ɤ k k i
+kaum::ADV	elei elekei	a l w u _ ʊ l w kʰ w a	ɤ l ɤ i _ ɤ l ɤ kʰ ɤ i
+sehr::ADV	asi	i s ʊ	a s i
+sehr::ADV	ambula	u m p ʊ l ʊ	a m p u l a
+sehr::ADV	der dar seme	t ɤ r _ t ɤ r _ s ɤ m a	t ɤ r _ t a r _ s ɤ m ɤ
+so::ADV	inu	a n ɤ	i n u
+noch::ADV	geli	k u l i	k ɤ l i
+noch::ADV	cib cab	t͡ʃ ʊ p _ t͡ʃ u p	t͡ʃ i p _ t͡ʃ a p
+nur::ADV	damu	t ɔ m u	t a m u
+nur::ADV	teile	tʰ i ʊ l i	tʰ ɤ i l ɤ
+nur::ADV	dabala	t ɤ p ʊ l a	t a p a l a
+schon::ADV	aifini	ʊ ɤ f a n ʊ	a i f i n i
+wieder::ADV	dahūn	t ɤ x a n	t a x ʊ n
+wieder::ADV	dabtan	t ɔ p tʰ w n	t a p tʰ a n
+vergebens::ADV	untuhuri	i n tʰ a x i r ʊ	u n tʰ u x u r i
+vor::PRP	jakade	d͡ʒ ɤ kʰ ʊ t w	d͡ʒ a kʰ a t ɤ
+vor::PRP	julergi	d͡ʒ u l i r k a	d͡ʒ u l ɤ r k i
+hinter::PRP	amala	w m u l ɤ	a m a l a
+hinter::PRP	amrgi	i m r k a	a m r k i
+hinter::PRP	sitashūn	s w tʰ i s x a n	s i tʰ a s x ʊ n
+unter::PRP	wala	ɤ u l ɔ	w a l a
+unter::PRP	wargi	ʊ ɔ r k a	w a r k i
+durch::PRP	fonddo	f u n t t w	f ɔ n t t ɔ
+neben::PRP	tulgiyen	tʰ ɤ l k i j ɤ n	tʰ u l k i j ɤ n
+zwischen::PRP	juwe sidende	d͡ʒ w ɔ ʊ _ s ʊ t ʊ n t ɔ	d͡ʒ u w ɤ _ s i t ɤ n t ɤ
+zwischen::PRP	siden de	s a t i n _ t ʊ	s i t ɤ n _ t ɤ
+wegen::PRP	jakade	d͡ʒ ɤ kʰ ʊ t ʊ	d͡ʒ a kʰ a t ɤ
+dies::PRN	uba	u p ʊ	u p a
+das::PRN	tere	tʰ i r ɤ	tʰ ɤ r ɤ
+alles::PRN	elengge	w l w ŋ k w	ɤ l ɤ ŋ k ɤ
+alles::PRN	eiten baita	ɤ w tʰ ɤ n _ p w ɤ tʰ ʊ	ɤ i tʰ ɤ n _ p a i tʰ a
+ich::PRN	bi	p ɔ	p i
+du::PRN	si	s u	s i
+er::PRN	i	w	i
+er::PRN	tere	tʰ w r ɤ	tʰ ɤ r ɤ
+wir::PRN	be	p w	p ɤ
+wir::PRN	muse	m ɔ s i	m u s ɤ
+ihr::PRN	suwe	s ɔ i ʊ	s u w ɤ
+sie::PRN	ce	t͡ʃ i	t͡ʃ ɤ
+was::FPRN	ai	ɤ a	a i
+wer::FPRN	we	i a	w ɤ
+wo::FADV	aiba	ʊ u p a	a i p a
+wohin::FADV	aibide	w ɔ p ɤ t ʊ	a i p i t ɤ
+wie::FADV	ainame	a u n i m a	a i n a m ɤ
+wie::FADV	adarame	ɤ t ɔ r ɤ m ɔ	a t a r a m ɤ
+warum::FADV	ai seme	w i _ s u m u	a i _ s ɤ m ɤ
+warum::FADV	ai turgun	ʊ ɔ _ tʰ ʊ r k u n	a i _ tʰ u r k u n
+wieviel::FNUM	udu	a t ʊ	u t u
+wieviel::FNUM	ya gese	j a _ k ʊ s w	j a _ k ɤ s ɤ
+eins::NUM	emu	ʊ m w	ɤ m u
+zwei::NUM	juwe	d͡ʒ u u a	d͡ʒ u w ɤ
+drei::NUM	ilan	ʊ l w n	i l a n
+vier::NUM	duin	t a u n	t u i n
+fünf::NUM	sunja	s ɔ n d͡ʒ ɤ	s u n d͡ʒ a
+sechs::NUM	ninggun	n w ŋ k w n	n i ŋ k u n
+sieben::NUM	nadan	n ʊ t ɔ n	n a t a n
+acht::NUM	jakūn	d͡ʒ u kʰ u n	d͡ʒ a kʰ ʊ n
+neun::NUM	uyun	u j i n	u j u n
+zehn::NUM	juwan	d͡ʒ ʊ a i n	d͡ʒ u w a n
+elf::NUM	juwan emu	d͡ʒ ʊ u u n _ ɔ m ʊ	d͡ʒ u w a n _ ɤ m u
+zwölf::NUM	juwan juwe	d͡ʒ i ɤ w n _ d͡ʒ a ɔ a	d͡ʒ u w a n _ d͡ʒ u w ɤ
+zwanzig::NUM	orin	ɔ r i n	ɔ r i n
+dreißig::NUM	gūnin	k ɤ n ɤ n	k ʊ n i n
+vierzig::NUM	dehi	t ɔ x a	t ɤ x i
+fünfzig::NUM	susai	s ɔ s ɔ ɔ	s u s a i
+sechzig::NUM	ninju	n a n d͡ʒ ɤ	n i n d͡ʒ u
+siebzig::NUM	nadanjū	n i t w n d͡ʒ ʊ	n a t a n d͡ʒ ʊ
+achtzig::NUM	jakūnju	d͡ʒ i kʰ ɤ n d͡ʒ u	d͡ʒ a kʰ ʊ n d͡ʒ u
+neunzig::NUM	uyunju	ɔ j ɔ n d͡ʒ ɔ	u j u n d͡ʒ u
+hundert::NUM	cen	t͡ʃ w n	t͡ʃ ɤ n
+tausend::NUM	minggan	m ɤ ŋ k ɔ n	m i ŋ k a n
+und::CNJ	bime	p a m ɤ	p i m ɤ
+oder::CNJ	eici	a u t͡ʃ u	ɤ i t͡ʃ i
+stehen::V	ilimbi	ɤ l ʊ m p i	i l i m p i
+sitzen::V	tembi	tʰ a m p ɔ	tʰ ɤ m p i
+liegen::V	dedumbi	t ʊ t i m p u	t ɤ t u m p i
+liegen::V	holtombi	x ʊ l tʰ w m p i	x ɔ l tʰ ɔ m p i
+liegen::V	fangšambi	f w ŋ ʃ ɤ m p i	f a ŋ ʃ a m p i
+hängen::V	fašimbi	f ɤ ʃ i m p ɤ	f a ʃ i m p i
+hängen::V	suharambi	s w x i r w m p u	s u x a r a m p i
+werden::V	banjimbi	p w n d͡ʒ ɔ m p ʊ	p a n d͡ʒ i m p i
+passieren::V	tušambi	tʰ ɔ ʃ ɔ m p ɔ	tʰ u ʃ a m p i
+beginnen::V	derimbi	t w r i m p i	t ɤ r i m p i
+beginnen::V	doktolanbi	t ʊ kʰ tʰ a l i n p i	t ɔ kʰ tʰ ɔ l a n p i
+beginnen::V	dekdeljembi	t ɤ kʰ t i l d͡ʒ u m p ɔ	t ɤ kʰ t ɤ l d͡ʒ ɤ m p i
+enden::V	dubembi	t ʊ p ɤ m p ʊ	t u p ɤ m p i
+wechseln::V	halambi	x u l u m p ɤ	x a l a m p i
+wechseln::V	forgošombi	f w r k ɔ ʃ i m p ɤ	f ɔ r k ɔ ʃ ɔ m p i
+wechseln::V	gūwaliyambi	k ʊ u a l ɤ j ɔ m p ɔ	k ʊ w a l i j a m p i
+aufgehen[Sonne]::V	tucimbi	tʰ i t͡ʃ ɔ m p u	tʰ u t͡ʃ i m p i
+untergehen[Sonne]::V	tulembi	tʰ u l a m p a	tʰ u l ɤ m p i
+untergehen[Sonne]::V	tehembi	tʰ u x a m p a	tʰ ɤ x ɤ m p i
+scheinen[Sonne]::V	fosombi	f ɤ s w m p i	f ɔ s ɔ m p i
+donnern::V	akjambi	ɔ kʰ d͡ʒ w m p a	a kʰ d͡ʒ a m p i
+wehen::V	deyembi	t i j w m p ʊ	t ɤ j ɤ m p i
+strömen::V	eyembi	ɔ j ɤ m p ɤ	ɤ j ɤ m p i
+strömen::V	fūlhambi	f w l x w m p u	f ʊ l x a m p i
+fließen::V	eyembi	a j ɔ m p ɔ	ɤ j ɤ m p i
+sich drehen::V	torhombi	tʰ ɔ r x u m p ɤ	tʰ ɔ r x ɔ m p i
+sich drehen::V	forgošombi	f ɔ r k ɤ ʃ ɤ m p i	f ɔ r k ɔ ʃ ɔ m p i
+sich drehen::V	mudakiyambi	m u t i kʰ u j ʊ m p u	m u t a kʰ i j a m p i
+schwanken::V	haiharšambi	x w a x ʊ r ʃ i m p ɔ	x a i x a r ʃ a m p i
+schwingen::V	cekudembi	t͡ʃ i kʰ ʊ t ɔ m p i	t͡ʃ ɤ kʰ u t ɤ m p i
+fallen::V	tuhembi	tʰ a x u m p ɔ	tʰ u x ɤ m p i
+brennen::V	dambi	t u m p i	t a m p i
+brennen::V	dekjimbi	t a kʰ d͡ʒ u m p w	t ɤ kʰ d͡ʒ i m p i
+brennen::V	halambi	x w l ɔ m p w	x a l a m p i
+rauchen::V	omimbi	ɤ m w m p ɤ	ɔ m i m p i
+rauchen::V	fangšambi	f a ŋ ʃ a m p ɤ	f a ŋ ʃ a m p i
+rauchen::V	akiyabumbi	ɤ kʰ ɤ j w p u m p u	a kʰ i j a p u m p i
+regnen::V	aga dambi	i k ɔ _ t ɤ m p ɔ	a k a _ t a m p i
+regnen::V	agambi	ʊ k ʊ m p ɔ	a k a m p i
+gefrieren::V	beiguwerembi	p u u k ʊ ɤ i r a m p ʊ	p ɤ i k u w ɤ r ɤ m p i
+gefrieren::V	beyembi	p a j ʊ m p ʊ	p ɤ j ɤ m p i
+gefrieren::V	gecembi	k i t͡ʃ w m p u	k ɤ t͡ʃ ɤ m p i
+tauen::V	werumbi	ɔ u r a m p u	w ɤ r u m p i
+tauen::V	mukenembi	m w kʰ ʊ n a m p ɔ	m u kʰ ɤ n ɤ m p i
+tauen::V	semembi	s w m w m p ʊ	s ɤ m ɤ m p i
+schmelzen::V	wembi	a ɔ m p ɤ	w ɤ m p i
+schmelzen::V	semembi	s ɔ m u m p w	s ɤ m ɤ m p i
+schmelzen::V	mukenembi	m w kʰ ɔ n u m p ɤ	m u kʰ ɤ n ɤ m p i
+trocknen::V	katambi	kʰ u tʰ ɔ m p ʊ	kʰ a tʰ a m p i
+trocknen::V	akiyabumbi	a kʰ i j i p ɔ m p u	a kʰ i j a p u m p i
+sieden::V	bujumbi	p i d͡ʒ ʊ m p i	p u d͡ʒ u m p i
+sieden::V	feifumbi	f ɔ w f w m p u	f ɤ i f u m p i
+sieden::V	fuyembi	f u j ʊ m p w	f u j ɤ m p i
+faulen::V	ibtenembi	u p tʰ w n ʊ m p w	i p tʰ ɤ n ɤ m p i
+faulen::V	niyambi	n ɔ j ɔ m p u	n i j a m p i
+verfaulen::V	ibtenembi	ʊ p tʰ w n a m p w	i p tʰ ɤ n ɤ m p i
+reißen::V	tatambi	tʰ i tʰ i m p i	tʰ a tʰ a m p i
+versinken::V	eyembi	ɤ j w m p ʊ	ɤ j ɤ m p i
+versinken::V	tuhembi	tʰ u x a m p u	tʰ u x ɤ m p i
+vergehen::V	dulembi	t u l a m p ɔ	t u l ɤ m p i
+erscheinen::V	acabumbi	ʊ t͡ʃ u p i m p w	a t͡ʃ a p u m p i
+verschwinden::V	cumcurambi	t͡ʃ ʊ m t͡ʃ ʊ r a m p ɤ	t͡ʃ u m t͡ʃ u r a m p i
+sinken::V	eyembi	a j ɔ m p ʊ	ɤ j ɤ m p i
+abnehmen::V	sumbi	s ɔ m p w	s u m p i
+abnehmen::V	gaimbi	k a a m p u	k a i m p i
+abnehmen::V	komsolambi	kʰ w m s ɤ l ʊ m p u	kʰ ɔ m s ɔ l a m p i
+zunehmen::V	nemembi	n ʊ m i m p ɔ	n ɤ m ɤ m p i
+zunehmen::V	nonggimbi	n w ŋ k ʊ m p ʊ	n ɔ ŋ k i m p i
+zunehmen::V	labdulambi	l ɔ p t ʊ l i m p i	l a p t u l a m p i
+steigen::V	nemembi	n w m w m p ʊ	n ɤ m ɤ m p i
+steigen::V	labdulambi	l u p t a l u m p w	l a p t u l a m p i
+wachsen::V	fulhurembi	f u l x u r a m p a	f u l x u r ɤ m p i
+wachsen::V	mutumbi	m u tʰ i m p a	m u tʰ u m p i
+glänzen::V	gebkeljembi	k u p kʰ i l d͡ʒ a m p ɤ	k ɤ p kʰ ɤ l d͡ʒ ɤ m p i
+lärmen::V	curgimbi	t͡ʃ w r k ʊ m p ʊ	t͡ʃ u r k i m p i
+läuten::V	carkimbi	t͡ʃ w r kʰ ʊ m p ɤ	t͡ʃ a r kʰ i m p i
+klingeln::V	carkimbi	t͡ʃ ɤ r kʰ ʊ m p i	t͡ʃ a r kʰ i m p i
+klirren::V	carkimbi	t͡ʃ u r kʰ a m p u	t͡ʃ a r kʰ i m p i
+brausen::V	darimbi	t i r ʊ m p i	t a r i m p i
+brausen::V	gūyambi	k w j ɤ m p ɤ	k ʊ j a m p i
+brausen::V	mijimbi	m ɔ d͡ʒ ɤ m p u	m i d͡ʒ i m p i
+rauschen::V	gardambi	k u r t i m p w	k a r t a m p i
+rauschen::V	amcanambi	ʊ m t͡ʃ a n ɤ m p a	a m t͡ʃ a n a m p i
+klingen::V	guwembi	k a ɔ ɤ m p a	k u w ɤ m p i
+bellen::V	gūwambi	k u u ɤ m p ɤ	k ʊ w a m p i
+blasen::V	dambi	t ɔ m p ʊ	t a m p i
+pfeifen::V	fulgiyeku	f i l k a j ɤ kʰ a	f u l k i j ɤ kʰ u
+schreien::V	surembi	s w r i m p w	s u r ɤ m p i
+schreien::V	kaicambi	kʰ i ʊ t͡ʃ ʊ m p ɤ	kʰ a i t͡ʃ a m p i
+stöhnen::V	nitumbi	n a tʰ a m p u	n i tʰ u m p i
+stöhnen::V	fiyacumbi	f ɔ j ʊ t͡ʃ a m p w	f i j a t͡ʃ u m p i
+zittern::V	durbembi	t ʊ r p u m p u	t u r p ɤ m p i
+zittern::V	dengsitembi	t ɤ ŋ s i tʰ ɤ m p ɔ	t ɤ ŋ s i tʰ ɤ m p i
+leben::V	tembi	tʰ ɤ m p ɤ	tʰ ɤ m p i
+leben::V	banjimbi	p a n d͡ʒ u m p u	p a n d͡ʒ i m p i
+geboren werden::V	banjimbi	p ʊ n d͡ʒ a m p a	p a n d͡ʒ i m p i
+atmen::V	ergen gaimbi	ʊ r k i n _ k i i m p ʊ	ɤ r k ɤ n _ k a i m p i
+trinken::V	omimbi	u m u m p ʊ	ɔ m i m p i
+essen::V	jembi	d͡ʒ ɔ m p a	d͡ʒ ɤ m p i
+essen::V	buda jembi	p ɔ t a _ d͡ʒ u m p ɔ	p u t a _ d͡ʒ ɤ m p i
+schlucken::V	nunggembi	n u ŋ k ɤ m p u	n u ŋ k ɤ m p i
+müde werden::V	bandambi	p i n t ɔ m p a	p a n t a m p i
+einschlafen::V	šaburambi	ʃ i p a r ɤ m p a	ʃ a p u r a m p i
+schlafen::V	amgambi	u m k w m p i	a m k a m p i
+aufwachen::V	getembi	k w tʰ ɔ m p ɔ	k ɤ tʰ ɤ m p i
+aufwachen::V	and getembi	ɔ n t _ k ʊ tʰ a m p ʊ	a n t _ k ɤ tʰ ɤ m p i
+aufstehen::V	dekdembi	t ʊ kʰ t w m p w	t ɤ kʰ t ɤ m p i
+aufstehen::V	dekdelembi	t w kʰ t w l w m p ɤ	t ɤ kʰ t ɤ l ɤ m p i
+sich erholen::V	teyembi	tʰ ɔ j u m p ʊ	tʰ ɤ j ɤ m p i
+krank werden::V	hatarambi	x i tʰ ɔ r w m p ɤ	x a tʰ a r a m p i
+krank sein::V	nimembi	n w m i m p u	n i m ɤ m p i
+schmerzen::V	caksimbi	t͡ʃ ɤ kʰ s ɔ m p ɤ	t͡ʃ a kʰ s i m p i
+schmerzen::V	fintambi	f ɔ n tʰ ɔ m p w	f i n tʰ a m p i
+schmerzen::V	ninembi	n i n u m p i	n i n ɤ m p i
+husten::V	fucihiyambi	f u t͡ʃ i x ɤ j i m p w	f u t͡ʃ i x i j a m p i
+husten::V	kengsimbi	kʰ ʊ ŋ s w m p u	kʰ ɤ ŋ s i m p i
+genesen::V	aitumbi	ɔ ɔ tʰ w m p w	a i tʰ u m p i
+genesen::V	sebimbitomsombi	s ɔ p u m p a tʰ i m s ɤ m p ɔ	s ɤ p i m p i tʰ ɔ m s ɔ m p i
+sterben::V	susambi	s w s a m p a	s u s a m p i
+umkommen::V	susambi	s ɔ s ɔ m p u	s u s a m p i
+sich bewegen::V	arbušambi	a r p i ʃ u m p ɔ	a r p u ʃ a m p i
+sich bewegen::V	aššambi	a ʃ ʃ i m p w	a ʃ ʃ a m p i
+sich bewegen::V	gurimbi	k ʊ r u m p u	k u r i m p i
+sich rühren::V	arbušambi	i r p a ʃ ʊ m p ɤ	a r p u ʃ a m p i
+sich rühren::V	aššambi	i ʃ ʃ ɤ m p u	a ʃ ʃ a m p i
+sich rühren::V	teodenjembi	tʰ a u t i n d͡ʒ w m p a	tʰ ɤ ɔ t ɤ n d͡ʒ ɤ m p i
+sich erheben::V	ikūrulambi	ɤ kʰ w r w l ɔ m p ɔ	i kʰ ʊ r u l a m p i
+sich setzen::V	tecembi	tʰ a t͡ʃ i m p w	tʰ ɤ t͡ʃ ɤ m p i
+hinfallen::V	fuhešembi	f a x i ʃ a m p a	f u x ɤ ʃ ɤ m p i
+laufen::V	feksimbi	f ɔ kʰ s i m p i	f ɤ kʰ s i m p i
+laufen::V	kelfišembi	kʰ ɤ l f u ʃ a m p ɔ	kʰ ɤ l f i ʃ ɤ m p i
+laufen::V	cacihiyambi	t͡ʃ ɤ t͡ʃ ɔ x a j ɔ m p u	t͡ʃ a t͡ʃ i x i j a m p i
+schreiten::V	fehūn	f a x w n	f ɤ x ʊ n
+schreiten::V	okson	ɤ kʰ s w n	ɔ kʰ s ɔ n
+spazierengehen::V	feliyeme tabumbi	f a l i j ʊ m u _ tʰ ɔ p i m p u	f ɤ l i j ɤ m ɤ _ tʰ a p u m p i
+eilen::V	amcambi	i m t͡ʃ ɔ m p u	a m t͡ʃ a m p i
+eilen::V	amcanambi	u m t͡ʃ w n ʊ m p w	a m t͡ʃ a n a m p i
+sich beeilen::V	ebšembi	ɤ p ʃ i m p u	ɤ p ʃ ɤ m p i
+sich beeilen::V	ekšembi	ɔ kʰ ʃ i m p i	ɤ kʰ ʃ ɤ m p i
+sich beeilen::V	oyombumbi	ɔ j ɤ m p ɤ m p ʊ	ɔ j ɔ m p u m p i
+sausen::V	niolhumbi	ɲ w l x u m p ɤ	ɲ ɔ l x u m p i
+rennen::V	surtembi	s a r tʰ i m p i	s u r tʰ ɤ m p i
+springen::V	fekumbi	f w kʰ a m p i	f ɤ kʰ u m p i
+springen::V	fekcembi	f w kʰ t͡ʃ ɤ m p i	f ɤ kʰ t͡ʃ ɤ m p i
+springen::V	fekucembi	f ɔ kʰ ɤ t͡ʃ a m p w	f ɤ kʰ u t͡ʃ ɤ m p i
+klettern::V	uyulembi	i j ɤ l ɔ m p ɤ	u j u l ɤ m p i
+klettern::V	fašimbi	f i ʃ ʊ m p ɔ	f a ʃ i m p i
+schaukeln::V	demniyecembi	t ɔ m n ʊ j ɤ t͡ʃ a m p ɔ	t ɤ m n i j ɤ t͡ʃ ɤ m p i
+kriechen::V	bisurembi	p w s u r ɔ m p ʊ	p i s u r ɤ m p i
+schwimmen::V	šetumbi	ʃ ɤ tʰ w m p i	ʃ ɤ tʰ u m p i
+schwimmen::V	ebišembi	ʊ p a ʃ ɔ m p u	ɤ p i ʃ ɤ m p i
+schwimmen::V	niyerembi	n w j i r w m p ɤ	n i j ɤ r ɤ m p i
+tauchen::V	furimbi	f ɤ r ʊ m p w	f u r i m p i
+rudern::V	selbimbi	s ɤ l p a m p i	s ɤ l p i m p i
+fahren::V	dalimbi	t ɤ l ɔ m p ɤ	t a l i m p i
+fahren::V	fangkambi	f u ŋ kʰ u m p i	f a ŋ kʰ a m p i
+fliegen::V	deyembi	t ɔ j ʊ m p u	t ɤ j ɤ m p i
+gehen::V	yabumbi	j ɔ p a m p ɤ	j a p u m p i
+weggehen::V	milambi	m w l i m p ʊ	m i l a m p i
+abfahren::V	uksalambi	ɤ kʰ s a l u m p w	u kʰ s a l a m p i
+abfahren::V	aljambi	w l d͡ʒ ʊ m p a	a l d͡ʒ a m p i
+abfahren::V	multujembi	m a l tʰ ɤ d͡ʒ i m p ʊ	m u l tʰ u d͡ʒ ɤ m p i
+anhalten::V	ilimbi	w l ʊ m p i	i l i m p i
+anhalten::V	ilinambi	a l i n ɔ m p a	i l i n a m p i
+hineingehen::V	dosinambi	t ʊ s a n ɔ m p ɤ	t ɔ s i n a m p i
+eintreten::V	dosimbi	t ʊ s ʊ m p ɔ	t ɔ s i m p i
+kommen::V	jimbi	d͡ʒ w m p w	d͡ʒ i m p i
+kommen::V	bahambi	p ɔ x ɤ m p ʊ	p a x a m p i
+ankommen::V	isimbi	ʊ s i m p a	i s i m p i
+ankommen::V	isinambi	a s i n ɔ m p a	i s i n a m p i
+ankommen::V	isinjimbi	u s a n d͡ʒ ɔ m p w	i s i n d͡ʒ i m p i
+zurückkommen::V	marimbi	m a r u m p u	m a r i m p i
+zurückkommen::V	bederembi	p ɔ t ʊ r u m p i	p ɤ t ɤ r ɤ m p i
+bleiben::V	bimbi	p u m p ɔ	p i m p i
+warten::V	aliyambi	u l ɤ j w m p ʊ	a l i j a m p i
+erwarten::V	tosombi	tʰ w s i m p a	tʰ ɔ s ɔ m p i
+suchen::V	baimbi	p u i m p a	p a i m p i
+suchen::V	suwelembi	s a w ɤ l w m p ɤ	s u w ɤ l ɤ m p i
+versuchen::V	beidembi	p u ɤ t w m p ʊ	p ɤ i t ɤ m p i
+versuchen::V	amtalambi	ɤ m tʰ ɤ l a m p ɤ	a m tʰ a l a m p i
+versuchen::V	anggasimbi	ʊ ŋ k a s u m p w	a ŋ k a s i m p i
+vorbereiten::V	belhembi	p ɤ l x ʊ m p ɤ	p ɤ l x ɤ m p i
+vorbereiten::V	dagilambi	t ɔ k u l a m p ɔ	t a k i l a m p i
+vorbereiten::V	funfulambi	f a n f a l ɤ m p i	f u n f u l a m p i
+lieben::V	gosimbi	k w s u m p i	k ɔ s i m p i
+lieben::V	gositambi	k i s u tʰ u m p ʊ	k ɔ s i tʰ a m p i
+lieben::V	dosholombi	t ʊ s x a l ɔ m p i	t ɔ s x ɔ l ɔ m p i
+mögen::V	cihalambi	t͡ʃ i x a l ʊ m p a	t͡ʃ i x a l a m p i
+lachen::V	injembi	ɔ n d͡ʒ ɔ m p w	i n d͡ʒ ɤ m p i
+rühren::V	arbušambi	i r p ʊ ʃ w m p a	a r p u ʃ a m p i
+rühren::V	aššambi	w ʃ ʃ ɤ m p u	a ʃ ʃ a m p i
+rühren::V	gurimbi	k u r i m p ʊ	k u r i m p i
+weinen::V	songgombi	s i ŋ k w m p ʊ	s ɔ ŋ k ɔ m p i
+schimpfen::V	jong jong seme gašambi	d͡ʒ ɤ ŋ _ d͡ʒ u ŋ _ s a m ɤ _ k w ʃ ɤ m p ɤ	d͡ʒ ɔ ŋ _ d͡ʒ ɔ ŋ _ s ɤ m ɤ _ k a ʃ a m p i
+sich ärgern::V	gusucumbi	k i s ɔ t͡ʃ u m p w	k u s u t͡ʃ u m p i
+sich ärgern::V	bujihilambi	p w d͡ʒ i x a l a m p i	p u d͡ʒ i x i l a m p i
+sich fürchten::V	tuksimbi	tʰ i kʰ s i m p a	tʰ u kʰ s i m p i
+fürchten::V	gelembi	k ɤ l ʊ m p i	k ɤ l ɤ m p i
+fliehen::V	burulambi	p ɤ r ɤ l u m p ʊ	p u r u l a m p i
+fliehen::V	biyalume yabumbi	p ɤ j w l w m ɔ _ j u p ɔ m p u	p i j a l u m ɤ _ j a p u m p i
+flüchten::V	ongkimbi	u ŋ kʰ ɔ m p w	ɔ ŋ kʰ i m p i
+sehen::V	šambi	ʃ u m p ɔ	ʃ a m p i
+sehen::V	sabumbi	s ɔ p ʊ m p ɔ	s a p u m p i
+sehen::V	tuwašambi	tʰ ɔ a i ʃ a m p ɔ	tʰ u w a ʃ a m p i
+anschauen::V	šambi	ʃ ɔ m p i	ʃ a m p i
+anschauen::V	tuwambi	tʰ ɔ i w m p i	tʰ u w a m p i
+anschauen::V	yasalambi	j ɔ s a l i m p u	j a s a l a m p i
+ansehen::V	yasalambi	j ɤ s a l a m p a	j a s a l a m p i
+ansehen::V	tuwašatambi	tʰ w w u ʃ ɤ tʰ u m p a	tʰ u w a ʃ a tʰ a m p i
+hören::V	donjimbi	t ʊ n d͡ʒ ʊ m p i	t ɔ n d͡ʒ i m p i
+zuhören::V	donjimbi	t w n d͡ʒ u m p ɤ	t ɔ n d͡ʒ i m p i
+probieren::V	fimembi	f ɤ m ɤ m p i	f i m ɤ m p i
+probieren::V	amtalambi	ʊ m tʰ u l i m p w	a m tʰ a l a m p i
+riechen::V	wangkiyambi	ʊ ʊ ŋ kʰ u j ʊ m p i	w a ŋ kʰ i j a m p i
+fühlen::V	bušumbi	p w ʃ ʊ m p ʊ	p u ʃ u m p i
+fühlen::V	serebumbi	s a r ɔ p ɔ m p ʊ	s ɤ r ɤ p u m p i
+scheinen::V	tucinembi	tʰ a t͡ʃ ʊ n ɤ m p ɔ	tʰ u t͡ʃ i n ɤ m p i
+scheinen::V	tuyembumbi	tʰ u j i m p w m p ɔ	tʰ u j ɤ m p u m p i
+scheinen::V	gebekeljembi	k ʊ p w kʰ ʊ l d͡ʒ i m p ʊ	k ɤ p ɤ kʰ ɤ l d͡ʒ ɤ m p i
+zu sehen sein::V	tuwabumbi	tʰ a ɤ i p ʊ m p u	tʰ u w a p u m p i
+vernehmen::V	donjimbi	t w n d͡ʒ ɤ m p a	t ɔ n d͡ʒ i m p i
+frieren::V	beyembi	p ɤ j ɤ m p u	p ɤ j ɤ m p i
+frieren::V	beikuwerembi	p ɔ ʊ kʰ ʊ ɤ u r ɔ m p u	p ɤ i kʰ u w ɤ r ɤ m p i
+tun::V	arambi	w r ɤ m p ʊ	a r a m p i
+können::V	mutembi	m w tʰ ɤ m p ɔ	m u tʰ ɤ m p i
+wollen::V	cihalambi	t͡ʃ ɤ x a l ʊ m p i	t͡ʃ i x a l a m p i
+anfangen::V	dekdeljembi	t a kʰ t ɔ l d͡ʒ i m p ɔ	t ɤ kʰ t ɤ l d͡ʒ ɤ m p i
+anfangen::V	doktolambi	t ɤ kʰ tʰ ɤ l w m p a	t ɔ kʰ tʰ ɔ l a m p i
+beenden::V	dubembi	t ʊ p ɔ m p i	t u p ɤ m p i
+beenden::V	wacihiyambi	ɤ w t͡ʃ w x ɤ j ʊ m p w	w a t͡ʃ i x i j a m p i
+aufhören::V	ilimbi	ɔ l i m p w	i l i m p i
+aufhören::V	nakambi	n ʊ kʰ ɔ m p ɤ	n a kʰ a m p i
+gelingen::V	gushembi	k ɤ s x u m p a	k u s x ɤ m p i
+geraten::V	mutembi	m ɔ tʰ a m p w	m u tʰ ɤ m p i
+öffnen::V	neimbi	n a ɔ m p ʊ	n ɤ i m p i
+öffnen::V	nerkimbi	n u r kʰ ɤ m p ʊ	n ɤ r kʰ i m p i
+schließen::V	gidambi	k w t u m p w	k i t a m p i
+schließen::V	yaksimbi	j a kʰ s ɤ m p u	j a kʰ s i m p i
+stellen::V	tuhembi	tʰ a x ɔ m p w	tʰ u x ɤ m p i
+stellen::V	sindambi	s w n t w m p i	s i n t a m p i
+setzen::V	tuhembi	tʰ a x ɤ m p ɔ	tʰ u x ɤ m p i
+setzen::V	sindambi	s ɔ n t u m p ʊ	s i n t a m p i
+legen::V	sindambi	s w n t a m p u	s i n t a m p i
+verbinden::V	holbombi	x a l p ɔ m p a	x ɔ l p ɔ m p i
+verbinden::V	suwaliyambi	s ɤ i ɤ l ʊ j ɔ m p w	s u w a l i j a m p i
+bedecken::V	huwejembi	x u ɤ ɔ d͡ʒ ɤ m p ɔ	x u w ɤ d͡ʒ ɤ m p i
+bedecken::V	buheliyembi	p i x w l w j ʊ m p ɔ	p u x ɤ l i j ɤ m p i
+aufhängen::V	lakiyambi	l i kʰ i j ɔ m p w	l a kʰ i j a m p i
+anzünden::V	fosombi	f ɔ s ɤ m p a	f ɔ s ɔ m p i
+aufheben::V	ujimbi	ʊ d͡ʒ u m p ʊ	u d͡ʒ i m p i
+aufheben::V	tomsombi	tʰ ʊ m s a m p i	tʰ ɔ m s ɔ m p i
+aufheben::V	tunggiyembi	tʰ w ŋ k u j i m p u	tʰ u ŋ k i j ɤ m p i
+zurücklassen::V	aljambi	ʊ l d͡ʒ a m p ɤ	a l d͡ʒ a m p i
+zurücklassen::V	multujembi	m w l tʰ i d͡ʒ w m p a	m u l tʰ u d͡ʒ ɤ m p i
+zurücklassen::V	uksalambi	ɤ kʰ s i l w m p ɔ	u kʰ s a l a m p i
+verlieren::V	aljambi	w l d͡ʒ a m p ɔ	a l d͡ʒ a m p i
+verlieren::V	ufarambi	ʊ f ɤ r i m p i	u f a r a m p i
+fallen lassen::V	tuhebumbi	tʰ ɤ x w p i m p a	tʰ u x ɤ p u m p i
+machen::V	ombi	w m p ʊ	ɔ m p i
+machen::V	arambi	ʊ r ʊ m p ʊ	a r a m p i
+machen::V	tebumbi	tʰ w p u m p ɤ	tʰ ɤ p u m p i
+herstellen::V	herembi	x u r ɔ m p w	x ɤ r ɤ m p i
+herstellen::V	hergembi	x w r k i m p ɔ	x ɤ r k ɤ m p i
+bauen::V	sahame weilembi	s i x u m ɤ _ ɤ u ɤ l u m p a	s a x a m ɤ _ w ɤ i l ɤ m p i
+reparieren::V	hiyadambi	x a j u t ɤ m p w	x i j a t a m p i
+verbessern::V	wembi	ɤ w m p w	w ɤ m p i
+verbessern::V	dasambi	t w s ɤ m p a	t a s a m p i
+ändern::V	forgošombi	f i r k a ʃ ɔ m p i	f ɔ r k ɔ ʃ ɔ m p i
+ändern::V	gūwaliyambi	k ɔ ʊ i l a j i m p i	k ʊ w a l i j a m p i
+ändern::V	halambi	x ɤ l i m p w	x a l a m p i
+graben::V	fetembi	f u tʰ w m p w	f ɤ tʰ ɤ m p i
+graben::V	feterembi	f i tʰ w r u m p ɔ	f ɤ tʰ ɤ r ɤ m p i
+beugen::V	musembi	m ʊ s ɔ m p u	m u s ɤ m p i
+beugen::V	gohorombi	k ʊ x w r i m p u	k ɔ x ɔ r ɔ m p i
+beugen::V	bukdalambi	p u kʰ t w l ɤ m p w	p u kʰ t a l a m p i
+biegen::V	bukdambi	p ɤ kʰ t i m p u	p u kʰ t a m p i
+biegen::V	gohorombi	k u x w r w m p ʊ	k ɔ x ɔ r ɔ m p i
+biegen::V	bukdalambi	p u kʰ t i l i m p w	p u kʰ t a l a m p i
+drehen::V	sirembi	s u r ʊ m p a	s i r ɤ m p i
+drehen::V	hūrgimbi	x ɔ r k i m p ʊ	x ʊ r k i m p i
+wenden::V	forombi	f ɔ r ɔ m p w	f ɔ r ɔ m p i
+wenden::V	mudakiyambi	m i t i kʰ ʊ j a m p a	m u t a kʰ i j a m p i
+wenden::V	torhombi	tʰ ɔ r x ɔ m p i	tʰ ɔ r x ɔ m p i
+umdrehen::V	forombi	f u r i m p ɔ	f ɔ r ɔ m p i
+umdrehen::V	kurbumbi	kʰ ɤ r p i m p u	kʰ u r p u m p i
+umdrehen::V	kurbulambi	kʰ ʊ r p ɔ l w m p w	kʰ u r p u l a m p i
+heben::V	tukiyembi	tʰ ɔ kʰ ɔ j ʊ m p u	tʰ u kʰ i j ɤ m p i
+heben::V	wesimbumbi	w u s a m p a m p ɔ	w ɤ s i m p u m p i
+hochheben::V	ujimbi	ɤ d͡ʒ ɤ m p u	u d͡ʒ i m p i
+hochheben::V	wesimbi	a ʊ s ɤ m p a	w ɤ s i m p i
+hochheben::V	tukiyembi	tʰ ɔ kʰ a j u m p ʊ	tʰ u kʰ i j ɤ m p i
+ergreifen::V	jafambi	d͡ʒ ɔ f ɤ m p ɤ	d͡ʒ a f a m p i
+ergreifen::V	tabcilambi	tʰ u p t͡ʃ ɤ l a m p u	tʰ a p t͡ʃ i l a m p i
+halten::V	tatambi	tʰ ɔ tʰ ɔ m p ɔ	tʰ a tʰ a m p i
+drücken::V	gidambi	k u t ɤ m p ʊ	k i t a m p i
+drücken::V	fiyanarambi	f ɔ j w n a r a m p ɤ	f i j a n a r a m p i
+schieben::V	anambi	ɤ n i m p ɔ	a n a m p i
+kratzen::V	ušambi	ʊ ʃ i m p ʊ	u ʃ a m p i
+kratzen::V	šaringgiyambi	ʃ a r ʊ ŋ k w j a m p ʊ	ʃ a r i ŋ k i j a m p i
+lecken::V	ilembi	a l ɤ m p w	i l ɤ m p i
+beißen::V	šufambi	ʃ u f u m p w	ʃ u f a m p i
+abreißen::V	tadumbi	tʰ ɤ t ɤ m p ɤ	tʰ a t u m p i
+abschneiden::V	meilembi	m u ɤ l a m p ɔ	m ɤ i l ɤ m p i
+binden::V	huthumbi	x u tʰ x i m p a	x u tʰ x u m p i
+binden::V	fulmiyembi	f ɤ l m u j ʊ m p ʊ	f u l m i j ɤ m p i
+stecken::V	nukambi	n a kʰ u m p w	n u kʰ a m p i
+stecken::V	sindambi	s i n t a m p a	s i n t a m p i
+brechen::V	bijambi	p ʊ d͡ʒ w m p a	p i d͡ʒ a m p i
+brechen::V	cok cak sembi	t͡ʃ u kʰ _ t͡ʃ u kʰ _ s ɔ m p ɤ	t͡ʃ ɔ kʰ _ t͡ʃ a kʰ _ s ɤ m p i
+klopfen::V	forimbi	f u r i m p i	f ɔ r i m p i
+klopfen::V	toksimbi	tʰ u kʰ s ʊ m p ɔ	tʰ ɔ kʰ s i m p i
+hauen::V	gobimbi	k ɔ p u m p ɤ	k ɔ p i m p i
+kleben::V	latumbi	l ɔ tʰ a m p ɔ	l a tʰ u m p i
+kleben::V	amdulambi	i m t ɤ l u m p a	a m t u l a m p i
+reiben::V	bišumbi	p u ʃ ʊ m p ʊ	p i ʃ u m p i
+reiben::V	monjimbi	m i n d͡ʒ ɔ m p u	m ɔ n d͡ʒ i m p i
+streichen::V	ijumbi	ɤ d͡ʒ i m p w	i d͡ʒ u m p i
+streichen::V	sektembi	s i kʰ tʰ ɔ m p a	s ɤ kʰ tʰ ɤ m p i
+streichen::V	undarambi	a n t ɤ r u m p i	u n t a r a m p i
+schleifen::V	hujurembi	x ʊ d͡ʒ u r ʊ m p i	x u d͡ʒ u r ɤ m p i
+schleifen::V	moselambi	m i s ɤ l ɔ m p ʊ	m ɔ s ɤ l a m p i
+schleifen::V	nilambi	n ʊ l ɤ m p ɔ	n i l a m p i
+schneiden::V	faitambi	f a ʊ tʰ a m p u	f a i tʰ a m p i
+schütteln::V	fisihimbi	f ɔ s a x ʊ m p w	f i s i x i m p i
+schütteln::V	denggeljembi	t ʊ ŋ k a l d͡ʒ ɤ m p u	t ɤ ŋ k ɤ l d͡ʒ ɤ m p i
+schwenken::V	cekudembi	t͡ʃ w kʰ u t i m p w	t͡ʃ ɤ kʰ u t ɤ m p i
+schütten::V	doolambi	t a w l ɔ m p ʊ	t ɔ ɔ l a m p i
+schütten::V	hungkerembi	x u ŋ kʰ ɤ r w m p u	x u ŋ kʰ ɤ r ɤ m p i
+schütten::V	suitambi	s ɤ u tʰ ɤ m p ɔ	s u i tʰ a m p i
+füllen::V	filhembi	f u l x a m p u	f i l x ɤ m p i
+einwickeln::V	hūsimbi	x w s u m p a	x ʊ s i m p i
+tragen::V	tukiyembi	tʰ a kʰ i j ɤ m p ʊ	tʰ u kʰ i j ɤ m p i
+schleppen::V	ušambi	ɔ ʃ ʊ m p ɤ	u ʃ a m p i
+ziehen::V	ušambi	u ʃ ʊ m p a	u ʃ a m p i
+ziehen::V	gocimbi	k u t͡ʃ ɔ m p ɤ	k ɔ t͡ʃ i m p i
+aufbewahren::V	karmambi	kʰ ʊ r m u m p w	kʰ a r m a m p i
+werfen::V	tulembi	tʰ ɤ l ʊ m p ɤ	tʰ u l ɤ m p i
+werfen::V	maktambi	m ʊ kʰ tʰ ʊ m p ɔ	m a kʰ tʰ a m p i
+werfen::V	hungkerembi	x u ŋ kʰ a r ɤ m p i	x u ŋ kʰ ɤ r ɤ m p i
+fangen::V	tambi	tʰ ɔ m p i	tʰ a m p i
+fangen::V	nambumbi	n ɤ m p ɔ m p ɤ	n a m p u m p i
+packen::V	jafambi	d͡ʒ ʊ f ʊ m p ɤ	d͡ʒ a f a m p i
+packen::V	nambumbi	n ɤ m p u m p u	n a m p u m p i
+verstecken::V	harimbi	x a r ɤ m p ɤ	x a r i m p i
+verstecken::V	dasitambi	t w s ɔ tʰ w m p ʊ	t a s i tʰ a m p i
+teilen::V	cahimbi	t͡ʃ ʊ x i m p i	t͡ʃ a x i m p i
+teilen::V	dendembi	t i n t w m p ɔ	t ɤ n t ɤ m p i
+schicken::V	benembi	p u n ɔ m p i	p ɤ n ɤ m p i
+bringen::V	gajimbi	k ʊ d͡ʒ ʊ m p w	k a d͡ʒ i m p i
+hinzufügen::V	nemembi	n ɔ m u m p w	n ɤ m ɤ m p i
+hinzufügen::V	nonggimbi	n i ŋ k ɔ m p a	n ɔ ŋ k i m p i
+hinzufügen::V	jalgiyambi	d͡ʒ w l k u j u m p ɤ	d͡ʒ a l k i j a m p i
+bekommen::V	alimbi	ʊ l ɔ m p ɤ	a l i m p i
+bekommen::V	gaijambi	k i ʊ d͡ʒ ɤ m p ɤ	k a i d͡ʒ a m p i
+bekommen::V	alime gaimbi	i l a m ʊ _ k ɤ w m p a	a l i m ɤ _ k a i m p i
+erhalten::V	alimbi	ɤ l ʊ m p u	a l i m p i
+erhalten::V	bargiyambi	p ʊ r k a j ɤ m p ɤ	p a r k i j a m p i
+erhalten::V	alime gaimbi	i l w m ɔ _ k ɤ ɔ m p ɤ	a l i m ɤ _ k a i m p i
+nehmen::V	omimbi	ɤ m ɔ m p i	ɔ m i m p i
+nehmen::V	gamambi	k ɤ m ʊ m p w	k a m a m p i
+wählen::V	sonjonbi	s a n d͡ʒ a n p w	s ɔ n d͡ʒ ɔ n p i
+auswählen::V	silimbi	s w l ɤ m p w	s i l i m p i
+auswählen::V	silgambi	s i l k w m p ɤ	s i l k a m p i
+bewahren::V	taksimbi	tʰ ɔ kʰ s u m p ʊ	tʰ a kʰ s i m p i
+bewahren::V	bargiyambi	p u r k w j ɤ m p a	p a r k i j a m p i
+behindern::V	kambi	kʰ i m p u	kʰ a m p i
+behindern::V	hanggambi	x ʊ ŋ k ʊ m p u	x a ŋ k a m p i
+verderben::V	gūwašambi	k ʊ ɔ i ʃ ʊ m p u	k ʊ w a ʃ a m p i
+verderben::V	gūwaliyambi	k w ʊ ɤ l u j w m p ɔ	k ʊ w a l i j a m p i
+beschädigen::V	dašurambi	t ɔ ʃ ɔ r ʊ m p a	t a ʃ u r a m p i
+beschädigen::V	kokirambi	kʰ a kʰ w r u m p w	kʰ ɔ kʰ i r a m p i
+zerbrechen::V	fithembi	f ɤ tʰ x i m p a	f i tʰ x ɤ m p i
+zerbrechen::V	cok cak sembi	t͡ʃ ɤ kʰ _ t͡ʃ ɔ kʰ _ s u m p u	t͡ʃ ɔ kʰ _ t͡ʃ a kʰ _ s ɤ m p i
+zerreißen::V	fakcambi	f ɤ kʰ t͡ʃ i m p ɤ	f a kʰ t͡ʃ a m p i
+zerreißen::V	hūwajambi	x ɔ w u d͡ʒ ʊ m p u	x ʊ w a d͡ʒ a m p i
+zerstören::V	efulembi	i f ʊ l ɔ m p ʊ	ɤ f u l ɤ m p i
+zerstören::V	ebderembi	u p t a r i m p i	ɤ p t ɤ r ɤ m p i
+verbrennen::V	dambi	t ɤ m p ʊ	t a m p i
+verbrennen::V	dekjimbi	t a kʰ d͡ʒ ɔ m p u	t ɤ kʰ d͡ʒ i m p i
+geben::V	bumbi	p ɤ m p w	p u m p i
+reichen::V	isimbi	u s ɔ m p ɤ	i s i m p i
+reichen::V	isinambi	w s a n ɤ m p ʊ	i s i n a m p i
+reichen::V	isinjimbi	w s ʊ n d͡ʒ w m p i	i s i n d͡ʒ i m p i
+schenken::V	fimembi	f ɤ m ɤ m p ʊ	f i m ɤ m p i
+schenken::V	acabumbi	ɔ t͡ʃ ʊ p i m p a	a t͡ʃ a p u m p i
+versprechen::V	boljombi	p ɤ l d͡ʒ u m p a	p ɔ l d͡ʒ ɔ m p i
+wünschen::V	baimbi	p a ɔ m p ʊ	p a i m p i
+loben::V	caksimbi	t͡ʃ a kʰ s ɔ m p ɔ	t͡ʃ a kʰ s i m p i
+loben::V	algidambi	i l k u t w m p w	a l k i t a m p i
+loben::V	kiyakiyambi	kʰ ʊ j a kʰ u j w m p ɔ	kʰ i j a kʰ i j a m p i
+küssen::V	ojombi	w d͡ʒ u m p i	ɔ d͡ʒ ɔ m p i
+küssen::V	angga ojombi	ɔ ŋ k ɤ _ w d͡ʒ ɤ m p u	a ŋ k a _ ɔ d͡ʒ ɔ m p i
+wiegen::V	kemnembi	kʰ i m n u m p ɤ	kʰ ɤ m n ɤ m p i
+zudecken::V	ajirgalambi	ɤ d͡ʒ u r k w l ɔ m p i	a d͡ʒ i r k a l a m p i
+zudecken::V	buheliyembi	p ɔ x ʊ l w j ʊ m p i	p u x ɤ l i j ɤ m p i
+zudecken::V	dobtoloobi	t ɤ p tʰ u l a i p a	t ɔ p tʰ ɔ l ɔ ɔ p i
+wecken::V	and getembi	i n t _ k ɔ tʰ w m p ɤ	a n t _ k ɤ tʰ ɤ m p i
+zeigen::V	tuwabumbi	tʰ i ɔ i p ɤ m p ʊ	tʰ u w a p u m p i
+führen::V	yarumbi	j ɤ r w m p a	j a r u m p i
+führen::V	kutulembi	kʰ ʊ tʰ i l w m p ʊ	kʰ u tʰ u l ɤ m p i
+führen::V	yarhūdambi	j ʊ r x i t ʊ m p ɤ	j a r x ʊ t a m p i
+lehren::V	tacibumbi	tʰ ɔ t͡ʃ u p ɔ m p ɔ	tʰ a t͡ʃ i p u m p i
+unterrichten::V	tacibumbi	tʰ ɔ t͡ʃ i p ɤ m p a	tʰ a t͡ʃ i p u m p i
+unterrichten::V	tacihiyambi	tʰ ɔ t͡ʃ ʊ x a j u m p ɔ	tʰ a t͡ʃ i x i j a m p i
+aufziehen::V	jombi	d͡ʒ ɤ m p ɔ	d͡ʒ ɔ m p i
+aufziehen::V	jondombi	d͡ʒ ʊ n t i m p i	d͡ʒ ɔ n t ɔ m p i
+aufziehen::V	hūwašambi	x ɤ w ɤ ʃ w m p ʊ	x ʊ w a ʃ a m p i
+leiten::V	gamambi	k a m ɔ m p ʊ	k a m a m p i
+leiten::V	kadalambi	kʰ ɤ t i l w m p ɤ	kʰ a t a l a m p i
+antreiben::V	anambi	ɔ n i m p u	a n a m p i
+antreiben::V	bošombi	p ʊ ʃ ɤ m p u	p ɔ ʃ ɔ m p i
+lassen::V	aljambi	i l d͡ʒ i m p ʊ	a l d͡ʒ a m p i
+lassen::V	fakcambi	f u kʰ t͡ʃ u m p w	f a kʰ t͡ʃ a m p i
+lassen::V	uksalambi	i kʰ s ɤ l i m p ɔ	u kʰ s a l a m p i
+einladen::V	solimbi	s ɔ l w m p u	s ɔ l i m p i
+einladen::V	guilembi	k u i l a m p ɤ	k u i l ɤ m p i
+vereinigen::V	uhelembi	u x ɤ l a m p u	u x ɤ l ɤ m p i
+vereinigen::V	uherilembi	i x ɤ r i l w m p ʊ	u x ɤ r i l ɤ m p i
+besuchen::V	acambi	u t͡ʃ i m p ɤ	a t͡ʃ a m p i
+besuchen::V	eldembume enggelenembi	a l t ʊ m p u m a _ ʊ ŋ k a l ɤ n w m p ʊ	ɤ l t ɤ m p u m ɤ _ ɤ ŋ k ɤ l ɤ n ɤ m p i
+treffen::V	dahacambi	t ɤ x ɤ t͡ʃ ɤ m p ɤ	t a x a t͡ʃ a m p i
+treffen::V	teisulembi	tʰ ʊ ʊ s ʊ l i m p ʊ	tʰ ɤ i s u l ɤ m p i
+treffen::V	dere acambi	t a r a _ a t͡ʃ w m p ɔ	t ɤ r ɤ _ a t͡ʃ a m p i
+sich versammeln::V	ganambi	k u n w m p w	k a n a m p i
+sich versammeln::V	imiyambi	ɤ m u j u m p i	i m i j a m p i
+spielen::V	derimbi	t a r ʊ m p w	t ɤ r i m p i
+spielen::V	fithembi	f a tʰ x ɔ m p a	f i tʰ x ɤ m p i
+singen::V	uculembi	u t͡ʃ a l u m p a	u t͡ʃ u l ɤ m p i
+singen::V	yangkūnggalambi	j i ŋ kʰ ɔ ŋ k a l i m p i	j a ŋ kʰ ʊ ŋ k a l a m p i
+tanzen::V	maksimbi	m a kʰ s ɔ m p w	m a kʰ s i m p i
+sich trennen::V	delhembi	t u l x u m p a	t ɤ l x ɤ m p i
+sich trennen::V	fakcambi	f u kʰ t͡ʃ u m p ɤ	f a kʰ t͡ʃ a m p i
+sich trennen::V	faksalabūmbi	f ɤ kʰ s u l w p ɔ m p i	f a kʰ s a l a p ʊ m p i
+verlassen::V	aljambi	ɤ l d͡ʒ u m p u	a l d͡ʒ a m p i
+verlassen::V	multujembi	m ɤ l tʰ w d͡ʒ i m p ʊ	m u l tʰ u d͡ʒ ɤ m p i
+verlassen::V	uksulambi	ʊ kʰ s ɔ l ɤ m p ʊ	u kʰ s u l a m p i
+retten::V	tucimbi	tʰ ɔ t͡ʃ u m p ɤ	tʰ u t͡ʃ i m p i
+bewachen::V	tuwakiyambi	tʰ i i ɤ kʰ i j a m p ʊ	tʰ u w a kʰ i j a m p i
+bewachen::V	tuwašambi	tʰ ɤ ɔ i ʃ i m p ʊ	tʰ u w a ʃ a m p i
+schützen::V	cabsimbi	t͡ʃ ʊ p s w m p i	t͡ʃ a p s i m p i
+schützen::V	akdulambi	a kʰ t a l u m p w	a kʰ t u l a m p i
+schützen::V	bargiyatambi	p a r k w j a tʰ w m p ʊ	p a r k i j a tʰ a m p i
+verteidigen::V	haršambi	x ɔ r ʃ ɔ m p ʊ	x a r ʃ a m p i
+verteidigen::V	akdulambi	ʊ kʰ t i l ʊ m p i	a kʰ t u l a m p i
+verteidigen::V	seremšembi	s ʊ r a m ʃ ɔ m p ɔ	s ɤ r ɤ m ʃ ɤ m p i
+sich schlagen::V	cahūšambi	t͡ʃ i x i ʃ ɔ m p ɔ	t͡ʃ a x ʊ ʃ a m p i
+schießen::V	tuwa	tʰ w a ʊ	tʰ u w a
+siegen::V	etembi	ɔ tʰ ɔ m p u	ɤ tʰ ɤ m p i
+ärgern::V	nungnembi	n u ŋ n a m p a	n u ŋ n ɤ m p i
+schlagen::V	fekcembi	f ɔ kʰ t͡ʃ w m p ɔ	f ɤ kʰ t͡ʃ ɤ m p i
+schlagen::V	fangkambi	f a ŋ kʰ ɤ m p a	f a ŋ kʰ a m p i
+schlagen::V	debderembi	t w p t ɔ r i m p ɔ	t ɤ p t ɤ r ɤ m p i
+treten::V	maktambi	m w kʰ tʰ ʊ m p a	m a kʰ tʰ a m p i
+treten::V	feshelembi	f ʊ s x u l u m p i	f ɤ s x ɤ l ɤ m p i
+treten::V	fiyokocombi	f w j ʊ kʰ w t͡ʃ w m p u	f i j ɔ kʰ ɔ t͡ʃ ɔ m p i
+stechen::V	hadambi	x ɤ t ɔ m p u	x a t a m p i
+stechen::V	fergimbi	f u r k ɤ m p i	f ɤ r k i m p i
+stoßen::V	anambi	w n ɔ m p ʊ	a n a m p i
+stoßen::V	cungūšambi	t͡ʃ ʊ ŋ ʊ ʃ ʊ m p a	t͡ʃ u ŋ ʊ ʃ a m p i
+stehlen::V	hūlhambi	x w l x u m p i	x ʊ l x a m p i
+stören::V	nungnembi	n ʊ ŋ n i m p u	n u ŋ n ɤ m p i
+belästigen::V	nungnembi	n ʊ ŋ n i m p w	n u ŋ n ɤ m p i
+verbergen::V	somimbi	s a m u m p ɤ	s ɔ m i m p i
+verbergen::V	dasitambi	t ɔ s ɤ tʰ ɤ m p w	t a s i tʰ a m p i
+täuschen::V	hoššombi	x ɔ ʃ ʃ w m p w	x ɔ ʃ ʃ ɔ m p i
+betrügen::V	jaldambi	d͡ʒ w l t i m p ʊ	d͡ʒ a l t a m p i
+betrügen::V	batkalambi	p w tʰ kʰ i l w m p i	p a tʰ kʰ a l a m p i
+töten::V	wambi	i ɔ m p ɔ	w a m p i
+töten::V	sedembi	s ʊ t ɤ m p w	s ɤ t ɤ m p i
+wohnen::V	tembi	tʰ ʊ m p u	tʰ ɤ m p i
+arbeiten::V	dambi	t w m p a	t a m p i
+arbeiten::V	weilembi	ɔ a ɔ l ʊ m p w	w ɤ i l ɤ m p i
+arbeiten::V	hūsun yabumbi	x i s w n _ j a p ɔ m p i	x ʊ s u n _ j a p u m p i
+sammeln::V	bargiyambi	p ʊ r k i j w m p ɔ	p a r k i j a m p i
+sammeln::V	ganambi	k w n ɤ m p w	k a n a m p i
+sammeln::V	iktambi	u kʰ tʰ a m p i	i kʰ tʰ a m p i
+pflücken::V	fithembi	f ɔ tʰ x a m p u	f i tʰ x ɤ m p i
+jagen::V	tumbi	tʰ ɔ m p u	tʰ u m p i
+jagen::V	buthambi	p i tʰ x a m p ʊ	p u tʰ x a m p i
+fischen::V	welmiyembi	ɔ ɔ l m a j ʊ m p a	w ɤ l m i j ɤ m p i
+fischen::V	nimahašambi	n i m ʊ x ɔ ʃ ɤ m p i	n i m a x a ʃ a m p i
+fischen::V	nimaha buthambi	n i m ɤ x ɤ _ p ɤ tʰ x ʊ m p u	n i m a x a _ p u tʰ x a m p i
+fassen::V	omimbi	ʊ m ɔ m p i	ɔ m i m p i
+fassen::V	gamambi	k ɔ m ɔ m p ʊ	k a m a m p i
+hüten::V	adulambi	ʊ t ɤ l u m p a	a t u l a m p i
+treiben::V	bašambi	p a ʃ w m p ɤ	p a ʃ a m p i
+treiben::V	bošombi	p ʊ ʃ a m p ʊ	p ɔ ʃ ɔ m p i
+treiben::V	dalimbi	t ʊ l ɤ m p ɔ	t a l i m p i
+anbinden::V	kudembi	kʰ i t ɔ m p w	kʰ u t ɤ m p i
+anbinden::V	huthumbi	x ɤ tʰ x ʊ m p ɔ	x u tʰ x u m p i
+anbinden::V	fulmiyembi	f ɔ l m ʊ j ʊ m p ɔ	f u l m i j ɤ m p i
+füttern::V	ulebumbi	i l ɔ p ɤ m p ɤ	u l ɤ p u m p i
+melken::V	sambi	s a m p a	s a m p i
+melken::V	sirimbi	s u r a m p i	s i r i m p i
+hacken::V	sacimbi	s w t͡ʃ i m p w	s a t͡ʃ i m p i
+hacken::V	kengsimbi	kʰ u ŋ s a m p a	kʰ ɤ ŋ s i m p i
+gießen::V	suitambi	s w ɤ tʰ i m p i	s u i tʰ a m p i
+gießen::V	hungkerembi	x w ŋ kʰ i r ɔ m p ɔ	x u ŋ kʰ ɤ r ɤ m p i
+reifen::V	fahanambi	f u x ɤ n a m p ʊ	f a x a n a m p i
+zubereiten::V	buda arambi	p w t ɤ _ ʊ r ɤ m p a	p u t a _ a r a m p i
+zubereiten::V	bujumbi	p i d͡ʒ u m p ʊ	p u d͡ʒ u m p i
+kochen::V	bujumbi	p i d͡ʒ w m p a	p u d͡ʒ u m p i
+kochen::V	feifumbi	f ɔ ɔ f a m p w	f ɤ i f u m p i
+kochen::V	buda arambi	p w t w _ ɔ r i m p w	p u t a _ a r a m p i
+backen::V	fiyakūmbi	f ʊ j ɤ kʰ a m p a	f i j a kʰ ʊ m p i
+braten::V	carumbi	t͡ʃ ʊ r w m p ɤ	t͡ʃ a r u m p i
+umrühren::V	kūrdambi	kʰ ɔ r t u m p a	kʰ ʊ r t a m p i
+stricken::V	tobcilambi	tʰ a p t͡ʃ u l ɔ m p ʊ	tʰ ɔ p t͡ʃ i l a m p i
+nähen::V	ifimbi	u f ɤ m p w	i f i m p i
+färben::V	icembi	i t͡ʃ ɤ m p u	i t͡ʃ ɤ m p i
+reinigen::V	bolgombi	p w l k ɤ m p ɤ	p ɔ l k ɔ m p i
+waschen::V	obombi	w p w m p a	ɔ p ɔ m p i
+waschen::V	šorgimbi	ʃ a r k ɔ m p u	ʃ ɔ r k i m p i
+abwischen::V	fumbi	f a m p a	f u m p i
+abwischen::V	mabulanbi	m a p w l i n p i	m a p u l a n p i
+spülen::V	werembi	i a r ɤ m p ɤ	w ɤ r ɤ m p i
+fegen::V	erimbi	a r i m p w	ɤ r i m p i
+kehren::V	erimbi	ɤ r i m p u	ɤ r i m p i
+baden::V	ebišembi	w p w ʃ ʊ m p i	ɤ p i ʃ ɤ m p i
+sich waschen::V	obombi	ʊ p ʊ m p ʊ	ɔ p ɔ m p i
+sich waschen::V	werembi	i i r w m p a	w ɤ r ɤ m p i
+ausziehen::V	gaimbi	k ɤ a m p ɤ	k a i m p i
+ausziehen::V	sumbi	s ɤ m p ɤ	s u m p i
+anziehen::V	gidambi	k w t ɤ m p w	k i t a m p i
+sich anziehen::V	etukulembi	w tʰ i kʰ ʊ l ʊ m p ɤ	ɤ tʰ u kʰ u l ɤ m p i
+kämmen::V	ijimbi	ʊ d͡ʒ w m p i	i d͡ʒ i m p i
+schmücken::V	bitumbi	p u tʰ ʊ m p i	p i tʰ u m p i
+schmücken::V	miyamimbi	m ɤ j i m ʊ m p ɔ	m i j a m i m p i
+schmücken::V	miyamišambi	m w j ɤ m ʊ ʃ u m p i	m i j a m i ʃ a m p i
+sagen::V	hendumbi	x i n t i m p w	x ɤ n t u m p i
+sprechen::V	hendumbi	x w n t ʊ m p i	x ɤ n t u m p i
+sprechen::V	gisurembi	k u s w r ʊ m p u	k i s u r ɤ m p i
+reden::V	gisurembi	k ɔ s a r ɔ m p ɤ	k i s u r ɤ m p i
+sich unterhalten::V	tatambi	tʰ ɤ tʰ ɤ m p i	tʰ a tʰ a m p i
+fragen::V	fonjimbi	f ɤ n d͡ʒ a m p ʊ	f ɔ n d͡ʒ i m p i
+fragen::V	fonjinumbi	f u n d͡ʒ ʊ n w m p w	f ɔ n d͡ʒ i n u m p i
+fragen::V	fonjindumbi	f i n d͡ʒ ɔ n t i m p u	f ɔ n d͡ʒ i n t u m p i
+bitten::V	fonjimbi	f a n d͡ʒ ɔ m p a	f ɔ n d͡ʒ i m p i
+bitten::V	anggalambi	a ŋ k u l a m p w	a ŋ k a l a m p i
+bitten::V	fonjindumbi	f w n d͡ʒ a n t i m p ʊ	f ɔ n d͡ʒ i n t u m p i
+erzählen::V	alambi	a l a m p i	a l a m p i
+mitteilen::V	ulambi	w l a m p a	u l a m p i
+nennen::V	gebulembi	k ɔ p w l ɤ m p ɤ	k ɤ p u l ɤ m p i
+nennen::V	gebu bumbi	k i p i _ p i m p a	k ɤ p u _ p u m p i
+nennen::V	gebu arambi	k ɤ p ʊ _ ɤ r ɔ m p ɤ	k ɤ p u _ a r a m p i
+rufen::V	kaicambi	kʰ a ɤ t͡ʃ ɔ m p u	kʰ a i t͡ʃ a m p i
+rufen::V	esunggiyembi	a s a ŋ k i j ɤ m p ɔ	ɤ s u ŋ k i j ɤ m p i
+prahlen::V	fiyotombi	f u j ɔ tʰ ɔ m p ʊ	f i j ɔ tʰ ɔ m p i
+prahlen::V	kūwasadambi	kʰ ɤ i u s a t u m p ɔ	kʰ ʊ w a s a t a m p i
+prahlen::V	bardanggilambi	p a r t a ŋ k u l ɤ m p ʊ	p a r t a ŋ k i l a m p i
+übersetzen::V	hafumbi	x ɤ f i m p i	x a f u m p i
+übersetzen::V	tungserembi	tʰ ɔ ŋ s ɔ r u m p ɔ	tʰ u ŋ s ɤ r ɤ m p i
+denken::V	kidumbi	kʰ ɔ t a m p ɤ	kʰ i t u m p i
+glauben::V	akdambi	a kʰ t ʊ m p ʊ	a kʰ t a m p i
+bemerken::V	barkiyambi	p a r kʰ w j i m p u	p a r kʰ i j a m p i
+erkennen::V	takambi	tʰ a kʰ ɤ m p ʊ	tʰ a kʰ a m p i
+begreifen::V	barkiyambi	p ɤ r kʰ w j i m p w	p a r kʰ i j a m p i
+verstehen::V	sambi	s w m p a	s a m p i
+verstehen::V	nambumbi	n i m p u m p w	n a m p u m p i
+verstehen::V	barkiyambi	p ɤ r kʰ i j ɔ m p w	p a r kʰ i j a m p i
+lernen::V	tacimbi	tʰ ɤ t͡ʃ ɔ m p a	tʰ a t͡ʃ i m p i
+wissen::V	takambi	tʰ i kʰ u m p ɤ	tʰ a kʰ a m p i
+sich erinnern an::V	ejembi	i d͡ʒ ʊ m p ɔ	ɤ d͡ʒ ɤ m p i
+vergessen::V	melembi	m a l ʊ m p i	m ɤ l ɤ m p i
+vergessen::V	onggombi	ɔ ŋ k ʊ m p a	ɔ ŋ k ɔ m p i
+messen::V	kemnembi	kʰ a m n ʊ m p a	kʰ ɤ m n ɤ m p i
+messen::V	miyalimbi	m u j ɤ l w m p ɔ	m i j a l i m p i
+zählen::V	tolombi	tʰ ɔ l u m p a	tʰ ɔ l ɔ m p i
+rechnen::V	dembi	t u m p u	t ɤ m p i
+lesen::V	hūlambi	x ɔ l u m p u	x ʊ l a m p i
+malen::V	cilembi	t͡ʃ ɤ l u m p w	t͡ʃ i l ɤ m p i
+zeichnen::V	gocimbi	k ɔ t͡ʃ ʊ m p ɔ	k ɔ t͡ʃ i m p i
+schreiben::V	arambi	ɔ r ʊ m p a	a r a m p i
+schreiben::V	jijumbi	d͡ʒ ɤ d͡ʒ ɔ m p ɔ	d͡ʒ i d͡ʒ u m p i
+besitzen::V	jafambi	d͡ʒ w f ɤ m p ʊ	d͡ʒ a f a m p i
+kaufen::V	udambi	a t a m p w	u t a m p i
+verkaufen::V	uncambi	a n t͡ʃ ʊ m p i	u n t͡ʃ a m p i
+beherrschen::V	kadalambi	kʰ ɤ t ʊ l i m p a	kʰ a t a l a m p i
+ertragen::V	alimbi	u l i m p w	a l i m p i
+ertragen::V	daruobi	t u r ɤ a p ɤ	t a r u ɔ p i
+ertragen::V	goidambi	k ɤ a t ɔ m p ʊ	k ɔ i t a m p i

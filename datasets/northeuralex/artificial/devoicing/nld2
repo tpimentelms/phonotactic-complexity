@@ -1,0 +1,1183 @@
+Auge::N	oog	o o x	o o x
+Ohr::N	oor	o o r	o o r
+Nase::N	neus	n ø ø s	n ø ø s
+Mund::N	mond	m ɔ n t	m ɔ n d
+Zahn::N	tand	t ɑ n t	t ɑ n d
+Zunge::N	tong	t ɔ ŋ	t ɔ ŋ
+Lippe::N	lip	l ɪ p	l ɪ p
+Wange::N	wang	ʋ ɑ ŋ	ʋ ɑ ŋ
+Gesicht::N	gelaat	ɣ ə l a a t	ɣ ə l a a t
+Gesicht::N	gezicht	ɣ ə z ɪ x t	ɣ ə z ɪ x t
+Stirn::N	voorhoofd	v o o r ɦ o o f t	v o o r ɦ o o f d
+Haar::N	haar	ɦ a a r	ɦ a a r
+Schnurrbart::N	snor	s n ɔ r	s n ɔ r
+Bart::N	baard	b a a r t	b a a r d
+Kinn::N	kin	k ɪ n	k ɪ n
+Kiefer[Anatomie]::N	kaak	k a a k	k a a k
+Kehle::N	keel	k e e l	k e e l
+Kehle::N	strot	s t r ɔ t	s t r ɔ t
+Hals::N	hals	ɦ ɑ l s	ɦ ɑ l s
+Genick::N	nek	n ɛ k	n ɛ k
+Kopf::N	hoofd	ɦ o o f t	ɦ o o f d
+Rücken::N	rug	r ɵ x	r ɵ x
+Bauch::N	buik	b œ y k	b œ y k
+Nabel::N	navel	n a a v ɛ l	n a a v ɛ l
+Busen::N	boezem	b u u z ɛ m	b u u z ɛ m
+Brust::N	borst	b ɔ r s t	b ɔ r s t
+Schulter::N	schouder	s x ɑ u d ə r	s x ɑ u d ə r
+Arm::N	arm	ɑ r m	ɑ r m
+Ellenbogen::N	elleboog	ɛ l e e b o o x	ɛ l e e b o o x
+Hand::N	hand	ɦ ɑ n t	ɦ ɑ n d
+Handfläche::N	handpalm	ɦ ɑ n t p ɑ l m	ɦ ɑ n t p ɑ l m
+Finger::N	vinger	v ɪ ŋ ə r	v ɪ ŋ ə r
+Fingernagel::N	nagel	n a a ɣ ɛ l	n a a ɣ ɛ l
+Nagel[Anatomie]::N	nagel	n a a ɣ ɛ l	n a a ɣ ɛ l
+Zeh::N	teen	t e e n	t e e n
+Fuß::N	voet	v u t	v u t
+Ferse::N	hak	ɦ ɑ k	ɦ ɑ k
+Ferse::N	hiel	ɦ i i l	ɦ i i l
+Knie::N	knie	k n i i	k n i i
+Oberschenkel::N	dij	d ɛ i	d ɛ i
+Bein::N	been	b ə ə	b ə ə
+Körper::N	lichaam	l i i x a a m	l i i x a a m
+Haut::N	huid	ɦ œ y t	ɦ œ y d
+Blut::N	bloed	b l u u t	b l u u d
+Ader::N	ader	a a d ɛ r	a a d ɛ r
+Sehne::N	pees	p e e s	p e e s
+Knochen::N	bot	b ɔ t	b ɔ t
+Knochen::N	been	b ə ə	b ə ə
+Knochen::N	knook	k n o o k	k n o o k
+Gehirn::N	hersenen	ɦ ɛ r s e e n ə	ɦ ɛ r s e e n ə
+Herz::N	hart	ɦ ɑ r t	ɦ ɑ r t
+Magen::N	maag	m a a x	m a a x
+Leber::N	lever	l e e v ɛ r	l e e v ɛ r
+Atem::N	adem	a a d ɛ m	a a d ɛ m
+Hunger::N	honger	ɦ ɔ ŋ ə r	ɦ ɔ ŋ ə r
+Träne::N	traan	t r a a n	t r a a n
+Geschmack::N	smaak	s m a a k	s m a a k
+Geruch::N	geur	ɣ ø ø r	ɣ ø ø r
+Schlaf::N	slaap	s l a a p	s l a a p
+Traum::N	droom	d r o o m	d r o o m
+Himmel::N	hemel	h e e m ə l	h e e m ə l
+Sonne::N	zon	z ɔ n	z ɔ n
+Mond::N	maan	m a a n	m a a n
+Stern::N	ster	s t e e r	s t e e r
+Luft::N	lucht	l ɵ x t	l ɵ x t
+Wind::N	wind	ʋ ɪ n t	ʋ ɪ n d
+Welle::N	golf	ɣ ɔ l f	ɣ ɔ l f
+Wasser::N	water	ʋ a a t ə r	ʋ a a t ə r
+Stein::N	steen	s t e e n	s t e e n
+Boden::N	grond	ɣ r ɔ n t	ɣ r ɔ n d
+Erde::N	aarde	a a r d ə	a a r d ə
+Staub::N	stof	s t ɔ f	s t ɔ f
+Rauch::N	rook	r o o k	r o o k
+Funke::N	vonk	v ɔ n k	v ɔ n k
+Feuer::N	vuur	v y y r	v y y r
+Licht::N	licht	l ɪ x t	l ɪ x t
+Schatten::N	schaduw	s x a a d y u	s x a a d y u
+Wetter::N	weer	ʋ e e r	ʋ e e r
+Nebel::N	mist	m ɪ s t	m ɪ s t
+Nebel::N	nevel	n e e v ɛ l	n e e v ɛ l
+Wolke::N	wolk	ʋ ɔ l k	ʋ ɔ l k
+Regen::N	regen	r e e ɣ ə	r e e ɣ ə
+Schnee::N	sneeuw	s n e e u	s n e e u
+Eis::N	ijs	ɛ i s	ɛ i s
+Frost::N	vorst	v ɔ r s t	v ɔ r s t
+Kälte::N	kou	k a u	k a u
+Kälte::N	koude	k a u d ə	k a u d ə
+Hitze::N	hitte	ɦ ɪ t ə	ɦ ɪ t ə
+Raureif::N	rijp	r ɛ i p	r ɛ i p
+Regenbogen::N	regenboog	r e e ɣ ɛ n b o o x	r e e ɣ ɛ n b o o x
+Donner::N	donder	d ɔ n d ə r	d ɔ n d ə r
+Strömung::N	stroming	s t r o o m ɪ ŋ	s t r o o m ɪ ŋ
+Tropfen::N	druppel	d r ɵ p ə l	d r ɵ p ə l
+Schaum::N	schuim	s x ə ʏ m	s x ə ʏ m
+Schmutz::N	vuil	v œ y l	v œ y l
+See::N	meer	m e e r	m e e r
+Sumpf::N	moeras	m u r ɑ s	m u r ɑ s
+Moor::N	veen	v e e n	v e e n
+Wiese::N	wei	ʋ ɛ i	ʋ ɛ i
+Wiese::N	weide	ʋ ɛ i d ə	ʋ ɛ i d ə
+Wald::N	bos	b ɔ s	b ɔ s
+Hügel::N	heuvel	ɦ ø ø v ə l	ɦ ø ø v ə l
+Anhöhe::N	hoogte	ɦ o o x t ə	ɦ o o x t ə
+Berg::N	berg	b ɛ r x	b ɛ r x
+Gipfel::N	top	t ɔ p	t ɔ p
+Höhle::N	hol	h ɔ l	h ɔ l
+Abhang::N	helling	ɦ ɛ l ɪ ŋ	ɦ ɛ l ɪ ŋ
+Quelle::N	bron	b r ɔ n	b r ɔ n
+Bach::N	beek	b e e k	b e e k
+Fluss::N	stroom	s t r o o m	s t r o o m
+Ufer::N	wal	ʋ ɑ l	ʋ ɑ l
+Ufer::N	oever	u u v ə r	u u v ə r
+Küste::N	kust	k ʏ s t	k ʏ s t
+Festland::N	vasteland	v ɑ s t ə l ɑ n t	v ɑ s t ə l ɑ n d
+Meer::N	zee	z e e	z e e
+Bucht::N	baai	b a a i	b a a i
+Bucht::N	inham	ɪ n ɦ ɑ m	ɪ n ɦ ɑ m
+Insel::N	eiland	ɛ i l ɑ n t	ɛ i l ɑ n d
+Blume::N	bloem	b l u u m	b l u u m
+Gras::N	gras	ɣ r ɑ s	ɣ r ɑ s
+Wurzel::N	wortel	ʋ ɔ r t ə l	ʋ ɔ r t ə l
+Baum::N	boom	b o o m	b o o m
+Stamm::N	stam	s t ɑ m	s t ɑ m
+Rinde::N	schors	s x ɔ r s	s x ɔ r s
+Ast::N	tak	t ɑ k	t ɑ k
+Zweig::N	twijg	t u ɛ i x	t u ɛ i x
+Blatt::N	blad	b l ɑ t	b l ɑ d
+Birke::N	berk	b ɛ r k	b ɛ r k
+Kiefer[Baum]::N	den	d ə	d ə
+Weide[Baum]::N	wilg	ʋ ɪ l x	ʋ ɪ l x
+Tanne::N	spar	s p ɑ r	s p ɑ r
+Horn::N	hoorn	ɦ o o r n	ɦ o o r n
+Feder::N	veer	v e e r	v e e r
+Feder::N	pluim	p l ə ʏ m	p l ə ʏ m
+Fell::N	vel	v ə l	v ə l
+Flügel::N	vleugel	v l ø ø ɣ ə l	v l ø ø ɣ ə l
+Klaue::N	klauw	k l a u ʋ	k l a u ʋ
+Kralle::N	klauw	k l a u ʋ	k l a u ʋ
+Schwanz::N	staart	s t a a r t	s t a a r t
+Ei::N	ei	ɛ i	ɛ i
+Nest::N	nest	n ɛ s t	n ɛ s t
+Bau::N	hol	h ɔ l	h ɔ l
+Tier::N	dier	d i i r	d i i r
+Herde::N	kudde	k ʏ d ə	k ʏ d ə
+Kuh::N	koe	k u	k u
+Bulle::N	stier	s t i i r	s t i i r
+Pferd::N	paard	p a a r t	p a a r d
+Schaf::N	schaap	s x a a p	s x a a p
+Schwein::N	varken	v ɑ r k ə	v ɑ r k ə
+Hund::N	hond	ɦ ɔ n t	ɦ ɔ n d
+Katze::N	kat	k ɑ t	k ɑ t
+Bär::N	beer	b e e r	b e e r
+Eichhörnchen::N	eekhoorntje	e e k ɦ o o r n t j ə	e e k ɦ o o r n t j ə
+Elch::N	eland	e e l ɑ n t	e e l ɑ n d
+Fuchs::N	vos	v ɔ s	v ɔ s
+Hase::N	haas	ɦ a a s	ɦ a a s
+Maus::N	muis	m œ y s	m œ y s
+Wolf::N	wolf	ʋ ɔ l f	ʋ ɔ l f
+Vogel::N	vogel	v o o ɣ ɛ l	v o o ɣ ɛ l
+Schwarm::N	zwerm	z ʋ ɛ r m	z ʋ ɛ r m
+Huhn::N	kip	k ɪ p	k ɪ p
+Huhn::N	hoen	ɦ u u n	ɦ u u n
+Hahn::N	haan	ɦ a a n	ɦ a a n
+Gans::N	gans	ɣ ɑ n s	ɣ ɑ n s
+Adler::N	arend	a a r ɛ n t	a a r ɛ n d
+Ente::N	eend	e e n t	e e n d
+Eule::N	uil	ə ʏ l	ə ʏ l
+Kranich::N	kraanvogel	k r a a n v o o ɣ ɛ l	k r a a n v o o ɣ ɛ l
+Krähe::N	kraai	k r a a i	k r a a i
+Kuckuck::N	koekoek	k u u k u u k	k u u k u u k
+Schwan::N	zwaan	z ʋ a a n	z ʋ a a n
+Fisch::N	vis	v ɪ s	v ɪ s
+Barsch::N	baars	b a a r s	b a a r s
+Hecht::N	snoek	s n u u k	s n u u k
+Schlange[Tier]::N	slang	s l ɑ ŋ	s l ɑ ŋ
+Wurm::N	worm	ʋ ɔ r m	ʋ ɔ r m
+Spinne::N	spin	s p ɪ n	s p ɪ n
+Ameise::N	mier	m i i r	m i i r
+Laus::N	luis	l ə ʏ s	l ə ʏ s
+Mücke::N	mug	m ɵ x	m ɵ x
+Fliege::N	vlieg	v l i i x	v l i i x
+Schmetterling::N	vlinder	v l ɪ n d ə r	v l ɪ n d ə r
+Beere::N	bes	b ɛ s	b ɛ s
+Apfel::N	appel	ɑ p ə l	ɑ p ə l
+Pilz::N	paddestoel	p ɑ d ɛ s t u u l	p ɑ d ɛ s t u u l
+Zwiebel::N	ui	ə ʏ	ə ʏ
+Saat::N	zaad	z a a t	z a a d
+Korn::N	graan	ɣ r a a n	ɣ r a a n
+Korn::N	korrel	k ɔ r ə l	k ɔ r ə l
+Heu::N	hooi	ɦ o o i	ɦ o o i
+Schale::N	schil	s x ɪ l	s x ɪ l
+Grube::N	kuil	k œ y l	k œ y l
+Falle::N	val	v ɑ l	v ɑ l
+Schlinge::N	strop	s t r ɔ p	s t r ɔ p
+Spur::N	spoor	s p o o r	s p o o r
+Asche::N	as	ɑ s	ɑ s
+Dreck::N	drek	d r ɛ k	d r ɛ k
+Eisen::N	ijzer	ɛ i z ə r	ɛ i z ə r
+Gold::N	goud	ɣ ɑ u t	ɣ ɑ u d
+Silber::N	zilver	z ɪ l v ə r	z ɪ l v ə r
+Kohle::N	kool	k o o l	k o o l
+Glas::N	glas	ɣ l ɑ s	ɣ l ɑ s
+Lehm::N	klei	k l ɛ i	k l ɛ i
+Sand::N	zand	z ɑ n t	z ɑ n d
+Mensch::N	mens	m ɛ n s	m ɛ n s
+Mann::N	man	m ɑ n	m ɑ n
+Frau::N	vrouw	v r ɑ u	v r ɑ u
+Kind::N	kind	k ɪ n t	k ɪ n d
+Junge::N	jongen	j ɔ ŋ ə	j ɔ ŋ ə
+Mädchen::N	meisje	m ɛ i ʃ ə	m ɛ i ʃ ə
+Familie::N	gezin	ɣ ə z ɪ n	ɣ ə z ɪ n
+Familie::N	familie	f ɑ m i l i	f ɑ m i l i
+Großvater::N	grootvader	ɣ r o o t f a a d ɛ r	ɣ r o o t f a a d ɛ r
+Großmutter::N	grootmoeder	ɣ r o o t m u u d ə r	ɣ r o o t m u u d ə r
+Eltern::N	ouders	a u d ɛ r s	a u d ɛ r s
+Vater::N	vader	v a a d ə r	v a a d ə r
+Mutter::N	moeder	m u u d ə r	m u u d ə r
+Sohn::N	zoon	z o o n	z o o n
+Tochter::N	dochter	d ɔ x t ə r	d ɔ x t ə r
+Bruder::N	broer	b r u u r	b r u u r
+Bruder::N	broeder	b r u u d ə r	b r u u d ə r
+Schwester::N	zus	z ʏ s	z ʏ s
+Schwester::N	zuster	z ʏ s t ə r	z ʏ s t ə r
+Onkel::N	oom	o o m	o o m
+Tante::N	tante	t ɑ n t ə	t ɑ n t ə
+Ehemann::N	echtgenoot	ɛ x t ɣ e e n o o t	ɛ x t ɣ e e n o o t
+Ehefrau::N	echtgenote	ɛ x t ɣ e e n ɔ t ə	ɛ x t ɣ e e n ɔ t ə
+Freude::N	vreugde	v r ø ø ɣ d ə	v r ø ø ɣ d ə
+Gelächter::N	gelach	ɣ ə l ɑ x	ɣ ə l ɑ x
+Glück::N	geluk	ɣ ə l ɵ k	ɣ ə l ɵ k
+Kummer::N	verdriet	v ɛ r d r i i t	v ɛ r d r i i t
+Wunsch::N	wens	ʋ ɛ n s	ʋ ɛ n s
+Wunsch::N	verlangen	v ɛ r l ɑ ŋ ə	v ɛ r l ɑ ŋ ə
+Lust::N	zin	z ɪ n	z ɪ n
+Lust::N	lust	l ɵ s t	l ɵ s t
+Geist::N	geest	ɣ e e s t	ɣ e e s t
+Gedanke::N	gedachte	ɣ ə d ɑ x t ə	ɣ ə d ɑ x t ə
+Gedächtnis::N	geheugen	ɣ ə h ø ø ɣ ə	ɣ ə h ø ø ɣ ə
+Verstand::N	verstand	v ɛ r s t ɑ n t	v ɛ r s t ɑ n d
+Sinn::N	betekenis	b ə t e e k ɛ n ɪ s	b ə t e e k ɛ n ɪ s
+Grund::N	reden	r e e d ə	r e e d ə
+Wahrheit::N	waarheid	ʋ a a r ɦ ɛ i t	ʋ a a r ɦ ɛ i d
+Gespräch::N	gesprek	ɣ ə s p r ɛ k	ɣ ə s p r ɛ k
+Märchen::N	sprookje	s p r o o c͡ç ə	s p r o o c͡ç ə
+Erzählung::N	verhaal	v ɛ r ɦ a a l	v ɛ r ɦ a a l
+Nachricht::N	tijding	t ɛ i d ɪ ŋ	t ɛ i d ɪ ŋ
+Neuigkeit::N	nieuws	n i i ʏ ʋ s	n i i ʏ ʋ s
+Neuigkeit::N	nieuwtje	n i i ʏ ʋ t j ə	n i i ʏ ʋ t j ə
+Name::N	naam	n a a m	n a a m
+Rätsel::N	raadsel	r a a t s ə l	r a a t s ə l
+Rede::N	rede	r e e d ɛ	r e e d ɛ
+Sprache::N	taal	t a a l	t a a l
+Stimme::N	stem	s t ɛ m	s t ɛ m
+Wort::N	woord	ʋ o o r t	ʋ o o r d
+Zeichen::N	teken	t e e k ə	t e e k ə
+Ruf::N	roep	r u u p	r u u p
+Lärm::N	lawaai	l ɑ ʋ a a i	l ɑ ʋ a a i
+Laut::N	klank	k l ɑ n k	k l ɑ n k
+Laut::N	geluid	ɣ ə l œ y t	ɣ ə l œ y d
+Ton::N	toon	t o o n	t o o n
+Ton::N	klank	k l ɑ n k	k l ɑ n k
+Lied::N	lied	l i i t	l i i d
+Ruhe::N	rust	r ʏ s t	r ʏ s t
+Ruhe::N	stilte	s t ɪ l t ə	s t ɪ l t ə
+Leute::N	lui	l œ y	l œ y
+Leute::N	mensen	m ɛ n s ə	m ɛ n s ə
+Volk::N	volk	v ɔ l k	v ɔ l k
+Arbeit::N	werk	ʋ ɛ r k	ʋ ɛ r k
+Arbeit::N	arbeid	ɑ r b ɛ i t	ɑ r b ɛ i d
+Gast::N	gast	ɣ ɑ s t	ɣ ɑ s t
+Geschenk::N	cadeau	k a a d ɛ a u	k a a d ɛ a u
+Geschenk::N	geschenk	ɣ ə s x ɛ n k	ɣ ə s x ɛ n k
+Spiel::N	spel	s p ɛ l	s p ɛ l
+Gesellschaft::N	gezelschap	ɣ ə z ɛ l s x ɑ p	ɣ ə z ɛ l s x ɑ p
+Hilfe::N	hulp	h ɵ l p	h ɵ l p
+Freund::N	vriend	v r i i n t	v r i i n d
+Kamerad::N	maat	m a a t	m a a t
+Kamerad::N	metgezel	m ɛ t x e e z ɛ l	m ɛ t x e e z ɛ l
+Angelegenheit::N	zaak	z a a k	z a a k
+Angelegenheit::N	aangelegenheid	a a ŋ e e l ɛ ɣ ɛ n ɦ ɛ i t	a a ŋ e e l ɛ ɣ ɛ n ɦ ɛ i d
+Anzahl::N	tal	t ɑ l	t ɑ l
+Anzahl::N	aantal	a a n t ɑ l	a a n t ɑ l
+Art::N	slag	s l ɑ x	s l ɑ x
+Art::N	soort	s o o r t	s o o r t
+Stück::N	stuk	s t ʏ k	s t ʏ k
+Teil::N	deel	d e e l	d e e l
+Hälfte::N	helft	ɦ ɛ l f t	ɦ ɛ l f t
+Kreis::N	kring	k r ɪ ŋ	k r ɪ ŋ
+Kreis::N	cirkel	s ɪ r k ə l	s ɪ r k ə l
+Kreuz::N	kruis	k r œ y s	k r œ y s
+Linie::N	lijn	l ɛ i n	l ɛ i n
+Strich::N	haal	ɦ a a l	ɦ a a l
+Strich::N	streep	s t r e e p	s t r e e p
+Abstand::N	afstand	ɑ f s t ɑ n t	ɑ f s t ɑ n d
+Entfernung::N	afstand	ɑ f s t ɑ n t	ɑ f s t ɑ n d
+Gegend::N	streek	s t r e e k	s t r e e k
+Platz::N	ruimte	r œ y m t ə	r œ y m t ə
+Ort::N	oord	o o r t	o o r d
+Ort::N	plaats	p l a a t s	p l a a t s
+Seite::N	zij	z ɛ i	z ɛ i
+Seite::N	kant	k ɑ n t	k ɑ n t
+Seite::N	zijde	z ɛ i d ə	z ɛ i d ə
+Mitte::N	midden	m ɪ d ə	m ɪ d ə
+Gegenstand::N	voorwerp	v o o r ʋ ɛ r p	v o o r ʋ ɛ r p
+Sache::N	zaak	z a a k	z a a k
+Rand::N	rand	r ɑ n t	r ɑ n d
+Rand::N	boord	b o o r t	b o o r d
+Kante::N	kant	k ɑ n t	k ɑ n t
+Ecke::N	hoek	h u k	h u k
+Spitze::N	punt	p ɵ n t	p ɵ n t
+Spitze::N	spits	s p ɪ t s	s p ɪ t s
+Ende::N	einde	ɛ i n d ə	ɛ i n d ə
+Ende::N	uiteinde	ə ʏ t ɛ i n d ə	ə ʏ t ɛ i n d ə
+Loch::N	gat	ɣ ɑ t	ɣ ɑ t
+Winkel::N	hoek	h u k	h u k
+Muster::N	dessin	d ɛ s ɛ̃ ɛ̃	d ɛ s ɛ̃ ɛ̃
+Muster::N	patroon	p ɑ t r o o n	p ɑ t r o o n
+Größe::N	grootte	ɣ r o o t ə	ɣ r o o t ə
+Länge::N	lengte	l ɛ ŋ t ə	l ɛ ŋ t ə
+Höhe::N	hoogte	ɦ o o x t ə	ɦ o o x t ə
+Gewicht::N	gewicht	ɣ ə ʋ ɪ x t	ɣ ə ʋ ɪ x t
+Menge::N	hoeveelheid	ɦ u u v e e l ɦ ɛ i t	ɦ u u v e e l ɦ ɛ i d
+Haufen::N	hoop	ɦ o o p	ɦ o o p
+Reihe::N	rij	r ɛ i	r ɛ i
+Reihe::N	reeks	r e e k s	r e e k s
+Boot::N	boot	b o o t	b o o t
+Ruder::N	roeiriem	r u i r i i m	r u i r i i m
+Schlitten::N	slee	s l e e	s l e e
+Schlitten::N	slede	s l e e d ə	s l e e d ə
+Ski::N	ski	s k i i	s k i i
+Lagerfeuer::N	kampvuur	k ɑ m p f y y r	k ɑ m p f y y r
+Last::N	last	l ɑ s t	l ɑ s t
+Last::N	vracht	v r ɑ x t	v r ɑ x t
+Gang::N	wandeling	ʋ ɑ n d e e l ɪ ŋ	ʋ ɑ n d e e l ɪ ŋ
+Schritt::N	stap	s t ɑ p	s t ɑ p
+Schritt::N	schrede	s x r e e d ə	s x r e e d ə
+Norden::N	noorden	n o o r d ə	n o o r d ə
+Süden::N	zuiden	z œ y d ə	z œ y d ə
+Westen::N	westen	ʋ ɛ s t ə	ʋ ɛ s t ə
+Osten::N	oosten	o o s t ə	o o s t ə
+Holz::N	hout	ɦ a u t	ɦ a u t
+Brett::N	plank	p l ɑ n k	p l ɑ n k
+Platte::N	plaat	p l a a t	p l a a t
+Stütze::N	stut	s t ɵ t	s t ɵ t
+Stütze::N	steun	s t ø ø n	s t ø ø n
+Stange::N	stang	s t ɑ ŋ	s t ɑ ŋ
+Stock::N	stok	s t o k	s t o k
+Stab::N	staf	s t ɑ f	s t ɑ f
+Rohr::N	pijp	p ɛ i p	p ɛ i p
+Haus::N	huis	ɦ œ y s	ɦ œ y s
+Heim::N	tehuis	t ə h ə ʏ s	t ə h ə ʏ s
+Ofen::N	kachel	k a a x ɛ l	k a a x ɛ l
+Fußboden::N	vloer	v l u u r	v l u u r
+Tisch::N	tafel	t a a f ɛ l	t a a f ɛ l
+Stuhl::N	stoel	s t u l	s t u l
+Wiege::N	wieg	ʋ i i x	ʋ i i x
+Bett::N	bed	b ɛ t	b ɛ d
+Regal::N	rek	r ɛ k	r ɛ k
+Kiste::N	kist	k ɪ s t	k ɪ s t
+Fenster::N	raam	r a a m	r a a m
+Fenster::N	venster	v ɛ n s t ə r	v ɛ n s t ə r
+Tür::N	deur	d ø ø r	d ø ø r
+Tor::N	poort	p o o r t	p o o r t
+Zaun::N	omheining	ɔ m ɦ ɛ i n ɪ ŋ	ɔ m ɦ ɛ i n ɪ ŋ
+Dach::N	dak	d ɑ k	d ɑ k
+Leiter::N	ladder	l ɑ d ə r	l ɑ d ə r
+Besen::N	bezem	b e e z ɛ m	b e e z ɛ m
+Spaten::N	schop	s x ɔ p	s x ɔ p
+Schaufel::N	schep	s x ɛ p	s x ɛ p
+Gabel::N	vork	v ɔ r k	v ɔ r k
+Löffel::N	lepel	l e e p ə l	l e e p ə l
+Messer::N	mes	m ɛ s	m ɛ s
+Nagel::N	spijker	s p ɛ i k ə r	s p ɛ i k ə r
+Netz::N	net	n ɛ t	n ɛ t
+Haken::N	haak	ɦ a a k	ɦ a a k
+Griff::N	handvat	ɦ ɑ n t f ɑ t	ɦ ɑ n t f ɑ t
+Schloss::N	slot	s l ɔ t	s l ɔ t
+Bild::N	beeld	b e e l t	b e e l d
+Figur::N	figuur	f i ɣ y y r	f i ɣ y y r
+Puppe::N	pop	p ɔ p	p ɔ p
+Beutel::N	zak	z ɑ k	z ɑ k
+Beutel::N	buidel	b œ y d ə l	b œ y d ə l
+Bündel::N	pak	p ɑ k	p ɑ k
+Bündel::N	bundel	b ʏ n d ə l	b ʏ n d ə l
+Tasche::N	tas	t ɑ s	t ɑ s
+Eimer::N	emmer	ɛ m ə r	ɛ m ə r
+Deckel::N	deksel	d ɛ k s ə l	d ɛ k s ə l
+Geschirr::N	vaatwerk	v a a t ʋ ɛ r k	v a a t ʋ ɛ r k
+Sack::N	zak	z ɑ k	z ɑ k
+Tasse::N	kop	k ɔ p	k ɔ p
+Topf::N	pan	p ɑ n	p ɑ n
+Kessel::N	ketel	k e e t ə l	k e e t ə l
+Essen::N	eten	e e t ə	e e t ə
+Nahrung::N	voedsel	v u u t s ə l	v u u t s ə l
+Speise::N	spijs	s p ɛ i s	s p ɛ i s
+Fleisch::N	vlees	v l e e s	v l e e s
+Getreide::N	graan	ɣ r a a n	ɣ r a a n
+Brei::N	pap	p ɑ p	p ɑ p
+Brei::N	brij	b r ɛ i	b r ɛ i
+Brot::N	brood	b r o o t	b r o o d
+Scheibe::N	plak	p l ɑ k	p l ɑ k
+Scheibe::N	snede	s n e e d ə	s n e e d ə
+Fett::N	vet	v ɛ t	v ɛ t
+Butter::N	boter	b o o t ɛ r	b o o t ɛ r
+Öl::N	olie	o o l i	o o l i
+Salz::N	zout	z ɑ u t	z ɑ u t
+Suppe::N	soep	s u p	s u p
+Honig::N	honing	ɦ o o n ɪ ŋ	ɦ o o n ɪ ŋ
+Milch::N	melk	m ɛ l k	m ɛ l k
+Tee::N	thee	t e e	t e e
+Leder::N	leer	l e e r	l e e r
+Leder::N	leder	l e e d ɛ r	l e e d ɛ r
+Wolle::N	wol	ʋ ɔ l	ʋ ɔ l
+Stoff::N	stof	s t ɔ f	s t ɔ f
+Nadel::N	naald	n a a l t	n a a l d
+Faden::N	draad	d r a a t	d r a a d
+Knopf::N	knoop	k n o o p	k n o o p
+Knoten::N	knoop	k n o o p	k n o o p
+Farbe::N	verf	v ɛ r f	v ɛ r f
+Kleidung::N	kledij	k l e e d ɛ i	k l e e d ɛ i
+Kleidung::N	kleding	k l e e d ɪ ŋ	k l e e d ɪ ŋ
+Hemd::N	hemd	ɦ ɛ m t	ɦ ɛ m d
+Kragen::N	kraag	k r a a x	k r a a x
+Ärmel::N	mouw	m ɑ u	m ɑ u
+Hose::N	broek	b r u u k	b r u u k
+Hose::N	pantalon	p ɑ n t ɑ l ɔ n	p ɑ n t ɑ l ɔ n
+Gürtel::N	riem	r i i m	r i i m
+Gürtel::N	gordel	ɣ ɔ r d ə l	ɣ ɔ r d ə l
+Mütze::N	muts	m ɵ t s	m ɵ t s
+Schuh::N	schoen	s x u n	s x u n
+Stiefel::N	laars	l a a r s	l a a r s
+Ring::N	ring	r ɪ ŋ	r ɪ ŋ
+Band::N	lint	l ɪ n t	l ɪ n t
+Kamm::N	kam	k ɑ m	k ɑ m
+Spiegel::N	spiegel	s p i i ɣ ə l	s p i i ɣ ə l
+Riemen::N	riem	r i i m	r i i m
+Schnur::N	koord	k o o r t	k o o r d
+Leine::N	lijn	l ɛ i n	l ɛ i n
+Decke::N	deken	d e e k ə	d e e k ə
+Kissen::N	kussen	k ʏ s ə	k ʏ s ə
+Tuch::N	doek	d u k	d u k
+Handtuch::N	handdoek	ɦ ɑ n d u u k	ɦ ɑ n d u u k
+Kraft::N	kracht	k r ɑ x t	k r ɑ x t
+Stärke::N	sterkte	s t ɛ r k t ə	s t ɛ r k t ə
+Gesundheit::N	gezondheid	ɣ ə z ɔ n d ɦ ɛ i t	ɣ ə z ɔ n d ɦ ɛ i d
+Krankheit::N	ziekte	z i i k t ə	z i i k t ə
+Schmerz::N	pijn	p ɛ i n	p ɛ i n
+Wunde::N	wond	ʋ ɔ n t	ʋ ɔ n d
+Fieber::N	koorts	k o o r t s	k o o r t s
+Arznei::N	medicament	m e e d ɪ k a a m ɛ n t	m e e d ɪ k a a m ɛ n t
+Arznei::N	geneesmiddel	ɣ ə n e e s m ɪ d ə l	ɣ ə n e e s m ɪ d ə l
+Brücke::N	brug	b r ʏ x	b r ʏ x
+Brunnen::N	put	p ʏ t	p ʏ t
+Brunnen::N	bron	b r ɔ n	b r ɔ n
+Weide::N	wei	ʋ ɛ i	ʋ ɛ i
+Weide::N	weide	ʋ ɛ i d ə	ʋ ɛ i d ə
+Pfad::N	pad	p ɑ t	p ɑ d
+Weg::N	weg	ʋ ɛ x	ʋ ɛ x
+Straße::N	baan	b a a n	b a a n
+Straße::N	straat	s t r a a t	s t r a a t
+Dorf::N	dorp	d ɔ r p	d ɔ r p
+Stadt::N	stad	s t ɑ t	s t ɑ d
+Brief::N	brief	b r i i f	b r i i f
+Buch::N	boek	b u u k	b u u k
+Buchstabe::N	letter	l ɛ t ə r	l ɛ t ə r
+Zeitung::N	krant	k r ɑ n t	k r ɑ n t
+Zeitung::N	dagblad	d ɑ ɣ ɣ l ɑ t	d ɑ ɣ ɣ l ɑ d
+Leben::N	leven	l e e v ə	l e e v ə
+Tod::N	dood	d o o t	d o o d
+Grab::N	graf	ɣ r ɑ f	ɣ r ɑ f
+Kirche::N	kerk	k ɛ r k	k ɛ r k
+Sünde::N	zonde	z ɔ n d ə	z ɔ n d ə
+Gott::N	god	ɣ ɔ t	ɣ ɔ d
+Arbeiter::N	arbeider	ɑ r b ɛ i d ə r	ɑ r b ɛ i d ə r
+Chef::N	chef	x ɛ f	x ɛ f
+Meister::N	meester	m e e s t ə r	m e e s t ə r
+Arzt::N	arts	ɑ r t s	ɑ r t s
+Arzt::N	dokter	d ɔ k t ə r	d ɔ k t ə r
+Lehrer::N	leraar	l e e r a a r	l e e r a a r
+Lehrer::N	onderwijzer	ɔ n d ɛ r ʋ ɛ i z ə r	ɔ n d ɛ r ʋ ɛ i z ə r
+Geld::N	geld	ɣ ɛ l t	ɣ ɛ l d
+Geschäft::N	zaak	z a a k	z a a k
+Laden::N	winkel	ʋ ɪ n k ə l	ʋ ɪ n k ə l
+Preis::N	prijs	p r ɛ i s	p r ɛ i s
+Ware::N	waar	ʋ a a r	ʋ a a r
+Nutzen::N	nut	n ʏ t	n ʏ t
+Nutzen::N	voordeel	v o o r d e e l	v o o r d e e l
+Reichtum::N	rijkdom	r ɛ i k d ɔ m	r ɛ i k d ɔ m
+Welt::N	wereld	ʋ e e r ə l t	ʋ e e r ə l d
+Land::N	land	l ɑ n t	l ɑ n d
+Staat::N	staat	s t a a t	s t a a t
+König::N	koning	k o o n ɪ ŋ	k o o n ɪ ŋ
+Macht::N	macht	m ɑ x t	m ɑ x t
+Grenze::N	grens	ɣ r ɛ n s	ɣ r ɛ n s
+Krieg::N	oorlog	o o r l ɔ x	o o r l ɔ x
+Feind::N	vijand	v ɛ i ɑ n t	v ɛ i ɑ n d
+Gewalt::N	geweld	ɣ ə ʋ ɛ l t	ɣ ə ʋ ɛ l d
+Kampf::N	strijd	s t r ɛ i t	s t r ɛ i d
+Kampf::N	gevecht	ɣ ə v ɛ x t	ɣ ə v ɛ x t
+Bogen[Waffe]::N	boog	b o o x	b o o x
+Pfeil::N	pijl	p ɛ i l	p ɛ i l
+Gewehr::N	geweer	ɣ ə ʋ e e r	ɣ ə ʋ e e r
+Fehler::N	fout	f a u t	f a u t
+Lüge::N	leugen	l ø ø ɣ ə	l ø ø ɣ ə
+Schaden::N	schade	s x a a d ɛ	s x a a d ɛ
+Unglück::N	tegenspoed	t ɛ ɣ ə s p u t	t ɛ ɣ ə s p u d
+Schuld::N	schuld	s x ɵ l t	s x ɵ l d
+Alter::N	leeftijd	l e e f t ɛ i t	l e e f t ɛ i d
+Schluss::N	slot	s l ɔ t	s l ɔ t
+Zeit::N	tijd	t ɛ i t	t ɛ i d
+Tag::N	dag	d ɑ x	d ɑ x
+Morgen::N	morgen	m ɔ r ɣ ə	m ɔ r ɣ ə
+Morgen::N	ochtend	ɔ x t ɛ n t	ɔ x t ɛ n d
+Mittag::N	middag	m ɪ d ɑ x	m ɪ d ɑ x
+Abend::N	avond	a a v ɔ n t	a a v ɔ n d
+Nacht::N	nacht	n ɑ x t	n ɑ x t
+Woche::N	week	ʋ e e k	ʋ e e k
+Monat::N	maand	m a a n t	m a a n d
+Jahr::N	jaar	j a a r	j a a r
+Frühling::N	lente	l ɛ n t ə	l ɛ n t ə
+Frühling::N	voorjaar	v o o r j a a r	v o o r j a a r
+Sommer::N	zomer	z o o m ə r	z o o m ə r
+Herbst::N	herfst	ɦ ɛ r f s t	ɦ ɛ r f s t
+Winter::N	winter	ʋ ɪ n t ə r	ʋ ɪ n t ə r
+Januar::N	januari	j a a n ʏ a a r ɪ	j a a n ʏ a a r ɪ
+Februar::N	februari	f e b r y u a a r i	f e b r y u a a r i
+März::N	maart	m a a r t	m a a r t
+April::N	april	ɑ p r ɪ l	ɑ p r ɪ l
+Mai::N	mei	m ɛ i	m ɛ i
+Juni::N	juni	j y n i	j y n i
+Juli::N	juli	j y l i	j y l i
+August::N	augustus	a u ɣ ʏ s t ʏ s	a u ɣ ʏ s t ʏ s
+September::N	september	s ɛ p t ɛ m b ə r	s ɛ p t ɛ m b ə r
+Oktober::N	oktober	ɔ k t o o b ɛ r	ɔ k t o o b ɛ r
+November::N	november	n o o v ɛ m b ə r	n o o v ɛ m b ə r
+Dezember::N	december	d e s ɛ m b ə r	d e s ɛ m b ə r
+Montag::N	maandag	m a a n d ɑ x	m a a n d ɑ x
+Dienstag::N	dinsdag	d i n s d ɑ x	d i n s d ɑ x
+Mittwoch::N	woensdag	ʋ u n s d ɑ x	ʋ u n s d ɑ x
+Donnerstag::N	donderdag	d ɔ n d ɛ r d ɑ x	d ɔ n d ɛ r d ɑ x
+Freitag::N	vrijdag	v r ɛ i d ɑ x	v r ɛ i d ɑ x
+Samstag::N	zaterdag	z a a t ə r d ɑ x	z a a t ə r d ɑ x
+Sonntag::N	zondag	z ɔ n d ɑ x	z ɔ n d ɑ x
+groß::A	groot	ɣ r o o t	ɣ r o o t
+klein::A	klein	k l ɛ i n	k l ɛ i n
+lang::A	lang	l ɑ ŋ	l ɑ ŋ
+kurz::A	kort	k ɔ r t	k ɔ r t
+breit::A	breed	b r e e t	b r e e d
+schmal::A	smal	s m ɑ l	s m ɑ l
+dicht::A	dicht	d ɪ x t	d ɪ x t
+dick[Gegenstand]::A	dik	d ɪ k	d ɪ k
+dünn::A	dun	d ɵ n	d ɵ n
+fein::A	fijn	f ɛ i n	f ɛ i n
+fest::A	vast	v ɑ s t	v ɑ s t
+flach::A	plat	p l ɑ t	p l ɑ t
+glatt::A	glad	ɣ l ɑ t	ɣ l ɑ d
+hart::A	hard	ɦ ɑ r t	ɦ ɑ r d
+weich::A	week	ʋ e e k	ʋ e e k
+rund::A	rond	r ɔ n t	r ɔ n d
+spitz::A	spits	s p ɪ t s	s p ɪ t s
+spitz::A	puntig	p ɵ n t ə x	p ɵ n t ə x
+scharf::A	scherp	s x ɛ r p	s x ɛ r p
+stumpf::A	stomp	s t ɔ m p	s t ɔ m p
+schwer::A	zwaar	z ʋ a a r	z ʋ a a r
+schön::A	mooi	m o o i	m o o i
+schön::A	fraai	f r a a i	f r a a i
+heiß::A	heet	ɦ e e t	ɦ e e t
+warm::A	warm	ʋ ɑ r m	ʋ ɑ r m
+kalt::A	koud	k a u t	k a u d
+kühl::A	koel	k u u l	k u u l
+frisch::A	fris	f r ɪ s	f r ɪ s
+feucht::A	vochtig	v ɔ x t ə x	v ɔ x t ə x
+nass::A	nat	n ɑ t	n ɑ t
+trocken::A	droog	d r o o x	d r o o x
+voll::A	vol	v ɔ l	v ɔ l
+leer::A	leeg	l e e x	l e e x
+offen::A	open	o o p ə	o o p ə
+geschlossen::A	gesloten	ɣ ə s l o o t ə	ɣ ə s l o o t ə
+sauber::A	net	n ɛ t	n ɛ t
+sauber::A	schoon	s x o o n	s x o o n
+schmutzig::A	vuil	v œ y l	v œ y l
+roh::A	rauw	r a u ʋ	r a u ʋ
+reif::A	rijp	r ɛ i p	r ɛ i p
+lecker::A	lekker	l ɛ k ə r	l ɛ k ə r
+süß::A	zoet	z u u t	z u u t
+bitter::A	bitter	b ɪ t ə r	b ɪ t ə r
+sauer::A	zuur	z y y r	z y y r
+hell::A	licht	l ɪ x t	l ɪ x t
+hell::A	helder	ɦ ɛ l d ə r	ɦ ɛ l d ə r
+dunkel::A	donker	d ɔ n k ə r	d ɔ n k ə r
+schwarz::A	zwart	z ʋ ɑ r t	z ʋ ɑ r t
+weiß::A	wit	ʋ ɪ t	ʋ ɪ t
+rot::A	rood	r o o t	r o o d
+gelb::A	geel	ɣ e e l	ɣ e e l
+blau::A	blauw	b l a u ʋ	b l a u ʋ
+grün::A	groen	ɣ r u u n	ɣ r u u n
+grau::A	grijs	ɣ r ɛ i s	ɣ r ɛ i s
+bunt::A	bont	b ɔ n t	b ɔ n t
+billig::A	goedkoop	ɣ u t k o o p	ɣ u t k o o p
+teuer::A	duur	d y y r	d y y r
+wertvoll::A	kostbaar	k ɔ s t b a a r	k ɔ s t b a a r
+wertvoll::A	waardevol	ʋ a a r d e e v ɔ l	ʋ a a r d e e v ɔ l
+blind::A	blind	b l ɪ n t	b l ɪ n d
+taub::A	doof	d o o f	d o o f
+kräftig::A	krachtig	k r ɑ x t ɪ x	k r ɑ x t ɪ x
+stark::A	sterk	s t ɛ r k	s t ɛ r k
+schwach::A	zwak	z ʋ ɑ k	z ʋ ɑ k
+fett::A	vet	v ɛ t	v ɛ t
+schlank::A	slank	s l ɑ n k	s l ɑ n k
+hübsch::A	leuk	l ø ø k	l ø ø k
+böse::A	kwaad	k ʋ a a t	k ʋ a a d
+dumm::A	dom	d ɔ m	d ɔ m
+faul::A	lui	l ə ʏ	l ə ʏ
+fleißig::A	vlijtig	v l ɛ i t ə x	v l ɛ i t ə x
+geizig::A	gierig	ɣ i i r ɪ x	ɣ i i r ɪ x
+klug::A	slim	s l ɪ m	s l ɪ m
+klug::A	schrander	s x r ɑ n d ə r	s x r ɑ n d ə r
+klug::A	verstandig	v ɛ r s t ɑ n d ə x	v ɛ r s t ɑ n d ə x
+geschickt::A	handig	ɦ ɑ n d ɪ x	ɦ ɑ n d ɪ x
+geschickt::A	vaardig	v a a r d ə x	v a a r d ə x
+lieb::A	lief	l i i f	l i i f
+lustig::A	vrolijk	v r o o l ə k	v r o o l ə k
+sanft::A	zacht	z ɑ x t	z ɑ x t
+hungrig::A	hongerig	ɦ ɔ ŋ e e r ɪ x	ɦ ɔ ŋ e e r ɪ x
+krank::A	ziek	z i i k	z i i k
+nackt::A	naakt	n a a k t	n a a k t
+traurig::A	treurig	t r ø ø r ə x	t r ø ø r ə x
+traurig::A	bedroefd	b ə d r u u f t	b ə d r u u f d
+lebendig::A	levend	l e e v ɛ n t	l e e v ɛ n d
+gut::A	goed	ɣ u t	ɣ u d
+schlecht::A	slecht	s l ɛ x t	s l ɛ x t
+richtig::A	juist	j œ y s t	j œ y s t
+schlimm::A	erg	ɛ r x	ɛ r x
+schlimm::A	kwaad	k ʋ a a t	k ʋ a a d
+wahr::A	waar	ʋ a a r	ʋ a a r
+alt::A	oud	ɑ u t	ɑ u d
+neu::A	nieuw	n i u	n i u
+ehemalig::A	voormalig	v o o r m a a l ə x	v o o r m a a l ə x
+alt[Lebewesen]::A	oud	ɑ u t	ɑ u d
+jung::A	jong	j ɔ ŋ	j ɔ ŋ
+arm::A	arm	ɑ r m	ɑ r m
+reich::A	rijk	r ɛ i k	r ɛ i k
+bekannt::A	bekend	b ə k ɛ n t	b ə k ɛ n d
+berühmt::A	beroemd	b ə r u u m t	b ə r u u m d
+fremd::A	vreemd	v r e e m t	v r e e m d
+verschieden::A	verscheiden	v ɛ r s x ɛ i d ə	v ɛ r s x ɛ i d ə
+verschieden::A	verschillend	v ɛ r s x ɪ l ɛ n t	v ɛ r s x ɪ l ɛ n d
+nah::A	nabij	n a a b ɛ i	n a a b ɛ i
+nah::A	nabijgelegen	n a a b ɛ i ɣ e e l ɛ ɣ ə	n a a b ɛ i ɣ e e l ɛ ɣ ə
+fern::A	ver	v ə r	v ə r
+linker::A	linker	l ɪ n k ə r	l ɪ n k ə r
+rechter::A	rechter	r ɛ x t ə r	r ɛ x t ə r
+anderer::A	andere	ɑ n d e e r ɛ	ɑ n d e e r ɛ
+erster::A	eerste	e e r s t ə	e e r s t ə
+zweiter::A	tweede	t ʋ e e d ə	t ʋ e e d ə
+dritter::A	derde	d ɛ r d ə	d ɛ r d ə
+letzter::A	laatste	l a a t s t ə	l a a t s t ə
+allein::ADV	alleen	ɑ l e e n	ɑ l e e n
+auf einmal::ADV	ineens	i i n e e n s	i i n e e n s
+auf einmal::ADV	tegelijk	t ə ɣ ə l ɛ i k	t ə ɣ ə l ɛ i k
+zusammen::ADV	samen	s a a m ə	s a a m ə
+zusammen::ADV	bijeen	b ɛ i e e n	b ɛ i e e n
+lange::ADV	lang	l ɑ ŋ	l ɑ ŋ
+plötzlich::ADV	eensklaps	e e n s k l ɑ p s	e e n s k l ɑ p s
+plötzlich::ADV	plotsklaps	p l ɔ t s k l ɑ p s	p l ɔ t s k l ɑ p s
+sofort::ADV	terstond	t ɛ r s t ɔ n t	t ɛ r s t ɔ n d
+sofort::ADV	aanstonds	a a n s t ɔ n t s	a a n s t ɔ n t s
+sofort::ADV	onmiddelijk	ɔ n m ɪ d ə l ə k	ɔ n m ɪ d ə l ə k
+später::ADV	later	l a a t ɛ r	l a a t ɛ r
+jetzt::ADV	nu	n y	n y
+jetzt::ADV	nou	n ɑ u	n ɑ u
+jetzt::ADV	thans	t ɑ n s	t ɑ n s
+heute::ADV	heden	h e e d ə	h e e d ə
+heute::ADV	vandaag	v ɑ n d a a x	v ɑ n d a a x
+morgen::ADV	morgen	m ɔ r ɣ ə	m ɔ r ɣ ə
+bald::ADV	gauw	ɣ ɑ u	ɣ ɑ u
+bald::ADV	weldra	ʋ ɛ l d r a a	ʋ ɛ l d r a a
+dann::ADV	dan	d ɑ n	d ɑ n
+dann::ADV	toen	t u n	t u n
+gestern::ADV	gisteren	ɣ ɪ s t ə r ə	ɣ ɪ s t ə r ə
+einst::ADV	eens	e e n s	e e n s
+damals::ADV	toen	t u u n	t u u n
+damals::ADV	destijds	d ɛ s t ɛ i t s	d ɛ s t ɛ i t s
+danach::ADV	daarna	d a a r n a a	d a a r n a a
+vorher::ADV	vooraf	v o o r ɑ f	v o o r ɑ f
+vorher::ADV	van tevoren	v ɑ n _ t ə v o o r ə	v ɑ n _ t ə v o o r ə
+zuerst::ADV	eerst	e e r s t	e e r s t
+zuerst::ADV	het eerst	ɦ ɛ t _ e e r s t	ɦ ɛ t _ e e r s t
+einmal::ADV	eens	e e n s	e e n s
+einmal::ADV	eenmaal	e e n m a a l	e e n m a a l
+manchmal::ADV	soms	s ɔ m s	s ɔ m s
+oft::ADV	vaak	v a a k	v a a k
+oft::ADV	dikwijls	d ɪ k ʋ ɛ i l s	d ɪ k ʋ ɛ i l s
+immer::ADV	altijd	ɑ l t ɛ i t	ɑ l t ɛ i d
+niemals::ADV	nooit	n o o i t	n o o i t
+hier::ADV	hier	ɦ i i r	ɦ i i r
+hierhin::ADV	hierheen	ɦ i i r ɦ e e n	ɦ i i r ɦ e e n
+von hier::ADV	van hier	v ɑ n _ ɦ i i r	v ɑ n _ ɦ i i r
+von hier::ADV	hiervandaan	ɦ i i r v ɑ n d a a n	ɦ i i r v ɑ n d a a n
+dort::ADV	daar	d a a r	d a a r
+dort::ADV	ginds	ɣ ɪ n t s	ɣ ɪ n t s
+dorthin::ADV	daarheen	d a a r ɦ e e n	d a a r ɦ e e n
+geradeaus::ADV	rechtuit	r ɛ x t ə ʏ t	r ɛ x t ə ʏ t
+geradeaus::ADV	rechtdoor	r ɛ x t d o o r	r ɛ x t d o o r
+vorwärts::ADV	vooruit	v o o r œ y t	v o o r œ y t
+vorwärts::ADV	voorwaarts	v o o r ʋ a a r t s	v o o r ʋ a a r t s
+rückwärts::ADV	achteruit	ɑ x t e e r œ y t	ɑ x t e e r œ y t
+rückwärts::ADV	achterwaarts	ɑ x t ɛ r ʋ a a r t s	ɑ x t ɛ r ʋ a a r t s
+zurück::ADV	terug	t ə r ɵ x	t ə r ɵ x
+unten::ADV	beneden	b ə n e e d ə	b ə n e e d ə
+unten::ADV	onderaan	ɔ n d e e r a a n	ɔ n d e e r a a n
+hinab::ADV	omlaag	ɔ m l a a x	ɔ m l a a x
+hinab::ADV	naar beneden	n a a r _ b e e n ɛ d ə	n a a r _ b e e n ɛ d ə
+oben::ADV	boven	b o o v ə	b o o v ə
+hinauf::ADV	omhoog	ɔ m ɦ o o x	ɔ m ɦ o o x
+hinauf::ADV	naar boven	n a a r _ b o o v ə	n a a r _ b o o v ə
+überall::ADV	alom	a a l ɔ m	a a l ɔ m
+überall::ADV	overal	o o v ɛ r ɑ l	o o v ɛ r ɑ l
+nicht::ADV	niet	n i i t	n i i t
+ein wenig::ADV	wat	ʋ ɑ t	ʋ ɑ t
+kaum::ADV	amper	ɑ m p ə r	ɑ m p ə r
+kaum::ADV	nauwelijks	n ɑ u ə l ə k s	n ɑ u ə l ə k s
+sehr::ADV	erg	ɛ r x	ɛ r x
+sehr::ADV	zeer	z e e r	z e e r
+so::ADV	zo	z o o	z o o
+noch::ADV	nog	n ɔ x	n ɔ x
+nur::ADV	maar	m a a r	m a a r
+nur::ADV	alleen	ɑ l e e n	ɑ l e e n
+schon::ADV	al	ɑ l	ɑ l
+schon::ADV	reeds	r e e t s	r e e t s
+wieder::ADV	weer	ʋ e e r	ʋ e e r
+wieder::ADV	terug	t ə r ɵ x	t ə r ɵ x
+vergebens::ADV	vergeefs	v ɛ r ɣ e e f s	v ɛ r ɣ e e f s
+vergebens::ADV	tevergeefs	t ə v ə r ɣ e e f s	t ə v ə r ɣ e e f s
+vor::PRP	voor	v o o r	v o o r
+hinter::PRP	achter	ɑ x t ə r	ɑ x t ə r
+unter::PRP	onder	ɔ n d ə r	ɔ n d ə r
+unter::PRP	beneden	b ə n e e d ə	b ə n e e d ə
+durch::PRP	door	d o o r	d o o r
+neben::PRP	naast	n a a s t	n a a s t
+zwischen::PRP	tussen	t ɵ s ə	t ɵ s ə
+wegen::PRP	wegens	ʋ e e ɣ ɛ n s	ʋ e e ɣ ɛ n s
+wegen::PRP	vanwege	v ɑ n u e e ɣ ə	v ɑ n u e e ɣ ə
+dies::PRN	dit	d ɪ t	d ɪ t
+das::PRN	dat	d ɑ t	d ɑ t
+alles::PRN	alles	ɑ l ɛ s	ɑ l ɛ s
+ich::PRN	ik	ɪ k	ɪ k
+du::PRN	je	j ə	j ə
+du::PRN	jij	j ɛ i	j ɛ i
+er::PRN	hij	h ɛ i _	h ɛ i _
+wir::PRN	we	ʋ ə	ʋ ə
+wir::PRN	wij	ʋ ɛ i	ʋ ɛ i
+ihr::PRN	jullie	j ɵ l i	j ɵ l i
+sie::PRN	ze	z ə	z ə
+sie::PRN	zij	z ɛ i	z ɛ i
+was::FPRN	wat	ʋ ɑ t	ʋ ɑ t
+wer::FPRN	wie	ʋ i i	ʋ i i
+wo::FADV	waar	ʋ a a r	ʋ a a r
+wohin::FADV	waarheen	ʋ a a r ɦ e e n	ʋ a a r ɦ e e n
+wie::FADV	hoe	h u	h u
+warum::FADV	waarom	ʋ a a r ɔ m	ʋ a a r ɔ m
+wieviel::FNUM	hoeveel	ɦ u u v e e l	ɦ u u v e e l
+eins::NUM	één	e e n	e e n
+zwei::NUM	twee	t ʋ e e	t ʋ e e
+drei::NUM	drie	d r i i	d r i i
+vier::NUM	vier	v i i r	v i i r
+fünf::NUM	vijf	v ɛ i f	v ɛ i f
+sechs::NUM	zes	z ɛ s	z ɛ s
+sieben::NUM	zeven	z e e v ə	z e e v ə
+acht::NUM	acht	ɑ x t	ɑ x t
+neun::NUM	negen	n e e ɣ ə	n e e ɣ ə
+zehn::NUM	tien	t ɪ ɪ n	t ɪ ɪ n
+elf::NUM	elf	ɛ l f	ɛ l f
+zwölf::NUM	twaalf	t ʋ a a l f	t ʋ a a l f
+zwanzig::NUM	twintig	t u ɪ n t ə x	t u ɪ n t ə x
+dreißig::NUM	dertig	d ɛ r t ɪ x	d ɛ r t ɪ x
+vierzig::NUM	veertig	f e e r t ə x	f e e r t ə x
+fünfzig::NUM	vijftig	f ɛ i f t ə x	f ɛ i f t ə x
+sechzig::NUM	zestig	s ɛ s t ə x	s ɛ s t ə x
+siebzig::NUM	zeventig	s e e v ə n t ə x	s e e v ə n t ə x
+achtzig::NUM	tachtig	t ɑ x t ə x	t ɑ x t ə x
+neunzig::NUM	negentig	n e e ɣ ə t ə x	n e e ɣ ə t ə x
+hundert::NUM	honderd	ɦ ɔ n d ɛ r t	ɦ ɔ n d ɛ r d
+tausend::NUM	duizend	d œ y z ɛ n t	d œ y z ɛ n d
+und::CNJ	en	ɛ n	ɛ n
+oder::CNJ	of	ɔ f	ɔ f
+stehen::V	staan	s t a a n	s t a a n
+sitzen::V	zitten	z ɪ t ə	z ɪ t ə
+liegen::V	liggen	l ɪ ɣ ə	l ɪ ɣ ə
+hängen::V	hangen	ɦ ɑ ŋ ə	ɦ ɑ ŋ ə
+werden::V	worden	ʋ ɔ r d ə	ʋ ɔ r d ə
+passieren::V	gebeuren	ɣ ə b ø ø r ə	ɣ ə b ø ø r ə
+beginnen::V	beginnen	b ə ɣ ɪ n ə	b ə ɣ ɪ n ə
+enden::V	eindigen	ɛ i n d i i ɣ ə	ɛ i n d i i ɣ ə
+wechseln::V	wijzigen	ʋ ɛ i z i i ɣ ə	ʋ ɛ i z i i ɣ ə
+wechseln::V	veranderen	v e e r ɑ n d e e r ə	v e e r ɑ n d e e r ə
+aufgehen[Sonne]::V	opgaan	ɔ p x a a n	ɔ p x a a n
+untergehen[Sonne]::V	ondergaan	ɔ n d ɛ r ɣ a a n	ɔ n d ɛ r ɣ a a n
+scheinen[Sonne]::V	schijnen	s x ɛ i n ə	s x ɛ i n ə
+donnern::V	donderen	d ɔ n d ə r ə	d ɔ n d ə r ə
+wehen::V	waaien	ʋ a a i ɪ n	ʋ a a i ɪ n
+strömen::V	stromen	s t r o o m ə	s t r o o m ə
+fließen::V	vloeien	v l u i ə	v l u i ə
+sich drehen::V	draaien	d r a a i ɪ n	d r a a i ɪ n
+sich drehen::V	zich draaien	z ɪ x _ d r a a i ɪ n	z ɪ x _ d r a a i ɪ n
+schwanken::V	wankelen	ʋ ɑ n k ə l ə	ʋ ɑ n k ə l ə
+schwingen::V	zwieren	z ʋ i i r ə	z ʋ i i r ə
+fallen::V	vallen	v ɑ l ə	v ɑ l ə
+brennen::V	branden	b r ɑ n d ə	b r ɑ n d ə
+rauchen::V	roken	r o o k ə	r o o k ə
+regnen::V	regenen	r e e ɣ ɛ n ə	r e e ɣ ɛ n ə
+gefrieren::V	bevriezen	b ə v r i i z ə	b ə v r i i z ə
+tauen::V	dooien	d o o i ɪ n	d o o i ɪ n
+schmelzen::V	smelten	s m ɛ l t ə	s m ɛ l t ə
+trocknen::V	drogen	d r o o ɣ ə	d r o o ɣ ə
+sieden::V	koken	k o o k ə	k o o k ə
+sieden::V	zieden	z i i d ə	z i i d ə
+faulen::V	rotten	r ɔ t ə	r ɔ t ə
+verfaulen::V	verrotten	v ɛ r ɔ t ə	v ɛ r ɔ t ə
+reißen::V	scheuren	s x ø ø r ə	s x ø ø r ə
+versinken::V	verzinken	v ɛ r z ɪ n k ə	v ɛ r z ɪ n k ə
+vergehen::V	vergaan	v ɛ r ɣ a a n	v ɛ r ɣ a a n
+erscheinen::V	opdagen	ɔ b p a a ɣ ə	ɔ b p a a ɣ ə
+erscheinen::V	verschijnen	v ɛ r s x ɛ i n ə	v ɛ r s x ɛ i n ə
+verschwinden::V	verdwijnen	v ɛ r d u ɛ i n ə	v ɛ r d u ɛ i n ə
+sinken::V	zinken	z ɪ n k ə	z ɪ n k ə
+abnehmen::V	afnemen	ɑ f n e e m ə	ɑ f n e e m ə
+abnehmen::V	verminderen	v ɛ r m ɪ n d ə r ə	v ɛ r m ɪ n d ə r ə
+zunehmen::V	toenemen	t u n e e m ə	t u n e e m ə
+steigen::V	stijgen	s t ɛ i ɣ ə	s t ɛ i ɣ ə
+steigen::V	omhooggaan	ɔ m ɦ o o ɣ a a n	ɔ m ɦ o o ɣ a a n
+wachsen::V	groeien	ɣ r u i ɪ n	ɣ r u i ɪ n
+glänzen::V	glanzen	ɣ l ɑ n z ə	ɣ l ɑ n z ə
+glänzen::V	schitteren	s x ɪ t ə r ə	s x ɪ t ə r ə
+funkeln::V	fonkelen	f ɔ n k ə l ə	f ɔ n k ə l ə
+lärmen::V	lawaai maken	l ɑ ʋ a a i _ m a a k ə	l ɑ ʋ a a i _ m a a k ə
+läuten::V	luiden	l œ y d ə	l œ y d ə
+klingeln::V	bellen	b ə l ə	b ə l ə
+klirren::V	rinkelen	r ɪ ŋ k ə l ə	r ɪ ŋ k ə l ə
+brausen::V	bruisen	b r œ y s ə	b r œ y s ə
+rauschen::V	ruisen	r ə ʏ s ə	r ə ʏ s ə
+klingen::V	klinken	k l ɪ n k ə	k l ɪ n k ə
+bellen::V	blaffen	b l ɑ f ə	b l ɑ f ə
+heulen::V	huilen	ɦ œ y l ə	ɦ œ y l ə
+blasen::V	blazen	b l a a z ə	b l a a z ə
+pfeifen::V	fluiten	f l œ y t ə	f l œ y t ə
+schreien::V	gillen	ɣ ɪ l ə	ɣ ɪ l ə
+schreien::V	schreeuwen	s x r e e u ə	s x r e e u ə
+stöhnen::V	steunen	s t ø ø n ə	s t ø ø n ə
+zittern::V	beven	b ə v ə	b ə v ə
+zittern::V	sidderen	s ɪ d ə r ə	s ɪ d ə r ə
+leben::V	leven	l e e v ə	l e e v ə
+geboren werden::V	geboren worden	ɣ ə b o o r ɛ n _ ʋ ɔ r d ə	ɣ ə b o o r ɛ n _ ʋ ɔ r d ə
+atmen::V	ademen	a a d ɛ m ə	a a d ɛ m ə
+trinken::V	drinken	d r ɪ n k ə	d r ɪ n k ə
+essen::V	eten	e e t ə	e e t ə
+schlucken::V	slikken	s l ɪ k ə	s l ɪ k ə
+müde werden::V	moe worden	m u _ ʋ ɔ r d ə	m u _ ʋ ɔ r d ə
+einschlafen::V	inslapen	ɪ n s l a a p ə	ɪ n s l a a p ə
+schlafen::V	slapen	s l a a p ə	s l a a p ə
+aufwachen::V	ontwaken	ɔ n t ʋ a a k ə	ɔ n t ʋ a a k ə
+aufwachen::V	wakker worden	ʋ ɑ k ɛ r _ ʋ ɔ r d ə	ʋ ɑ k ɛ r _ ʋ ɔ r d ə
+aufstehen::V	opstaan	ɔ p s t a a n	ɔ p s t a a n
+sich erholen::V	zich ontspannen	z ɪ x _ ɔ n t s p ɑ n ə	z ɪ x _ ɔ n t s p ɑ n ə
+krank werden::V	ziek worden	z i i k _ ʋ ɔ r d ə	z i i k _ ʋ ɔ r d ə
+krank sein::V	ziek zijn	z i i k _ z ɛ i n	z i i k _ z ɛ i n
+schmerzen::V	pijn doen	p ɛ i n _ d u u n	p ɛ i n _ d u u n
+husten::V	hoesten	ɦ u u s t ə	ɦ u u s t ə
+genesen::V	genezen	ɣ ə n e e z ə	ɣ ə n e e z ə
+sterben::V	sterven	s t ɛ r v ə	s t ɛ r v ə
+sterben::V	overlijden	o o v ɛ r l ɛ i d ə	o o v ɛ r l ɛ i d ə
+umkommen::V	omkomen	ɔ m k o o m ə	ɔ m k o o m ə
+sich bewegen::V	zich bewegen	z ɪ x _ b ɛ ʋ e e ɣ ə	z ɪ x _ b ɛ ʋ e e ɣ ə
+sich rühren::V	zich verroeren	z ɪ x ɛ r u u r ə	z ɪ x ɛ r u u r ə
+sich erheben::V	oprijzen	ɔ p r ɛ i z ə	ɔ p r ɛ i z ə
+sich erheben::V	verrijzen	v ɛ r ɛ i z ə	v ɛ r ɛ i z ə
+sich setzen::V	gaan zitten	ɣ a a n _ z ɪ t ə	ɣ a a n _ z ɪ t ə
+hinfallen::V	vallen	v ɑ l ə	v ɑ l ə
+hinfallen::V	neervallen	n e e r v ɑ l ə	n e e r v ɑ l ə
+laufen::V	lopen	l o o p ə	l o o p ə
+schreiten::V	stappen	s t ɑ p ə	s t ɑ p ə
+schreiten::V	schrijden	s x r ɛ i d ə	s x r ɛ i d ə
+spazierengehen::V	gaan wandelen	ɣ a a n _ ʋ ɑ n d ə l ə	ɣ a a n _ ʋ ɑ n d ə l ə
+eilen::V	ijlen	ɛ i l ə	ɛ i l ə
+eilen::V	haasten	ɦ a a s t ə	ɦ a a s t ə
+sich beeilen::V	zich haasten	z ɪ x _ ɦ a a s t ə	z ɪ x _ ɦ a a s t ə
+sausen::V	stuiven	s t œ y v ə	s t œ y v ə
+rennen::V	rennen	r ɛ n ə	r ɛ n ə
+springen::V	springen	s p r ɪ ŋ ə	s p r ɪ ŋ ə
+klettern::V	klimmen	k l ɪ m ə	k l ɪ m ə
+klettern::V	klauteren	k l a u t e e r ə	k l a u t e e r ə
+schaukeln::V	schommelen	s x ɔ m m ə l ə	s x ɔ m m ə l ə
+kriechen::V	kruipen	k r œ y p ə	k r œ y p ə
+schwimmen::V	zwemmen	z ʋ ɛ m ə	z ʋ ɛ m ə
+tauchen::V	duiken	d œ y k ə	d œ y k ə
+rudern::V	roeien	r u i ɪ n	r u i ɪ n
+fahren::V	rijden	r ɛ i ə	r ɛ i ə
+fliegen::V	vliegen	v l i i ɣ ə	v l i i ɣ ə
+gehen::V	gaan	ɣ a a n	ɣ a a n
+weggehen::V	weggaan	ʋ ɛ ɣ a a n	ʋ ɛ ɣ a a n
+abfahren::V	vertrekken	v ɛ r t r ɛ k ə	v ɛ r t r ɛ k ə
+anhalten::V	stoppen	s t ɔ p ə	s t ɔ p ə
+anhalten::V	stilhouden	s t ɪ l h ɑ u ə	s t ɪ l h ɑ u ə
+hineingehen::V	ingaan	ɪ ŋ a a n	ɪ ŋ a a n
+hineingehen::V	binnengaan	b ɪ n ɛ ŋ a a n	b ɪ n ɛ ŋ a a n
+eintreten::V	binnenkomen	b ɪ n ɛ n k o o m ə	b ɪ n ɛ n k o o m ə
+kommen::V	komen	k o o m ə	k o o m ə
+ankommen::V	aankomen	a a n k o o m ə	a a n k o o m ə
+zurückkommen::V	terugkomen	t e e r ʏ x k o o m ə	t e e r ʏ x k o o m ə
+bleiben::V	blijven	b l ɛ i v ə	b l ɛ i v ə
+warten::V	wachten	ʋ ɑ x t ə	ʋ ɑ x t ə
+erwarten::V	verwachten	v ɛ r ʋ ɑ x t ə	v ɛ r ʋ ɑ x t ə
+suchen::V	zoeken	z u u k ə	z u u k ə
+finden::V	vinden	v ɪ n d ə	v ɪ n d ə
+versuchen::V	proberen	p r ɔ b ə r ə	p r ɔ b ə r ə
+versuchen::V	beproeven	b ə p r u u v ə	b ə p r u u v ə
+vorbereiten::V	voorbereiden	v o o r b e e r ɛ i d ə	v o o r b e e r ɛ i d ə
+lieben::V	houden van	ɦ a u d ɛ n _ v ɑ n	ɦ a u d ɛ n _ v ɑ n
+mögen::V	lusten	l ʏ s t ə	l ʏ s t ə
+mögen::V	houden van	ɦ a u d ɛ n _ v ɑ n	ɦ a u d ɛ n _ v ɑ n
+lachen::V	lachen	l a a x ə	l a a x ə
+rühren::V	roeren	r u u r ə	r u u r ə
+weinen::V	huilen	ɦ œ y l ə	ɦ œ y l ə
+weinen::V	schreien	s x r ɛ i ə	s x r ɛ i ə
+schimpfen::V	kijven	k ɛ i v ə	k ɛ i v ə
+schimpfen::V	schelden	s x ɛ l d ə	s x ɛ l d ə
+sich ärgern::V	zich ergeren	z ɪ x _ ɛ r ɣ ə r ə	z ɪ x _ ɛ r ɣ ə r ə
+sich fürchten::V	bang zijn	b ɑ ŋ _ z ɛ i n	b ɑ ŋ _ z ɛ i n
+fürchten::V	vrezen	v r e e z ə	v r e e z ə
+fliehen::V	vluchten	v l ʏ x t ə	v l ʏ x t ə
+flüchten::V	ontsnappen	ɔ n t s n ɑ p ə	ɔ n t s n ɑ p ə
+flüchten::V	ontkomen	ɔ n t k o o m ə	ɔ n t k o o m ə
+sehen::V	zien	z ɪ ɪ n	z ɪ ɪ n
+anschauen::V	aankijken	a a n k ɛ i k ə	a a n k ɛ i k ə
+ansehen::V	aanzien	a a n z ɪ ɪ n	a a n z ɪ ɪ n
+ansehen::V	bekijken	b ə k ɛ i k ə	b ə k ɛ i k ə
+hören::V	horen	ɦ o o r ə	ɦ o o r ə
+zuhören::V	luisteren	l œ y s t e e r ə	l œ y s t e e r ə
+probieren::V	proeven	p r u u v ə	p r u u v ə
+riechen::V	ruiken	r œ y k ə	r œ y k ə
+fühlen::V	voelen	v u u l ə	v u u l ə
+scheinen::V	lijken	l ɛ i k ə	l ɛ i k ə
+zu sehen sein::V	te zien zijn	t ɛ _ z i i n _ z ɛ i n	t ɛ _ z i i n _ z ɛ i n
+vernehmen::V	vernemen	v ɛ r n e e m ə	v ɛ r n e e m ə
+frieren::V	het koud hebben	ɦ ɛ t _ k a u d _ ɦ ɛ b ə	ɦ ɛ t _ k a u d _ ɦ ɛ b ə
+tun::V	doen	d u u n	d u u n
+können::V	kunnen	k ʏ n ə	k ʏ n ə
+wollen::V	willen	ʋ ɪ l ə	ʋ ɪ l ə
+anfangen::V	beginnen	b ə ɣ ɪ n ə	b ə ɣ ɪ n ə
+anfangen::V	aanvangen	a a n v ɑ ŋ ə	a a n v ɑ ŋ ə
+beenden::V	beëindigen	b ə ə ɪ n d i i ɣ ə	b ə ə ɪ n d i i ɣ ə
+aufhören::V	ophouden	ɔ p ɦ a u d ə	ɔ p ɦ a u d ə
+gelingen::V	lukken	l ʏ k ə	l ʏ k ə
+gelingen::V	gelukken	ɣ ə l ʏ k ə	ɣ ə l ʏ k ə
+geraten::V	uitvallen	ə ʏ t f ɑ l ə	ə ʏ t f ɑ l ə
+öffnen::V	openen	o o p ə n ə	o o p ə n ə
+öffnen::V	opendoen	o o p ɛ n d u u n	o o p ɛ n d u u n
+schließen::V	sluiten	s l œ y t ə	s l œ y t ə
+schließen::V	dichtdoen	d ɪ x t d u u n	d ɪ x t d u u n
+stellen::V	stellen	s t ɛ l ə	s t ɛ l ə
+stellen::V	plaatsen	p l a a t s ə	p l a a t s ə
+setzen::V	zetten	z ɛ t ə	z ɛ t ə
+setzen::V	plaatsen	p l a a t s ə	p l a a t s ə
+legen::V	leggen	l ɛ ɣ ə	l ɛ ɣ ə
+berühren::V	aanraken	a a n r a a k ə	a a n r a a k ə
+verbinden::V	verbinden	v ɛ r b ɪ n d ə	v ɛ r b ɪ n d ə
+bedecken::V	bedekken	b ə d ɛ k ə	b ə d ɛ k ə
+aufhängen::V	ophangen	ɔ p ɦ ɑ ŋ ə	ɔ p ɦ ɑ ŋ ə
+anzünden::V	aansteken	a a n s t e e k ə	a a n s t e e k ə
+aufheben::V	oprapen	ɔ p r a a p ə	ɔ p r a a p ə
+zurücklassen::V	achterlaten	ɑ x t ɛ r l a a t ə	ɑ x t ɛ r l a a t ə
+verlieren::V	verliezen	v ɛ r l i i z ə	v ɛ r l i i z ə
+fallen lassen::V	laten vallen	l a a t ɛ n _ v ɑ l ə	l a a t ɛ n _ v ɑ l ə
+machen::V	maken	m a a k ə	m a a k ə
+herstellen::V	produceren	p r o d y s e e r ə	p r o d y s e e r ə
+herstellen::V	voortbrengen	v o o r d t r ɛ ŋ ə	v o o r d t r ɛ ŋ ə
+bauen::V	bouwen	b a u ʋ ə	b a u ʋ ə
+reparieren::V	repareren	r e p ɑ r e e r ə	r e p ɑ r e e r ə
+reparieren::V	herstellen	ɦ ɛ r s t ɛ l ə	ɦ ɛ r s t ɛ l ə
+verbessern::V	verbeteren	v ɛ r b e e t ə r ə	v ɛ r b e e t ə r ə
+ändern::V	wijzigen	ʋ ɛ i z i i ɣ ə	ʋ ɛ i z i i ɣ ə
+ändern::V	veranderen	v e e r ɑ n d e e r ə	v e e r ɑ n d e e r ə
+graben::V	graven	ɣ r a a v ə	ɣ r a a v ə
+beugen::V	buigen	b œ y ɣ ə	b œ y ɣ ə
+biegen::V	buigen	b œ y ɣ ə	b œ y ɣ ə
+drehen::V	draaien	d r a a i ɪ n	d r a a i ɪ n
+wenden::V	keren	k e e r ə	k e e r ə
+wenden::V	wenden	ʋ ɛ n d ə	ʋ ɛ n d ə
+umdrehen::V	omdraaien	ɔ m d r a a i ɪ n	ɔ m d r a a i ɪ n
+heben::V	heffen	ɦ ɛ f ə	ɦ ɛ f ə
+heben::V	optillen	ɔ p t ɪ l ə	ɔ p t ɪ l ə
+hochheben::V	tillen	t ɪ l ə	t ɪ l ə
+ergreifen::V	pakken	p ɑ k ə	p ɑ k ə
+ergreifen::V	grijpen	ɣ r ɛ i p ə	ɣ r ɛ i p ə
+halten::V	houden	h ɑ u ə	h ɑ u ə
+drücken::V	drukken	d r ʏ k ə	d r ʏ k ə
+schieben::V	duwen	d ʏ ʋ ə	d ʏ ʋ ə
+schieben::V	schuiven	s x œ y v ə	s x œ y v ə
+kratzen::V	krassen	k r ɑ s ə	k r ɑ s ə
+lecken::V	likken	l ɪ k ə	l ɪ k ə
+beißen::V	bijten	b ɛ i t ə	b ɛ i t ə
+abreißen::V	afrukken	ɑ f r ʏ k ə	ɑ f r ʏ k ə
+abreißen::V	afscheuren	ɑ f s x ø ø r ə	ɑ f s x ø ø r ə
+abschneiden::V	afsnijden	ɑ f s n ɛ i d ə	ɑ f s n ɛ i d ə
+binden::V	binden	b ɪ n d ə	b ɪ n d ə
+stecken::V	steken	s t e e k ə	s t e e k ə
+brechen::V	breken	b r e e k ə	b r e e k ə
+klopfen::V	kloppen	k l ɔ p ə	k l ɔ p ə
+hauen::V	houwen	ɦ a u ʋ ə	ɦ a u ʋ ə
+kleben::V	plakken	p l ɑ k ə	p l ɑ k ə
+reiben::V	wrijven	ʋ r ɛ i v ə	ʋ r ɛ i v ə
+streichen::V	smeren	s m e e r ə	s m e e r ə
+schleifen::V	slijpen	s l ɛ i p ə	s l ɛ i p ə
+schneiden::V	snijden	s n ɛ i ə	s n ɛ i ə
+rütteln::V	schudden	s x ɵ d ə	s x ɵ d ə
+schütteln::V	schudden	s x ɵ d ə	s x ɵ d ə
+schwenken::V	wuiven	ʋ ə ʏ v ə	ʋ ə ʏ v ə
+schwenken::V	zwaaien	z ʋ a a i ɪ n	z ʋ a a i ɪ n
+schütten::V	gieten	ɣ i i t ə	ɣ i i t ə
+schütten::V	storten	s t ɔ r t ə	s t ɔ r t ə
+füllen::V	vullen	v ʏ l ə	v ʏ l ə
+einwickeln::V	inwikkelen	ɪ n ʋ ɪ k k ə l ə	ɪ n ʋ ɪ k k ə l ə
+tragen::V	dragen	d r a a ɣ ə	d r a a ɣ ə
+schleppen::V	slepen	s l e e p ə	s l e e p ə
+ziehen::V	trekken	t r ɛ k ə	t r ɛ k ə
+aufbewahren::V	bewaren	b ə ʋ a a r ə	b ə ʋ a a r ə
+werfen::V	gooien	ɣ o o i ɪ n	ɣ o o i ɪ n
+fangen::V	vangen	v ɑ ŋ ə	v ɑ ŋ ə
+packen::V	pakken	p ɑ k ə	p ɑ k ə
+packen::V	vastpakken	v ɑ s t p ɑ k ə	v ɑ s t p ɑ k ə
+verstecken::V	verstoppen	v ɛ r s t ɔ p ə	v ɛ r s t ɔ p ə
+teilen::V	delen	d e e l ə	d e e l ə
+schicken::V	sturen	s t y y r ə	s t y y r ə
+bringen::V	brengen	b r ɛ ŋ ə	b r ɛ ŋ ə
+hinzufügen::V	toevoegen	t u u v u u ɣ ə	t u u v u u ɣ ə
+bekommen::V	verkrijgen	v ɛ r k r ɛ i ɣ ə	v ɛ r k r ɛ i ɣ ə
+erhalten::V	krijgen	k r ɛ i ɣ ə	k r ɛ i ɣ ə
+nehmen::V	nemen	n e e m ə	n e e m ə
+wählen::V	kiezen	k i i z ə	k i i z ə
+wählen::V	verkiezen	v ɛ r k i i z ə	v ɛ r k i i z ə
+auswählen::V	uitkiezen	œ y t k i i z ə	œ y t k i i z ə
+bewahren::V	bewaren	b ə ʋ a a r ə	b ə ʋ a a r ə
+behindern::V	hinderen	ɦ ɪ n d ə r ə	ɦ ɪ n d ə r ə
+verderben::V	bederven	b ə d ɛ r v ə	b ə d ɛ r v ə
+beschädigen::V	beschadigen	b ə s x a a d ɪ ɣ ə	b ə s x a a d ɪ ɣ ə
+zerbrechen::V	breken	b r e e k ə	b r e e k ə
+zerbrechen::V	stukbreken	s t ɵ k b r e e k ə	s t ɵ k b r e e k ə
+zerreißen::V	scheuren	s x ø ø r ə	s x ø ø r ə
+zerreißen::V	verscheuren	v ɛ r s x ø ø r ə	v ɛ r s x ø ø r ə
+zerstören::V	vernielen	v ɛ r n i i l ə	v ɛ r n i i l ə
+verbrennen::V	branden	b r ɑ n d ə	b r ɑ n d ə
+verbrennen::V	verbranden	v ɛ r b r ɑ n d ə	v ɛ r b r ɑ n d ə
+geben::V	geven	ɣ e e v ə	ɣ e e v ə
+reichen::V	reiken	r ɛ i k ə	r ɛ i k ə
+reichen::V	aanreiken	a a n r ɛ i k ə	a a n r ɛ i k ə
+schenken::V	schenken	s x ɛ n k ə	s x ɛ n k ə
+versprechen::V	beloven	b ə l o o v ə	b ə l o o v ə
+wünschen::V	wensen	ʋ ɛ n s ə	ʋ ɛ n s ə
+loben::V	loven	l o o v ə	l o o v ə
+loben::V	prijzen	p r ɛ i z ə	p r ɛ i z ə
+küssen::V	kussen	k ʏ s ə	k ʏ s ə
+wiegen::V	wiegen	ʋ i i ɣ ə	ʋ i i ɣ ə
+zudecken::V	toedekken	t u u d ɛ k ə	t u u d ɛ k ə
+wecken::V	wekken	ʋ ɛ k ə	ʋ ɛ k ə
+zeigen::V	tonen	t o o n ə	t o o n ə
+zeigen::V	wijzen	ʋ ɛ i z ə	ʋ ɛ i z ə
+führen::V	voeren	v u u r ə	v u u r ə
+lehren::V	leren	l e e r ə	l e e r ə
+unterrichten::V	onderwijzen	ɔ n d ɛ r ʋ ɛ i z ə	ɔ n d ɛ r ʋ ɛ i z ə
+aufziehen::V	grootbrengen	ɣ r o o d t r ɛ ŋ ə	ɣ r o o d t r ɛ ŋ ə
+leiten::V	leiden	l ɛ i d ə	l ɛ i d ə
+antreiben::V	aandrijven	a a n d r ɛ i v ə	a a n d r ɛ i v ə
+lassen::V	laten	l a t ə	l a t ə
+einladen::V	uitnodigen	ə ʏ t n o o d ə ɣ ə	ə ʏ t n o o d ə ɣ ə
+vereinigen::V	verenigen	v ɛ r e e n ə ɣ ə	v ɛ r e e n ə ɣ ə
+besuchen::V	bezoeken	b ə z u u k ə	b ə z u u k ə
+treffen::V	treffen	t r ɛ f ə	t r ɛ f ə
+treffen::V	ontmoeten	ɔ n t m u u t ə	ɔ n t m u u t ə
+sich versammeln::V	zich verzamelen	z i x _ v ɛ r z a a m ə l ə	z i x _ v ɛ r z a a m ə l ə
+spielen::V	spelen	s p e e l ə	s p e e l ə
+singen::V	zingen	z ɪ ŋ ə	z ɪ ŋ ə
+tanzen::V	dansen	d ɑ n s ə	d ɑ n s ə
+sich trennen::V	van elkaar gaan	v ɑ n _ ɛ l k a a r _ ɣ a a n	v ɑ n _ ɛ l k a a r _ ɣ a a n
+verlassen::V	verlaten	v ɛ r l a a t ə	v ɛ r l a a t ə
+retten::V	redden	r ɛ d ə	r ɛ d ə
+bewachen::V	bewaken	b ə ʋ a a k ə	b ə ʋ a a k ə
+schützen::V	beschermen	b ə s x ɛ r m ə	b ə s x ɛ r m ə
+verteidigen::V	verdedigen	v ɛ r d e e d ə ɣ ə	v ɛ r d e e d ə ɣ ə
+sich schlagen::V	knokken	k n ɔ k ə	k n ɔ k ə
+schießen::V	schieten	s x i i t ə	s x i i t ə
+siegen::V	overwinnen	o o v ɛ r ʋ ɪ n ə	o o v ɛ r ʋ ɪ n ə
+ärgern::V	ergeren	ɛ r ɣ ə r ə	ɛ r ɣ ə r ə
+schlagen::V	slaan	s l a a n	s l a a n
+treten::V	trappen	t r ɑ p ə	t r ɑ p ə
+treten::V	schoppen	s x ɔ p ə	s x ɔ p ə
+stechen::V	steken	s t e e k ə	s t e e k ə
+stechen::V	prikken	p r ɪ k ə	p r ɪ k ə
+stoßen::V	stoten	s t o o t ə	s t o o t ə
+stehlen::V	stelen	s t e e l ə	s t e e l ə
+stören::V	storen	s t o o r ə	s t o o r ə
+stören::V	verstoren	v ɛ r s t o o r ə	v ɛ r s t o o r ə
+belästigen::V	lastig vallen	l ɑ s t ɪ ɣ _ v ɑ l ə	l ɑ s t ɪ ɣ _ v ɑ l ə
+verbergen::V	verbergen	v ɛ r b ɛ r ɣ ə	v ɛ r b ɛ r ɣ ə
+täuschen::V	misleiden	m ɪ s l ɛ i d ə	m ɪ s l ɛ i d ə
+betrügen::V	bedriegen	b ə d r i i ɣ ə	b ə d r i i ɣ ə
+töten::V	doden	d o o d ə	d o o d ə
+wohnen::V	wonen	ʋ o o n ə	ʋ o o n ə
+arbeiten::V	werken	ʋ ɛ r k ə	ʋ ɛ r k ə
+sammeln::V	inzamelen	ɪ n z ɑ m ə l ə	ɪ n z ɑ m ə l ə
+sammeln::V	verzamelen	v ɛ r z a a m ə l ə	v ɛ r z a a m ə l ə
+pflücken::V	plukken	p l ɵ k ə	p l ɵ k ə
+jagen::V	jagen	j a a ɣ ə	j a a ɣ ə
+fischen::V	vissen	v ɪ s ə	v ɪ s ə
+fassen::V	vangen	v ɑ ŋ ə	v ɑ ŋ ə
+hüten::V	hoeden	ɦ u u d ə	ɦ u u d ə
+treiben::V	drijven	d r ɛ i v ə	d r ɛ i v ə
+anbinden::V	vastbinden	v ɑ s t b ɪ n d ə	v ɑ s t b ɪ n d ə
+füttern::V	voeren	v u u r ə	v u u r ə
+melken::V	melken	m ɛ l k ə	m ɛ l k ə
+hacken::V	hakken	ɦ ɑ k ə	ɦ ɑ k ə
+gießen::V	gieten	ɣ i i t ə	ɣ i i t ə
+reifen::V	rijpen	r ɛ i p ə	r ɛ i p ə
+zubereiten::V	klaarmaken	k l a a r m a a k ə	k l a a r m a a k ə
+zubereiten::V	toebereiden	t u u b e e r ɛ i d ə	t u u b e e r ɛ i d ə
+kochen::V	koken	k o o k ə	k o o k ə
+backen::V	bakken	b ɑ k ə	b ɑ k ə
+braten::V	braden	b r a a d ə	b r a a d ə
+umrühren::V	omroeren	ɔ m r u u r ə	ɔ m r u u r ə
+stricken::V	breien	b r ɛ i ɪ n	b r ɛ i ɪ n
+nähen::V	naaien	n a a i ɪ n	n a a i ɪ n
+färben::V	verven	v ɛ r v ə	v ɛ r v ə
+färben::V	kleuren	k l ø ø r ə	k l ø ø r ə
+reinigen::V	reinigen	r ɛ i n i i ɣ ə	r ɛ i n i i ɣ ə
+waschen::V	wassen	ʋ ɑ s ə	ʋ ɑ s ə
+abwischen::V	afvegen	ɑ f f e e ɣ ə	ɑ f f e e ɣ ə
+spülen::V	spoelen	s p u u l ə	s p u u l ə
+spülen::V	afwassen	ɑ f ʋ ɑ s ə	ɑ f ʋ ɑ s ə
+fegen::V	vegen	v e e ɣ ə	v e e ɣ ə
+kehren::V	vegen	v e e ɣ ə	v e e ɣ ə
+baden::V	baden	b a a d ə	b a a d ə
+sich waschen::V	zich wassen	z ɪ x _ ʋ ɑ s ə	z ɪ x _ ʋ ɑ s ə
+ausziehen::V	uittrekken	œ y t r ɛ k ə	œ y t r ɛ k ə
+anziehen::V	aantrekken	a a n t r ɛ k ə	a a n t r ɛ k ə
+sich anziehen::V	zich aankleden	z ɪ x _ a a n k l e e d ə	z ɪ x _ a a n k l e e d ə
+kämmen::V	kammen	k ɑ m ə	k ɑ m ə
+schmücken::V	tooien	t o o i ɪ n	t o o i ɪ n
+sagen::V	zeggen	z ɛ ɣ ə	z ɛ ɣ ə
+sprechen::V	spreken	s p r e e k ə	s p r e e k ə
+reden::V	praten	p r a a t ə	p r a a t ə
+sich unterhalten::V	zich onderhouden	z ɪ x _ ɔ n d ɛ r ɦ a u d ə	z ɪ x _ ɔ n d ɛ r ɦ a u d ə
+fragen::V	vragen	v r a a ɣ ə	v r a a ɣ ə
+bitten::V	vragen	v r a a ɣ ə	v r a a ɣ ə
+bitten::V	verzoeken	v ɛ r z u k ə	v ɛ r z u k ə
+erzählen::V	vertellen	v ɛ r t ɛ l ə	v ɛ r t ɛ l ə
+mitteilen::V	meedelen	m e e d e e l ə	m e e d e e l ə
+nennen::V	noemen	n u m ə	n u m ə
+rufen::V	roepen	r u u p ə	r u u p ə
+prahlen::V	pralen	p r a a l ə	p r a a l ə
+übersetzen::V	vertalen	v ɛ r t a a l ə	v ɛ r t a a l ə
+denken::V	denken	d ɛ n k ə	d ɛ n k ə
+glauben::V	geloven	ɣ ə l o o v ə	ɣ ə l o o v ə
+bemerken::V	bemerken	b ə m ɛ r k ə	b ə m ɛ r k ə
+erkennen::V	herkennen	ɦ ɛ r k ɛ n ə	ɦ ɛ r k ɛ n ə
+begreifen::V	begrijpen	b ə ɣ r ɛ i p ə	b ə ɣ r ɛ i p ə
+verstehen::V	verstaan	v ɛ r s t a a n	v ɛ r s t a a n
+lernen::V	leren	l e e r ə	l e e r ə
+wissen::V	weten	ʋ e e t ə	ʋ e e t ə
+sich erinnern an::V	zich herinneren aan	z ɪ x _ ɦ e e r ɪ n e e r ɛ n _ a a n	z ɪ x _ ɦ e e r ɪ n e e r ɛ n _ a a n
+vergessen::V	vergeten	v ɛ r ɣ e e t ə	v ɛ r ɣ e e t ə
+messen::V	meten	m e e t ə	m e e t ə
+zählen::V	tellen	t ɛ l ə	t ɛ l ə
+rechnen::V	rekenen	r e e k ə n ə	r e e k ə n ə
+lesen::V	lezen	l e e z ə	l e e z ə
+malen::V	schilderen	s x ɪ l d ə r ə	s x ɪ l d ə r ə
+zeichnen::V	tekenen	t e e k ə n ə	t e e k ə n ə
+schreiben::V	schrijven	s x r ɛ i v ə	s x r ɛ i v ə
+besitzen::V	bezitten	b ə z ɪ t ə	b ə z ɪ t ə
+kaufen::V	kopen	k o o p ə	k o o p ə
+verkaufen::V	verkopen	v ɛ r k o o p ə	v ɛ r k o o p ə
+bezahlen::V	betalen	b ə t a a l ə	b ə t a a l ə
+zahlen::V	betalen	b ə t a a l ə	b ə t a a l ə
+beherrschen::V	beheersen	b ə ɦ e e r s ə	b ə ɦ e e r s ə
+ertragen::V	verdragen	v ɛ r d r a a ɣ ə	v ɛ r d r a a ɣ ə

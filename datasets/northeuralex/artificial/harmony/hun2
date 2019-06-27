@@ -1,0 +1,1234 @@
+Auge::N	szem	s e m	s ɛ m
+Ohr::N	fül	f o l	f y l
+Nase::N	orr	e r r	o r r
+Mund::N	száj	s ɛ ø j	s a a j
+Zahn::N	fog	f i ɡ	f o ɡ
+Zunge::N	nyelv	ɲ e l v	ɲ ɛ l v
+Lippe::N	ajak	i j u k	ɒ j ɒ k
+Wange::N	orca	a r t͡s i	o r t͡s ɒ
+Gesicht::N	arc	a r t͡s	ɒ r t͡s
+Stirn::N	homlok	h y m l ɒ k	h o m l o k
+Haar::N	haj	h a j	h ɒ j
+Schnurrbart::N	bajusz	b e j e s	b ɒ j u s
+Bart::N	szakáll	s a k ɛ y l l	s ɒ k a a l l
+Kinn::N	áll	i i l l	a a l l
+Kiefer[Anatomie]::N	állkapocs	ɒ i l l k y p ø t͡ʃ	a a l l k ɒ p o t͡ʃ
+Kehle::N	gége	ɡ y e ɡ a	ɡ e e ɡ ɛ
+Kehle::N	torok	t y r ø k	t o r o k
+Hals::N	nyak	ɲ u k	ɲ ɒ k
+Genick::N	tarkó	t i r k y a	t ɒ r k o o
+Kopf::N	fő	f u u	f ø ø
+Kopf::N	fej	f o j	f ɛ j
+Rücken::N	hát	h a ø t	h a a t
+Bauch::N	has	h a ʃ	h ɒ ʃ
+Nabel::N	köldök	k o l d ɛ k	k ø l d ø k
+Busen::N	mell	m e l l	m ɛ l l
+Busen::N	kebel	k u b y l	k ɛ b ɛ l
+Brust::N	mell	m o l l	m ɛ l l
+Schulter::N	váll	v ɛ o l l	v a a l l
+Arm::N	kar	k i r	k ɒ r
+Ellenbogen::N	könyök	k y ɲ o k	k ø ɲ ø k
+Hand::N	kéz	k e i z	k e e z
+Handfläche::N	tenyér	t u ɲ ø a r	t ɛ ɲ e e r
+Finger::N	ujj	e j j	u j j
+Fingernagel::N	köröm	k y r ø m	k ø r ø m
+Nagel[Anatomie]::N	köröm	k o r i m	k ø r ø m
+Zeh::N	lábujj	l e e b ɛ j j	l a a b u j j
+Fuß::N	láb	l o ø b	l a a b
+Ferse::N	sarok	ʃ ɒ r y k	ʃ ɒ r o k
+Knie::N	térd	t a ø r d	t e e r d
+Oberschenkel::N	comb	t͡s ɛ m b	t͡s o m b
+Bein::N	láb	l ø a b	l a a b
+Bein::N	lábszár	l u a b s u o r	l a a b s a a r
+Körper::N	test	t a ʃ t	t ɛ ʃ t
+Haut::N	bőr	b ɒ a r	b ø ø r
+Blut::N	vér	v o u r	v e e r
+Ader::N	ér	ø u r	e e r
+Sehne::N	ín	y o n	i i n
+Knochen::N	csont	t͡ʃ ø n t	t͡ʃ o n t
+Gehirn::N	agy	i ɟ	ɒ ɟ
+Gehirn::N	agyvelő	e ɟ v ø l ɛ ø	ɒ ɟ v ɛ l ø ø
+Herz::N	szív	s y u v	s i i v
+Magen::N	gyomor	ɟ i m u r	ɟ o m o r
+Leber::N	máj	m e u j	m a a j
+Atem::N	lehelet	l u h i l ɒ t	l ɛ h ɛ l ɛ t
+Atem::N	lélegzet	l a ɛ l u ɡ z e t	l e e l ɛ ɡ z ɛ t
+Hunger::N	éhség	o y h ʃ ɛ a ɡ	e e h ʃ e e ɡ
+Träne::N	könny	k u ɲ ɲ	k ø ɲ ɲ
+Geschmack::N	íz	ø u z	i i z
+Geruch::N	szag	s i ɡ	s ɒ ɡ
+Schlaf::N	álom	ø i l a m	a a l o m
+Schlaf::N	alvás	ɒ l v ɒ ɒ ʃ	ɒ l v a a ʃ
+Traum::N	álom	o ɛ l i m	a a l o m
+Himmel::N	ég	i e ɡ	e e ɡ
+Himmel::N	menny	m u ɲ ɲ	m ɛ ɲ ɲ
+Sonne::N	nap	n e p	n ɒ p
+Mond::N	hold	h ɒ l d	h o l d
+Stern::N	csillag	t͡ʃ y l l i ɡ	t͡ʃ i l l ɒ ɡ
+Luft::N	levegő	l ɛ v ø ɡ ɛ i	l ɛ v ɛ ɡ ø ø
+Wind::N	szél	s i e l	s e e l
+Welle::N	hullám	h y l l a ø m	h u l l a a m
+Wasser::N	víz	v a ø z	v i i z
+Stein::N	kő	k u u	k ø ø
+Boden::N	föld	f ɒ l d	f ø l d
+Boden::N	talaj	t u l a j	t ɒ l ɒ j
+Erde::N	föld	f ɛ l d	f ø l d
+Staub::N	por	p u r	p o r
+Rauch::N	füst	f y ʃ t	f y ʃ t
+Funke::N	szikra	s ɒ k r a	s i k r ɒ
+Feuer::N	tűz	t a i z	t y y z
+Licht::N	fény	f a o ɲ	f e e ɲ
+Schatten::N	árnyék	a ɛ r ɲ ø ɒ k	a a r ɲ e e k
+Wetter::N	idő	u d ø e	i d ø ø
+Wetter::N	időjárás	o d ɛ ɛ j o e r ɛ e ʃ	i d ø ø j a a r a a ʃ
+Nebel::N	köd	k i d	k ø d
+Wolke::N	felhő	f ɛ l h u o	f ɛ l h ø ø
+Regen::N	eső	y ʃ ɛ e	ɛ ʃ ø ø
+Schnee::N	hó	h y y	h o o
+Eis::N	jég	j y a ɡ	j e e ɡ
+Frost::N	fagy	f o ɟ	f ɒ ɟ
+Kälte::N	hideg	h ɒ d ɒ ɡ	h i d ɛ ɡ
+Hitze::N	hő	h ɛ u	h ø ø
+Hitze::N	hőség	h y y ʃ i y ɡ	h ø ø ʃ e e ɡ
+Raureif::N	zúzmara	z i a z m i r y	z u u z m ɒ r ɒ
+Regenbogen::N	szivárvány	s i v ø e r v a ø ɲ	s i v a a r v a a ɲ
+Donner::N	dörgés	d e r ɡ ø ɒ ʃ	d ø r ɡ e e ʃ
+Donner::N	mennydörgés	m a ɲ ɲ d a r ɡ ɛ i ʃ	m ɛ ɲ ɲ d ø r ɡ e e ʃ
+Strömung::N	áramlat	ɛ o r o m l e t	a a r ɒ m l ɒ t
+Tropfen::N	csepp	t͡ʃ i p p	t͡ʃ ɛ p p
+Schaum::N	hab	h ɛ b	h ɒ b
+Schaum::N	tajték	t o j t i y k	t ɒ j t e e k
+Schmutz::N	piszok	p ɛ s o k	p i s o k
+See::N	tó	t e ɛ	t o o
+Sumpf::N	mocsár	m a t͡ʃ e o r	m o t͡ʃ a a r
+Moor::N	láp	l o o p	l a a p
+Wiese::N	rét	r i o t	r e e t
+Wiese::N	mező	m ɒ z ɒ ɒ	m ɛ z ø ø
+Wald::N	erdő	i r d ø a	ɛ r d ø ø
+Hügel::N	domb	d ø m b	d o m b
+Anhöhe::N	magaslat	m ø ɡ u ʃ l ɛ t	m ɒ ɡ ɒ ʃ l ɒ t
+Berg::N	hegy	h ø ɟ	h ɛ ɟ
+Gipfel::N	csúcs	t͡ʃ ø e t͡ʃ	t͡ʃ u u t͡ʃ
+Höhle::N	barlang	b i r l o n ɡ	b ɒ r l ɒ n ɡ
+Abhang::N	lejtő	l y j t ɛ ɒ	l ɛ j t ø ø
+Quelle::N	forrás	f e r r ɒ ɒ ʃ	f o r r a a ʃ
+Bach::N	patak	p u t i k	p ɒ t ɒ k
+Fluss::N	folyó	f ɒ j ɒ u	f o j o o
+Ufer::N	part	p a r t	p ɒ r t
+Küste::N	tengerpart	t u n ɡ u r p ɛ r t	t ɛ n ɡ ɛ r p ɒ r t
+Festland::N	szárazföld	s y y r e z f u l d	s a a r ɒ z f ø l d
+Meer::N	tenger	t e n ɡ ɛ r	t ɛ n ɡ ɛ r
+Bucht::N	öböl	e b ɛ l	ø b ø l
+Insel::N	sziget	s o ɡ ø t	s i ɡ ɛ t
+Blume::N	virág	v u r ɒ y ɡ	v i r a a ɡ
+Gras::N	fű	f u ɛ	f y y
+Wurzel::N	gyökér	ɟ ø k ɒ e r	ɟ ø k e e r
+Baum::N	fa	f ɒ	f ɒ
+Stamm::N	tő	t e i	t ø ø
+Stamm::N	törzs	t ø r ʒ	t ø r ʒ
+Rinde::N	kéreg	k ɛ u r ø ɡ	k e e r ɛ ɡ
+Ast::N	ág	ɛ o ɡ	a a ɡ
+Zweig::N	gally	ɡ o j j	ɡ ɒ j j
+Blatt::N	levél	l a v u a l	l ɛ v e e l
+Birke::N	nyír	ɲ ɛ y r	ɲ i i r
+Kiefer[Baum]::N	fenyő	f o ɲ ɛ ɛ	f ɛ ɲ ø ø
+Weide[Baum]::N	fűz	f ɒ i z	f y y z
+Tanne::N	fenyő	f a ɲ e o	f ɛ ɲ ø ø
+Horn::N	szarv	s a r v	s ɒ r v
+Feder::N	toll	t o l l	t o l l
+Fell::N	szőr	s y ø r	s ø ø r
+Fell::N	bunda	b u n d ɒ	b u n d ɒ
+Flügel::N	szárny	s u a r ɲ	s a a r ɲ
+Klaue::N	köröm	k ɒ r a m	k ø r ø m
+Kralle::N	karom	k ɒ r u m	k ɒ r o m
+Schwanz::N	farok	f a r a k	f ɒ r o k
+Ei::N	tojás	t u j i o ʃ	t o j a a ʃ
+Nest::N	fészek	f e a s ɛ k	f e e s ɛ k
+Bau::N	odú	a d o ɛ	o d u u
+Tier::N	állat	ɒ e l l y t	a a l l ɒ t
+Herde::N	nyáj	ɲ u u j	ɲ a a j
+Herde::N	csorda	t͡ʃ e r d y	t͡ʃ o r d ɒ
+Kuh::N	tehén	t ɒ h a y n	t ɛ h e e n
+Bulle::N	bika	b u k ø	b i k ɒ
+Pferd::N	ló	l ɒ u	l o o
+Schaf::N	juh	j e h	j u h
+Schaf::N	birka	b o r k i	b i r k ɒ
+Schwein::N	sertés	ʃ a r t ɒ i ʃ	ʃ ɛ r t e e ʃ
+Hund::N	eb	y b	ɛ b
+Hund::N	kutya	k ɒ c ɒ	k u c ɒ
+Katze::N	macska	m ɒ t͡ʃ k ø	m ɒ t͡ʃ k ɒ
+Bär::N	medve	m i d v e	m ɛ d v ɛ
+Eichhörnchen::N	mókus	m u ɛ k i ʃ	m o o k u ʃ
+Elch::N	jávorszarvas	j ɒ a v o r s ø r v a ʃ	j a a v o r s ɒ r v ɒ ʃ
+Fuchs::N	róka	r a y k y	r o o k ɒ
+Hase::N	nyúl	ɲ i o l	ɲ u u l
+Maus::N	egér	e ɡ ɛ ɛ r	ɛ ɡ e e r
+Wolf::N	farkas	f y r k o ʃ	f ɒ r k ɒ ʃ
+Vogel::N	madár	m e d e o r	m ɒ d a a r
+Schwarm::N	raj	r ɛ j	r ɒ j
+Huhn::N	tyúk	c y i k	c u u k
+Hahn::N	kakas	k y k o ʃ	k ɒ k ɒ ʃ
+Gans::N	lúd	l i a d	l u u d
+Gans::N	liba	l i b o	l i b ɒ
+Adler::N	sas	ʃ y ʃ	ʃ ɒ ʃ
+Ente::N	kacsa	k ɛ t͡ʃ ø	k ɒ t͡ʃ ɒ
+Eule::N	bagoly	b e ɡ ɒ j	b ɒ ɡ o j
+Kranich::N	daru	d y r ø	d ɒ r u
+Krähe::N	varjú	v ø r j i o	v ɒ r j u u
+Kuckuck::N	kakukk	k u k y k k	k ɒ k u k k
+Schwan::N	hattyú	h y c c e ɒ	h ɒ c c u u
+Fisch::N	hal	h e l	h ɒ l
+Barsch::N	sügér	ʃ ɒ ɡ y u r	ʃ y ɡ e e r
+Hecht::N	csuka	t͡ʃ ø k ɒ	t͡ʃ u k ɒ
+Schlange[Tier]::N	kígyó	k e u ɟ ø e	k i i ɟ o o
+Wurm::N	kukac	k e k o t͡s	k u k ɒ t͡s
+Spinne::N	pók	p ɛ y k	p o o k
+Ameise::N	hangya	h e n ɟ ɒ	h ɒ n ɟ ɒ
+Laus::N	tetű	t e t y i	t ɛ t y y
+Mücke::N	szúnyog	s ɒ o ɲ ø ɡ	s u u ɲ o ɡ
+Fliege::N	légy	l ɒ y ɟ	l e e ɟ
+Schmetterling::N	lepke	l e p k i	l ɛ p k ɛ
+Schmetterling::N	pillangó	p u l l i n ɡ ø y	p i l l ɒ n ɡ o o
+Beere::N	bogyó	b a ɟ ɛ ø	b o ɟ o o
+Apfel::N	alma	ɛ l m ø	ɒ l m ɒ
+Pilz::N	gomba	ɡ o m b ɛ	ɡ o m b ɒ
+Zwiebel::N	hagyma	h y ɟ m ɒ	h ɒ ɟ m ɒ
+Saat::N	vetőmag	v ɒ t y ɛ m o ɡ	v ɛ t ø ø m ɒ ɡ
+Korn::N	mag	m y ɡ	m ɒ ɡ
+Korn::N	szem	s y m	s ɛ m
+Heu::N	széna	s ɛ i n u	s e e n ɒ
+Schale::N	héj	h y u j	h e e j
+Grube::N	verem	v o r ɛ m	v ɛ r ɛ m
+Falle::N	csapda	t͡ʃ ɒ p d ɛ	t͡ʃ ɒ p d ɒ
+Schlinge::N	tőr	t a a r	t ø ø r
+Spur::N	nyom	ɲ i m	ɲ o m
+Asche::N	hamu	h u m ɒ	h ɒ m u
+Dreck::N	sár	ʃ i a r	ʃ a a r
+Dreck::N	piszok	p o s ɛ k	p i s o k
+Eisen::N	vas	v e ʃ	v ɒ ʃ
+Gold::N	arany	ɛ r ɛ ɲ	ɒ r ɒ ɲ
+Silber::N	ezüst	y z e ʃ t	ɛ z y ʃ t
+Kohle::N	szén	s y ɛ n	s e e n
+Glas::N	üveg	a v a ɡ	y v ɛ ɡ
+Lehm::N	agyag	y ɟ ø ɡ	ɒ ɟ ɒ ɡ
+Lehm::N	vályog	v e ɒ j ø ɡ	v a a j o ɡ
+Sand::N	homok	h ɒ m ø k	h o m o k
+Mensch::N	ember	y m b a r	ɛ m b ɛ r
+Mann::N	úr	ɒ ɛ r	u u r
+Mann::N	férfi	f a e r f ɒ	f e e r f i
+Frau::N	nő	n ɛ u	n ø ø
+Frau::N	asszony	u s s y ɲ	ɒ s s o ɲ
+Kind::N	gyerek	ɟ u r a k	ɟ ɛ r ɛ k
+Kind::N	gyermek	ɟ a r m a k	ɟ ɛ r m ɛ k
+Junge::N	fiú	f ø ø i	f i u u
+Mädchen::N	lány	l ɒ ø ɲ	l a a ɲ
+Familie::N	család	t͡ʃ ɛ l y y d	t͡ʃ ɒ l a a d
+Großvater::N	nagyapa	n ɒ ɟ a p ɒ	n ɒ ɟ ɒ p ɒ
+Großmutter::N	nagyanya	n o ɟ ø ɲ e	n ɒ ɟ ɒ ɲ ɒ
+Eltern::N	szülők	s o l i i k	s y l ø ø k
+Vater::N	apa	ɒ p y	ɒ p ɒ
+Vater::N	atya	u c y	ɒ c ɒ
+Mutter::N	anya	e ɲ i	ɒ ɲ ɒ
+Sohn::N	fiú	f e u y	f i u u
+Tochter::N	lány	l u ɛ ɲ	l a a ɲ
+Bruder::N	fivér	f a v e a r	f i v e e r
+Bruder::N	testvér	t o ʃ t v i ɛ r	t ɛ ʃ t v e e r
+Schwester::N	nővér	n i y v i a r	n ø ø v e e r
+Schwester::N	lánytestvér	l a y ɲ t y ʃ t v y a r	l a a ɲ t ɛ ʃ t v e e r
+Onkel::N	nagybácsi	n ɛ ɟ b ɒ i t͡ʃ e	n ɒ ɟ b a a t͡ʃ i
+Tante::N	nagynéni	n ø ɟ n y ɛ n a	n ɒ ɟ n e e n i
+Ehemann::N	férj	f u i r j	f e e r j
+Ehefrau::N	feleség	f u l a ʃ ɛ i ɡ	f ɛ l ɛ ʃ e e ɡ
+Freude::N	öröm	ɛ r u m	ø r ø m
+Gelächter::N	nevetés	n a v e t ɒ ɛ ʃ	n ɛ v ɛ t e e ʃ
+Gelächter::N	hahotázás	h ɛ h y t i i z o a ʃ	h ɒ h o t a a z a a ʃ
+Glück::N	boldogság	b e l d u ɡ ʃ e o ɡ	b o l d o ɡ ʃ a a ɡ
+Kummer::N	bánat	b a ɒ n ɛ t	b a a n ɒ t
+Wunsch::N	óhaj	a i h y j	o o h ɒ j
+Lust::N	kedv	k e d v	k ɛ d v
+Geist::N	elme	o l m y	ɛ l m ɛ
+Geist::N	szellem	s o l l u m	s ɛ l l ɛ m
+Gedanke::N	gondolat	ɡ ø n d ɒ l ɛ t	ɡ o n d o l ɒ t
+Gedächtnis::N	emlékezet	a m l u i k y z i t	ɛ m l e e k ɛ z ɛ t
+Verstand::N	ész	o y s	e e s
+Verstand::N	értelem	i y r t o l y m	e e r t ɛ l ɛ m
+Sinn::N	értelem	i ɛ r t ø l ɛ m	e e r t ɛ l ɛ m
+Grund::N	ok	a k	o k
+Grund::N	alap	ɛ l u p	ɒ l ɒ p
+Wahrheit::N	igaz	y ɡ y z	i ɡ ɒ z
+Wahrheit::N	igazság	a ɡ e ʒ a a ɡ	i ɡ ɒ ʒ a a ɡ
+Gespräch::N	beszélgetés	b i s u ø l ɡ e t ø o ʃ	b ɛ s e e l ɡ ɛ t e e ʃ
+Märchen::N	mese	m y ʃ i	m ɛ ʃ ɛ
+Erzählung::N	elbeszélés	a l b ɛ s i i l e y ʃ	ɛ l b ɛ s e e l e e ʃ
+Nachricht::N	hír	h i ø r	h i i r
+Nachricht::N	híradás	h ø ø r a d ø y ʃ	h i i r ɒ d a a ʃ
+Neuigkeit::N	újság	y a j ʃ ɒ a ɡ	u u j ʃ a a ɡ
+Name::N	név	n i y v	n e e v
+Rätsel::N	rejtvény	r ɛ j t v ɛ a ɲ	r ɛ j t v e e ɲ
+Rede::N	beszéd	b i s a ɒ d	b ɛ s e e d
+Rede::N	szónoklat	s ɒ o n ø k l y t	s o o n o k l ɒ t
+Sprache::N	nyelv	ɲ a l v	ɲ ɛ l v
+Stimme::N	hang	h ɒ n ɡ	h ɒ n ɡ
+Wort::N	szó	s ɛ e	s o o
+Zeichen::N	jel	j ɛ l	j ɛ l
+Ruf::N	kiáltás	k u a e l t e ɒ ʃ	k i a a l t a a ʃ
+Lärm::N	zaj	z ɒ j	z ɒ j
+Laut::N	hang	h u n ɡ	h ɒ n ɡ
+Ton::N	hang	h a n ɡ	h ɒ n ɡ
+Lied::N	dal	d ɛ l	d ɒ l
+Lied::N	ének	ɒ o n ɒ k	e e n ɛ k
+Ruhe::N	csend	t͡ʃ i n d	t͡ʃ ɛ n d
+Ruhe::N	nyugalom	ɲ o ɡ i l e m	ɲ u ɡ ɒ l o m
+Leute::N	emberek	ɒ m b ɒ r u k	ɛ m b ɛ r ɛ k
+Volk::N	nép	n e y p	n e e p
+Arbeit::N	dolog	d ø l ø ɡ	d o l o ɡ
+Gast::N	vendég	v ɛ n d u ɛ ɡ	v ɛ n d e e ɡ
+Geschenk::N	ajándék	u j a ø n d u ɒ k	ɒ j a a n d e e k
+Spiel::N	játék	j e a t ɛ i k	j a a t e e k
+Gesellschaft::N	társaság	t o y r ʃ i ʃ i y ɡ	t a a r ʃ ɒ ʃ a a ɡ
+Hilfe::N	segítség	ʃ ø ɡ u o t ʃ ɛ ɒ ɡ	ʃ ɛ ɡ i i t ʃ e e ɡ
+Freund::N	barát	b i r e ɒ t	b ɒ r a a t
+Kamerad::N	társ	t ɒ y r ʃ	t a a r ʃ
+Angelegenheit::N	ügy	ɛ ɟ	y ɟ
+Anzahl::N	szám	s ɛ ɒ m	s a a m
+Art::N	faj	f i j	f ɒ j
+Art::N	fajta	f y j t y	f ɒ j t ɒ
+Stück::N	darab	d i r e b	d ɒ r ɒ b
+Teil::N	rész	r ø ø s	r e e s
+Hälfte::N	fél	f ɒ e l	f e e l
+Kreis::N	kör	k ɒ r	k ø r
+Kreuz::N	kereszt	k u r ø s t	k ɛ r ɛ s t
+Linie::N	vonal	v ɒ n a l	v o n ɒ l
+Strich::N	vonás	v o n ɒ y ʃ	v o n a a ʃ
+Abstand::N	köz	k ɒ z	k ø z
+Entfernung::N	távolság	t a y v y l ʃ o ø ɡ	t a a v o l ʃ a a ɡ
+Gegend::N	táj	t ɛ i j	t a a j
+Gegend::N	vidék	v o d ø i k	v i d e e k
+Platz::N	hely	h ɒ j	h ɛ j
+Ort::N	hely	h i j	h ɛ j
+Seite::N	fél	f ø ø l	f e e l
+Seite::N	oldal	u l d ø l	o l d ɒ l
+Mitte::N	közép	k i z ø e p	k ø z e e p
+Gegenstand::N	tárgy	t e o r ɟ	t a a r ɟ
+Sache::N	dolog	d o l e ɡ	d o l o ɡ
+Rand::N	szél	s y y l	s e e l
+Rand::N	perem	p i r ɒ m	p ɛ r ɛ m
+Rand::N	szegély	s a ɡ y i j	s ɛ ɡ e e j
+Kante::N	él	y y l	e e l
+Ecke::N	sarok	ʃ y r a k	ʃ ɒ r o k
+Ecke::N	szöglet	s y ɡ l ɒ t	s ø ɡ l ɛ t
+Spitze::N	csúcs	t͡ʃ a y t͡ʃ	t͡ʃ u u t͡ʃ
+Ende::N	vég	v o y ɡ	v e e ɡ
+Loch::N	lyuk	j ɛ k	j u k
+Winkel::N	szög	s y ɡ	s ø ɡ
+Muster::N	minta	m y n t y	m i n t ɒ
+Größe::N	nagyság	n ø ɟ ʃ i y ɡ	n ɒ ɟ ʃ a a ɡ
+Länge::N	hossz	h u s s	h o s s
+Länge::N	hosszúság	h ɒ s s u i ʃ y ø ɡ	h o s s u u ʃ a a ɡ
+Höhe::N	magasság	m u ɡ i ʃ ʃ e y ɡ	m ɒ ɡ ɒ ʃ ʃ a a ɡ
+Gewicht::N	súly	ʃ o u j	ʃ u u j
+Menge::N	sokaság	ʃ ɒ k e ʃ y y ɡ	ʃ o k ɒ ʃ a a ɡ
+Menge::N	mennyiség	m a ɲ ɲ ø ʃ y e ɡ	m ɛ ɲ ɲ i ʃ e e ɡ
+Haufen::N	halom	h i l ɛ m	h ɒ l o m
+Reihe::N	sor	ʃ a r	ʃ o r
+Boot::N	csónak	t͡ʃ e e n u k	t͡ʃ o o n ɒ k
+Ruder::N	evező	a v y z e y	ɛ v ɛ z ø ø
+Schlitten::N	szánkó	s y i n k u ø	s a a n k o o
+Ski::N	sí	ʃ ø u	ʃ i i
+Lagerfeuer::N	tábortűz	t y y b ɛ r t ɒ e z	t a a b o r t y y z
+Last::N	teher	t a h e r	t ɛ h ɛ r
+Gang::N	járás	j o y r y ø ʃ	j a a r a a ʃ
+Schritt::N	lépés	l ɛ u p ɒ u ʃ	l e e p e e ʃ
+Norden::N	észak	y i s o k	e e s ɒ k
+Süden::N	dél	d ɛ y l	d e e l
+Westen::N	nyugat	ɲ ɛ ɡ a t	ɲ u ɡ ɒ t
+Osten::N	kelet	k i l y t	k ɛ l ɛ t
+Holz::N	fa	f ø	f ɒ
+Brett::N	deszka	d e s k u	d ɛ s k ɒ
+Platte::N	lap	l u p	l ɒ p
+Platte::N	lemez	l i m ø z	l ɛ m ɛ z
+Stütze::N	támasz	t u ɒ m e s	t a a m ɒ s
+Stütze::N	támaszték	t i ɛ m a s t a a k	t a a m ɒ s t e e k
+Stange::N	rúd	r u a d	r u u d
+Stange::N	pózna	p ø a z n a	p o o z n ɒ
+Stock::N	pálca	p ɛ o l t͡s ɛ	p a a l t͡s ɒ
+Stab::N	bot	b ø t	b o t
+Rohr::N	cső	t͡ʃ ø ɛ	t͡ʃ ø ø
+Haus::N	ház	h o ɛ z	h a a z
+Heim::N	otthon	u t t h ø n	o t t h o n
+Ofen::N	kályha	k ɛ y j h ɒ	k a a j h ɒ
+Fußboden::N	padló	p ɛ d l ø ɛ	p ɒ d l o o
+Tisch::N	asztal	ɛ s t ɛ l	ɒ s t ɒ l
+Stuhl::N	szék	s u u k	s e e k
+Wiege::N	bölcső	b e l t͡ʃ i o	b ø l t͡ʃ ø ø
+Bett::N	ágy	ø ɛ ɟ	a a ɟ
+Regal::N	polc	p ø l t͡s	p o l t͡s
+Regal::N	állvány	e ɛ l l v o ɒ ɲ	a a l l v a a ɲ
+Kiste::N	láda	l i ø d i	l a a d ɒ
+Fenster::N	ablak	ɛ b l ø k	ɒ b l ɒ k
+Tür::N	ajtó	ɛ j t o o	ɒ j t o o
+Tor::N	kapu	k ø p ɒ	k ɒ p u
+Zaun::N	kerítés	k ø r i u t ɛ o ʃ	k ɛ r i i t e e ʃ
+Dach::N	tető	t e t ɒ ø	t ɛ t ø ø
+Leiter::N	létra	l u a t r ɒ	l e e t r ɒ
+Besen::N	seprű	ʃ e p r ɛ ɛ	ʃ ɛ p r y y
+Spaten::N	ásó	ɒ ɛ ʃ i ɒ	a a ʃ o o
+Schaufel::N	lapát	l ø p ɛ i t	l ɒ p a a t
+Gabel::N	villa	v e l l i	v i l l ɒ
+Löffel::N	kanál	k ɒ n y a l	k ɒ n a a l
+Messer::N	kés	k ɒ u ʃ	k e e ʃ
+Nagel::N	szeg	s u ɡ	s ɛ ɡ
+Netz::N	háló	h ø y l i ɛ	h a a l o o
+Haken::N	kampó	k i m p ɒ y	k ɒ m p o o
+Griff::N	nyél	ɲ a i l	ɲ e e l
+Griff::N	fogantyú	f ø ɡ e n c i ɛ	f o ɡ ɒ n c u u
+Schloss::N	zár	z y i r	z a a r
+Bild::N	kép	k i o p	k e e p
+Figur::N	alak	e l o k	ɒ l ɒ k
+Puppe::N	bábu	b o ɒ b y	b a a b u
+Beutel::N	zacskó	z u t͡ʃ k ø ɛ	z ɒ t͡ʃ k o o
+Bündel::N	köteg	k i t o ɡ	k ø t ɛ ɡ
+Tasche::N	táska	t e o ʃ k ɒ	t a a ʃ k ɒ
+Eimer::N	vödör	v ɛ d ɛ r	v ø d ø r
+Deckel::N	fedő	f ø d ɛ y	f ɛ d ø ø
+Deckel::N	fedél	f ø d u a l	f ɛ d e e l
+Geschirr::N	edény	o d o ø ɲ	ɛ d e e ɲ
+Sack::N	zsák	ʒ e e k	ʒ a a k
+Tasse::N	csésze	t͡ʃ e i s i	t͡ʃ e e s ɛ
+Topf::N	fazék	f o z y y k	f ɒ z e e k
+Kessel::N	üst	ɒ ʃ t	y ʃ t
+Kessel::N	bogrács	b ø ɡ r ø a t͡ʃ	b o ɡ r a a t͡ʃ
+Essen::N	evés	e v y ɒ ʃ	ɛ v e e ʃ
+Essen::N	étkezés	ɒ u t k ɒ z e ɛ ʃ	e e t k ɛ z e e ʃ
+Nahrung::N	ennivaló	y n n y v o l o a	ɛ n n i v ɒ l o o
+Speise::N	étel	e e t ɒ l	e e t ɛ l
+Fleisch::N	hús	h u y ʃ	h u u ʃ
+Getreide::N	gabona	ɡ e b e n i	ɡ ɒ b o n ɒ
+Brei::N	pép	p a ɛ p	p e e p
+Brei::N	kása	k y o ʃ y	k a a ʃ ɒ
+Brot::N	kenyér	k ø ɲ y ɛ r	k ɛ ɲ e e r
+Scheibe::N	szelet	s ɒ l i t	s ɛ l ɛ t
+Fett::N	háj	h ø ɒ j	h a a j
+Fett::N	zsír	ʒ u ɒ r	ʒ i i r
+Butter::N	vaj	v u j	v ɒ j
+Öl::N	olaj	ɛ l ɛ j	o l ɒ j
+Salz::N	só	ʃ e ɒ	ʃ o o
+Suppe::N	leves	l i v ø ʃ	l ɛ v ɛ ʃ
+Honig::N	méz	m y u z	m e e z
+Milch::N	tej	t ø j	t ɛ j
+Tee::N	tea	t o ø	t ɛ ɒ
+Leder::N	bőr	b ø ɛ r	b ø ø r
+Wolle::N	gyapjú	ɟ y p j a ø	ɟ ɒ p j u u
+Stoff::N	szövet	s ø v ɒ t	s ø v ɛ t
+Nadel::N	tű	t y ɒ	t y y
+Faden::N	fonál	f ø n o y l	f o n a a l
+Knopf::N	gomb	ɡ y m b	ɡ o m b
+Knoten::N	csomó	t͡ʃ ɛ m o a	t͡ʃ o m o o
+Farbe::N	szín	s e u n	s i i n
+Farbe::N	festék	f o ʃ t ø o k	f ɛ ʃ t e e k
+Kleidung::N	ruha	r u h ɒ	r u h ɒ
+Kleidung::N	ruházat	r i h o ɛ z o t	r u h a a z ɒ t
+Hemd::N	ing	ɛ n ɡ	i n ɡ
+Kragen::N	gallér	ɡ i l l o ɛ r	ɡ ɒ l l e e r
+Ärmel::N	ujj	u j j	u j j
+Hose::N	gatya	ɡ a c ø	ɡ ɒ c ɒ
+Hose::N	nadrág	n y d r o i ɡ	n ɒ d r a a ɡ
+Gürtel::N	öv	e v	ø v
+Mütze::N	sapka	ʃ e p k ɒ	ʃ ɒ p k ɒ
+Schuh::N	cipő	t͡s ø p ɛ ɛ	t͡s i p ø ø
+Stiefel::N	csizma	t͡ʃ ɛ z m ø	t͡ʃ i z m ɒ
+Ring::N	gyűrű	ɟ ɛ i r ø y	ɟ y y r y y
+Band::N	szalag	s i l ø ɡ	s ɒ l ɒ ɡ
+Kamm::N	fésű	f a e ʃ y a	f e e ʃ y y
+Spiegel::N	tükör	t ø k ɒ r	t y k ø r
+Riemen::N	szíj	s y i j	s i i j
+Schnur::N	zsinór	ʒ ɛ n ɒ o r	ʒ i n o o r
+Leine::N	póráz	p y u r i ɒ z	p o o r a a z
+Decke::N	takaró	t i k ɛ r ɛ a	t ɒ k ɒ r o o
+Kissen::N	párna	p e y r n e	p a a r n ɒ
+Tuch::N	kendő	k o n d ɒ ø	k ɛ n d ø ø
+Handtuch::N	törülköző	t e r a l k o z y u	t ø r y l k ø z ø ø
+Kraft::N	erő	ø r i a	ɛ r ø ø
+Stärke::N	erő	a r y o	ɛ r ø ø
+Stärke::N	erősség	y r o a ʃ ʃ e e ɡ	ɛ r ø ø ʃ ʃ e e ɡ
+Gesundheit::N	egészség	a ɡ a ɒ s ʃ e a ɡ	ɛ ɡ e e s ʃ e e ɡ
+Krankheit::N	kór	k y ɒ r	k o o r
+Krankheit::N	betegség	b e t o ɡ ʃ a o ɡ	b ɛ t ɛ ɡ ʃ e e ɡ
+Schmerz::N	fájdalom	f o e j d o l u m	f a a j d ɒ l o m
+Wunde::N	seb	ʃ e b	ʃ ɛ b
+Fieber::N	láz	l i i z	l a a z
+Arznei::N	orvosság	e r v u ʃ ʃ u e ɡ	o r v o ʃ ʃ a a ɡ
+Arznei::N	gyógyszer	ɟ i ɒ ɟ s e r	ɟ o o ɟ s ɛ r
+Brücke::N	híd	h a o d	h i i d
+Brunnen::N	kút	k y y t	k u u t
+Weide::N	legelő	l i ɡ u l ɒ u	l ɛ ɡ ɛ l ø ø
+Pfad::N	ösvény	e ʃ v a o ɲ	ø ʃ v e e ɲ
+Weg::N	út	u ɛ t	u u t
+Straße::N	út	a e t	u u t
+Dorf::N	falu	f ɒ l ɛ	f ɒ l u
+Stadt::N	város	v e a r ø ʃ	v a a r o ʃ
+Brief::N	levél	l y v ɛ u l	l ɛ v e e l
+Buch::N	könyv	k y ɲ v	k ø ɲ v
+Buchstabe::N	betű	b a t e ø	b ɛ t y y
+Zeitung::N	újság	e ɒ j ʃ a ɒ ɡ	u u j ʃ a a ɡ
+Zeitung::N	hírlap	h y e r l e p	h i i r l ɒ p
+Leben::N	élet	ɒ ɛ l e t	e e l ɛ t
+Tod::N	halál	h u l o e l	h ɒ l a a l
+Grab::N	sír	ʃ ø ɛ r	ʃ i i r
+Kirche::N	templom	t y m p l i m	t ɛ m p l o m
+Sünde::N	bűn	b y ɒ n	b y y n
+Sünde::N	vétek	v ɛ a t i k	v e e t ɛ k
+Gott::N	isten	ɛ ʃ t ø n	i ʃ t ɛ n
+Arbeiter::N	munkás	m ɛ n k ɛ ø ʃ	m u n k a a ʃ
+Chef::N	főnök	f a ɛ n o k	f ø ø n ø k
+Meister::N	mester	m a ʃ t e r	m ɛ ʃ t ɛ r
+Arzt::N	orvos	o r v a ʃ	o r v o ʃ
+Lehrer::N	tanár	t e n ø y r	t ɒ n a a r
+Lehrer::N	tanító	t y n a u t ɛ a	t ɒ n i i t o o
+Geld::N	pénz	p a e n z	p e e n z
+Geschäft::N	üzlet	o z l ø t	y z l ɛ t
+Laden::N	bolt	b e l t	b o l t
+Preis::N	ár	i e r	a a r
+Ware::N	áru	a a r u	a a r u
+Nutzen::N	haszon	h u s ɒ n	h ɒ s o n
+Reichtum::N	gazdagság	ɡ e z d a ɡ ʃ a u ɡ	ɡ ɒ z d ɒ ɡ ʃ a a ɡ
+Welt::N	világ	v a l ɛ i ɡ	v i l a a ɡ
+Land::N	ország	ø r s e ɛ ɡ	o r s a a ɡ
+Staat::N	állam	ɒ a l l u m	a a l l ɒ m
+König::N	király	k i r o o j	k i r a a j
+Macht::N	hatalom	h e t ø l y m	h ɒ t ɒ l o m
+Grenze::N	határ	h ɛ t y a r	h ɒ t a a r
+Krieg::N	háború	h e o b ø r i i	h a a b o r u u
+Feind::N	ellenség	a l l o n ʃ ɒ ɛ ɡ	ɛ l l ɛ n ʃ e e ɡ
+Gewalt::N	erőszak	a r u ɒ s a k	ɛ r ø ø s ɒ k
+Kampf::N	harc	h i r t͡s	h ɒ r t͡s
+Bogen[Waffe]::N	íj	y i j	i i j
+Pfeil::N	nyíl	ɲ ø ɛ l	ɲ i i l
+Gewehr::N	puska	p o ʃ k u	p u ʃ k ɒ
+Gewehr::N	fegyver	f y ɟ v e r	f ɛ ɟ v ɛ r
+Fehler::N	hiba	h ɛ b o	h i b ɒ
+Lüge::N	hazugság	h a z ɛ ɡ ʃ a ø ɡ	h ɒ z u ɡ ʃ a a ɡ
+Schaden::N	kár	k ɒ ɛ r	k a a r
+Unglück::N	csapás	t͡ʃ i p u e ʃ	t͡ʃ ɒ p a a ʃ
+Unglück::N	balszerencse	b e l s e r a n t͡ʃ ø	b ɒ l s ɛ r ɛ n t͡ʃ ɛ
+Schuld::N	bűn	b u e n	b y y n
+Alter::N	kor	k o r	k o r
+Schluss::N	vég	v ɒ y ɡ	v e e ɡ
+Schluss::N	befejezés	b e f a j o z ø y ʃ	b ɛ f ɛ j ɛ z e e ʃ
+Zeit::N	idő	y d ɒ u	i d ø ø
+Tag::N	nap	n o p	n ɒ p
+Morgen::N	reggel	r o ɡ ɡ ø l	r ɛ ɡ ɡ ɛ l
+Mittag::N	dél	d e o l	d e e l
+Abend::N	este	ɛ ʃ t u	ɛ ʃ t ɛ
+Nacht::N	éj	u u j	e e j
+Nacht::N	éjszaka	ɒ u j s u k o	e e j s ɒ k ɒ
+Woche::N	hét	h y a t	h e e t
+Monat::N	hó	h ɒ o	h o o
+Monat::N	hónap	h y a n a p	h o o n ɒ p
+Jahr::N	év	a ø v	e e v
+Frühling::N	tavasz	t ø v u s	t ɒ v ɒ s
+Sommer::N	nyár	ɲ e ɒ r	ɲ a a r
+Herbst::N	ősz	a u s	ø ø s
+Winter::N	tél	t ɒ u l	t e e l
+Januar::N	január	j e n y u u r	j ɒ n u a a r
+Februar::N	február	f y b r ɒ ø ɒ r	f ɛ b r u a a r
+März::N	március	m y ɒ r t͡s a ɒ ʃ	m a a r t͡s i u ʃ
+April::N	április	a ɛ p r ɛ l e ʃ	a a p r i l i ʃ
+Mai::N	május	m ø e j i ʃ	m a a j u ʃ
+Juni::N	június	j ɛ ɒ n i a ʃ	j u u n i u ʃ
+Juli::N	július	j ɛ a l ɒ o ʃ	j u u l i u ʃ
+August::N	augusztus	ɛ y ɡ u s t i ʃ	ɒ u ɡ u s t u ʃ
+September::N	szeptember	s ø p t ɒ m b i r	s ɛ p t ɛ m b ɛ r
+Oktober::N	október	u k t ɒ u b o r	o k t o o b ɛ r
+November::N	november	n ø v a m b a r	n o v ɛ m b ɛ r
+Dezember::N	december	d e t͡s o m b o r	d ɛ t͡s ɛ m b ɛ r
+Montag::N	hétfő	h y o t f u i	h e e t f ø ø
+Dienstag::N	kedd	k ɒ d d	k ɛ d d
+Mittwoch::N	szerda	s y r d o	s ɛ r d ɒ
+Donnerstag::N	csütörtök	t͡ʃ ɛ t o r t i k	t͡ʃ y t ø r t ø k
+Freitag::N	péntek	p u i n t e k	p e e n t ɛ k
+Samstag::N	szombat	s ɛ m b ø t	s o m b ɒ t
+Sonntag::N	vasárnap	v ɛ ʃ o a r n ɒ p	v ɒ ʃ a a r n ɒ p
+groß::A	nagy	n ɒ ɟ	n ɒ ɟ
+klein::A	pici	p o t͡s ɒ	p i t͡s i
+klein::A	kicsi	k e t͡ʃ u	k i t͡ʃ i
+lang::A	hosszú	h o s s o i	h o s s u u
+kurz::A	rövid	r o v a d	r ø v i d
+breit::A	széles	s a o l y ʃ	s e e l ɛ ʃ
+schmal::A	keskeny	k a ʃ k e ɲ	k ɛ ʃ k ɛ ɲ
+dicht::A	sűrű	ʃ a i r e i	ʃ y y r y y
+dick[Gegenstand]::A	vastag	v ɒ ʃ t i ɡ	v ɒ ʃ t ɒ ɡ
+dünn::A	vékony	v y o k ɛ ɲ	v e e k o ɲ
+fein::A	vékony	v ɒ y k ɛ ɲ	v e e k o ɲ
+fest::A	szilárd	s a l i ɒ r d	s i l a a r d
+flach::A	sík	ʃ ø i k	ʃ i i k
+flach::A	lapos	l ɒ p i ʃ	l ɒ p o ʃ
+glatt::A	sima	ʃ i m ɒ	ʃ i m ɒ
+hart::A	kemény	k o m ɒ ɒ ɲ	k ɛ m e e ɲ
+weich::A	puha	p o h a	p u h ɒ
+rund::A	kerek	k ɒ r u k	k ɛ r ɛ k
+spitz::A	hegyes	h y ɟ ɒ ʃ	h ɛ ɟ ɛ ʃ
+scharf::A	éles	u a l a ʃ	e e l ɛ ʃ
+stumpf::A	tompa	t o m p y	t o m p ɒ
+stumpf::A	életlen	ø ɛ l u t l ɒ n	e e l ɛ t l ɛ n
+schwer::A	nehéz	n i h i y z	n ɛ h e e z
+schwer::A	súlyos	ʃ a o j e ʃ	ʃ u u j o ʃ
+schön::A	szép	s e a p	s e e p
+heiß::A	forró	f y r r i a	f o r r o o
+warm::A	meleg	m u l u ɡ	m ɛ l ɛ ɡ
+kalt::A	hideg	h y d ɛ ɡ	h i d ɛ ɡ
+kühl::A	hűs	h y o ʃ	h y y ʃ
+kühl::A	hűvös	h i e v e ʃ	h y y v ø ʃ
+frisch::A	üde	ɛ d e	y d ɛ
+frisch::A	friss	f r u ʃ ʃ	f r i ʃ ʃ
+feucht::A	nedves	n e d v ø ʃ	n ɛ d v ɛ ʃ
+nass::A	vizes	v ɒ z o ʃ	v i z ɛ ʃ
+trocken::A	száraz	s a ø r o z	s a a r ɒ z
+voll::A	telt	t o l t	t ɛ l t
+leer::A	üres	ɛ r ø ʃ	y r ɛ ʃ
+offen::A	nyílt	ɲ ɒ e l t	ɲ i i l t
+offen::A	nyitott	ɲ y t a t t	ɲ i t o t t
+geschlossen::A	zárt	z ø ɒ r t	z a a r t
+geschlossen::A	csukott	t͡ʃ i k ø t t	t͡ʃ u k o t t
+sauber::A	tiszta	t e s t ɛ	t i s t ɒ
+schmutzig::A	piszkos	p ø s k ø ʃ	p i s k o ʃ
+schmutzig::A	szennyes	s i ɲ ɲ ɛ ʃ	s ɛ ɲ ɲ ɛ ʃ
+roh::A	nyers	ɲ o r ʃ	ɲ ɛ r ʃ
+reif::A	érett	u ø r e t t	e e r ɛ t t
+lecker::A	finom	f i n u m	f i n o m
+süß::A	édes	e e d e ʃ	e e d ɛ ʃ
+bitter::A	keserű	k ɒ ʃ ø r e i	k ɛ ʃ ɛ r y y
+sauer::A	savanyú	ʃ e v y ɲ ø o	ʃ ɒ v ɒ ɲ u u
+hell::A	világos	v a l ɛ i ɡ i ʃ	v i l a a ɡ o ʃ
+dunkel::A	sötét	ʃ ø t o ɛ t	ʃ ø t e e t
+schwarz::A	fekete	f y k e t o	f ɛ k ɛ t ɛ
+weiß::A	fehér	f y h e ɛ r	f ɛ h e e r
+rot::A	vörös	v e r ø ʃ	v ø r ø ʃ
+gelb::A	sárga	ʃ o u r ɡ e	ʃ a a r ɡ ɒ
+blau::A	kék	k a ø k	k e e k
+grün::A	zöld	z i l d	z ø l d
+grau::A	ősz	i e s	ø ø s
+grau::A	szürke	s o r k u	s y r k ɛ
+bunt::A	tarka	t ɒ r k ɒ	t ɒ r k ɒ
+bunt::A	színes	s e ø n ø ʃ	s i i n ɛ ʃ
+billig::A	olcsó	i l t͡ʃ o y	o l t͡ʃ o o
+teuer::A	drága	d r ɛ ɒ ɡ ø	d r a a ɡ ɒ
+wertvoll::A	értékes	o a r t a o k e ʃ	e e r t e e k ɛ ʃ
+blind::A	vak	v ɛ k	v ɒ k
+taub::A	süket	ʃ ɛ k y t	ʃ y k ɛ t
+kräftig::A	erős	ø r y ɒ ʃ	ɛ r ø ø ʃ
+stark::A	erős	ø r y i ʃ	ɛ r ø ø ʃ
+schwach::A	gyenge	ɟ o n ɡ u	ɟ ɛ n ɡ ɛ
+schwach::A	erőtlen	ɛ r e i t l ɛ n	ɛ r ø ø t l ɛ n
+fett::A	hájas	h u i j o ʃ	h a a j ɒ ʃ
+schlank::A	karcsú	k ɒ r t͡ʃ a i	k ɒ r t͡ʃ u u
+hübsch::A	csinos	t͡ʃ ɛ n ɛ ʃ	t͡ʃ i n o ʃ
+böse::A	rossz	r a s s	r o s s
+böse::A	gonosz	ɡ ø n ɒ s	ɡ o n o s
+dumm::A	buta	b ɒ t a	b u t ɒ
+dumm::A	ostoba	i ʃ t o b i	o ʃ t o b ɒ
+faul::A	lusta	l o ʃ t ɒ	l u ʃ t ɒ
+fleißig::A	szorgalmas	s o r ɡ o l m ɒ ʃ	s o r ɡ ɒ l m ɒ ʃ
+geizig::A	fukar	f ø k i r	f u k ɒ r
+geizig::A	fösvény	f ɒ ʃ v a y ɲ	f ø ʃ v e e ɲ
+klug::A	okos	ɛ k y ʃ	o k o ʃ
+klug::A	eszes	a s ɒ ʃ	ɛ s ɛ ʃ
+geschickt::A	ügyes	a ɟ e ʃ	y ɟ ɛ ʃ
+lieb::A	drága	d r ɒ ø ɡ a	d r a a ɡ ɒ
+lieb::A	kedves	k y d v u ʃ	k ɛ d v ɛ ʃ
+lustig::A	víg	v ø e ɡ	v i i ɡ
+lustig::A	vidám	v ø d y ɒ m	v i d a a m
+sanft::A	enyhe	o ɲ h y	ɛ ɲ h ɛ
+hungrig::A	éhes	ɛ y h i ʃ	e e h ɛ ʃ
+krank::A	beteg	b i t y ɡ	b ɛ t ɛ ɡ
+nackt::A	csupasz	t͡ʃ ø p ɛ s	t͡ʃ u p ɒ s
+nackt::A	meztelen	m i z t e l ø n	m ɛ z t ɛ l ɛ n
+traurig::A	bús	b ɛ a ʃ	b u u ʃ
+traurig::A	szomorú	s e m ɛ r i o	s o m o r u u
+lebendig::A	élő	e u l ɛ ø	e e l ø ø
+gut::A	jó	j o i	j o o
+schlecht::A	rossz	r y s s	r o s s
+richtig::A	helyes	h ɒ j e ʃ	h ɛ j ɛ ʃ
+schlimm::A	rossz	r u s s	r o s s
+wahr::A	igaz	ø ɡ a z	i ɡ ɒ z
+alt::A	ó	ɛ ø	o o
+alt::A	régi	r i y ɡ u	r e e ɡ i
+neu::A	új	ø ɛ j	u u j
+ehemalig::A	volt	v ɒ l t	v o l t
+ehemalig::A	egykori	ɛ ɟ k i r a	ɛ ɟ k o r i
+alt[Lebewesen]::A	öreg	o r ø ɡ	ø r ɛ ɡ
+jung::A	fiatal	f ɛ ø t e l	f i ɒ t ɒ l
+arm::A	szegény	s ø ɡ ɒ e ɲ	s ɛ ɡ e e ɲ
+reich::A	gazdag	ɡ a z d o ɡ	ɡ ɒ z d ɒ ɡ
+bekannt::A	ismert	u ʃ m y r t	i ʃ m ɛ r t
+bekannt::A	ismeretes	a ʃ m i r ɛ t ɒ ʃ	i ʃ m ɛ r ɛ t ɛ ʃ
+berühmt::A	híres	h y ø r i ʃ	h i i r ɛ ʃ
+fremd::A	idegen	ɛ d ɒ ɡ a n	i d ɛ ɡ ɛ n
+verschieden::A	különböző	k y l o n b ɒ z e a	k y l ø n b ø z ø ø
+nah::A	közeli	k u z u l ɒ	k ø z ɛ l i
+fern::A	távoli	t y ø v ɒ l y	t a a v o l i
+linker::A	bal	b ɛ l	b ɒ l
+rechter::A	jobb	j y b b	j o b b
+anderer::A	más	m u u ʃ	m a a ʃ
+anderer::A	másik	m e y ʃ y k	m a a ʃ i k
+erster::A	első	a l ʃ ɛ a	ɛ l ʃ ø ø
+zweiter::A	második	m ɛ ɛ ʃ u d e k	m a a ʃ o d i k
+dritter::A	harmadik	h y r m ɒ d i k	h ɒ r m ɒ d i k
+letzter::A	utolsó	i t e l ʃ i o	u t o l ʃ o o
+allein::ADV	egyedül	u ɟ u d o l	ɛ ɟ ɛ d y l
+auf einmal::ADV	egyszerre	u ɟ s ø r r i	ɛ ɟ s ɛ r r ɛ
+zusammen::ADV	együtt	ɒ ɟ ɒ t t	ɛ ɟ y t t
+zusammen::ADV	összesen	o s s y ʃ u n	ø s s ɛ ʃ ɛ n
+lange::ADV	sokáig	ʃ ɛ k ɛ ɛ y ɡ	ʃ o k a a i ɡ
+lange::ADV	hosszan	h e s s o n	h o s s ɒ n
+plötzlich::ADV	hirtelen	h u r t ø l o n	h i r t ɛ l ɛ n
+plötzlich::ADV	egyszerre	ɛ ɟ s ɒ r r e	ɛ ɟ s ɛ r r ɛ
+sofort::ADV	rögtön	r i ɡ t a n	r ø ɡ t ø n
+sofort::ADV	tüstént	t o ʃ t ø o n t	t y ʃ t e e n t
+später::ADV	későn	k e ɒ ʃ i o n	k e e ʃ ø ø n
+jetzt::ADV	most	m ɛ ʃ t	m o ʃ t
+heute::ADV	ma	m ø	m ɒ
+morgen::ADV	holnap	h e l n y p	h o l n ɒ p
+bald::ADV	majd	m o j d	m ɒ j d
+bald::ADV	nemsokára	n ɒ m ʃ a k ø i r o	n ɛ m ʃ o k a a r ɒ
+dann::ADV	akkor	ɒ k k u r	ɒ k k o r
+gestern::ADV	tegnap	t u ɡ n e p	t ɛ ɡ n ɒ p
+einst::ADV	hajdan	h y j d y n	h ɒ j d ɒ n
+damals::ADV	akkor	ɒ k k e r	ɒ k k o r
+damals::ADV	akkoriban	ø k k ɒ r e b i n	ɒ k k o r i b ɒ n
+danach::ADV	azután	ɒ z ɒ t ø o n	ɒ z u t a a n
+vorher::ADV	előbb	ø l ɛ a b b	ɛ l ø ø b b
+zuerst::ADV	először	o l e ø s o r	ɛ l ø ø s ø r
+einmal::ADV	egyszer	i ɟ s u r	ɛ ɟ s ɛ r
+manchmal::ADV	néha	n y u h u	n e e h ɒ
+manchmal::ADV	olykor	i j k ø r	o j k o r
+oft::ADV	sokszor	ʃ y k s ø r	ʃ o k s o r
+immer::ADV	mindig	m o n d ø ɡ	m i n d i ɡ
+niemals::ADV	sohasem	ʃ i h o ʃ ø m	ʃ o h ɒ ʃ ɛ m
+hier::ADV	itt	i t t	i t t
+hierhin::ADV	erre	ɒ r r u	ɛ r r ɛ
+von hier::ADV	innen	i n n ɛ n	i n n ɛ n
+dort::ADV	ott	y t t	o t t
+dorthin::ADV	oda	o d ɒ	o d ɒ
+geradeaus::ADV	egyenesen	i ɟ a n ɛ ʃ ø n	ɛ ɟ ɛ n ɛ ʃ ɛ n
+vorwärts::ADV	előre	a l ɛ e r o	ɛ l ø ø r ɛ
+rückwärts::ADV	hátrafelé	h i ø t r a f ɛ l ø y	h a a t r ɒ f ɛ l e e
+zurück::ADV	hátra	h u ɛ t r u	h a a t r ɒ
+zurück::ADV	vissza	v o s s e	v i s s ɒ
+unten::ADV	alul	ɒ l e l	ɒ l u l
+hinab::ADV	le	l ø	l ɛ
+hinab::ADV	lefelé	l ɛ f i l ø ø	l ɛ f ɛ l e e
+oben::ADV	fenn	f e n n	f ɛ n n
+oben::ADV	felül	f ø l i l	f ɛ l y l
+hinauf::ADV	fel	f y l	f ɛ l
+hinauf::ADV	felfelé	f y l f u l ɛ u	f ɛ l f ɛ l e e
+überall::ADV	mindenütt	m ɛ n d ɛ n e t t	m i n d ɛ n y t t
+nicht::ADV	nem	n ø m	n ɛ m
+ein wenig::ADV	egy kicsit	u ɟ _ k o t͡ʃ u t	ɛ ɟ _ k i t͡ʃ i t
+kaum::ADV	alig	ɛ l i ɡ	ɒ l i ɡ
+sehr::ADV	nagyon	n i ɟ o n	n ɒ ɟ o n
+so::ADV	úgy	y i ɟ	u u ɟ
+noch::ADV	még	m u ɒ ɡ	m e e ɡ
+nur::ADV	csak	t͡ʃ y k	t͡ʃ ɒ k
+nur::ADV	csupán	t͡ʃ o p ɛ ɒ n	t͡ʃ u p a a n
+schon::ADV	már	m a e r	m a a r
+wieder::ADV	ismét	o ʃ m i e t	i ʃ m e e t
+wieder::ADV	megint	m u ɡ e n t	m ɛ ɡ i n t
+vergebens::ADV	hiába	h y u ø b ɒ	h i a a b ɒ
+vor::PRP	előtt	e l ɛ ɛ t t	ɛ l ø ø t t
+hinter::PRP	mögött	m y ɡ u t t	m ø ɡ ø t t
+unter::PRP	alatt	o l a t t	ɒ l ɒ t t
+durch::PRP	át	a i t	a a t
+durch::PRP	keresztül	k ø r y s t a l	k ɛ r ɛ s t y l
+neben::PRP	mellett	m ɛ l l e t t	m ɛ l l ɛ t t
+zwischen::PRP	között	k ɒ z e t t	k ø z ø t t
+wegen::PRP	miatt	m i e t t	m i ɒ t t
+wegen::PRP	végett	v o i ɡ i t t	v e e ɡ ɛ t t
+dies::PRN	ez	ɛ z	ɛ z
+das::PRN	az	o z	ɒ z
+alles::PRN	minden	m o n d o n	m i n d ɛ n
+ich::PRN	én	a ɛ n	e e n
+du::PRN	te	t o	t ɛ
+er::PRN	ő	e e	ø ø
+wir::PRN	mi	m e	m i
+ihr::PRN	ti	t a	t i
+sie::PRN	ők	ɒ y k	ø ø k
+was::FPRN	mi	m u	m i
+wer::FPRN	ki	k ɒ	k i
+wo::FADV	hol	h i l	h o l
+wohin::FADV	hova	h u v i	h o v ɒ
+wie::FADV	hogy	h a ɟ	h o ɟ
+wie::FADV	hogyan	h ɛ ɟ ɛ n	h o ɟ ɒ n
+warum::FADV	miért	m u ɒ ø r t	m i e e r t
+wieviel::FNUM	hány	h e ø ɲ	h a a ɲ
+wieviel::FNUM	mennyi	m ɒ ɲ ɲ e	m ɛ ɲ ɲ i
+eins::NUM	egy	ɒ ɟ	ɛ ɟ
+zwei::NUM	kettő	k ɒ t t y u	k ɛ t t ø ø
+drei::NUM	három	h y o r ɒ m	h a a r o m
+vier::NUM	négy	n ɒ ɛ ɟ	n e e ɟ
+fünf::NUM	öt	ø t	ø t
+sechs::NUM	hat	h i t	h ɒ t
+sieben::NUM	hét	h ø y t	h e e t
+acht::NUM	nyolc	ɲ ɒ l t͡s	ɲ o l t͡s
+neun::NUM	kilenc	k u l ɒ n t͡s	k i l ɛ n t͡s
+zehn::NUM	tíz	t i i z	t i i z
+elf::NUM	tizenegy	t i z ɒ n a ɟ	t i z ɛ n ɛ ɟ
+zwölf::NUM	tizenkettő	t i z a n k y t t e a	t i z ɛ n k ɛ t t ø ø
+zwanzig::NUM	húsz	h o ɒ s	h u u s
+dreißig::NUM	harminc	h o r m y n t͡s	h ɒ r m i n t͡s
+vierzig::NUM	negyven	n ɛ ɟ v i n	n ɛ ɟ v ɛ n
+fünfzig::NUM	ötven	e t v o n	ø t v ɛ n
+sechzig::NUM	hatvan	h u t v i n	h ɒ t v ɒ n
+siebzig::NUM	hetven	h a t v e n	h ɛ t v ɛ n
+achtzig::NUM	nyolcvan	ɲ ɒ l t͡s v u n	ɲ o l t͡s v ɒ n
+neunzig::NUM	kilencven	k ø l i n t͡s v y n	k i l ɛ n t͡s v ɛ n
+hundert::NUM	száz	s o ø z	s a a z
+tausend::NUM	ezer	u z i r	ɛ z ɛ r
+und::CNJ	és	ɛ y ʃ	e e ʃ
+und::CNJ	meg	m u ɡ	m ɛ ɡ
+oder::CNJ	vagy	v e ɟ	v ɒ ɟ
+stehen::V	áll	a o l l	a a l l
+sitzen::V	ül	e l	y l
+liegen::V	fekszik	f ø k s u k	f ɛ k s i k
+hängen::V	függ	f i ɡ ɡ	f y ɡ ɡ
+werden::V	lesz	l ɒ s	l ɛ s
+passieren::V	történik	t ø r t e y n u k	t ø r t e e n i k
+beginnen::V	kezdődik	k e z d y ɛ d ɒ k	k ɛ z d ø ø d i k
+enden::V	végződik	v ɒ e ɡ z y o d u k	v e e ɡ z ø ø d i k
+enden::V	befejeződik	b e f ɛ j e z i i d u k	b ɛ f ɛ j ɛ z ø ø d i k
+wechseln::V	változik	v a e l t ɛ z e k	v a a l t o z i k
+aufgehen[Sonne]::V	kel	k i l	k ɛ l
+untergehen[Sonne]::V	lemegy	l ɛ m o ɟ	l ɛ m ɛ ɟ
+scheinen[Sonne]::V	süt	ʃ ɒ t	ʃ y t
+donnern::V	dörög	d y r i ɡ	d ø r ø ɡ
+wehen::V	fúj	f ɛ i j	f u u j
+strömen::V	áramlik	e a r ɒ m l u k	a a r ɒ m l i k
+fließen::V	folyik	f e j a k	f o j i k
+sich drehen::V	forog	f a r a ɡ	f o r o ɡ
+schwanken::V	inog	ɛ n ɛ ɡ	i n o ɡ
+schwanken::V	ingadozik	e n ɡ i d u z o k	i n ɡ ɒ d o z i k
+schwingen::V	leng	l y n ɡ	l ɛ n ɡ
+fallen::V	esik	u ʃ u k	ɛ ʃ i k
+brennen::V	ég	ɛ ɒ ɡ	e e ɡ
+rauchen::V	füstöl	f a ʃ t u l	f y ʃ t ø l
+regnen::V	esik	y ʃ y k	ɛ ʃ i k
+gefrieren::V	megfagy	m ø ɡ f e ɟ	m ɛ ɡ f ɒ ɟ
+tauen::V	olvad	ɒ l v a d	o l v ɒ d
+schmelzen::V	olvad	ɛ l v i d	o l v ɒ d
+schmelzen::V	elolvad	ɒ l u l v ɛ d	ɛ l o l v ɒ d
+trocknen::V	szárad	s o ɒ r ɛ d	s a a r ɒ d
+sieden::V	forr	f u r r	f o r r
+faulen::V	rothad	r e t h i d	r o t h ɒ d
+verfaulen::V	elrothad	i l r o t h ɛ d	ɛ l r o t h ɒ d
+verfaulen::V	megrothad	m ɒ ɡ r e t h u d	m ɛ ɡ r o t h ɒ d
+reißen::V	szakad	s ɒ k ø d	s ɒ k ɒ d
+versinken::V	süllyed	ʃ e j j ø d	ʃ y j j ɛ d
+versinken::V	elsüllyed	o l ʃ y j j y d	ɛ l ʃ y j j ɛ d
+vergehen::V	múlik	m i ɛ l o k	m u u l i k
+vergehen::V	elmúlik	y l m ɛ o l u k	ɛ l m u u l i k
+erscheinen::V	feltűnik	f ø l t u ɛ n y k	f ɛ l t y y n i k
+erscheinen::V	megjelenik	m u ɡ j u l o n i k	m ɛ ɡ j ɛ l ɛ n i k
+verschwinden::V	letűnik	l a t a y n e k	l ɛ t y y n i k
+sinken::V	süllyed	ʃ ɒ j j ɛ d	ʃ y j j ɛ d
+abnehmen::V	apad	ø p o d	ɒ p ɒ d
+abnehmen::V	csökken	t͡ʃ o k k y n	t͡ʃ ø k k ɛ n
+zunehmen::V	növekszik	n ɒ v o k s i k	n ø v ɛ k s i k
+zunehmen::V	gyarapszik	ɟ e r ɒ p s y k	ɟ ɒ r ɒ p s i k
+steigen::V	emelkedik	y m e l k y d a k	ɛ m ɛ l k ɛ d i k
+wachsen::V	nő	n ɛ o	n ø ø
+wachsen::V	terem	t i r i m	t ɛ r ɛ m
+wachsen::V	növekszik	n e v ɒ k s e k	n ø v ɛ k s i k
+glänzen::V	ragyog	r y ɟ ɒ ɡ	r ɒ ɟ o ɡ
+glänzen::V	fénylik	f ø e ɲ l y k	f e e ɲ l i k
+funkeln::V	csillog	t͡ʃ a l l e ɡ	t͡ʃ i l l o ɡ
+funkeln::V	tündöklik	t e n d ɒ k l u k	t y n d ø k l i k
+lärmen::V	lármázik	l ø o r m a e z e k	l a a r m a a z i k
+läuten::V	cseng	t͡ʃ ø n ɡ	t͡ʃ ɛ n ɡ
+klingeln::V	csenget	t͡ʃ u n ɡ o t	t͡ʃ ɛ n ɡ ɛ t
+klirren::V	csörömpöl	t͡ʃ ɛ r ɛ m p a l	t͡ʃ ø r ø m p ø l
+brausen::V	zúg	z u y ɡ	z u u ɡ
+brausen::V	morajlik	m ɛ r o j l a k	m o r ɒ j l i k
+rauschen::V	zúg	z i i ɡ	z u u ɡ
+klingen::V	hangzik	h ɒ n ɡ z y k	h ɒ n ɡ z i k
+bellen::V	ugat	y ɡ a t	u ɡ ɒ t
+heulen::V	bőg	b e y ɡ	b ø ø ɡ
+heulen::V	üvölt	o v ɒ l t	y v ø l t
+blasen::V	fúj	f ø o j	f u u j
+pfeifen::V	fütyül	f u c u l	f y c y l
+schreien::V	kiált	k i ɛ a l t	k i a a l t
+schreien::V	kiabál	k i ø b e o l	k i ɒ b a a l
+stöhnen::V	nyög	ɲ a ɡ	ɲ ø ɡ
+zittern::V	remeg	r u m a ɡ	r ɛ m ɛ ɡ
+zittern::V	reszket	r ɛ s k o t	r ɛ s k ɛ t
+leben::V	él	e ø l	e e l
+geboren werden::V	születik	s ɒ l y t o k	s y l ɛ t i k
+atmen::V	lélegzik	l a e l o ɡ z ɛ k	l e e l ɛ ɡ z i k
+trinken::V	iszik	y s y k	i s i k
+essen::V	eszik	u s y k	ɛ s i k
+schlucken::V	nyel	ɲ ɛ l	ɲ ɛ l
+müde werden::V	elfárad	ø l f ɒ ɒ r ɒ d	ɛ l f a a r ɒ d
+müde werden::V	kifárad	k o f y y r u d	k i f a a r ɒ d
+einschlafen::V	elalszik	e l u l s ø k	ɛ l ɒ l s i k
+schlafen::V	alszik	u l s ɒ k	ɒ l s i k
+aufwachen::V	felébred	f a l y e b r i d	f ɛ l e e b r ɛ d
+aufstehen::V	felkel	f a l k ø l	f ɛ l k ɛ l
+sich erholen::V	pihen	p y h u n	p i h ɛ n
+krank werden::V	megbetegedik	m e ɡ b o t y ɡ y d ɒ k	m ɛ ɡ b ɛ t ɛ ɡ ɛ d i k
+krank werden::V	belebetegszik	b e l e b ɛ t a ɡ s a k	b ɛ l ɛ b ɛ t ɛ ɡ s i k
+krank sein::V	betegeskedik	b ɒ t i ɡ ø ʃ k y d e k	b ɛ t ɛ ɡ ɛ ʃ k ɛ d i k
+schmerzen::V	fáj	f ø e j	f a a j
+husten::V	köhög	k ɒ h e ɡ	k ø h ø ɡ
+genesen::V	meggyógyul	m a ɟ ɟ ɒ y ɟ ø l	m ɛ ɟ ɟ o o ɟ u l
+sterben::V	hal	h ɛ l	h ɒ l
+umkommen::V	elpusztul	y l p i s t ø l	ɛ l p u s t u l
+sich bewegen::V	mozog	m u z o ɡ	m o z o ɡ
+sich rühren::V	mozdul	m o z d ɛ l	m o z d u l
+sich erheben::V	feláll	f e l i ɛ l l	f ɛ l a a l l
+sich erheben::V	felemelkedik	f ø l u m ɛ l k i d y k	f ɛ l ɛ m ɛ l k ɛ d i k
+sich setzen::V	ül	u l	y l
+sich setzen::V	leül	l ɒ ɒ l	l ɛ y l
+hinfallen::V	bukik	b e k i k	b u k i k
+hinfallen::V	elesik	o l a ʃ u k	ɛ l ɛ ʃ i k
+laufen::V	jár	j i ɛ r	j a a r
+schreiten::V	lép	l o u p	l e e p
+spazierengehen::V	sétál	ʃ o u t ɒ o l	ʃ e e t a a l
+eilen::V	siet	ʃ y ø t	ʃ i ɛ t
+sich beeilen::V	siet	ʃ ɛ ø t	ʃ i ɛ t
+sausen::V	robog	r ɒ b y ɡ	r o b o ɡ
+rennen::V	fut	f a t	f u t
+rennen::V	szalad	s ɛ l y d	s ɒ l ɒ d
+springen::V	ugrik	e ɡ r o k	u ɡ r i k
+klettern::V	kúszik	k ɛ u s y k	k u u s i k
+schaukeln::V	hintázik	h i n t i ɒ z ɛ k	h i n t a a z i k
+kriechen::V	kúszik	k y ɒ s i k	k u u s i k
+schwimmen::V	úszik	ɒ ɛ s u k	u u s i k
+tauchen::V	merül	m ɛ r o l	m ɛ r y l
+rudern::V	evez	i v a z	ɛ v ɛ z
+fahren::V	jár	j ɛ ø r	j a a r
+fahren::V	megy	m o ɟ	m ɛ ɟ
+fahren::V	utazik	i t y z e k	u t ɒ z i k
+fliegen::V	száll	s u u l l	s a a l l
+gehen::V	megy	m e ɟ	m ɛ ɟ
+weggehen::V	elmegy	ɒ l m e ɟ	ɛ l m ɛ ɟ
+abfahren::V	indul	o n d a l	i n d u l
+anhalten::V	megáll	m u ɡ ø ɛ l l	m ɛ ɡ a a l l
+hineingehen::V	bemegy	b i m ɛ ɟ	b ɛ m ɛ ɟ
+eintreten::V	belép	b e l a u p	b ɛ l e e p
+kommen::V	jön	j i n	j ø n
+ankommen::V	érkezik	e ɛ r k i z u k	e e r k ɛ z i k
+ankommen::V	megérkezik	m ɛ ɡ e ɛ r k ɛ z a k	m ɛ ɡ e e r k ɛ z i k
+zurückkommen::V	visszajön	v a s s ɛ j o n	v i s s ɒ j ø n
+bleiben::V	marad	m ɛ r u d	m ɒ r ɒ d
+bleiben::V	megmarad	m ø ɡ m o r ɒ d	m ɛ ɡ m ɒ r ɒ d
+warten::V	vár	v u i r	v a a r
+warten::V	várakozik	v ø u r a k ø z y k	v a a r ɒ k o z i k
+erwarten::V	vár	v a e r	v a a r
+erwarten::V	megvár	m a ɡ v ɒ ø r	m ɛ ɡ v a a r
+suchen::V	kutat	k e t ø t	k u t ɒ t
+finden::V	talál	t e l u u l	t ɒ l a a l
+versuchen::V	megpróbál	m a ɡ p r ø y b ø i l	m ɛ ɡ p r o o b a a l
+versuchen::V	megkísérel	m ɛ ɡ k a ɛ ʃ ɛ ɒ r ɛ l	m ɛ ɡ k i i ʃ e e r ɛ l
+vorbereiten::V	előkészít	y l a ø k y ɒ s y u t	ɛ l ø ø k e e s i i t
+lieben::V	szeret	s u r ɒ t	s ɛ r ɛ t
+mögen::V	szeret	s i r ø t	s ɛ r ɛ t
+lachen::V	nevet	n ɛ v u t	n ɛ v ɛ t
+rühren::V	mozdít	m o z d u a t	m o z d i i t
+weinen::V	sír	ʃ ɒ o r	ʃ i i r
+schimpfen::V	szid	s u d	s i d
+schimpfen::V	szitkozódik	s i t k a z ø ø d u k	s i t k o z o o d i k
+sich ärgern::V	mérgelődik	m ɛ o r ɡ i l y ɛ d ø k	m e e r ɡ ɛ l ø ø d i k
+sich ärgern::V	bosszankodik	b ɛ s s ɒ n k a d ɒ k	b o s s ɒ n k o d i k
+sich fürchten::V	fél	f y ɛ l	f e e l
+sich fürchten::V	retteg	r u t t i ɡ	r ɛ t t ɛ ɡ
+fürchten::V	fél	f e u l	f e e l
+fliehen::V	menekül	m i n i k ɒ l	m ɛ n ɛ k y l
+flüchten::V	elmenekül	ɒ l m y n a k ø l	ɛ l m ɛ n ɛ k y l
+sehen::V	néz	n i a z	n e e z
+anschauen::V	megnéz	m a ɡ n ø a z	m ɛ ɡ n e e z
+ansehen::V	néz	n y ɒ z	n e e z
+ansehen::V	ránéz	r u y n i ɛ z	r a a n e e z
+ansehen::V	megnéz	m e ɡ n ɛ ɛ z	m ɛ ɡ n e e z
+hören::V	hall	h e l l	h ɒ l l
+zuhören::V	hallgat	h ɒ l l ɡ o t	h ɒ l l ɡ ɒ t
+zuhören::V	meghallgat	m ɛ ɡ h e l l ɡ i t	m ɛ ɡ h ɒ l l ɡ ɒ t
+probieren::V	kóstol	k e i ʃ t y l	k o o ʃ t o l
+probieren::V	megkóstol	m i ɡ k a i ʃ t u l	m ɛ ɡ k o o ʃ t o l
+riechen::V	szagol	s i ɡ ø l	s ɒ ɡ o l
+fühlen::V	érez	ø e r a z	e e r ɛ z
+scheinen::V	tűnik	t o i n y k	t y y n i k
+scheinen::V	látszik	l o ɛ t s u k	l a a t s i k
+zu sehen sein::V	mutatkozik	m ɛ t i t k a z ɛ k	m u t ɒ t k o z i k
+vernehmen::V	hall	h o l l	h ɒ l l
+frieren::V	fázik	f ɒ o z a k	f a a z i k
+tun::V	csinál	t͡ʃ ɛ n ɒ o l	t͡ʃ i n a a l
+tun::V	cselekszik	t͡ʃ i l y k s y k	t͡ʃ ɛ l ɛ k s i k
+können::V	tud	t i d	t u d
+wollen::V	akar	i k y r	ɒ k ɒ r
+anfangen::V	kezd	k ø z d	k ɛ z d
+beenden::V	befejez	b u f i j e z	b ɛ f ɛ j ɛ z
+aufhören::V	megszűnik	m ɛ ɡ s e e n y k	m ɛ ɡ s y y n i k
+gelingen::V	sikerül	ʃ y k ɒ r ɒ l	ʃ i k ɛ r y l
+geraten::V	kerül	k a r o l	k ɛ r y l
+geraten::V	jut	j u t	j u t
+öffnen::V	nyit	ɲ u t	ɲ i t
+öffnen::V	kinyit	k u ɲ e t	k i ɲ i t
+schließen::V	csuk	t͡ʃ ɛ k	t͡ʃ u k
+schließen::V	becsuk	b ø t͡ʃ u k	b ɛ t͡ʃ u k
+stellen::V	állít	y u l l i y t	a a l l i i t
+stellen::V	helyez	h ɛ j u z	h ɛ j ɛ z
+setzen::V	ültet	o l t ɒ t	y l t ɛ t
+setzen::V	helyez	h y j i z	h ɛ j ɛ z
+legen::V	tesz	t i s	t ɛ s
+legen::V	fektet	f u k t i t	f ɛ k t ɛ t
+berühren::V	érint	o u r ɛ n t	e e r i n t
+verbinden::V	beköt	b u k o t	b ɛ k ø t
+verbinden::V	összeköt	o s s e k y t	ø s s ɛ k ø t
+bedecken::V	betakar	b u t y k y r	b ɛ t ɒ k ɒ r
+bedecken::V	beborít	b ø b ø r y i t	b ɛ b o r i i t
+aufhängen::V	felakaszt	f e l ø k e s t	f ɛ l ɒ k ɒ s t
+anzünden::V	gyújt	ɟ ø a j t	ɟ u u j t
+anzünden::V	meggyújt	m u ɟ ɟ i ø j t	m ɛ ɟ ɟ u u j t
+aufheben::V	felemel	f a l ɒ m ø l	f ɛ l ɛ m ɛ l
+zurücklassen::V	hátrahagy	h ɛ ø t r e h i ɟ	h a a t r ɒ h ɒ ɟ
+verlieren::V	veszít	v ø s o e t	v ɛ s i i t
+verlieren::V	elveszít	ɛ l v ø s ø u t	ɛ l v ɛ s i i t
+fallen lassen::V	elejt	e l u j t	ɛ l ɛ j t
+machen::V	tesz	t e s	t ɛ s
+machen::V	csinál	t͡ʃ ø n a ø l	t͡ʃ i n a a l
+herstellen::V	gyárt	ɟ ɒ u r t	ɟ a a r t
+herstellen::V	előállít	o l y a e y l l o ɒ t	ɛ l ø ø a a l l i i t
+bauen::V	épít	ø ø p u ɒ t	e e p i i t
+reparieren::V	javít	j u v ø o t	j ɒ v i i t
+reparieren::V	kijavít	k o j e v o ø t	k i j ɒ v i i t
+reparieren::V	megjavít	m o ɡ j a v ɛ a t	m ɛ ɡ j ɒ v i i t
+verbessern::V	megjavít	m e ɡ j ɛ v e a t	m ɛ ɡ j ɒ v i i t
+ändern::V	változtat	v y o l t ø z t a t	v a a l t o z t ɒ t
+ändern::V	megváltoztat	m ɛ ɡ v y ɒ l t e z t i t	m ɛ ɡ v a a l t o z t ɒ t
+graben::V	ás	e i ʃ	a a ʃ
+beugen::V	meghajt	m e ɡ h e j t	m ɛ ɡ h ɒ j t
+biegen::V	hajlít	h i j l o u t	h ɒ j l i i t
+drehen::V	forgat	f o r ɡ y t	f o r ɡ ɒ t
+wenden::V	fordít	f i r d y i t	f o r d i i t
+wenden::V	megfordít	m ɒ ɡ f ø r d u a t	m ɛ ɡ f o r d i i t
+umdrehen::V	megfordít	m e ɡ f y r d ø o t	m ɛ ɡ f o r d i i t
+umdrehen::V	megforgat	m a ɡ f ø r ɡ e t	m ɛ ɡ f o r ɡ ɒ t
+heben::V	emel	ɒ m o l	ɛ m ɛ l
+hochheben::V	felemel	f a l ø m u l	f ɛ l ɛ m ɛ l
+ergreifen::V	megfog	m a ɡ f ɛ ɡ	m ɛ ɡ f o ɡ
+halten::V	tart	t ɒ r t	t ɒ r t
+drücken::V	nyom	ɲ o m	ɲ o m
+drücken::V	megnyom	m a ɡ ɲ u m	m ɛ ɡ ɲ o m
+schieben::V	tol	t ɛ l	t o l
+kratzen::V	vakar	v y k u r	v ɒ k ɒ r
+lecken::V	nyal	ɲ y l	ɲ ɒ l
+beißen::V	harap	h ɛ r y p	h ɒ r ɒ p
+abreißen::V	letép	l o t y ɒ p	l ɛ t e e p
+abschneiden::V	levág	l ɒ v ø u ɡ	l ɛ v a a ɡ
+binden::V	köt	k ɒ t	k ø t
+binden::V	kötöz	k ɛ t e z	k ø t ø z
+stecken::V	dug	d ø ɡ	d u ɡ
+brechen::V	tör	t a r	t ø r
+brechen::V	eltör	o l t u r	ɛ l t ø r
+klopfen::V	kopogtat	k a p i ɡ t ɛ t	k o p o ɡ t ɒ t
+hauen::V	vág	v ɛ a ɡ	v a a ɡ
+hauen::V	levág	l a v u u ɡ	l ɛ v a a ɡ
+kleben::V	tapaszt	t ɛ p u s t	t ɒ p ɒ s t
+reiben::V	dörzsöl	d y r ʒ y l	d ø r ʒ ø l
+reiben::V	súrol	ʃ e ø r ɛ l	ʃ u u r o l
+streichen::V	simít	ʃ i m u i t	ʃ i m i i t
+schleifen::V	fen	f u n	f ɛ n
+schleifen::V	csiszol	t͡ʃ ø s u l	t͡ʃ i s o l
+schleifen::V	köszörül	k u s a r y l	k ø s ø r y l
+schneiden::V	vág	v ø ø ɡ	v a a ɡ
+schneiden::V	szel	s a l	s ɛ l
+schneiden::V	metsz	m ø t s	m ɛ t s
+rütteln::V	ráz	r a ɒ z	r a a z
+schütteln::V	ráz	r ø u z	r a a z
+schütteln::V	megráz	m y ɡ r u y z	m ɛ ɡ r a a z
+schwenken::V	lóbál	l i ɒ b i u l	l o o b a a l
+schwenken::V	lobogtat	l o b e ɡ t o t	l o b o ɡ t ɒ t
+schütten::V	önt	e n t	ø n t
+füllen::V	tölt	t ø l t	t ø l t
+füllen::V	megtölt	m u ɡ t i l t	m ɛ ɡ t ø l t
+einwickeln::V	becsavar	b o t͡ʃ i v y r	b ɛ t͡ʃ ɒ v ɒ r
+tragen::V	hord	h ɛ r d	h o r d
+schleppen::V	vonszol	v a n s u l	v o n s o l
+ziehen::V	húz	h ɒ u z	h u u z
+aufbewahren::V	megőriz	m u ɡ o i r i z	m ɛ ɡ ø ø r i z
+werfen::V	dob	d e b	d o b
+werfen::V	hajít	h i j ɛ a t	h ɒ j i i t
+fangen::V	fog	f u ɡ	f o ɡ
+packen::V	megragad	m ɒ ɡ r ɒ ɡ ø d	m ɛ ɡ r ɒ ɡ ɒ d
+verstecken::V	eldug	ø l d ɛ ɡ	ɛ l d u ɡ
+verstecken::V	elrejt	ɒ l r i j t	ɛ l r ɛ j t
+teilen::V	oszt	i s t	o s t
+teilen::V	megoszt	m o ɡ u s t	m ɛ ɡ o s t
+schicken::V	küld	k ɒ l d	k y l d
+bringen::V	hoz	h y z	h o z
+bringen::V	visz	v a s	v i s
+hinzufügen::V	hozzáad	h i z z u u u d	h o z z a a ɒ d
+bekommen::V	kap	k a p	k ɒ p
+bekommen::V	megkap	m o ɡ k ɒ p	m ɛ ɡ k ɒ p
+erhalten::V	kap	k ø p	k ɒ p
+erhalten::V	megkap	m ø ɡ k a p	m ɛ ɡ k ɒ p
+nehmen::V	vesz	v y s	v ɛ s
+wählen::V	választ	v u e l ɒ s t	v a a l ɒ s t
+auswählen::V	kiválaszt	k y v o y l ɛ s t	k i v a a l ɒ s t
+bewahren::V	megtart	m a ɡ t e r t	m ɛ ɡ t ɒ r t
+behindern::V	akadályoz	a k e d e a j a z	ɒ k ɒ d a a j o z
+behindern::V	gátol	ɡ ø y t o l	ɡ a a t o l
+verderben::V	elront	u l r o n t	ɛ l r o n t
+beschädigen::V	rongál	r y n ɡ y e l	r o n ɡ a a l
+zerbrechen::V	eltör	a l t a r	ɛ l t ø r
+zerbrechen::V	széttör	s y i t t a r	s e e t t ø r
+zerbrechen::V	kettétör	k ɛ t t o e t y r	k ɛ t t e e t ø r
+zerreißen::V	eltép	e l t ɒ ø p	ɛ l t e e p
+zerreißen::V	széttép	s i i t t u ɒ p	s e e t t e e p
+zerstören::V	elpusztít	i l p o s t e u t	ɛ l p u s t i i t
+verbrennen::V	éget	i y ɡ a t	e e ɡ ɛ t
+verbrennen::V	eléget	o l ɛ y ɡ i t	ɛ l e e ɡ ɛ t
+geben::V	ad	ɒ d	ɒ d
+reichen::V	nyújt	ɲ ø ø j t	ɲ u u j t
+schenken::V	ajándékoz	ø j y e n d a y k ɛ z	ɒ j a a n d e e k o z
+versprechen::V	ígér	ɛ y ɡ a y r	i i ɡ e e r
+wünschen::V	kíván	k ø ɛ v e e n	k i i v a a n
+loben::V	dicsér	d o t͡ʃ e o r	d i t͡ʃ e e r
+küssen::V	csókol	t͡ʃ a ɛ k o l	t͡ʃ o o k o l
+wiegen::V	ringat	r a n ɡ o t	r i n ɡ ɒ t
+zudecken::V	betakar	b o t a k u r	b ɛ t ɒ k ɒ r
+wecken::V	kelt	k a l t	k ɛ l t
+wecken::V	ébreszt	u a b r ɒ s t	e e b r ɛ s t
+zeigen::V	mutat	m i t a t	m u t ɒ t
+führen::V	visz	v e s	v i s
+führen::V	vezet	v ø z ɒ t	v ɛ z ɛ t
+lehren::V	tanít	t y n o e t	t ɒ n i i t
+unterrichten::V	tanít	t ø n ɛ o t	t ɒ n i i t
+aufziehen::V	felnevel	f y l n ɛ v o l	f ɛ l n ɛ v ɛ l
+leiten::V	vezet	v ɛ z i t	v ɛ z ɛ t
+leiten::V	vezérel	v ɛ z u ɒ r i l	v ɛ z e e r ɛ l
+antreiben::V	hajt	h ø j t	h ɒ j t
+lassen::V	-tat	 t e t	 t ɒ t
+lassen::V	-at	 ɛ t	 ɒ t
+einladen::V	meghív	m ø ɡ h i e v	m ɛ ɡ h i i v
+vereinigen::V	egyesít	ɛ ɟ ɛ ʃ y y t	ɛ ɟ ɛ ʃ i i t
+besuchen::V	látogat	l o e t u ɡ y t	l a a t o ɡ ɒ t
+treffen::V	talál	t o l ɛ o l	t ɒ l a a l
+sich versammeln::V	gyülekezik	ɟ ɒ l y k a z ɒ k	ɟ y l ɛ k ɛ z i k
+sich versammeln::V	összegyűlik	u s s o ɟ ɛ ɛ l ɛ k	ø s s ɛ ɟ y y l i k
+spielen::V	játszik	j o u t s y k	j a a t s i k
+singen::V	énekel	ɛ i n e k i l	e e n ɛ k ɛ l
+tanzen::V	táncol	t i u n t͡s ɒ l	t a a n t͡s o l
+sich trennen::V	elválik	ɒ l v e ø l i k	ɛ l v a a l i k
+verlassen::V	elhagy	ɛ l h o ɟ	ɛ l h ɒ ɟ
+retten::V	ment	m o n t	m ɛ n t
+bewachen::V	őriz	i i r u z	ø ø r i z
+schützen::V	óv	ɛ ɒ v	o o v
+schützen::V	véd	v i i d	v e e d
+verteidigen::V	véd	v e ø d	v e e d
+sich schlagen::V	verekszik	v ɒ r ɒ k s u k	v ɛ r ɛ k s i k
+schießen::V	lő	l ɛ ɒ	l ø ø
+siegen::V	győz	ɟ ɒ i z	ɟ ø ø z
+ärgern::V	bosszant	b a s s u n t	b o s s ɒ n t
+schlagen::V	üt	ɒ t	y t
+schlagen::V	ver	v e r	v ɛ r
+treten::V	rúg	r e u ɡ	r u u ɡ
+stechen::V	döf	d y f	d ø f
+stechen::V	szúr	s i ɒ r	s u u r
+stoßen::V	lök	l y k	l ø k
+stehlen::V	lop	l ɛ p	l o p
+stören::V	zavar	z o v a r	z ɒ v ɒ r
+belästigen::V	zaklat	z i k l ɛ t	z ɒ k l ɒ t
+verbergen::V	rejt	r ø j t	r ɛ j t
+verbergen::V	elrejt	o l r ø j t	ɛ l r ɛ j t
+täuschen::V	megtéveszt	m ɒ ɡ t ø e v i s t	m ɛ ɡ t e e v ɛ s t
+betrügen::V	csal	t͡ʃ y l	t͡ʃ ɒ l
+töten::V	öl	ɒ l	ø l
+wohnen::V	lakik	l y k i k	l ɒ k i k
+arbeiten::V	dolgozik	d ɛ l ɡ u z e k	d o l ɡ o z i k
+sammeln::V	szed	s i d	s ɛ d
+sammeln::V	gyűjt	ɟ u ø j t	ɟ y y j t
+pflücken::V	szed	s o d	s ɛ d
+jagen::V	vadászik	v ø d u ɒ s e k	v ɒ d a a s i k
+fischen::V	halászik	h ɛ l i i s ɛ k	h ɒ l a a s i k
+fassen::V	fog	f y ɡ	f o ɡ
+hüten::V	őriz	u ɛ r ɛ z	ø ø r i z
+hüten::V	legeltet	l e ɡ u l t ø t	l ɛ ɡ ɛ l t ɛ t
+treiben::V	hajt	h ɒ j t	h ɒ j t
+anbinden::V	köt	k ø t	k ø t
+füttern::V	etet	u t i t	ɛ t ɛ t
+melken::V	fej	f ɛ j	f ɛ j
+hacken::V	vág	v u ɒ ɡ	v a a ɡ
+gießen::V	öntöz	ɛ n t y z	ø n t ø z
+reifen::V	érik	y ɛ r e k	e e r i k
+zubereiten::V	elkészít	i l k e ø s ɒ e t	ɛ l k e e s i i t
+kochen::V	főz	f e u z	f ø ø z
+backen::V	süt	ʃ ø t	ʃ y t
+braten::V	süt	ʃ a t	ʃ y t
+umrühren::V	megkever	m e ɡ k o v ø r	m ɛ ɡ k ɛ v ɛ r
+stricken::V	köt	k y t	k ø t
+nähen::V	varr	v a r r	v ɒ r r
+färben::V	fest	f o ʃ t	f ɛ ʃ t
+reinigen::V	tisztít	t ɛ s t e a t	t i s t i i t
+waschen::V	mos	m ɒ ʃ	m o ʃ
+abwischen::V	letöröl	l a t i r y l	l ɛ t ø r ø l
+spülen::V	mosogat	m y ʃ e ɡ a t	m o ʃ o ɡ ɒ t
+fegen::V	söpör	ʃ ɒ p a r	ʃ ø p ø r
+kehren::V	söpör	ʃ u p ɒ r	ʃ ø p ø r
+baden::V	fürdik	f u r d o k	f y r d i k
+sich waschen::V	mosdik	m a ʃ d e k	m o ʃ d i k
+sich waschen::V	mosakszik	m ɒ ʃ ɛ k s ø k	m o ʃ ɒ k s i k
+ausziehen::V	levesz	l a v i s	l ɛ v ɛ s
+anziehen::V	felölt	f o l e l t	f ɛ l ø l t
+anziehen::V	felvesz	f a l v ɛ s	f ɛ l v ɛ s
+sich anziehen::V	öltözik	ø l t ɒ z a k	ø l t ø z i k
+sich anziehen::V	felöltözik	f i l ɒ l t o z ɒ k	f ɛ l ø l t ø z i k
+kämmen::V	fésül	f ɛ e ʃ e l	f e e ʃ y l
+schmücken::V	díszít	d ɒ ø s ɛ e t	d i i s i i t
+sagen::V	mond	m a n d	m o n d
+sprechen::V	beszél	b i s ɛ y l	b ɛ s e e l
+reden::V	beszél	b o s y o l	b ɛ s e e l
+sich unterhalten::V	beszélget	b e s ɛ e l ɡ ɛ t	b ɛ s e e l ɡ ɛ t
+fragen::V	kérdez	k ɒ ɛ r d o z	k e e r d ɛ z
+bitten::V	kér	k ɒ i r	k e e r
+erzählen::V	mesél	m a ʃ ɛ a l	m ɛ ʃ e e l
+erzählen::V	elbeszél	ɛ l b o s o ɒ l	ɛ l b ɛ s e e l
+mitteilen::V	közöl	k ø z e l	k ø z ø l
+nennen::V	hív	h o ɒ v	h i i v
+nennen::V	nevez	n y v ɒ z	n ɛ v ɛ z
+rufen::V	hív	h u i v	h i i v
+prahlen::V	dicsekszik	d ɛ t͡ʃ i k s i k	d i t͡ʃ ɛ k s i k
+übersetzen::V	fordít	f ɛ r d ø i t	f o r d i i t
+denken::V	gondol	ɡ a n d e l	ɡ o n d o l
+glauben::V	hisz	h y s	h i s
+bemerken::V	észrevesz	ø a s r e v i s	e e s r ɛ v ɛ s
+erkennen::V	ráismer	r ɛ y a ʃ m ø r	r a a i ʃ m ɛ r
+erkennen::V	felismer	f o l i ʃ m u r	f ɛ l i ʃ m ɛ r
+begreifen::V	felfog	f a l f e ɡ	f ɛ l f o ɡ
+verstehen::V	ért	e ɒ r t	e e r t
+verstehen::V	megért	m ø ɡ u a r t	m ɛ ɡ e e r t
+lernen::V	tanul	t ɛ n o l	t ɒ n u l
+lernen::V	megtanul	m a ɡ t ɛ n a l	m ɛ ɡ t ɒ n u l
+wissen::V	tud	t ɛ d	t u d
+sich erinnern an::V	emlékszik	ɒ m l o ɒ k s ɛ k	ɛ m l e e k s i k
+vergessen::V	felejt	f i l u j t	f ɛ l ɛ j t
+vergessen::V	elfelejt	ø l f o l a j t	ɛ l f ɛ l ɛ j t
+messen::V	mér	m ø ɒ r	m e e r
+messen::V	megmér	m u ɡ m u o r	m ɛ ɡ m e e r
+zählen::V	számol	s a y m i l	s a a m o l
+zählen::V	megszámol	m ø ɡ s ɛ i m y l	m ɛ ɡ s a a m o l
+rechnen::V	számít	s i y m i ø t	s a a m i i t
+lesen::V	olvas	a l v i ʃ	o l v ɒ ʃ
+malen::V	fest	f ø ʃ t	f ɛ ʃ t
+zeichnen::V	rajzol	r ɛ j z y l	r ɒ j z o l
+schreiben::V	ír	ɒ y r	i i r
+besitzen::V	birtokol	b y r t o k i l	b i r t o k o l
+kaufen::V	vesz	v i s	v ɛ s
+kaufen::V	megvesz	m u ɡ v y s	m ɛ ɡ v ɛ s
+verkaufen::V	elad	o l e d	ɛ l ɒ d
+bezahlen::V	fizet	f e z u t	f i z ɛ t
+bezahlen::V	kifizet	k a f ɒ z ɒ t	k i f i z ɛ t
+zahlen::V	fizet	f y z e t	f i z ɛ t
+zahlen::V	megfizet	m i ɡ f ø z ø t	m ɛ ɡ f i z ɛ t
+beherrschen::V	ural	e r o l	u r ɒ l
+ertragen::V	elbír	i l b y e r	ɛ l b i i r
+ertragen::V	elvisel	a l v ɒ ʃ ɒ l	ɛ l v i ʃ ɛ l

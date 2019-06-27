@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Project specific
+datasets/northeuralex/orig.csv
+datasets/northeuralex/orig.csv.tar.gz
+datasets/northeuralex/preprocess
+results/
+plot/

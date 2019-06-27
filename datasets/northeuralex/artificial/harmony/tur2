@@ -1,0 +1,1249 @@
+Auge::N	göz	ɡ o z	ɡ œ z
+Ohr::N	kulak	k œ l ɯ k	k u l a k
+Nase::N	burun	b y ɾ o n	b u ɾ u n
+Mund::N	ağız	ɛ a œ z	a a ɯ z
+Zahn::N	diş	d a ʃ	d i ʃ
+Zunge::N	dil	d ɛ l	d i l
+Lippe::N	dudak	d ɛ d œ k	d u d a k
+Wange::N	yanak	j o n o k	j a n a k
+Gesicht::N	yüz	j o z	j y z
+Stirn::N	alın	œ l ɛ n	a l ɯ n
+Haar::N	saç	s y t͡ʃ	s a t͡ʃ
+Schnurrbart::N	bıyık	b y j a k	b ɯ j ɯ k
+Bart::N	sakal	s i k ɛ l	s a k a l
+Kinn::N	çene	t͡ʃ œ n i	t͡ʃ ɛ n ɛ
+Kiefer[Anatomie]::N	çene	t͡ʃ ɛ n o	t͡ʃ ɛ n ɛ
+Kehle::N	boğaz	b i o ɯ z	b o o a z
+Hals::N	boyun	b œ j ɛ n	b o j u n
+Hals::N	gerdan	ɡ y ɾ d ɯ n	ɡ ɛ ɾ d a n
+Genick::N	ense	ɯ n s ɛ	ɛ n s ɛ
+Kopf::N	baş	b i ʃ	b a ʃ
+Kopf::N	kafa	k y f u	k a f a
+Rücken::N	arka	ɯ ɾ k œ	a ɾ k a
+Bauch::N	karın	k y ɾ i n	k a ɾ ɯ n
+Nabel::N	göbek	ɡ ɯ b a k	ɡ œ b ɛ k
+Busen::N	koyun	k ɯ j ɯ n	k o j u n
+Brust::N	göğüs	ɡ u j i s	ɡ œ j y s
+Schulter::N	omuz	ɯ m œ z	o m u z
+Arm::N	kol	k ɯ l	k o l
+Ellenbogen::N	dirsek	d œ ɾ s ɯ k	d i ɾ s ɛ k
+Hand::N	el	i l	ɛ l
+Handfläche::N	avuç	a v a t͡ʃ	a v u t͡ʃ
+Handfläche::N	el ayası	ɛ l _ ɯ j u s a	ɛ l _ a j a s ɯ
+Finger::N	parmak	p o ɾ m i k	p a ɾ m a k
+Fingernagel::N	el tırnağı	y l _ t œ ɾ n ɛ i ɯ	ɛ l _ t ɯ ɾ n a a ɯ
+Nagel[Anatomie]::N	tırnak	t i ɾ n y k	t ɯ ɾ n a k
+Zeh::N	ayak parmağı	a j y k _ p o ɾ m o ɛ œ	a j a k _ p a ɾ m a a ɯ
+Fuß::N	ayak	u j ɛ k	a j a k
+Ferse::N	topuk	t ɯ p ɯ k	t o p u k
+Knie::N	diz	d ɛ z	d i z
+Oberschenkel::N	uyluk	œ j l u k	u j l u k
+Bein::N	bacak	b ɛ d͡ʒ a k	b a d͡ʒ a k
+Körper::N	vücut	v u d͡ʒ ɛ t	v y d͡ʒ u t
+Haut::N	cilt	d͡ʒ i l t	d͡ʒ i l t
+Blut::N	kan	k o n	k a n
+Ader::N	damar	d i m i ɾ	d a m a ɾ
+Sehne::N	kiriş	k ɛ ɾ ɯ ʃ	k i ɾ i ʃ
+Knochen::N	kemik	k œ m œ k	k ɛ m i k
+Gehirn::N	beyin	b ɛ j o n	b ɛ j i n
+Herz::N	kalp	k ɯ l p	k a l p
+Herz::N	yürek	j a ɾ o k	j y ɾ ɛ k
+Magen::N	mide	m o d ɯ	m i d ɛ
+Leber::N	karaciğer	k u ɾ œ d͡ʒ u j ɛ ɾ	k a ɾ a d͡ʒ i j ɛ ɾ
+Atem::N	nefes	n a f ɛ s	n ɛ f ɛ s
+Hunger::N	açlık	y t͡ʃ l o k	a t͡ʃ l ɯ k
+Träne::N	gözyaşı	ɡ a z j o ʃ i	ɡ œ z j a ʃ ɯ
+Geschmack::N	tat	t œ t	t a t
+Geschmack::N	lezzet	l a z z y t	l ɛ z z ɛ t
+Geruch::N	koku	k œ k œ	k o k u
+Schlaf::N	uyku	y j k o	u j k u
+Traum::N	düş	d i ʃ	d y ʃ
+Traum::N	rüya	ɾ y j a	ɾ y j a
+Himmel::N	gök	ɡ u k	ɡ œ k
+Sonne::N	güneş	ɡ i n y ʃ	ɡ y n ɛ ʃ
+Mond::N	ay	ɯ j	a j
+Stern::N	yıldız	j œ l d y z	j ɯ l d ɯ z
+Luft::N	hava	h a v o	h a v a
+Wind::N	yel	j ɛ l	j ɛ l
+Wind::N	rüzgâr	ɾ o z ɡ u a ɾ	ɾ y z ɡ a a ɾ
+Welle::N	dalga	d ɯ l ɡ ɯ	d a l ɡ a
+Wasser::N	su	s œ	s u
+Stein::N	taş	t œ ʃ	t a ʃ
+Boden::N	yer	j œ ɾ	j ɛ ɾ
+Boden::N	zemin	z o m ɛ n	z ɛ m i n
+Erde::N	toprak	t i p ɾ o k	t o p ɾ a k
+Staub::N	toz	t y z	t o z
+Rauch::N	duman	d a m o n	d u m a n
+Funke::N	kıvılcım	k u v o l d͡ʒ ɛ m	k ɯ v ɯ l d͡ʒ ɯ m
+Feuer::N	ateş	ɛ t i ʃ	a t ɛ ʃ
+Licht::N	ışık	a ʃ a k	ɯ ʃ ɯ k
+Schatten::N	gölge	ɡ a l ɡ œ	ɡ œ l ɡ ɛ
+Wetter::N	hava	h a v u	h a v a
+Nebel::N	pus	p u s	p u s
+Wolke::N	bulut	b y l o t	b u l u t
+Regen::N	yağmur	j i i m ɛ ɾ	j a a m u ɾ
+Schnee::N	kar	k ɛ ɾ	k a ɾ
+Eis::N	buz	b y z	b u z
+Frost::N	don	d i n	d o n
+Kälte::N	soğukluk	s i o ɯ k l u k	s o o u k l u k
+Hitze::N	sıcaklık	s a d͡ʒ y k l ɛ k	s ɯ d͡ʒ a k l ɯ k
+Raureif::N	kırç	k œ ɾ t͡ʃ	k ɯ ɾ t͡ʃ
+Regenbogen::N	gökkuşağı	ɡ ɯ k k œ ʃ y a o	ɡ œ k k u ʃ a a ɯ
+Donner::N	gök gürlemesi	ɡ ɛ k _ ɡ œ ɾ l y m u s œ	ɡ œ k _ ɡ y ɾ l ɛ m ɛ s i
+Strömung::N	akıntı	ɯ k œ n t ɛ	a k ɯ n t ɯ
+Strömung::N	cereyan	d͡ʒ y ɾ u j ɯ n	d͡ʒ ɛ ɾ ɛ j a n
+Tropfen::N	damla	d i m l o	d a m l a
+Schaum::N	köpük	k ɯ p ɯ k	k œ p y k
+Schmutz::N	çamur	t͡ʃ y m ɛ ɾ	t͡ʃ a m u ɾ
+Schmutz::N	pislik	p u s l œ k	p i s l i k
+See::N	göl	ɡ a l	ɡ œ l
+Sumpf::N	batak	b i t o k	b a t a k
+Moor::N	cılgıt	d͡ʒ œ l ɡ o t	d͡ʒ ɯ l ɡ ɯ t
+Wiese::N	çimen	t͡ʃ o m o n	t͡ʃ i m ɛ n
+Wald::N	koru	k ɯ ɾ u	k o ɾ u
+Wald::N	orman	ɛ ɾ m i n	o ɾ m a n
+Hügel::N	tepe	t œ p ɛ	t ɛ p ɛ
+Anhöhe::N	tümsek	t a m s ɯ k	t y m s ɛ k
+Anhöhe::N	yükseklik	j o k s ɛ k l y k	j y k s ɛ k l i k
+Berg::N	dağ	d o ɛ	d a a
+Gipfel::N	zirve	z u ɾ v œ	z i ɾ v ɛ
+Höhle::N	in	i n	i n
+Höhle::N	mağara	m œ u i ɾ y	m a a a ɾ a
+Abhang::N	bayır	b o j ɯ ɾ	b a j ɯ ɾ
+Quelle::N	pınar	p o n i ɾ	p ɯ n a ɾ
+Quelle::N	kaynak	k i j n i k	k a j n a k
+Bach::N	çay	t͡ʃ i j	t͡ʃ a j
+Bach::N	dere	d u ɾ ɯ	d ɛ ɾ ɛ
+Fluss::N	nehir	n i h i ɾ	n ɛ h i ɾ
+Ufer::N	kıyı	k œ j u	k ɯ j ɯ
+Ufer::N	sahil	s i h ɯ l	s a h i l
+Küste::N	kıyı	k u j u	k ɯ j ɯ
+Küste::N	sahil	s ɛ h u l	s a h i l
+Festland::N	kara	k ɛ ɾ ɛ	k a ɾ a
+Meer::N	deniz	d ɛ n i z	d ɛ n i z
+Bucht::N	koy	k o j	k o j
+Bucht::N	körfez	k ɛ ɾ f a z	k œ ɾ f ɛ z
+Insel::N	ada	œ d œ	a d a
+Blume::N	çiçek	t͡ʃ o t͡ʃ o k	t͡ʃ i t͡ʃ ɛ k
+Gras::N	ot	œ t	o t
+Gras::N	çim	t͡ʃ ɛ m	t͡ʃ i m
+Wurzel::N	kök	k ɯ k	k œ k
+Baum::N	ağaç	y ɛ ɯ t͡ʃ	a a a t͡ʃ
+Stamm::N	gövde	ɡ i v d ɛ	ɡ œ v d ɛ
+Rinde::N	kabuk	k œ b u k	k a b u k
+Ast::N	dal	d y l	d a l
+Ast::N	budak	b ɛ d œ k	b u d a k
+Zweig::N	dal	d a l	d a l
+Blatt::N	yaprak	j a p ɾ a k	j a p ɾ a k
+Birke::N	huş	h y ʃ	h u ʃ
+Kiefer[Baum]::N	çam	t͡ʃ o m	t͡ʃ a m
+Weide[Baum]::N	söğüt	s i j a t	s œ j y t
+Tanne::N	çam	t͡ʃ i m	t͡ʃ a m
+Tanne::N	köknar	k œ k n ɛ ɾ	k œ k n a ɾ
+Horn::N	boynuz	b ɛ j n a z	b o j n u z
+Feder::N	tüy	t a j	t y j
+Fell::N	post	p ɯ s t	p o s t
+Flügel::N	kanat	k i n o t	k a n a t
+Klaue::N	pençe	p ɯ n t͡ʃ i	p ɛ n t͡ʃ ɛ
+Kralle::N	tırnak	t ɛ ɾ n o k	t ɯ ɾ n a k
+Schwanz::N	kuyruk	k y j ɾ y k	k u j ɾ u k
+Ei::N	yumurta	j œ m y ɾ t o	j u m u ɾ t a
+Nest::N	yuva	j y v œ	j u v a
+Bau::N	in	u n	i n
+Tier::N	hayvan	h y j v i n	h a j v a n
+Herde::N	sürü	s o ɾ a	s y ɾ y
+Kuh::N	inek	u n a k	i n ɛ k
+Bulle::N	boğa	b i i œ	b o o a
+Pferd::N	at	i t	a t
+Pferd::N	beygir	b u j ɡ ɯ ɾ	b ɛ j ɡ i ɾ
+Schaf::N	koyun	k i j y n	k o j u n
+Schwein::N	domuz	d i m y z	d o m u z
+Hund::N	it	u t	i t
+Hund::N	köpek	k ɯ p a k	k œ p ɛ k
+Katze::N	kedi	k i d ɛ	k ɛ d i
+Bär::N	ayı	o j a	a j ɯ
+Eichhörnchen::N	sincap	s ɛ n d͡ʒ ɛ p	s i n d͡ʒ a p
+Elch::N	büyük kuzey geyiği	b y j y k _ k u z ɯ j _ ɡ i j o j o	b y j y k _ k u z ɛ j _ ɡ ɛ j i j i
+Fuchs::N	tilki	t ɛ l k œ	t i l k i
+Hase::N	tavşan	t u v ʃ i n	t a v ʃ a n
+Maus::N	fare	f a ɾ y	f a ɾ ɛ
+Maus::N	sıçan	s u t͡ʃ u n	s ɯ t͡ʃ a n
+Wolf::N	kurt	k a ɾ t	k u ɾ t
+Vogel::N	kuş	k o ʃ	k u ʃ
+Schwarm::N	sürü	s y ɾ ɛ	s y ɾ y
+Huhn::N	tavuk	t ɯ v ɛ k	t a v u k
+Hahn::N	horoz	h ɛ ɾ o z	h o ɾ o z
+Gans::N	kaz	k i z	k a z
+Adler::N	kartal	k u ɾ t œ l	k a ɾ t a l
+Adler::N	karakuş	k u ɾ y k y ʃ	k a ɾ a k u ʃ
+Ente::N	ördek	ɛ ɾ d œ k	œ ɾ d ɛ k
+Eule::N	baykuş	b ɛ j k u ʃ	b a j k u ʃ
+Kranich::N	turna	t y ɾ n i	t u ɾ n a
+Krähe::N	karga	k a ɾ ɡ ɯ	k a ɾ ɡ a
+Kuckuck::N	guguk	ɡ i ɡ a k	ɡ u ɡ u k
+Schwan::N	kuğu	k i o a	k u u u
+Fisch::N	balık	b a l i k	b a l ɯ k
+Barsch::N	hani	h u n y	h a n i
+Barsch::N	levrek	l œ v ɾ i k	l ɛ v ɾ ɛ k
+Hecht::N	turnabalığı	t a ɾ n i b y l i u o	t u ɾ n a b a l ɯ ɯ ɯ
+Schlange[Tier]::N	yılan	j o l œ n	j ɯ l a n
+Wurm::N	kurt	k u ɾ t	k u ɾ t
+Wurm::N	solucan	s y l y d͡ʒ ɯ n	s o l u d͡ʒ a n
+Spinne::N	örümcek	œ ɾ y m d͡ʒ ɯ k	œ ɾ y m d͡ʒ ɛ k
+Ameise::N	karınca	k u ɾ i n d͡ʒ u	k a ɾ ɯ n d͡ʒ a
+Laus::N	bit	b ɛ t	b i t
+Mücke::N	sivrisinek	s i v ɾ u s u n a k	s i v ɾ i s i n ɛ k
+Fliege::N	sinek	s œ n i k	s i n ɛ k
+Schmetterling::N	kelebek	k a l i b œ k	k ɛ l ɛ b ɛ k
+Beere::N	tane	t ɛ n y	t a n ɛ
+Apfel::N	elma	y l m o	ɛ l m a
+Pilz::N	mantar	m u n t a ɾ	m a n t a ɾ
+Zwiebel::N	soğan	s i ɯ a n	s o o a n
+Saat::N	ekin	a k y n	ɛ k i n
+Korn::N	tane	t ɯ n a	t a n ɛ
+Heu::N	kuru ot	k y ɾ i _ œ t	k u ɾ u _ o t
+Schale::N	kabuk	k ɛ b u k	k a b u k
+Grube::N	çukur	t͡ʃ œ k œ ɾ	t͡ʃ u k u ɾ
+Falle::N	tuzak	t ɯ z ɯ k	t u z a k
+Schlinge::N	ilmik	o l m u k	i l m i k
+Spur::N	iz	ɛ z	i z
+Asche::N	kül	k œ l	k y l
+Dreck::N	pislik	p ɛ s l œ k	p i s l i k
+Eisen::N	demir	d a m œ ɾ	d ɛ m i ɾ
+Gold::N	altın	œ l t y n	a l t ɯ n
+Silber::N	gümüş	ɡ u m y ʃ	ɡ y m y ʃ
+Kohle::N	kömür	k u m a ɾ	k œ m y ɾ
+Glas::N	cam	d͡ʒ a m	d͡ʒ a m
+Lehm::N	balçık	b o l t͡ʃ ɛ k	b a l t͡ʃ ɯ k
+Sand::N	kum	k o m	k u m
+Mensch::N	insan	ɯ n s o n	i n s a n
+Mann::N	adam	a d ɛ m	a d a m
+Mann::N	erkek	œ ɾ k ɛ k	ɛ ɾ k ɛ k
+Frau::N	bayan	b i j u n	b a j a n
+Kind::N	çocuk	t͡ʃ a d͡ʒ o k	t͡ʃ o d͡ʒ u k
+Junge::N	erkek çocuk	y ɾ k œ k _ t͡ʃ i d͡ʒ œ k	ɛ ɾ k ɛ k _ t͡ʃ o d͡ʒ u k
+Mädchen::N	kız	k u z	k ɯ z
+Familie::N	aile	œ ɯ l a	a i l ɛ
+Großvater::N	dede	d o d ɯ	d ɛ d ɛ
+Großvater::N	büyükbaba	b a j a k b o b a	b y j y k b a b a
+Großmutter::N	nine	n i n o	n i n ɛ
+Großmutter::N	büyükanne	b a j o k ɛ n n u	b y j y k a n n ɛ
+Eltern::N	ebeveyn	u b a v y j n	ɛ b ɛ v ɛ j n
+Eltern::N	ana baba	o n u _ b a b ɛ	a n a _ b a b a
+Vater::N	ata	a t œ	a t a
+Vater::N	baba	b u b ɯ	b a b a
+Mutter::N	ana	œ n o	a n a
+Mutter::N	anne	ɯ n n u	a n n ɛ
+Sohn::N	oğul	a œ o l	o o u l
+Tochter::N	kız	k y z	k ɯ z
+Tochter::N	kız evlât	k a z _ ɯ v l o o t	k ɯ z _ ɛ v l a a t
+Bruder::N	abi	o b y	a b i
+Bruder::N	erkek kardeş	ɛ ɾ k ɯ k _ k o ɾ d u ʃ	ɛ ɾ k ɛ k _ k a ɾ d ɛ ʃ
+Schwester::N	abla	y b l œ	a b l a
+Schwester::N	kız kardeş	k u z _ k ɯ ɾ d ɛ ʃ	k ɯ z _ k a ɾ d ɛ ʃ
+Onkel::N	dayı	d u j o	d a j ɯ
+Tante::N	hala	h u l a	h a l a
+Tante::N	teyze	t œ j z i	t ɛ j z ɛ
+Ehemann::N	koca	k i d͡ʒ y	k o d͡ʒ a
+Ehefrau::N	karı	k a ɾ ɛ	k a ɾ ɯ
+Freude::N	neşe	n œ ʃ ɯ	n ɛ ʃ ɛ
+Freude::N	sevinç	s i v i n t͡ʃ	s ɛ v i n t͡ʃ
+Gelächter::N	gülme	ɡ a l m y	ɡ y l m ɛ
+Gelächter::N	kahkaha	k ɛ h k o h ɛ	k a h k a h a
+Glück::N	mutluluk	m a t l ɯ l a k	m u t l u l u k
+Kummer::N	dert	d ɛ ɾ t	d ɛ ɾ t
+Kummer::N	keder	k œ d ɯ ɾ	k ɛ d ɛ ɾ
+Wunsch::N	arzu	o ɾ z o	a ɾ z u
+Wunsch::N	istek	ɛ s t o k	i s t ɛ k
+Lust::N	arzu	u ɾ z a	a ɾ z u
+Lust::N	heves	h i v ɛ s	h ɛ v ɛ s
+Geist::N	tin	t i n	t i n
+Gedanke::N	fikir	f o k ɛ ɾ	f i k i ɾ
+Gedanke::N	düşünce	d i ʃ ɯ n d͡ʒ a	d y ʃ y n d͡ʒ ɛ
+Gedächtnis::N	bellek	b u l l ɛ k	b ɛ l l ɛ k
+Verstand::N	zekâ	z ɯ k u œ	z ɛ k a a
+Sinn::N	anlam	u n l o m	a n l a m
+Grund::N	sebep	s a b œ p	s ɛ b ɛ p
+Wahrheit::N	doğruluk	d a a ɾ u l o k	d o o ɾ u l u k
+Wahrheit::N	gerçeklik	ɡ o ɾ t͡ʃ ɯ k l y k	ɡ ɛ ɾ t͡ʃ ɛ k l i k
+Gespräch::N	görüşme	ɡ o ɾ y ʃ m ɛ	ɡ œ ɾ y ʃ m ɛ
+Märchen::N	masal	m y s a l	m a s a l
+Erzählung::N	öykü	y j k a	œ j k y
+Erzählung::N	hikâye	h i k ɯ i j i	h i k a a j ɛ
+Nachricht::N	haber	h y b i ɾ	h a b ɛ ɾ
+Neuigkeit::N	haber	h a b ɯ ɾ	h a b ɛ ɾ
+Name::N	ad	ɯ d	a d
+Name::N	isim	a s o m	i s i m
+Rätsel::N	bilmece	b ɯ l m o d͡ʒ œ	b i l m ɛ d͡ʒ ɛ
+Rede::N	söylev	s o j l a v	s œ j l ɛ v
+Rede::N	konuşma	k ɛ n i ʃ m ɛ	k o n u ʃ m a
+Sprache::N	dil	d œ l	d i l
+Sprache::N	lisan	l u s œ n	l i s a n
+Stimme::N	ses	s o s	s ɛ s
+Wort::N	kelime	k a l ɛ m o	k ɛ l i m ɛ
+Zeichen::N	işaret	ɛ ʃ a ɾ ɛ t	i ʃ a ɾ ɛ t
+Ruf::N	çağırma	t͡ʃ ɛ i œ ɾ m y	t͡ʃ a a ɯ ɾ m a
+Lärm::N	şamata	ʃ ɛ m ɯ t ɯ	ʃ a m a t a
+Lärm::N	gürültü	ɡ a ɾ u l t a	ɡ y ɾ y l t y
+Laut::N	ses	s u s	s ɛ s
+Ton::N	ses	s i s	s ɛ s
+Lied::N	türkü	t u ɾ k o	t y ɾ k y
+Ruhe::N	sakinlik	s u k i n l œ k	s a k i n l i k
+Leute::N	halk	h ɯ l k	h a l k
+Leute::N	insanlar	u n s i n l y ɾ	i n s a n l a ɾ
+Volk::N	ulus	ɯ l o s	u l u s
+Volk::N	millet	m u l l ɛ t	m i l l ɛ t
+Arbeit::N	iş	a ʃ	i ʃ
+Arbeit::N	çalışma	t͡ʃ a l ɯ ʃ m i	t͡ʃ a l ɯ ʃ m a
+Gast::N	konuk	k ɛ n a k	k o n u k
+Gast::N	misafir	m ɛ s œ f i ɾ	m i s a f i ɾ
+Geschenk::N	hediye	h œ d œ j y	h ɛ d i j ɛ
+Geschenk::N	armağan	o ɾ m ɯ i o n	a ɾ m a a a n
+Spiel::N	oyun	ɛ j o n	o j u n
+Gesellschaft::N	çevre	t͡ʃ ɛ v ɾ y	t͡ʃ ɛ v ɾ ɛ
+Gesellschaft::N	arkadaşlık	o ɾ k y d i ʃ l a k	a ɾ k a d a ʃ l ɯ k
+Hilfe::N	yardım	j œ ɾ d o m	j a ɾ d ɯ m
+Freund::N	dost	d ɯ s t	d o s t
+Freund::N	arkadaş	y ɾ k œ d i ʃ	a ɾ k a d a ʃ
+Kamerad::N	arkadaş	œ ɾ k a d i ʃ	a ɾ k a d a ʃ
+Angelegenheit::N	iş	ɛ ʃ	i ʃ
+Angelegenheit::N	husus	h œ s i s	h u s u s
+Anzahl::N	sayı	s ɯ j o	s a j ɯ
+Art::N	çeşit	t͡ʃ ɯ ʃ i t	t͡ʃ ɛ ʃ i t
+Stück::N	tane	t i n ɛ	t a n ɛ
+Stück::N	parça	p ɯ ɾ t͡ʃ o	p a ɾ t͡ʃ a
+Teil::N	kısım	k ɯ s u m	k ɯ s ɯ m
+Hälfte::N	yarı	j ɛ ɾ ɛ	j a ɾ ɯ
+Kreis::N	daire	d ɛ u ɾ i	d a i ɾ ɛ
+Kreuz::N	haç	h u t͡ʃ	h a t͡ʃ
+Linie::N	hat	h a t	h a t
+Linie::N	çizgi	t͡ʃ a z ɡ ɯ	t͡ʃ i z ɡ i
+Strich::N	çizgi	t͡ʃ y z ɡ o	t͡ʃ i z ɡ i
+Abstand::N	aralık	y ɾ i l ɛ k	a ɾ a l ɯ k
+Entfernung::N	mesafe	m ɛ s y f a	m ɛ s a f ɛ
+Entfernung::N	uzaklık	i z œ k l y k	u z a k l ɯ k
+Gegend::N	yöre	j u ɾ o	j œ ɾ ɛ
+Platz::N	yer	j ɯ ɾ	j ɛ ɾ
+Ort::N	yer	j y ɾ	j ɛ ɾ
+Seite::N	yan	j a n	j a n
+Seite::N	taraf	t u ɾ y f	t a ɾ a f
+Mitte::N	orta	a ɾ t o	o ɾ t a
+Mitte::N	merkez	m i ɾ k a z	m ɛ ɾ k ɛ z
+Gegenstand::N	şey	ʃ y j	ʃ ɛ j
+Sache::N	iş	œ ʃ	i ʃ
+Sache::N	şey	ʃ u j	ʃ ɛ j
+Rand::N	kenar	k u n i ɾ	k ɛ n a ɾ
+Kante::N	kenar	k a n y ɾ	k ɛ n a ɾ
+Ecke::N	köşe	k y ʃ œ	k œ ʃ ɛ
+Spitze::N	uç	ɯ t͡ʃ	u t͡ʃ
+Spitze::N	baş	b ɯ ʃ	b a ʃ
+Ende::N	uç	u t͡ʃ	u t͡ʃ
+Loch::N	oyuk	o j a k	o j u k
+Loch::N	delik	d o l ɛ k	d ɛ l i k
+Winkel::N	köşe	k o ʃ i	k œ ʃ ɛ
+Muster::N	örnek	a ɾ n ɛ k	œ ɾ n ɛ k
+Größe::N	büyüklük	b ɛ j œ k l u k	b y j y k l y k
+Länge::N	uzunluk	œ z ɛ n l y k	u z u n l u k
+Höhe::N	yükseklik	j o k s y k l ɯ k	j y k s ɛ k l i k
+Gewicht::N	ağırlık	ɛ ɯ y ɾ l ɯ k	a a ɯ ɾ l ɯ k
+Menge::N	miktar	m ɯ k t i ɾ	m i k t a ɾ
+Haufen::N	küme	k a m a	k y m ɛ
+Haufen::N	yığın	j o a ɛ n	j ɯ ɯ ɯ n
+Reihe::N	sıra	s a ɾ o	s ɯ ɾ a
+Boot::N	kayık	k a j ɛ k	k a j ɯ k
+Boot::N	sandal	s œ n d y l	s a n d a l
+Ruder::N	kürek	k œ ɾ œ k	k y ɾ ɛ k
+Schlitten::N	kızak	k i z i k	k ɯ z a k
+Ski::N	kayak	k œ j ɛ k	k a j a k
+Lagerfeuer::N	kamp ateşi	k y m p _ ɯ t a ʃ a	k a m p _ a t ɛ ʃ i
+Last::N	yük	j i k	j y k
+Gang::N	gidiş	ɡ ɛ d i ʃ	ɡ i d i ʃ
+Gang::N	yürüyüş	j o ɾ œ j ɯ ʃ	j y ɾ y j y ʃ
+Schritt::N	adım	œ d y m	a d ɯ m
+Norden::N	kuzey	k u z i j	k u z ɛ j
+Süden::N	güney	ɡ o n ɛ j	ɡ y n ɛ j
+Westen::N	batı	b y t i	b a t ɯ
+Osten::N	doğu	d ɯ ɛ a	d o o u
+Holz::N	ağaç	u u œ t͡ʃ	a a a t͡ʃ
+Holz::N	tahta	t a h t y	t a h t a
+Brett::N	tahta	t ɯ h t y	t a h t a
+Platte::N	levha	l ɯ v h u	l ɛ v h a
+Stütze::N	dayak	d ɯ j i k	d a j a k
+Stütze::N	destek	d u s t u k	d ɛ s t ɛ k
+Stange::N	çubuk	t͡ʃ o b œ k	t͡ʃ u b u k
+Stock::N	sopa	s i p ɯ	s o p a
+Stock::N	değnek	d u j n a k	d ɛ j n ɛ k
+Stab::N	sırık	s ɯ ɾ ɯ k	s ɯ ɾ ɯ k
+Stab::N	baston	b œ s t o n	b a s t o n
+Rohr::N	boru	b ɛ ɾ œ	b o ɾ u
+Haus::N	ev	œ v	ɛ v
+Heim::N	ev	a v	ɛ v
+Heim::N	yurt	j o ɾ t	j u ɾ t
+Ofen::N	soba	s ɯ b i	s o b a
+Fußboden::N	taban	t ɛ b o n	t a b a n
+Fußboden::N	döşeme	d y ʃ u m œ	d œ ʃ ɛ m ɛ
+Tisch::N	masa	m œ s y	m a s a
+Stuhl::N	iskemle	y s k ɯ m l i	i s k ɛ m l ɛ
+Stuhl::N	sandalye	s y n d y l j i	s a n d a l j ɛ
+Wiege::N	beşik	b œ ʃ u k	b ɛ ʃ i k
+Bett::N	yatak	j i t a k	j a t a k
+Regal::N	raf	ɾ œ f	ɾ a f
+Kiste::N	sandık	s i n d y k	s a n d ɯ k
+Fenster::N	pencere	p ɯ n d͡ʒ ɯ ɾ œ	p ɛ n d͡ʒ ɛ ɾ ɛ
+Tür::N	kapı	k ɛ p i	k a p ɯ
+Tor::N	kapı	k ɛ p ɛ	k a p ɯ
+Zaun::N	çit	t͡ʃ u t	t͡ʃ i t
+Dach::N	dam	d y m	d a m
+Dach::N	çatı	t͡ʃ ɯ t y	t͡ʃ a t ɯ
+Leiter::N	merdiven	m ɯ ɾ d a v ɛ n	m ɛ ɾ d i v ɛ n
+Besen::N	süpürge	s ɯ p ɯ ɾ ɡ o	s y p y ɾ ɡ ɛ
+Spaten::N	bel	b u l	b ɛ l
+Schaufel::N	kürek	k ɛ ɾ u k	k y ɾ ɛ k
+Gabel::N	çatal	t͡ʃ o t œ l	t͡ʃ a t a l
+Löffel::N	kaşık	k a ʃ u k	k a ʃ ɯ k
+Messer::N	bıçak	b œ t͡ʃ o k	b ɯ t͡ʃ a k
+Nagel::N	çivi	t͡ʃ o v o	t͡ʃ i v i
+Netz::N	ağ	a ɛ	a a
+Haken::N	çengel	t͡ʃ œ n ɡ i l	t͡ʃ ɛ n ɡ ɛ l
+Griff::N	kulp	k u l p	k u l p
+Griff::N	tutamak	t ɯ t ɛ m y k	t u t a m a k
+Schloss::N	kilit	k i l o t	k i l i t
+Bild::N	imaj	o m u d͡ʒ	i m a d͡ʒ
+Bild::N	resim	ɾ u s ɛ m	ɾ ɛ s i m
+Figur::N	şekil	ʃ o k ɯ l	ʃ ɛ k i l
+Figur::N	heykel	h œ j k a l	h ɛ j k ɛ l
+Puppe::N	kukla	k y k l œ	k u k l a
+Beutel::N	kese	k ɛ s œ	k ɛ s ɛ
+Beutel::N	torba	t ɯ ɾ b o	t o ɾ b a
+Bündel::N	deste	d ɛ s t i	d ɛ s t ɛ
+Tasche::N	çanta	t͡ʃ i n t i	t͡ʃ a n t a
+Eimer::N	kova	k a v i	k o v a
+Deckel::N	kapak	k u p o k	k a p a k
+Geschirr::N	kap kacak	k i p _ k a d͡ʒ u k	k a p _ k a d͡ʒ a k
+Sack::N	torba	t a ɾ b y	t o ɾ b a
+Tasse::N	fincan	f i n d͡ʒ o n	f i n d͡ʒ a n
+Topf::N	tencere	t y n d͡ʒ y ɾ a	t ɛ n d͡ʒ ɛ ɾ ɛ
+Kessel::N	kazan	k ɛ z a n	k a z a n
+Essen::N	yemek	j o m a k	j ɛ m ɛ k
+Nahrung::N	gıda	ɡ u d ɛ	ɡ ɯ d a
+Nahrung::N	besin	b i s a n	b ɛ s i n
+Speise::N	yemek	j i m œ k	j ɛ m ɛ k
+Fleisch::N	et	o t	ɛ t
+Getreide::N	tahıl	t i h ɯ l	t a h ɯ l
+Getreide::N	hububat	h u b i b ɛ t	h u b u b a t
+Brei::N	ezme	a z m ɛ	ɛ z m ɛ
+Brot::N	ekmek	a k m y k	ɛ k m ɛ k
+Scheibe::N	dilim	d i l y m	d i l i m
+Fett::N	yağ	j u y	j a a
+Butter::N	tereyağı	t ɛ ɾ ɯ j ɛ œ ɛ	t ɛ ɾ ɛ j a a ɯ
+Öl::N	yağ	j y i	j a a
+Öl::N	akar yağ	o k ɯ ɾ _ j u u	a k a ɾ _ j a a
+Salz::N	tuz	t ɯ z	t u z
+Suppe::N	çorba	t͡ʃ ɛ ɾ b a	t͡ʃ o ɾ b a
+Honig::N	bal	b o l	b a l
+Milch::N	süt	s u t	s y t
+Tee::N	çay	t͡ʃ y j	t͡ʃ a j
+Leder::N	deri	d a ɾ ɛ	d ɛ ɾ i
+Leder::N	meşin	m ɯ ʃ o n	m ɛ ʃ i n
+Wolle::N	yün	j œ n	j y n
+Stoff::N	kumaş	k o m ɯ ʃ	k u m a ʃ
+Nadel::N	iğne	ɛ j n ɛ	i j n ɛ
+Faden::N	tire	t y ɾ y	t i ɾ ɛ
+Faden::N	iplik	ɯ p l œ k	i p l i k
+Knopf::N	düğme	d œ j m u	d y j m ɛ
+Knoten::N	düğüm	d ɛ j u m	d y j y m
+Farbe::N	boya	b a j u	b o j a
+Kleidung::N	giyim	ɡ u j ɯ m	ɡ i j i m
+Hemd::N	gömlek	ɡ a m l œ k	ɡ œ m l ɛ k
+Kragen::N	yaka	j y k o	j a k a
+Ärmel::N	yen	j ɯ n	j ɛ n
+Ärmel::N	elbise kolu	o l b i s u _ k a l a	ɛ l b i s ɛ _ k o l u
+Hose::N	pantolon	p y n t a l o n	p a n t o l o n
+Gürtel::N	kuşak	k ɯ ʃ o k	k u ʃ a k
+Mütze::N	bere	b i ɾ ɯ	b ɛ ɾ ɛ
+Mütze::N	kasket	k a s k a t	k a s k ɛ t
+Schuh::N	kundura	k a n d y ɾ ɛ	k u n d u ɾ a
+Schuh::N	ayakkabı	o j œ k k u b ɛ	a j a k k a b ɯ
+Stiefel::N	çizme	t͡ʃ ɯ z m ɯ	t͡ʃ i z m ɛ
+Ring::N	yüzük	j o z œ k	j y z y k
+Band::N	bağ	b o œ	b a a
+Band::N	şerit	ʃ u ɾ y t	ʃ ɛ ɾ i t
+Kamm::N	tarak	t u ɾ i k	t a ɾ a k
+Spiegel::N	ayna	ɛ j n a	a j n a
+Riemen::N	kayış	k u j œ ʃ	k a j ɯ ʃ
+Schnur::N	ip	œ p	i p
+Schnur::N	sicim	s ɛ d͡ʒ ɛ m	s i d͡ʒ i m
+Leine::N	kayış	k o j ɛ ʃ	k a j ɯ ʃ
+Decke::N	örtü	a ɾ t ɛ	œ ɾ t y
+Decke::N	yorgan	j ɯ ɾ ɡ o n	j o ɾ ɡ a n
+Kissen::N	yastık	j ɛ s t y k	j a s t ɯ k
+Tuch::N	bez	b a z	b ɛ z
+Handtuch::N	havlu	h œ v l ɯ	h a v l u
+Kraft::N	güç	ɡ o t͡ʃ	ɡ y t͡ʃ
+Kraft::N	kuvvet	k œ v v y t	k u v v ɛ t
+Stärke::N	kuvvet	k œ v v i t	k u v v ɛ t
+Gesundheit::N	sağlık	s ɯ o l u k	s a a l ɯ k
+Krankheit::N	hastalık	h o s t o l ɛ k	h a s t a l ɯ k
+Schmerz::N	ağrı	o a ɾ ɛ	a a ɾ ɯ
+Schmerz::N	sancı	s œ n d͡ʒ a	s a n d͡ʒ ɯ
+Wunde::N	yara	j a ɾ a	j a ɾ a
+Fieber::N	ateş	y t o ʃ	a t ɛ ʃ
+Arznei::N	ilâç	y l u a t͡ʃ	i l a a t͡ʃ
+Brücke::N	köprü	k i p ɾ i	k œ p ɾ y
+Brunnen::N	kuyu	k y j y	k u j u
+Brunnen::N	çeşme	t͡ʃ ɛ ʃ m u	t͡ʃ ɛ ʃ m ɛ
+Weide::N	otlak	i t l ɛ k	o t l a k
+Pfad::N	patika	p o t u k œ	p a t i k a
+Pfad::N	keçiyolu	k ɛ t͡ʃ ɯ j i l y	k ɛ t͡ʃ i j o l u
+Weg::N	yol	j u l	j o l
+Straße::N	yol	j o l	j o l
+Straße::N	cadde	d͡ʒ o d d a	d͡ʒ a d d ɛ
+Dorf::N	köy	k œ j	k œ j
+Stadt::N	kent	k ɯ n t	k ɛ n t
+Stadt::N	şehir	ʃ y h a ɾ	ʃ ɛ h i ɾ
+Brief::N	mektup	m œ k t y p	m ɛ k t u p
+Buch::N	kitap	k ɯ t a p	k i t a p
+Buchstabe::N	harf	h ɛ ɾ f	h a ɾ f
+Zeitung::N	gazete	ɡ œ z a t y	ɡ a z ɛ t ɛ
+Leben::N	hayat	h ɯ j y t	h a j a t
+Tod::N	ölüm	i l ɛ m	œ l y m
+Grab::N	kabir	k a b ɯ ɾ	k a b i ɾ
+Kirche::N	kilise	k ɯ l a s y	k i l i s ɛ
+Sünde::N	günah	ɡ u n o h	ɡ y n a h
+Gott::N	tanrı	t a n ɾ u	t a n ɾ ɯ
+Arbeiter::N	işçi	a ʃ t͡ʃ u	i ʃ t͡ʃ i
+Chef::N	şef	ʃ u f	ʃ ɛ f
+Chef::N	müdür	m i d u ɾ	m y d y ɾ
+Meister::N	usta	i s t i	u s t a
+Arzt::N	hekim	h u k y m	h ɛ k i m
+Arzt::N	doktor	d y k t a ɾ	d o k t o ɾ
+Lehrer::N	hoca	h u d͡ʒ i	h o d͡ʒ a
+Lehrer::N	öğretmen	u j ɾ i t m a n	œ j ɾ ɛ t m ɛ n
+Geld::N	para	p a ɾ o	p a ɾ a
+Geschäft::N	ticaret	t œ d͡ʒ ɯ ɾ y t	t i d͡ʒ a ɾ ɛ t
+Laden::N	dükkân	d ɛ k k ɯ a n	d y k k a a n
+Preis::N	fiyat	f u j œ t	f i j a t
+Ware::N	mal	m ɯ l	m a l
+Nutzen::N	fayda	f u j d y	f a j d a
+Reichtum::N	servet	s ɛ ɾ v œ t	s ɛ ɾ v ɛ t
+Reichtum::N	zenginlik	z i n ɡ ɛ n l a k	z ɛ n ɡ i n l i k
+Welt::N	dünya	d a n j u	d y n j a
+Land::N	ülke	o l k a	y l k ɛ
+Staat::N	devlet	d i v l i t	d ɛ v l ɛ t
+König::N	kral	k ɾ i l	k ɾ a l
+Macht::N	kudret	k u d ɾ a t	k u d ɾ ɛ t
+Macht::N	iktidar	i k t o d a ɾ	i k t i d a ɾ
+Grenze::N	had	h u d	h a d
+Grenze::N	sınır	s o n a ɾ	s ɯ n ɯ ɾ
+Krieg::N	savaş	s u v o ʃ	s a v a ʃ
+Feind::N	düşman	d a ʃ m a n	d y ʃ m a n
+Gewalt::N	zor	z ɯ ɾ	z o ɾ
+Gewalt::N	cebir	d͡ʒ ɛ b a ɾ	d͡ʒ ɛ b i ɾ
+Kampf::N	savaş	s ɯ v i ʃ	s a v a ʃ
+Bogen[Waffe]::N	yay	j y j	j a j
+Pfeil::N	ok	a k	o k
+Gewehr::N	tüfek	t ɯ f a k	t y f ɛ k
+Fehler::N	hata	h ɛ t a	h a t a
+Fehler::N	yanlış	j o n l y ʃ	j a n l ɯ ʃ
+Lüge::N	yalan	j ɛ l ɛ n	j a l a n
+Schaden::N	zarar	z ɯ ɾ u ɾ	z a ɾ a ɾ
+Unglück::N	felâket	f i l y a k ɛ t	f ɛ l a a k ɛ t
+Unglück::N	talihsizlik	t u l ɛ h s y z l ɛ k	t a l i h s i z l i k
+Schuld::N	suç	s œ t͡ʃ	s u t͡ʃ
+Schuld::N	kabahat	k y b y h ɛ t	k a b a h a t
+Alter::N	yaş	j ɛ ʃ	j a ʃ
+Schluss::N	son	s ɯ n	s o n
+Zeit::N	zaman	z o m ɯ n	z a m a n
+Tag::N	gün	ɡ o n	ɡ y n
+Morgen::N	sabah	s œ b a h	s a b a h
+Mittag::N	öğle	y j l ɯ	œ j l ɛ
+Abend::N	akşam	ɛ k ʃ ɯ m	a k ʃ a m
+Nacht::N	gece	ɡ u d͡ʒ ɛ	ɡ ɛ d͡ʒ ɛ
+Woche::N	hafta	h o f t ɛ	h a f t a
+Monat::N	ay	i j	a j
+Jahr::N	yıl	j y l	j ɯ l
+Jahr::N	sene	s ɛ n u	s ɛ n ɛ
+Frühling::N	ilkbahar	a l k b ɛ h i ɾ	i l k b a h a ɾ
+Sommer::N	yaz	j a z	j a z
+Herbst::N	güz	ɡ a z	ɡ y z
+Herbst::N	sonbahar	s ɛ n b ɛ h ɛ ɾ	s o n b a h a ɾ
+Winter::N	kış	k y ʃ	k ɯ ʃ
+Januar::N	ocak	a d͡ʒ ɛ k	o d͡ʒ a k
+Februar::N	şubat	ʃ u b a t	ʃ u b a t
+März::N	mart	m o ɾ t	m a ɾ t
+April::N	nisan	n œ s ɯ n	n i s a n
+Mai::N	mayıs	m y j a s	m a j ɯ s
+Juni::N	haziran	h u z u ɾ y n	h a z i ɾ a n
+Juli::N	temmuz	t u m m ɯ z	t ɛ m m u z
+August::N	ağustos	i i u s t ɯ s	a a u s t o s
+September::N	eylül	u j l o l	ɛ j l y l
+Oktober::N	ekim	a k ɯ m	ɛ k i m
+November::N	kasım	k œ s œ m	k a s ɯ m
+Dezember::N	aralık	ɯ ɾ i l ɛ k	a ɾ a l ɯ k
+Montag::N	pazartesi	p ɯ z œ ɾ t ɯ s œ	p a z a ɾ t ɛ s i
+Dienstag::N	salı	s y l œ	s a l ɯ
+Mittwoch::N	çarşamba	t͡ʃ o ɾ ʃ o m b y	t͡ʃ a ɾ ʃ a m b a
+Donnerstag::N	perşembe	p i ɾ ʃ a m b i	p ɛ ɾ ʃ ɛ m b ɛ
+Freitag::N	cuma	d͡ʒ a m œ	d͡ʒ u m a
+Samstag::N	cumartesi	d͡ʒ o m a ɾ t ɯ s y	d͡ʒ u m a ɾ t ɛ s i
+Sonntag::N	pazar	p y z ɯ ɾ	p a z a ɾ
+groß::A	büyük	b y j y k	b y j y k
+klein::A	ufak	o f y k	u f a k
+klein::A	küçük	k y t͡ʃ u k	k y t͡ʃ y k
+lang::A	uzun	a z ɯ n	u z u n
+kurz::A	kısa	k y s u	k ɯ s a
+breit::A	enli	œ n l œ	ɛ n l i
+breit::A	geniş	ɡ œ n ɯ ʃ	ɡ ɛ n i ʃ
+schmal::A	dar	d ɯ ɾ	d a ɾ
+dicht::A	sık	s i k	s ɯ k
+dicht::A	yoğun	j u œ œ n	j o o u n
+dick[Gegenstand]::A	kalın	k œ l i n	k a l ɯ n
+dick[Gegenstand]::A	iri	ɛ ɾ i	i ɾ i
+dünn::A	ince	ɯ n d͡ʒ a	i n d͡ʒ ɛ
+fein::A	ince	u n d͡ʒ i	i n d͡ʒ ɛ
+fein::A	narin	n u ɾ i n	n a ɾ i n
+fest::A	sabit	s ɛ b u t	s a b i t
+fest::A	sağlam	s ɯ i l œ m	s a a l a m
+flach::A	düz	d o z	d y z
+flach::A	yassı	j a s s y	j a s s ɯ
+glatt::A	düz	d a z	d y z
+hart::A	katı	k ɛ t œ	k a t ɯ
+weich::A	yumuşak	j i m o ʃ œ k	j u m u ʃ a k
+rund::A	yuvarlak	j œ v œ ɾ l ɯ k	j u v a ɾ l a k
+spitz::A	sivri	s œ v ɾ i	s i v ɾ i
+scharf::A	keskin	k œ s k ɯ n	k ɛ s k i n
+stumpf::A	kör	k œ ɾ	k œ ɾ
+schwer::A	ağır	o ɛ ɛ ɾ	a a ɯ ɾ
+schön::A	güzel	ɡ ɛ z a l	ɡ y z ɛ l
+heiß::A	kızgın	k œ z ɡ o n	k ɯ z ɡ ɯ n
+warm::A	sıcak	s a d͡ʒ o k	s ɯ d͡ʒ a k
+kalt::A	soğuk	s y œ i k	s o o u k
+kühl::A	serin	s ɛ ɾ i n	s ɛ ɾ i n
+frisch::A	taze	t o z ɯ	t a z ɛ
+feucht::A	nemli	n a m l œ	n ɛ m l i
+feucht::A	rutubetli	ɾ u t ɛ b o t l y	ɾ u t u b ɛ t l i
+nass::A	yaş	j ɯ ʃ	j a ʃ
+nass::A	ıslak	u s l i k	ɯ s l a k
+trocken::A	kuru	k œ ɾ a	k u ɾ u
+voll::A	dolu	d œ l ɯ	d o l u
+voll::A	dolmuş	d a l m ɛ ʃ	d o l m u ʃ
+leer::A	boş	b o ʃ	b o ʃ
+offen::A	açık	u t͡ʃ ɛ k	a t͡ʃ ɯ k
+geschlossen::A	kapalı	k i p o l a	k a p a l ɯ
+sauber::A	pak	p ɯ k	p a k
+sauber::A	temiz	t a m œ z	t ɛ m i z
+schmutzig::A	pis	p ɛ s	p i s
+schmutzig::A	kirli	k i ɾ l o	k i ɾ l i
+roh::A	çiğ	t͡ʃ ɛ j	t͡ʃ i j
+reif::A	olgun	y l ɡ u n	o l ɡ u n
+lecker::A	lezzetli	l u z z a t l o	l ɛ z z ɛ t l i
+süß::A	tatlı	t ɛ t l œ	t a t l ɯ
+süß::A	şekerli	ʃ u k u ɾ l ɯ	ʃ ɛ k ɛ ɾ l i
+bitter::A	acı	a d͡ʒ o	a d͡ʒ ɯ
+sauer::A	ekşi	u k ʃ u	ɛ k ʃ i
+hell::A	aydınlık	o j d ɛ n l ɛ k	a j d ɯ n l ɯ k
+dunkel::A	karanlık	k i ɾ u n l ɛ k	k a ɾ a n l ɯ k
+schwarz::A	kara	k i ɾ u	k a ɾ a
+schwarz::A	siyah	s i j ɯ h	s i j a h
+weiß::A	ak	u k	a k
+weiß::A	beyaz	b ɯ j ɯ z	b ɛ j a z
+rot::A	kırmızı	k ɯ ɾ m y z a	k ɯ ɾ m ɯ z ɯ
+gelb::A	sarı	s i ɾ œ	s a ɾ ɯ
+blau::A	mavi	m i v a	m a v i
+grün::A	yeşil	j ɯ ʃ o l	j ɛ ʃ i l
+grau::A	boz	b o z	b o z
+bunt::A	renkli	ɾ œ n k l a	ɾ ɛ n k l i
+billig::A	ucuz	o d͡ʒ y z	u d͡ʒ u z
+teuer::A	pahalı	p ɛ h y l y	p a h a l ɯ
+wertvoll::A	değerli	d o j u ɾ l ɛ	d ɛ j ɛ ɾ l i
+blind::A	kör	k u ɾ	k œ ɾ
+taub::A	sağır	s a a ɯ ɾ	s a a ɯ ɾ
+kräftig::A	dinç	d ɛ n t͡ʃ	d i n t͡ʃ
+kräftig::A	kuvvetli	k i v v ɯ t l ɛ	k u v v ɛ t l i
+stark::A	güçlü	ɡ y t͡ʃ l y	ɡ y t͡ʃ l y
+stark::A	kuvvetli	k œ v v œ t l ɯ	k u v v ɛ t l i
+schwach::A	zayıf	z a j i f	z a j ɯ f
+schwach::A	güçsüz	ɡ o t͡ʃ s o z	ɡ y t͡ʃ s y z
+fett::A	şişman	ʃ ɛ ʃ m œ n	ʃ i ʃ m a n
+schlank::A	narin	n ɛ ɾ y n	n a ɾ i n
+hübsch::A	güzel	ɡ ɛ z y l	ɡ y z ɛ l
+hübsch::A	sevimli	s ɛ v u m l o	s ɛ v i m l i
+böse::A	kötü	k ɯ t y	k œ t y
+dumm::A	aptal	y p t œ l	a p t a l
+faul::A	tembel	t a m b œ l	t ɛ m b ɛ l
+fleißig::A	çalışkan	t͡ʃ y l œ ʃ k y n	t͡ʃ a l ɯ ʃ k a n
+geizig::A	cimri	d͡ʒ a m ɾ y	d͡ʒ i m ɾ i
+klug::A	zekî	z ɯ k y i	z ɛ k i i
+klug::A	akıllı	o k ɯ l l i	a k ɯ l l ɯ
+geschickt::A	becerikli	b u d͡ʒ œ ɾ y k l y	b ɛ d͡ʒ ɛ ɾ i k l i
+lieb::A	sevimli	s ɯ v y m l ɯ	s ɛ v i m l i
+lustig::A	neşeli	n i ʃ u l ɛ	n ɛ ʃ ɛ l i
+sanft::A	nazik	n u z a k	n a z i k
+hungrig::A	aç	y t͡ʃ	a t͡ʃ
+krank::A	hasta	h a s t a	h a s t a
+krank::A	rahatsız	ɾ ɛ h o t s ɛ z	ɾ a h a t s ɯ z
+nackt::A	çıplak	t͡ʃ œ p l œ k	t͡ʃ ɯ p l a k
+traurig::A	kederli	k o d u ɾ l ɯ	k ɛ d ɛ ɾ l i
+traurig::A	üzüntülü	œ z ɯ n t i l ɯ	y z y n t y l y
+lebendig::A	canlı	d͡ʒ ɯ n l a	d͡ʒ a n l ɯ
+gut::A	iyi	œ j ɯ	i j i
+schlecht::A	kötü	k u t ɯ	k œ t y
+richtig::A	doğru	d a y ɾ a	d o o ɾ u
+schlimm::A	kötü	k a t o	k œ t y
+wahr::A	doğru	d ɛ i ɾ a	d o o ɾ u
+wahr::A	gerçek	ɡ ɯ ɾ t͡ʃ y k	ɡ ɛ ɾ t͡ʃ ɛ k
+alt::A	eski	y s k a	ɛ s k i
+neu::A	yeni	j o n y	j ɛ n i
+ehemalig::A	önceki	ɯ n d͡ʒ o k i	œ n d͡ʒ ɛ k i
+alt[Lebewesen]::A	yaşlı	j i ʃ l y	j a ʃ l ɯ
+jung::A	genç	ɡ a n t͡ʃ	ɡ ɛ n t͡ʃ
+arm::A	fakir	f œ k i ɾ	f a k i ɾ
+reich::A	zengin	z a n ɡ i n	z ɛ n ɡ i n
+bekannt::A	bilinen	b o l o n o n	b i l i n ɛ n
+berühmt::A	ünlü	a n l u	y n l y
+berühmt::A	meşhur	m ɯ ʃ h u ɾ	m ɛ ʃ h u ɾ
+fremd::A	yabancı	j a b o n d͡ʒ i	j a b a n d͡ʒ ɯ
+verschieden::A	ayrı	ɛ j ɾ o	a j ɾ ɯ
+verschieden::A	farklı	f ɯ ɾ k l ɛ	f a ɾ k l ɯ
+nah::A	yakın	j u k y n	j a k ɯ n
+nah::A	bitişik	b œ t œ ʃ y k	b i t i ʃ i k
+fern::A	uzak	ɯ z œ k	u z a k
+linker::A	sol	s o l	s o l
+rechter::A	sağ	s u ɛ	s a a
+anderer::A	diğer	d u j y ɾ	d i j ɛ ɾ
+erster::A	ilk	u l k	i l k
+erster::A	birinci	b œ ɾ ɯ n d͡ʒ œ	b i ɾ i n d͡ʒ i
+zweiter::A	ikinci	i k o n d͡ʒ ɯ	i k i n d͡ʒ i
+dritter::A	üçüncü	a t͡ʃ o n d͡ʒ ɛ	y t͡ʃ y n d͡ʒ y
+letzter::A	son	s y n	s o n
+letzter::A	sonuncu	s i n ɛ n d͡ʒ o	s o n u n d͡ʒ u
+allein::ADV	yalnız	j œ l n u z	j a l n ɯ z
+allein::ADV	tek başına	t y k _ b i ʃ u n u	t ɛ k _ b a ʃ ɯ n a
+auf einmal::ADV	birden	b y ɾ d o n	b i ɾ d ɛ n
+zusammen::ADV	beraber	b u ɾ ɯ b a ɾ	b ɛ ɾ a b ɛ ɾ
+zusammen::ADV	birlikte	b i ɾ l œ k t ɛ	b i ɾ l i k t ɛ
+lange::ADV	çok	t͡ʃ ɯ k	t͡ʃ o k
+lange::ADV	uzun	u z o n	u z u n
+plötzlich::ADV	ansızın	u n s i z ɛ n	a n s ɯ z ɯ n
+plötzlich::ADV	birdenbire	b ɯ ɾ d o n b ɯ ɾ i	b i ɾ d ɛ n b i ɾ ɛ
+sofort::ADV	hemen	h i m o n	h ɛ m ɛ n
+sofort::ADV	derhal	d ɛ ɾ h u l	d ɛ ɾ h a l
+später::ADV	daha sonra	d o h y _ s u n ɾ ɛ	d a h a _ s o n ɾ a
+jetzt::ADV	şimdi	ʃ y m d o	ʃ i m d i
+heute::ADV	bugün	b œ ɡ i n	b u ɡ y n
+morgen::ADV	yarın	j i ɾ a n	j a ɾ ɯ n
+bald::ADV	yakında	j œ k ɛ n d y	j a k ɯ n d a
+dann::ADV	sonra	s a n ɾ y	s o n ɾ a
+gestern::ADV	dün	d u n	d y n
+einst::ADV	eskiden	ɯ s k i d ɯ n	ɛ s k i d ɛ n
+damals::ADV	o zamanlar	ɯ _ z y m y n l ɛ ɾ	o _ z a m a n l a ɾ
+danach::ADV	sonradan	s œ n ɾ a d ɯ n	s o n ɾ a d a n
+danach::ADV	ondan sonra	ɛ n d u n _ s o n ɾ œ	o n d a n _ s o n ɾ a
+vorher::ADV	önce	ɛ n d͡ʒ a	œ n d͡ʒ ɛ
+vorher::ADV	önceden	i n d͡ʒ y d a n	œ n d͡ʒ ɛ d ɛ n
+zuerst::ADV	ilk önce	ɯ l k _ œ n d͡ʒ ɛ	i l k _ œ n d͡ʒ ɛ
+einmal::ADV	bir defa	b u ɾ _ d a f a	b i ɾ _ d ɛ f a
+manchmal::ADV	bazan	b y z u n	b a z a n
+oft::ADV	sık sık	s i k _ s œ k	s ɯ k _ s ɯ k
+oft::ADV	çok defa	t͡ʃ y k _ d u f œ	t͡ʃ o k _ d ɛ f a
+immer::ADV	daima	d œ ɯ m y	d a i m a
+immer::ADV	her zaman	h u ɾ _ z ɯ m a n	h ɛ ɾ _ z a m a n
+niemals::ADV	asla değil	y s l o _ d a j œ l	a s l a _ d ɛ j i l
+niemals::ADV	hiçbir zaman	h œ t͡ʃ b œ ɾ _ z u m y n	h i t͡ʃ b i ɾ _ z a m a n
+hier::ADV	burada	b i ɾ y d o	b u ɾ a d a
+hierhin::ADV	buraya	b œ ɾ ɯ j œ	b u ɾ a j a
+von hier::ADV	buradan	b a ɾ ɯ d u n	b u ɾ a d a n
+dort::ADV	orada	a ɾ y d u	o ɾ a d a
+dort::ADV	şurada	ʃ u ɾ i d œ	ʃ u ɾ a d a
+dorthin::ADV	oraya	œ ɾ y j y	o ɾ a j a
+dorthin::ADV	şuraya	ʃ o ɾ a j a	ʃ u ɾ a j a
+geradeaus::ADV	doğru	d ɯ ɛ ɾ o	d o o ɾ u
+vorwärts::ADV	ileri	a l y ɾ y	i l ɛ ɾ i
+rückwärts::ADV	geri	ɡ u ɾ u	ɡ ɛ ɾ i
+zurück::ADV	geriye	ɡ ɯ ɾ i j i	ɡ ɛ ɾ i j ɛ
+unten::ADV	aşağıda	a ʃ u œ o d a	a ʃ a a ɯ d a
+hinab::ADV	aşağıya	o ʃ a i a j ɯ	a ʃ a a ɯ j a
+oben::ADV	yukarıda	j u k y ɾ y d u	j u k a ɾ ɯ d a
+hinauf::ADV	yukarı	j o k ɛ ɾ o	j u k a ɾ ɯ
+hinauf::ADV	yukarıya	j a k ɛ ɾ a j o	j u k a ɾ ɯ j a
+überall::ADV	her yerde	h o ɾ _ j i ɾ d ɯ	h ɛ ɾ _ j ɛ ɾ d ɛ
+nicht::ADV	-mi-	m ɛ	m i
+nicht::ADV	değil	d o j ɛ l	d ɛ j i l
+ein wenig::ADV	biraz	b u ɾ œ z	b i ɾ a z
+kaum::ADV	dar	d y ɾ	d a ɾ
+kaum::ADV	hemen hemen değil	h i m i n _ h ɛ m u n _ d ɛ j u l	h ɛ m ɛ n _ h ɛ m ɛ n _ d ɛ j i l
+sehr::ADV	pek	p u k	p ɛ k
+sehr::ADV	gayet	ɡ i j ɛ t	ɡ a j ɛ t
+so::ADV	öyle	ɯ j l i	œ j l ɛ
+so::ADV	böyle	b œ j l u	b œ j l ɛ
+noch::ADV	hâlâ	h œ y l y a	h a a l a a
+noch::ADV	henüz	h ɯ n ɛ z	h ɛ n y z
+nur::ADV	ancak	ɛ n d͡ʒ ɛ k	a n d͡ʒ a k
+nur::ADV	yalnız	j ɯ l n a z	j a l n ɯ z
+schon::ADV	çoktan	t͡ʃ ɛ k t y n	t͡ʃ o k t a n
+wieder::ADV	tekrar	t œ k ɾ o ɾ	t ɛ k ɾ a ɾ
+wieder::ADV	yeniden	j i n i d u n	j ɛ n i d ɛ n
+vergebens::ADV	boşuna	b i ʃ a n œ	b o ʃ u n a
+vor::PRP	önünde	ɯ n œ n d œ	œ n y n d ɛ
+hinter::PRP	arkasında	ɛ ɾ k u s i n d ɛ	a ɾ k a s ɯ n d a
+unter::PRP	altında	u l t y n d i	a l t ɯ n d a
+durch::PRP	sayesinde	s y j u s i n d o	s a j ɛ s i n d ɛ
+durch::PRP	ortasından	ɯ ɾ t ɛ s o n d ɯ n	o ɾ t a s ɯ n d a n
+neben::PRP	yanında	j ɯ n y n d y	j a n ɯ n d a
+zwischen::PRP	arasında	y ɾ œ s y n d œ	a ɾ a s ɯ n d a
+wegen::PRP	dolayı	d ɯ l ɛ j y	d o l a j ɯ
+dies::PRN	bu	b a	b u
+das::PRN	o	ɛ	o
+das::PRN	şu	ʃ ɛ	ʃ u
+alles::PRN	hepsi	h y p s ɯ	h ɛ p s i
+alles::PRN	her şey	h ɛ ɾ _ ʃ i j	h ɛ ɾ _ ʃ ɛ j
+ich::PRN	ben	b a n	b ɛ n
+du::PRN	sen	s u n	s ɛ n
+er::PRN	o	i	o
+wir::PRN	biz	b u z	b i z
+ihr::PRN	siz	s u z	s i z
+sie::PRN	onlar	ɛ n l a ɾ	o n l a ɾ
+was::FPRN	ne	n a	n ɛ
+wer::FPRN	kim	k ɯ m	k i m
+wo::FADV	nerede	n a ɾ ɛ d u	n ɛ ɾ ɛ d ɛ
+wohin::FADV	nereye	n i ɾ y j i	n ɛ ɾ ɛ j ɛ
+wie::FADV	nasıl	n i s ɛ l	n a s ɯ l
+warum::FADV	neden	n u d u n	n ɛ d ɛ n
+wieviel::FNUM	kaç	k y t͡ʃ	k a t͡ʃ
+wieviel::FNUM	ne kadar	n ɛ _ k œ d a ɾ	n ɛ _ k a d a ɾ
+eins::NUM	bir	b ɯ ɾ	b i ɾ
+zwei::NUM	iki	i k i	i k i
+drei::NUM	üç	i t͡ʃ	y t͡ʃ
+vier::NUM	dört	d ɯ ɾ t	d œ ɾ t
+fünf::NUM	beş	b a ʃ	b ɛ ʃ
+sechs::NUM	altı	ɛ l t y	a l t ɯ
+sieben::NUM	yedi	j a d o	j ɛ d i
+acht::NUM	sekiz	s a k a z	s ɛ k i z
+neun::NUM	dokuz	d œ k y z	d o k u z
+zehn::NUM	on	œ n	o n
+elf::NUM	on bir	u n _ b i ɾ	o n _ b i ɾ
+zwölf::NUM	on iki	i n _ a k i	o n _ i k i
+zwanzig::NUM	yirmi	j œ ɾ m a	j i ɾ m i
+dreißig::NUM	otuz	ɯ t o z	o t u z
+vierzig::NUM	kırk	k ɯ ɾ k	k ɯ ɾ k
+fünfzig::NUM	elli	ɛ l l o	ɛ l l i
+sechzig::NUM	altmış	œ l t m ɛ ʃ	a l t m ɯ ʃ
+siebzig::NUM	yetmiş	j ɯ t m i ʃ	j ɛ t m i ʃ
+achtzig::NUM	seksen	s ɛ k s a n	s ɛ k s ɛ n
+neunzig::NUM	doksan	d œ k s u n	d o k s a n
+hundert::NUM	yüz	j ɛ z	j y z
+tausend::NUM	bin	b o n	b i n
+und::CNJ	ve	v ɛ	v ɛ
+und::CNJ	ile	œ l o	i l ɛ
+oder::CNJ	ya	j y	j a
+oder::CNJ	yahut	j o h œ t	j a h u t
+stehen::V	durmak	d ɛ ɾ m o k	d u ɾ m a k
+sitzen::V	oturmak	u t a ɾ m i k	o t u ɾ m a k
+liegen::V	yatmak	j a t m a k	j a t m a k
+hängen::V	asılı olmak	ɛ s i l ɯ _ o l m u k	a s ɯ l ɯ _ o l m a k
+werden::V	olmak	a l m ɯ k	o l m a k
+werden::V	olunmak	a l œ n m a k	o l u n m a k
+passieren::V	olmak	ɛ l m œ k	o l m a k
+beginnen::V	başlamak	b ɛ ʃ l u m o k	b a ʃ l a m a k
+enden::V	bitmek	b i t m o k	b i t m ɛ k
+enden::V	sona ermek	s y n o _ o ɾ m u k	s o n a _ ɛ ɾ m ɛ k
+wechseln::V	değişmek	d a j ɯ ʃ m i k	d ɛ j i ʃ m ɛ k
+aufgehen[Sonne]::V	doğmak	d o œ m a k	d o o m a k
+untergehen[Sonne]::V	batmak	b u t m i k	b a t m a k
+scheinen[Sonne]::V	parlamak	p u ɾ l œ m y k	p a ɾ l a m a k
+donnern::V	gök gürlemek	ɡ o k _ ɡ i ɾ l ɯ m o k	ɡ œ k _ ɡ y ɾ l ɛ m ɛ k
+wehen::V	esmek	ɯ s m ɯ k	ɛ s m ɛ k
+strömen::V	akmak	i k m a k	a k m a k
+fließen::V	akmak	o k m y k	a k m a k
+sich drehen::V	dönmek	d œ n m ɛ k	d œ n m ɛ k
+schwanken::V	sallanmak	s ɛ l l u n m ɛ k	s a l l a n m a k
+schwingen::V	titremek	t ɯ t ɾ y m i k	t i t ɾ ɛ m ɛ k
+fallen::V	düşmek	d u ʃ m ɛ k	d y ʃ m ɛ k
+brennen::V	yanmak	j ɯ n m a k	j a n m a k
+rauchen::V	tütmek	t i t m u k	t y t m ɛ k
+regnen::V	yağmak	j o a m y k	j a a m a k
+gefrieren::V	donmak	d u n m a k	d o n m a k
+tauen::V	erimek	o ɾ u m a k	ɛ ɾ i m ɛ k
+schmelzen::V	erimek	u ɾ ɛ m ɯ k	ɛ ɾ i m ɛ k
+trocknen::V	kurumak	k o ɾ œ m œ k	k u ɾ u m a k
+sieden::V	kaynamak	k o j n a m u k	k a j n a m a k
+faulen::V	çürümek	t͡ʃ ɯ ɾ y m o k	t͡ʃ y ɾ y m ɛ k
+verfaulen::V	çürümek	t͡ʃ i ɾ u m œ k	t͡ʃ y ɾ y m ɛ k
+reißen::V	yırtılmak	j ɛ ɾ t œ l m a k	j ɯ ɾ t ɯ l m a k
+versinken::V	batmak	b ɯ t m u k	b a t m a k
+vergehen::V	geçmek	ɡ a t͡ʃ m ɯ k	ɡ ɛ t͡ʃ m ɛ k
+erscheinen::V	görünmek	ɡ ɯ ɾ œ n m ɛ k	ɡ œ ɾ y n m ɛ k
+verschwinden::V	kaybolmak	k i j b œ l m y k	k a j b o l m a k
+sinken::V	inmek	a n m ɛ k	i n m ɛ k
+abnehmen::V	azalmak	i z y l m œ k	a z a l m a k
+zunehmen::V	artmak	o ɾ t m o k	a ɾ t m a k
+zunehmen::V	çoğalmak	t͡ʃ a œ u l m ɛ k	t͡ʃ o o a l m a k
+steigen::V	artmak	y ɾ t m a k	a ɾ t m a k
+steigen::V	yükselmek	j a k s ɛ l m a k	j y k s ɛ l m ɛ k
+wachsen::V	büyümek	b o j œ m œ k	b y j y m ɛ k
+wachsen::V	gelişmek	ɡ a l y ʃ m ɛ k	ɡ ɛ l i ʃ m ɛ k
+glänzen::V	parlamak	p a ɾ l i m u k	p a ɾ l a m a k
+funkeln::V	parıldamak	p i ɾ u l d œ m o k	p a ɾ ɯ l d a m a k
+lärmen::V	gürültü yapmak	ɡ œ ɾ y l t ɛ _ j o p m ɛ k	ɡ y ɾ y l t y _ j a p m a k
+läuten::V	çalmak	t͡ʃ ɯ l m i k	t͡ʃ a l m a k
+klingeln::V	zil çalmak	z ɛ l _ t͡ʃ ɛ l m a k	z i l _ t͡ʃ a l m a k
+klirren::V	şakırdamak	ʃ o k ɯ ɾ d i m a k	ʃ a k ɯ ɾ d a m a k
+klirren::V	zangırdamak	z a n ɡ ɯ ɾ d u m a k	z a n ɡ ɯ ɾ d a m a k
+brausen::V	köpürmek	k u p y ɾ m a k	k œ p y ɾ m ɛ k
+brausen::V	kükremek	k œ k ɾ a m œ k	k y k ɾ ɛ m ɛ k
+rauschen::V	fışırdamak	f a ʃ u ɾ d u m a k	f ɯ ʃ ɯ ɾ d a m a k
+klingen::V	tınlamak	t a n l ɯ m a k	t ɯ n l a m a k
+bellen::V	havlamak	h u v l ɯ m o k	h a v l a m a k
+heulen::V	ulumak	ɛ l y m i k	u l u m a k
+blasen::V	üflemek	u f l o m o k	y f l ɛ m ɛ k
+pfeifen::V	düdük çalmak	d ɯ d ɛ k _ t͡ʃ a l m a k	d y d y k _ t͡ʃ a l m a k
+schreien::V	bağırmak	b y ɯ y ɾ m u k	b a a ɯ ɾ m a k
+schreien::V	haykırmak	h o j k ɯ ɾ m œ k	h a j k ɯ ɾ m a k
+stöhnen::V	inlemek	y n l ɛ m ɯ k	i n l ɛ m ɛ k
+zittern::V	titremek	t œ t ɾ u m o k	t i t ɾ ɛ m ɛ k
+leben::V	yaşamak	j ɛ ʃ a m u k	j a ʃ a m a k
+leben::V	hayatta olmak	h ɯ j ɛ t t ɛ _ ɛ l m y k	h a j a t t a _ o l m a k
+geboren werden::V	doğmak	d a i m ɯ k	d o o m a k
+atmen::V	solunmak	s i l o n m œ k	s o l u n m a k
+atmen::V	nefes almak	n u f y s _ ɛ l m y k	n ɛ f ɛ s _ a l m a k
+trinken::V	içmek	o t͡ʃ m o k	i t͡ʃ m ɛ k
+essen::V	yemek	j a m ɯ k	j ɛ m ɛ k
+schlucken::V	yutmak	j œ t m ɯ k	j u t m a k
+müde werden::V	yorulmak	j y ɾ o l m o k	j o ɾ u l m a k
+einschlafen::V	uykuya dalmak	ɛ j k ɯ j o _ d i l m ɯ k	u j k u j a _ d a l m a k
+schlafen::V	uyumak	y j ɯ m œ k	u j u m a k
+aufwachen::V	uyanmak	y j u n m a k	u j a n m a k
+aufstehen::V	kalkmak	k ɛ l k m œ k	k a l k m a k
+aufstehen::V	yataktan kalkmak	j y t ɯ k t a n _ k œ l k m i k	j a t a k t a n _ k a l k m a k
+sich erholen::V	dinlenmek	d y n l a n m u k	d i n l ɛ n m ɛ k
+krank werden::V	hastalanmak	h ɯ s t ɛ l o n m u k	h a s t a l a n m a k
+krank sein::V	hasta olmak	h ɯ s t œ _ o l m o k	h a s t a _ o l m a k
+schmerzen::V	ağrımak	ɯ ɯ ɾ y m ɯ k	a a ɾ ɯ m a k
+husten::V	öksürmek	œ k s y ɾ m œ k	œ k s y ɾ m ɛ k
+genesen::V	şifa bulmak	ʃ ɛ f o _ b i l m o k	ʃ i f a _ b u l m a k
+sterben::V	ölmek	o l m i k	œ l m ɛ k
+sterben::V	vefat etmek	v i f i t _ i t m u k	v ɛ f a t _ ɛ t m ɛ k
+umkommen::V	ölmek	i l m i k	œ l m ɛ k
+sich bewegen::V	hareket etmek	h o ɾ ɛ k œ t _ ɯ t m a k	h a ɾ ɛ k ɛ t _ ɛ t m ɛ k
+sich rühren::V	kımıldanmak	k a m ɯ l d u n m y k	k ɯ m ɯ l d a n m a k
+sich erheben::V	kalkmak	k ɛ l k m y k	k a l k m a k
+sich erheben::V	ayağa kalkmak	o j ɛ i i _ k ɛ l k m œ k	a j a a a _ k a l k m a k
+sich setzen::V	oturmak	i t y ɾ m ɛ k	o t u ɾ m a k
+hinfallen::V	yere düşmek	j a ɾ u _ d u ʃ m ɛ k	j ɛ ɾ ɛ _ d y ʃ m ɛ k
+laufen::V	yürümek	j a ɾ œ m ɯ k	j y ɾ y m ɛ k
+schreiten::V	yürümek	j u ɾ y m a k	j y ɾ y m ɛ k
+schreiten::V	adım atmak	i d y m _ o t m ɛ k	a d ɯ m _ a t m a k
+spazierengehen::V	gezmek	ɡ y z m œ k	ɡ ɛ z m ɛ k
+spazierengehen::V	dolaşmak	d o l o ʃ m u k	d o l a ʃ m a k
+eilen::V	seğirtmek	s o j u ɾ t m o k	s ɛ j i ɾ t m ɛ k
+sich beeilen::V	acele etmek	o d͡ʒ œ l u _ œ t m œ k	a d͡ʒ ɛ l ɛ _ ɛ t m ɛ k
+sausen::V	hızla gitmek	h i z l u _ ɡ o t m u k	h ɯ z l a _ ɡ i t m ɛ k
+rennen::V	koşmak	k ɯ ʃ m ɯ k	k o ʃ m a k
+springen::V	atlamak	a t l a m y k	a t l a m a k
+springen::V	sıçramak	s œ t͡ʃ ɾ a m i k	s ɯ t͡ʃ ɾ a m a k
+klettern::V	tırmanmak	t i ɾ m u n m u k	t ɯ ɾ m a n m a k
+schaukeln::V	sallanmak	s u l l o n m i k	s a l l a n m a k
+kriechen::V	sürünmek	s u ɾ y n m a k	s y ɾ y n m ɛ k
+schwimmen::V	yüzmek	j y z m ɯ k	j y z m ɛ k
+tauchen::V	dalmak	d o l m ɯ k	d a l m a k
+rudern::V	kürek çekmek	k o ɾ i k _ t͡ʃ u k m a k	k y ɾ ɛ k _ t͡ʃ ɛ k m ɛ k
+fahren::V	gitmek	ɡ œ t m i k	ɡ i t m ɛ k
+fliegen::V	uçmak	ɛ t͡ʃ m y k	u t͡ʃ m a k
+gehen::V	gitmek	ɡ a t m o k	ɡ i t m ɛ k
+weggehen::V	gitmek	ɡ y t m a k	ɡ i t m ɛ k
+abfahren::V	kalkmak	k œ l k m a k	k a l k m a k
+anhalten::V	durmak	d ɛ ɾ m ɯ k	d u ɾ m a k
+hineingehen::V	içeri girmek	œ t͡ʃ ɯ ɾ œ _ ɡ ɛ ɾ m œ k	i t͡ʃ ɛ ɾ i _ ɡ i ɾ m ɛ k
+eintreten::V	girmek	ɡ œ ɾ m ɛ k	ɡ i ɾ m ɛ k
+kommen::V	gelmek	ɡ ɯ l m ɯ k	ɡ ɛ l m ɛ k
+ankommen::V	varmak	v i ɾ m o k	v a ɾ m a k
+zurückkommen::V	dönmek	d i n m ɛ k	d œ n m ɛ k
+bleiben::V	kalmak	k a l m u k	k a l m a k
+warten::V	beklemek	b o k l u m œ k	b ɛ k l ɛ m ɛ k
+erwarten::V	beklemek	b ɛ k l œ m ɛ k	b ɛ k l ɛ m ɛ k
+suchen::V	aramak	o ɾ a m i k	a ɾ a m a k
+finden::V	bulmak	b a l m i k	b u l m a k
+versuchen::V	denemek	d y n i m a k	d ɛ n ɛ m ɛ k
+vorbereiten::V	hazırlamak	h u z a ɾ l œ m i k	h a z ɯ ɾ l a m a k
+lieben::V	sevmek	s ɯ v m i k	s ɛ v m ɛ k
+mögen::V	beğenmek	b a j i n m a k	b ɛ j ɛ n m ɛ k
+lachen::V	gülmek	ɡ ɛ l m u k	ɡ y l m ɛ k
+rühren::V	dokunmak	d o k œ n m ɛ k	d o k u n m a k
+rühren::V	duygulandırmak	d a j ɡ i l ɛ n d o ɾ m œ k	d u j ɡ u l a n d ɯ ɾ m a k
+weinen::V	ağlamak	y ɛ l ɯ m y k	a a l a m a k
+schimpfen::V	küfretmek	k ɯ f ɾ o t m u k	k y f ɾ ɛ t m ɛ k
+sich ärgern::V	kızmak	k a z m ɛ k	k ɯ z m a k
+sich fürchten::V	korkmak	k œ ɾ k m ɛ k	k o ɾ k m a k
+fürchten::V	korkmak	k ɛ ɾ k m ɯ k	k o ɾ k m a k
+fliehen::V	kaçmak	k ɛ t͡ʃ m œ k	k a t͡ʃ m a k
+flüchten::V	kaçmak	k i t͡ʃ m o k	k a t͡ʃ m a k
+sehen::V	görmek	ɡ ɛ ɾ m a k	ɡ œ ɾ m ɛ k
+anschauen::V	seyretmek	s œ j ɾ ɯ t m o k	s ɛ j ɾ ɛ t m ɛ k
+ansehen::V	bakmak	b i k m i k	b a k m a k
+hören::V	duymak	d y j m o k	d u j m a k
+hören::V	işitmek	u ʃ œ t m o k	i ʃ i t m ɛ k
+zuhören::V	dinlemek	d œ n l o m ɛ k	d i n l ɛ m ɛ k
+probieren::V	denemek	d y n œ m o k	d ɛ n ɛ m ɛ k
+probieren::V	tadına bakmak	t a d u n u _ b ɯ k m y k	t a d ɯ n a _ b a k m a k
+riechen::V	kokusunu almak	k œ k u s œ n ɛ _ o l m œ k	k o k u s u n u _ a l m a k
+fühlen::V	duymak	d ɯ j m ɛ k	d u j m a k
+fühlen::V	hissetmek	h ɯ s s ɯ t m œ k	h i s s ɛ t m ɛ k
+scheinen::V	görünmek	ɡ u ɾ a n m y k	ɡ œ ɾ y n m ɛ k
+zu sehen sein::V	görünmek	ɡ u ɾ ɛ n m ɯ k	ɡ œ ɾ y n m ɛ k
+vernehmen::V	haber almak	h ɯ b o ɾ _ y l m o k	h a b ɛ ɾ _ a l m a k
+frieren::V	üşümek	o ʃ u m i k	y ʃ y m ɛ k
+tun::V	etmek	o t m y k	ɛ t m ɛ k
+tun::V	yapmak	j o p m y k	j a p m a k
+können::V	bilmek	b i l m y k	b i l m ɛ k
+wollen::V	istemek	u s t u m ɛ k	i s t ɛ m ɛ k
+anfangen::V	başlamak	b o ʃ l i m ɛ k	b a ʃ l a m a k
+beenden::V	bitirmek	b u t ɯ ɾ m ɯ k	b i t i ɾ m ɛ k
+aufhören::V	bitmek	b ɛ t m o k	b i t m ɛ k
+gelingen::V	başarmak	b ɯ ʃ y ɾ m ɯ k	b a ʃ a ɾ m a k
+geraten::V	düşmek	d u ʃ m œ k	d y ʃ m ɛ k
+öffnen::V	açmak	y t͡ʃ m ɯ k	a t͡ʃ m a k
+schließen::V	kapamak	k a p a m ɯ k	k a p a m a k
+stellen::V	koymak	k y j m u k	k o j m a k
+setzen::V	koymak	k ɛ j m u k	k o j m a k
+setzen::V	oturtmak	a t u ɾ t m i k	o t u ɾ t m a k
+legen::V	koymak	k o j m i k	k o j m a k
+legen::V	yatırmak	j a t œ ɾ m ɯ k	j a t ɯ ɾ m a k
+berühren::V	dokunmak	d ɛ k o n m œ k	d o k u n m a k
+verbinden::V	bağlamak	b ɛ œ l ɯ m ɛ k	b a a l a m a k
+verbinden::V	birleştirmek	b œ ɾ l u ʃ t y ɾ m u k	b i ɾ l ɛ ʃ t i ɾ m ɛ k
+bedecken::V	örtmek	o ɾ t m a k	œ ɾ t m ɛ k
+bedecken::V	kaplamak	k o p l œ m ɯ k	k a p l a m a k
+aufhängen::V	asmak	u s m a k	a s m a k
+anzünden::V	yakmak	j o k m i k	j a k m a k
+anzünden::V	ateşlemek	ɯ t a ʃ l a m a k	a t ɛ ʃ l ɛ m ɛ k
+aufheben::V	kaldırmak	k u l d ɯ ɾ m ɯ k	k a l d ɯ ɾ m a k
+zurücklassen::V	geride bırakmak	ɡ ɯ ɾ œ d a _ b y ɾ o k m a k	ɡ ɛ ɾ i d ɛ _ b ɯ ɾ a k m a k
+verlieren::V	yitirmek	j ɛ t y ɾ m o k	j i t i ɾ m ɛ k
+verlieren::V	kaybetmek	k i j b y t m œ k	k a j b ɛ t m ɛ k
+fallen lassen::V	düşürmek	d y ʃ œ ɾ m ɯ k	d y ʃ y ɾ m ɛ k
+machen::V	yapmak	j ɛ p m ɛ k	j a p m a k
+herstellen::V	yapmak	j œ p m i k	j a p m a k
+herstellen::V	imal etmek	u m ɯ l _ y t m y k	i m a l _ ɛ t m ɛ k
+bauen::V	kurmak	k a ɾ m y k	k u ɾ m a k
+bauen::V	inşa etmek	a n ʃ y _ o t m i k	i n ʃ a _ ɛ t m ɛ k
+reparieren::V	onarmak	ɛ n o ɾ m o k	o n a ɾ m a k
+reparieren::V	tamir etmek	t ɯ m ɛ ɾ _ a t m ɯ k	t a m i ɾ _ ɛ t m ɛ k
+verbessern::V	düzeltmek	d o z u l t m ɯ k	d y z ɛ l t m ɛ k
+ändern::V	değiştirmek	d a j ɯ ʃ t ɛ ɾ m a k	d ɛ j i ʃ t i ɾ m ɛ k
+graben::V	kazmak	k i z m o k	k a z m a k
+beugen::V	eğmek	i j m i k	ɛ j m ɛ k
+biegen::V	bükmek	b o k m œ k	b y k m ɛ k
+drehen::V	çevirmek	t͡ʃ u v ɯ ɾ m ɯ k	t͡ʃ ɛ v i ɾ m ɛ k
+drehen::V	döndürmek	d y n d y ɾ m u k	d œ n d y ɾ m ɛ k
+wenden::V	çevirmek	t͡ʃ y v a ɾ m y k	t͡ʃ ɛ v i ɾ m ɛ k
+umdrehen::V	çevirmek	t͡ʃ u v a ɾ m a k	t͡ʃ ɛ v i ɾ m ɛ k
+heben::V	kaldırmak	k ɛ l d œ ɾ m u k	k a l d ɯ ɾ m a k
+hochheben::V	yukarı kaldırmak	j i k ɯ ɾ i _ k a l d y ɾ m œ k	j u k a ɾ ɯ _ k a l d ɯ ɾ m a k
+ergreifen::V	tutmak	t œ t m i k	t u t m a k
+ergreifen::V	yakalamak	j ɯ k u l u m y k	j a k a l a m a k
+halten::V	tutmak	t ɯ t m o k	t u t m a k
+drücken::V	sıkmak	s i k m ɛ k	s ɯ k m a k
+schieben::V	itmek	i t m œ k	i t m ɛ k
+schieben::V	sürmek	s ɯ ɾ m ɛ k	s y ɾ m ɛ k
+kratzen::V	kaşımak	k i ʃ ɯ m i k	k a ʃ ɯ m a k
+lecken::V	yalamak	j ɯ l œ m ɯ k	j a l a m a k
+beißen::V	ısırmak	i s ɯ ɾ m i k	ɯ s ɯ ɾ m a k
+abreißen::V	koparmak	k ɛ p ɯ ɾ m u k	k o p a ɾ m a k
+abschneiden::V	keserek ayırmak	k y s œ ɾ ɛ k _ y j u ɾ m ɛ k	k ɛ s ɛ ɾ ɛ k _ a j ɯ ɾ m a k
+binden::V	bağlamak	b a a l y m u k	b a a l a m a k
+stecken::V	sokmak	s u k m u k	s o k m a k
+brechen::V	kırmak	k o ɾ m o k	k ɯ ɾ m a k
+klopfen::V	çalmak	t͡ʃ ɛ l m ɯ k	t͡ʃ a l m a k
+hauen::V	vurmak	v œ ɾ m ɯ k	v u ɾ m a k
+kleben::V	yapıştırmak	j u p œ ʃ t y ɾ m ɯ k	j a p ɯ ʃ t ɯ ɾ m a k
+reiben::V	ovmak	u v m o k	o v m a k
+reiben::V	sürtmek	s o ɾ t m a k	s y ɾ t m ɛ k
+streichen::V	sürmek	s ɯ ɾ m a k	s y ɾ m ɛ k
+schleifen::V	bilemek	b i l œ m i k	b i l ɛ m ɛ k
+schneiden::V	kesmek	k œ s m ɛ k	k ɛ s m ɛ k
+rütteln::V	sallamak	s œ l l o m i k	s a l l a m a k
+schütteln::V	sarsmak	s ɛ ɾ s m y k	s a ɾ s m a k
+schütteln::V	çalkamak	t͡ʃ o l k u m ɛ k	t͡ʃ a l k a m a k
+schwenken::V	sallamak	s œ l l œ m œ k	s a l l a m a k
+schütten::V	dökmek	d œ k m œ k	d œ k m ɛ k
+schütten::V	akıtmak	a k œ t m o k	a k ɯ t m a k
+füllen::V	doldurmak	d ɛ l d a ɾ m u k	d o l d u ɾ m a k
+einwickeln::V	sarmak	s a ɾ m œ k	s a ɾ m a k
+tragen::V	taşımak	t i ʃ ɯ m a k	t a ʃ ɯ m a k
+schleppen::V	sürüklemek	s ɯ ɾ a k l u m y k	s y ɾ y k l ɛ m ɛ k
+ziehen::V	çekmek	t͡ʃ o k m y k	t͡ʃ ɛ k m ɛ k
+aufbewahren::V	saklamak	s œ k l œ m a k	s a k l a m a k
+werfen::V	atmak	u t m a k	a t m a k
+fangen::V	tutmak	t ɛ t m u k	t u t m a k
+fangen::V	yakalamak	j u k u l œ m a k	j a k a l a m a k
+packen::V	tutmak	t œ t m o k	t u t m a k
+packen::V	yakalamak	j ɛ k œ l ɯ m ɯ k	j a k a l a m a k
+verstecken::V	saklamak	s y k l y m ɯ k	s a k l a m a k
+teilen::V	bölmek	b i l m o k	b œ l m ɛ k
+teilen::V	ayırmak	ɛ j i ɾ m a k	a j ɯ ɾ m a k
+schicken::V	yollamak	j i l l ɛ m œ k	j o l l a m a k
+schicken::V	göndermek	ɡ y n d u ɾ m o k	ɡ œ n d ɛ ɾ m ɛ k
+bringen::V	getirmek	ɡ o t a ɾ m ɯ k	ɡ ɛ t i ɾ m ɛ k
+hinzufügen::V	katmak	k i t m ɯ k	k a t m a k
+hinzufügen::V	eklemek	a k l y m ɛ k	ɛ k l ɛ m ɛ k
+bekommen::V	almak	ɛ l m o k	a l m a k
+bekommen::V	eline geçmek	u l a n ɛ _ ɡ ɯ t͡ʃ m ɛ k	ɛ l i n ɛ _ ɡ ɛ t͡ʃ m ɛ k
+erhalten::V	almak	y l m i k	a l m a k
+nehmen::V	almak	œ l m y k	a l m a k
+wählen::V	seçmek	s o t͡ʃ m o k	s ɛ t͡ʃ m ɛ k
+auswählen::V	seçmek	s a t͡ʃ m œ k	s ɛ t͡ʃ m ɛ k
+auswählen::V	ayırmak	ɯ j y ɾ m œ k	a j ɯ ɾ m a k
+bewahren::V	korumak	k a ɾ y m ɛ k	k o ɾ u m a k
+behindern::V	engellemek	i n ɡ ɛ l l ɛ m u k	ɛ n ɡ ɛ l l ɛ m ɛ k
+verderben::V	bozmak	b a z m o k	b o z m a k
+beschädigen::V	zedelemek	z u d œ l y m a k	z ɛ d ɛ l ɛ m ɛ k
+beschädigen::V	ziyan vermek	z y j i n _ v o ɾ m ɛ k	z i j a n _ v ɛ ɾ m ɛ k
+zerbrechen::V	kırmak	k ɛ ɾ m ɯ k	k ɯ ɾ m a k
+zerreißen::V	yırtmak	j y ɾ t m œ k	j ɯ ɾ t m a k
+zerstören::V	yıkmak	j ɛ k m ɛ k	j ɯ k m a k
+zerstören::V	tahrip etmek	t y h ɾ y p _ œ t m ɯ k	t a h ɾ i p _ ɛ t m ɛ k
+verbrennen::V	yakmak	j y k m a k	j a k m a k
+geben::V	vermek	v a ɾ m o k	v ɛ ɾ m ɛ k
+reichen::V	uzatmak	œ z y t m a k	u z a t m a k
+schenken::V	hediye etmek	h u d o j œ _ u t m ɯ k	h ɛ d i j ɛ _ ɛ t m ɛ k
+versprechen::V	vaat etmek	v o œ t _ i t m i k	v a a t _ ɛ t m ɛ k
+wünschen::V	kutlamak	k œ t l œ m ɯ k	k u t l a m a k
+loben::V	övmek	a v m a k	œ v m ɛ k
+küssen::V	öpmek	œ p m i k	œ p m ɛ k
+wiegen::V	sallamak	s ɛ l l y m ɯ k	s a l l a m a k
+zudecken::V	örtmek	ɯ ɾ t m i k	œ ɾ t m ɛ k
+wecken::V	uyandırmak	ɛ j ɯ n d i ɾ m ɛ k	u j a n d ɯ ɾ m a k
+zeigen::V	göstermek	ɡ a s t a ɾ m œ k	ɡ œ s t ɛ ɾ m ɛ k
+führen::V	gezdirmek	ɡ ɛ z d ɯ ɾ m ɛ k	ɡ ɛ z d i ɾ m ɛ k
+führen::V	yol göstermek	j ɛ l _ ɡ i s t u ɾ m ɯ k	j o l _ ɡ œ s t ɛ ɾ m ɛ k
+lehren::V	okutmak	y k œ t m o k	o k u t m a k
+lehren::V	öğretmek	ɛ j ɾ a t m u k	œ j ɾ ɛ t m ɛ k
+unterrichten::V	öğretmek	ɛ j ɾ œ t m ɛ k	œ j ɾ ɛ t m ɛ k
+aufziehen::V	yetiştirmek	j œ t y ʃ t o ɾ m a k	j ɛ t i ʃ t i ɾ m ɛ k
+leiten::V	yönetmek	j a n ɯ t m u k	j œ n ɛ t m ɛ k
+leiten::V	idare etmek	ɛ d œ ɾ œ _ ɯ t m i k	i d a ɾ ɛ _ ɛ t m ɛ k
+antreiben::V	teşvik etmek	t y ʃ v u k _ ɯ t m ɯ k	t ɛ ʃ v i k _ ɛ t m ɛ k
+lassen::V	-tırmak	t a ɾ m u k	t ɯ ɾ m a k
+einladen::V	davet etmek	d o v a t _ ɛ t m œ k	d a v ɛ t _ ɛ t m ɛ k
+vereinigen::V	birleştirmek	b ɯ ɾ l ɛ ʃ t ɯ ɾ m o k	b i ɾ l ɛ ʃ t i ɾ m ɛ k
+besuchen::V	uğramak	œ ɛ ɾ i m o k	u u ɾ a m a k
+besuchen::V	ziyaret etmek	z ɛ j ɛ ɾ ɛ t _ œ t m i k	z i j a ɾ ɛ t _ ɛ t m ɛ k
+besuchen::V	görmeye gitmek	ɡ o ɾ m i j o _ ɡ ɛ t m o k	ɡ œ ɾ m ɛ j ɛ _ ɡ i t m ɛ k
+treffen::V	rastlamak	ɾ ɛ s t l ɯ m œ k	ɾ a s t l a m a k
+treffen::V	isabet etmek	i s ɛ b a t _ a t m œ k	i s a b ɛ t _ ɛ t m ɛ k
+sich versammeln::V	toplanmak	t i p l a n m o k	t o p l a n m a k
+spielen::V	oynamak	u j n œ m a k	o j n a m a k
+singen::V	söylemek	s a j l œ m u k	s œ j l ɛ m ɛ k
+singen::V	şarkı söylemek	ʃ a ɾ k ɯ _ s a j l o m ɛ k	ʃ a ɾ k ɯ _ s œ j l ɛ m ɛ k
+tanzen::V	oynamak	u j n u m u k	o j n a m a k
+tanzen::V	dans etmek	d ɛ n s _ y t m ɯ k	d a n s _ ɛ t m ɛ k
+sich trennen::V	ayrılmak	ɛ j ɾ œ l m ɛ k	a j ɾ ɯ l m a k
+verlassen::V	bırakmak	b ɯ ɾ œ k m i k	b ɯ ɾ a k m a k
+verlassen::V	terk etmek	t ɛ ɾ k _ œ t m u k	t ɛ ɾ k _ ɛ t m ɛ k
+retten::V	kurtarmak	k y ɾ t ɯ ɾ m y k	k u ɾ t a ɾ m a k
+bewachen::V	gözetmek	ɡ ɛ z ɛ t m ɯ k	ɡ œ z ɛ t m ɛ k
+schützen::V	korumak	k o ɾ o m u k	k o ɾ u m a k
+verteidigen::V	savunmak	s œ v ɛ n m i k	s a v u n m a k
+sich schlagen::V	dövüşmek	d ɛ v i ʃ m o k	d œ v y ʃ m ɛ k
+schießen::V	ateş etmek	o t y ʃ _ a t m ɛ k	a t ɛ ʃ _ ɛ t m ɛ k
+siegen::V	yenmek	j œ n m ɯ k	j ɛ n m ɛ k
+ärgern::V	kızdırmak	k œ z d a ɾ m y k	k ɯ z d ɯ ɾ m a k
+schlagen::V	dövmek	d a v m i k	d œ v m ɛ k
+treten::V	tepmek	t u p m i k	t ɛ p m ɛ k
+stechen::V	sokmak	s œ k m ɛ k	s o k m a k
+stechen::V	batırmak	b u t y ɾ m ɛ k	b a t ɯ ɾ m a k
+stoßen::V	itmek	y t m u k	i t m ɛ k
+stehlen::V	çalmak	t͡ʃ i l m u k	t͡ʃ a l m a k
+stören::V	bozmak	b a z m œ k	b o z m a k
+stören::V	etkilemek	ɯ t k i l i m a k	ɛ t k i l ɛ m ɛ k
+belästigen::V	rahatsız etmek	ɾ o h ɛ t s u z _ i t m ɛ k	ɾ a h a t s ɯ z _ ɛ t m ɛ k
+verbergen::V	saklamak	s u k l ɯ m a k	s a k l a m a k
+täuschen::V	aldatmak	u l d u t m u k	a l d a t m a k
+betrügen::V	aldatmak	a l d ɯ t m ɯ k	a l d a t m a k
+betrügen::V	dolandırmak	d a l a n d y ɾ m i k	d o l a n d ɯ ɾ m a k
+töten::V	öldürmek	a l d ɛ ɾ m ɛ k	œ l d y ɾ m ɛ k
+wohnen::V	oturmak	ɛ t a ɾ m o k	o t u ɾ m a k
+arbeiten::V	çalışmak	t͡ʃ œ l o ʃ m o k	t͡ʃ a l ɯ ʃ m a k
+sammeln::V	toplamak	t y p l œ m y k	t o p l a m a k
+pflücken::V	koparmak	k ɯ p ɛ ɾ m y k	k o p a ɾ m a k
+jagen::V	avlanmak	o v l o n m o k	a v l a n m a k
+fischen::V	balık tutmak	b y l y k _ t u t m u k	b a l ɯ k _ t u t m a k
+fassen::V	tutmak	t ɯ t m i k	t u t m a k
+fassen::V	yakalamak	j œ k i l y m ɯ k	j a k a l a m a k
+hüten::V	otlatmak	i t l ɛ t m o k	o t l a t m a k
+treiben::V	gütmek	ɡ ɯ t m ɯ k	ɡ y t m ɛ k
+anbinden::V	bağlamak	b u ɯ l ɯ m o k	b a a l a m a k
+füttern::V	beslemek	b u s l o m u k	b ɛ s l ɛ m ɛ k
+melken::V	sağmak	s œ ɯ m ɯ k	s a a m a k
+hacken::V	yarmak	j y ɾ m ɛ k	j a ɾ m a k
+gießen::V	sulamak	s o l o m œ k	s u l a m a k
+reifen::V	olgunlaşmak	ɛ l ɡ i n l y ʃ m o k	o l ɡ u n l a ʃ m a k
+zubereiten::V	hazırlamak	h u z œ ɾ l i m o k	h a z ɯ ɾ l a m a k
+kochen::V	pişirmek	p œ ʃ i ɾ m ɛ k	p i ʃ i ɾ m ɛ k
+kochen::V	kaynatmak	k y j n o t m y k	k a j n a t m a k
+backen::V	pişirmek	p o ʃ ɛ ɾ m a k	p i ʃ i ɾ m ɛ k
+backen::V	fırında pişirmek	f y ɾ o n d o _ p u ʃ ɛ ɾ m a k	f ɯ ɾ ɯ n d a _ p i ʃ i ɾ m ɛ k
+braten::V	kızartmak	k y z a ɾ t m o k	k ɯ z a ɾ t m a k
+umrühren::V	karıştırmak	k a ɾ o ʃ t y ɾ m ɛ k	k a ɾ ɯ ʃ t ɯ ɾ m a k
+stricken::V	örmek	a ɾ m ɯ k	œ ɾ m ɛ k
+nähen::V	dikmek	d ɛ k m y k	d i k m ɛ k
+färben::V	boyamak	b i j a m a k	b o j a m a k
+reinigen::V	temizlemek	t ɛ m œ z l ɯ m y k	t ɛ m i z l ɛ m ɛ k
+waschen::V	yıkamak	j i k œ m œ k	j ɯ k a m a k
+abwischen::V	silmek	s i l m u k	s i l m ɛ k
+spülen::V	çalkamak	t͡ʃ ɯ l k a m ɯ k	t͡ʃ a l k a m a k
+fegen::V	süpürmek	s a p y ɾ m y k	s y p y ɾ m ɛ k
+kehren::V	süpürmek	s ɯ p i ɾ m u k	s y p y ɾ m ɛ k
+baden::V	yıkanmak	j a k ɯ n m a k	j ɯ k a n m a k
+baden::V	banyo yapmak	b œ n j ɛ _ j y p m a k	b a n j o _ j a p m a k
+sich waschen::V	yıkanmak	j u k ɯ n m y k	j ɯ k a n m a k
+ausziehen::V	çıkarmak	t͡ʃ a k o ɾ m i k	t͡ʃ ɯ k a ɾ m a k
+anziehen::V	giymek	ɡ ɯ j m y k	ɡ i j m ɛ k
+sich anziehen::V	giyinmek	ɡ y j ɛ n m ɛ k	ɡ i j i n m ɛ k
+kämmen::V	taramak	t i ɾ o m œ k	t a ɾ a m a k
+schmücken::V	süslemek	s ɛ s l u m a k	s y s l ɛ m ɛ k
+sagen::V	demek	d ɛ m ɛ k	d ɛ m ɛ k
+sagen::V	söylemek	s u j l u m o k	s œ j l ɛ m ɛ k
+sprechen::V	konuşmak	k i n ɯ ʃ m i k	k o n u ʃ m a k
+reden::V	konuşmak	k ɛ n a ʃ m ɛ k	k o n u ʃ m a k
+sich unterhalten::V	sohbet etmek	s o h b a t _ ɯ t m a k	s o h b ɛ t _ ɛ t m ɛ k
+fragen::V	sormak	s a ɾ m u k	s o ɾ m a k
+bitten::V	dilemek	d o l o m y k	d i l ɛ m ɛ k
+bitten::V	rica etmek	ɾ a d͡ʒ u _ ɛ t m œ k	ɾ i d͡ʒ a _ ɛ t m ɛ k
+erzählen::V	bahsetmek	b i h s œ t m a k	b a h s ɛ t m ɛ k
+erzählen::V	hikâye etmek	h y k u u j i _ ɯ t m a k	h i k a a j ɛ _ ɛ t m ɛ k
+mitteilen::V	bildirmek	b o l d a ɾ m u k	b i l d i ɾ m ɛ k
+nennen::V	adlandırmak	y d l ɛ n d u ɾ m i k	a d l a n d ɯ ɾ m a k
+rufen::V	çağırmak	t͡ʃ y ɛ a ɾ m i k	t͡ʃ a a ɯ ɾ m a k
+prahlen::V	övünmek	i v ɯ n m u k	œ v y n m ɛ k
+übersetzen::V	çevirmek	t͡ʃ ɯ v œ ɾ m œ k	t͡ʃ ɛ v i ɾ m ɛ k
+übersetzen::V	tercüme etmek	t ɛ ɾ d͡ʒ a m a _ a t m u k	t ɛ ɾ d͡ʒ y m ɛ _ ɛ t m ɛ k
+denken::V	düşünmek	d u ʃ a n m o k	d y ʃ y n m ɛ k
+glauben::V	inanmak	y n u n m i k	i n a n m a k
+glauben::V	zannetmek	z œ n n ɯ t m i k	z a n n ɛ t m ɛ k
+bemerken::V	farkına varmak	f o ɾ k y n o _ v o ɾ m ɯ k	f a ɾ k ɯ n a _ v a ɾ m a k
+erkennen::V	tanımak	t i n o m œ k	t a n ɯ m a k
+begreifen::V	anlamak	œ n l ɯ m a k	a n l a m a k
+begreifen::V	kavramak	k o v ɾ a m a k	k a v ɾ a m a k
+verstehen::V	duymak	d a j m a k	d u j m a k
+verstehen::V	anlamak	i n l ɛ m y k	a n l a m a k
+lernen::V	öğrenmek	œ j ɾ y n m u k	œ j ɾ ɛ n m ɛ k
+wissen::V	bilmek	b ɯ l m i k	b i l m ɛ k
+sich erinnern an::V	hatırlamak	h a t y ɾ l a m a k	h a t ɯ ɾ l a m a k
+vergessen::V	unutmak	ɯ n a t m y k	u n u t m a k
+messen::V	ölçmek	œ l t͡ʃ m i k	œ l t͡ʃ m ɛ k
+zählen::V	saymak	s o j m o k	s a j m a k
+rechnen::V	hesap etmek	h y s œ p _ y t m ɛ k	h ɛ s a p _ ɛ t m ɛ k
+lesen::V	okumak	a k y m i k	o k u m a k
+malen::V	resmini yapmak	ɾ o s m œ n œ _ j u p m ɛ k	ɾ ɛ s m i n i _ j a p m a k
+zeichnen::V	çizmek	t͡ʃ ɛ z m ɯ k	t͡ʃ i z m ɛ k
+schreiben::V	yazmak	j ɯ z m o k	j a z m a k
+besitzen::V	haiz olmak	h i œ z _ œ l m ɯ k	h a i z _ o l m a k
+besitzen::V	sahip olmak	s a h ɯ p _ i l m y k	s a h i p _ o l m a k
+kaufen::V	almak	o l m y k	a l m a k
+verkaufen::V	satmak	s u t m ɯ k	s a t m a k
+bezahlen::V	ödemek	œ d œ m y k	œ d ɛ m ɛ k
+zahlen::V	ödemek	ɯ d a m i k	œ d ɛ m ɛ k
+beherrschen::V	hâkim olmak	h o a k i m _ ɛ l m ɛ k	h a a k i m _ o l m a k
+ertragen::V	dayanmak	d ɛ j i n m a k	d a j a n m a k
+ertragen::V	katlanmak	k i t l y n m œ k	k a t l a n m a k

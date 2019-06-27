@@ -1,0 +1,1188 @@
+Auge::N	silmä	s ɛ l m w	s i l m æ
+Ohr::N	korva	k ʊ r ʏ y	k ɔ r ʋ ɑ
+Nase::N	nenä	n œ n ɔ	n ɛ n æ
+Mund::N	suu	s u ɑ	s u u
+Zahn::N	hammas	h u m m ʋ s	h ɑ m m ɑ s
+Zunge::N	kieli	k ɔ ɛ l i	k i ɛ l i
+Lippe::N	huuli	h ʊ ɑ l ʏ	h u u l i
+Wange::N	poski	p ɛ s k u	p ɔ s k i
+Gesicht::N	naama	n w y m æ	n ɑ ɑ m ɑ
+Gesicht::N	kasvot	k æ s ɔ w t	k ɑ s ʋ ɔ t
+Stirn::N	otsa	ɥ t͡s œ	ɔ t͡s ɑ
+Haar::N	hius	h y o s	h i u s
+Haar::N	tukka	t u k k ʏ	t ʊ k k ɑ
+Schnurrbart::N	viikset	o i u k s ɔ t	ʋ i i k s ɛ t
+Bart::N	parta	p y r t œ	p ɑ r t ɑ
+Kinn::N	leuka	l u ɥ k ʋ	l ɛ ʊ k ɑ
+Kiefer[Anatomie]::N	leukaluu	l ʊ ɔ k ɥ l y ʋ	l ɛ ʊ k ɑ l u u
+Kehle::N	kurkku	k u r k k ɥ	k ʊ r k k ʊ
+Hals::N	kaula	k o æ l ɥ	k ɑ w l ɑ
+Genick::N	niska	n ʋ s k ɔ	n i s k ɑ
+Kopf::N	pää	p u o	p æ æ
+Rücken::N	selkä	s ʊ l k œ	s ɛ l k æ
+Bauch::N	maha	m ɥ h ʋ	m ɑ h ɑ
+Bauch::N	vatsa	y ɛ t͡s o	ʋ ɑ t͡s ɑ
+Nabel::N	napa	n æ p i	n ɑ p ɑ
+Busen::N	rinta	r w n t æ	r i n t ɑ
+Brust::N	rinta	r ɑ n t i	r i n t ɑ
+Schulter::N	olka	æ l k o	ɔ l k ɑ
+Schulter::N	hartia	h y r t ɥ ɑ	h ɑ r t i ɑ
+Schulter::N	olkapää	ɥ l k u p ɔ ɛ	ɔ l k ɑ p æ æ
+Arm::N	käsivarsi	k u s o ɑ ʊ r s ɛ	k æ s i ʋ ɑ r s i
+Ellenbogen::N	kyynärpää	k ɥ ɥ n œ r p œ ɑ	k y y n æ r p æ æ
+Hand::N	käsi	k i s i	k æ s i
+Handfläche::N	kämmen	k o m m œ n	k æ m m ɛ n
+Finger::N	sormi	s ɔ r m œ	s ɔ r m i
+Fingernagel::N	kynsi	k ɛ n s ʊ	k ʏ n s i
+Nagel[Anatomie]::N	kynsi	k ɑ n s ɛ	k ʏ n s i
+Zeh::N	varvas	o ɔ r i w s	ʋ ɑ r ʋ ɑ s
+Fuß::N	jalka	j ʊ l k ʊ	j ɑ l k ɑ
+Ferse::N	kantapää	k ʋ n t ɑ p ʊ i	k ɑ n t ɑ p æ æ
+Knie::N	polvi	p y l æ ʏ	p ɔ l ʋ i
+Oberschenkel::N	reisi	r ɛ ʊ s w	r ɛ i s i
+Bein::N	jalka	j y l k w	j ɑ l k ɑ
+Körper::N	keho	k ʏ h ɑ	k ɛ h ɔ
+Körper::N	ruumis	r ɔ i m ɔ s	r u u m i s
+Haut::N	iho	œ h ʊ	i h ɔ
+Blut::N	veri	o w r ɔ	ʋ ɛ r i
+Ader::N	suoni	s ʏ o n y	s u ɔ n i
+Sehne::N	jänne	j y n n w	j æ n n ɛ
+Knochen::N	luu	l ɥ w	l u u
+Gehirn::N	aivot	u u ɔ ʋ t	ɑ i ʋ ɔ t
+Herz::N	sydän	s ʏ d ʏ n	s ʏ d æ n
+Magen::N	maha	m æ h ɥ	m ɑ h ɑ
+Magen::N	vatsa	ɛ ɥ t͡s u	ʋ ɑ t͡s ɑ
+Leber::N	maksa	m ɛ k s æ	m ɑ k s ɑ
+Atem::N	henki	h o ŋ k ɔ	h ɛ ŋ k i
+Atem::N	hengitys	h i ŋ ŋ w t ʏ s	h ɛ ŋ ŋ i t ʏ s
+Hunger::N	nälkä	n y l k ɑ	n æ l k æ
+Träne::N	kyynel	k ʊ ʋ n o l	k y y n ɛ l
+Geschmack::N	maku	m ɛ k w	m ɑ k ʊ
+Geruch::N	haju	h ʋ j ʋ	h ɑ j ʊ
+Schlaf::N	uni	w n æ	ʊ n i
+Traum::N	uni	ɑ n œ	ʊ n i
+Himmel::N	taivas	t u i ɑ i s	t ɑ i ʋ ɑ s
+Sonne::N	aurinko	ɥ ʏ r ɑ ŋ k ʏ	ɑ w r i ŋ k ɔ
+Mond::N	kuu	k i æ	k u u
+Stern::N	tähti	t y x t ʏ	t æ x t i
+Luft::N	ilma	u l m i	i l m ɑ
+Wind::N	tuuli	t ʋ y l æ	t u u l i
+Welle::N	aalto	ɑ o l t ɑ	ɑ ɑ l t ɔ
+Wasser::N	vesi	ɥ æ s ɑ	ʋ ɛ s i
+Stein::N	kivi	k o ɛ ɑ	k i ʋ i
+Boden::N	maa	m ɑ u	m ɑ ɑ
+Boden::N	maaperä	m y æ p w r ɛ	m ɑ ɑ p ɛ r æ
+Erde::N	maa	m o ʋ	m ɑ ɑ
+Staub::N	pöly	p ɛ l u	p œ l ʏ
+Rauch::N	savu	s œ y ɥ	s ɑ ʋ ʊ
+Funke::N	kipinä	k ɥ p ɔ n i	k i p i n æ
+Feuer::N	tuli	t ɔ l i	t ʊ l i
+Licht::N	valo	ʋ ɥ l o	ʋ ɑ l ɔ
+Schatten::N	varjo	œ ɑ r j æ	ʋ ɑ r j ɔ
+Wetter::N	sää	s ɛ i	s æ æ
+Nebel::N	sumu	s ʏ m æ	s ʊ m ʊ
+Wolke::N	pilvi	p ʏ l ʏ ʏ	p i l ʋ i
+Regen::N	sade	s w d ɔ	s ɑ d ɛ
+Schnee::N	lumi	l ʏ m ʋ	l ʊ m i
+Eis::N	jää	j u ʏ	j æ æ
+Frost::N	halla	h u l l ɔ	h ɑ l l ɑ
+Frost::N	pakkanen	p y k k æ n ʋ n	p ɑ k k ɑ n ɛ n
+Kälte::N	vilu	i ɑ l ʏ	ʋ i l ʊ
+Kälte::N	kylmyys	k ɥ l m ɥ ʏ s	k ʏ l m y y s
+Hitze::N	helle	h æ l l o	h ɛ l l ɛ
+Hitze::N	kuumuus	k œ ɔ m o ɥ s	k u u m u u s
+Raureif::N	huurre	h ʏ ɑ r r o	h u u r r ɛ
+Regenbogen::N	sateenkaari	s ɑ t æ ʋ ŋ k y ɥ r y	s ɑ t ɛ ɛ ŋ k ɑ ɑ r i
+Donner::N	jyrinä	j ʏ r ɑ n w	j ʏ r i n æ
+Strömung::N	virtaus	æ i r t o y s	ʋ i r t ɑ w s
+Tropfen::N	tippa	t w p p ɔ	t i p p ɑ
+Tropfen::N	pisara	p ɥ s ɑ r ɥ	p i s ɑ r ɑ
+Schaum::N	vaahto	œ ʏ ʋ x t ʏ	ʋ ɑ ɑ x t ɔ
+Schmutz::N	loka	l ɛ k œ	l ɔ k ɑ
+See::N	järvi	j w r ɑ y	j æ r ʋ i
+Sumpf::N	suo	s ʏ œ	s u ɔ
+Moor::N	räme	r œ m ɥ	r æ m ɛ
+Wiese::N	niitty	n o i t t i	n i i t t ʏ
+Wald::N	metsä	m y t͡s ɥ	m ɛ t͡s æ
+Hügel::N	mäki	m y k o	m æ k i
+Hügel::N	kumpu	k ʏ m p u	k ʊ m p ʊ
+Hügel::N	kukkula	k i k k œ l æ	k ʊ k k ʊ l ɑ
+Anhöhe::N	mäki	m æ k ɛ	m æ k i
+Anhöhe::N	kumpare	k w m p ɔ r o	k ʊ m p ɑ r ɛ
+Berg::N	mäki	m æ k u	m æ k i
+Berg::N	vuori	ɑ œ ʋ r o	ʋ u ɔ r i
+Gipfel::N	laki	l ɛ k u	l ɑ k i
+Gipfel::N	huippu	h w u p p ɛ	h u i p p ʊ
+Höhle::N	luola	l w u l ʊ	l u ɔ l ɑ
+Abhang::N	rinne	r y n n ɑ	r i n n ɛ
+Quelle::N	lähde	l œ x d o	l æ x d ɛ
+Bach::N	puro	p ɑ r i	p ʊ r ɔ
+Fluss::N	joki	j ɥ k o	j ɔ k i
+Ufer::N	ranta	r ʋ n t u	r ɑ n t ɑ
+Küste::N	rannikko	r ɛ n n œ k k ʏ	r ɑ n n i k k ɔ
+Festland::N	manner	m w n n æ r	m ɑ n n ɛ r
+Meer::N	meri	m ʏ r ʋ	m ɛ r i
+Bucht::N	lahti	l æ x t ʊ	l ɑ x t i
+Insel::N	saari	s ɥ œ r ʏ	s ɑ ɑ r i
+Blume::N	kukka	k i k k w	k ʊ k k ɑ
+Gras::N	ruoho	r œ u h ɔ	r u ɔ h ɔ
+Wurzel::N	juuri	j ʊ ɛ r ʊ	j u u r i
+Baum::N	puu	p ɛ y	p u u
+Stamm::N	runko	r ɥ ŋ k w	r ʊ ŋ k ɔ
+Rinde::N	kuori	k ʏ ɑ r i	k u ɔ r i
+Rinde::N	parkki	p ɔ r k k ɑ	p ɑ r k k i
+Ast::N	oksa	i k s u	ɔ k s ɑ
+Zweig::N	haara	h o u r o	h ɑ ɑ r ɑ
+Blatt::N	lehti	l i x t ɥ	l ɛ x t i
+Birke::N	koivu	k w ɔ ʏ w	k ɔ i ʋ ʊ
+Kiefer[Baum]::N	mänty	m ɛ n t ʊ	m æ n t ʏ
+Kiefer[Baum]::N	petäjä	p u t w j ʏ	p ɛ t æ j æ
+Weide[Baum]::N	paju	p ʊ j æ	p ɑ j ʊ
+Tanne::N	kuusi	k ʊ œ s ɔ	k u u s i
+Horn::N	sarvi	s u r ɑ u	s ɑ r ʋ i
+Feder::N	sulka	s ɑ l k w	s ʊ l k ɑ
+Feder::N	höyhen	h ɔ ʏ h w n	h œ ɥ h ɛ n
+Fell::N	talja	t ɛ l j æ	t ɑ l j ɑ
+Flügel::N	siipi	s æ ʏ p æ	s i i p i
+Klaue::N	kynsi	k i n s y	k ʏ n s i
+Kralle::N	kynsi	k i n s ɥ	k ʏ n s i
+Schwanz::N	häntä	h ʏ n t ʋ	h æ n t æ
+Schwanz::N	pyrstö	p ɑ r s t u	p ʏ r s t œ
+Ei::N	muna	m œ n ɔ	m ʊ n ɑ
+Nest::N	pesä	p æ s ʏ	p ɛ s æ
+Bau::N	pesä	p ʏ s u	p ɛ s æ
+Tier::N	eläin	i l æ o n	ɛ l æ i n
+Herde::N	lauma	l y ʊ m ɑ	l ɑ w m ɑ
+Kuh::N	lehmä	l i x m ʊ	l ɛ x m æ
+Bulle::N	sonni	s ʋ n n i	s ɔ n n i
+Pferd::N	hevonen	h ɑ ɔ u n y n	h ɛ ʋ ɔ n ɛ n
+Schaf::N	lammas	l œ m m ʋ s	l ɑ m m ɑ s
+Schwein::N	sika	s o k œ	s i k ɑ
+Hund::N	koira	k ɔ i r ʋ	k ɔ i r ɑ
+Katze::N	kissa	k ɛ s s i	k i s s ɑ
+Bär::N	karhu	k œ r h ɥ	k ɑ r h ʊ
+Eichhörnchen::N	orava	ʏ r o i ʋ	ɔ r ɑ ʋ ɑ
+Elch::N	hirvi	h æ r æ æ	h i r ʋ i
+Fuchs::N	kettu	k ɔ t t ʊ	k ɛ t t ʊ
+Hase::N	jänis	j i n u s	j æ n i s
+Maus::N	hiiri	h ɑ ɔ r o	h i i r i
+Wolf::N	susi	s œ s ʊ	s ʊ s i
+Vogel::N	lintu	l æ n t ɛ	l i n t ʊ
+Schwarm::N	parvi	p o r ʊ o	p ɑ r ʋ i
+Huhn::N	kana	k ʊ n w	k ɑ n ɑ
+Hahn::N	kukko	k u k k ɛ	k ʊ k k ɔ
+Gans::N	hanhi	h ɑ n h ʋ	h ɑ n h i
+Adler::N	kotka	k æ t k ɔ	k ɔ t k ɑ
+Ente::N	ankka	u ŋ k k œ	ɑ ŋ k k ɑ
+Eule::N	pöllö	p y l l æ	p œ l l œ
+Kranich::N	kurki	k ʏ r k o	k ʊ r k i
+Krähe::N	varis	y y r ɔ s	ʋ ɑ r i s
+Kuckuck::N	käki	k æ k y	k æ k i
+Schwan::N	joutsen	j ʊ w t͡s ʏ n	j ɔ w t͡s ɛ n
+Fisch::N	kala	k ʏ l æ	k ɑ l ɑ
+Barsch::N	ahven	ɥ x i y n	ɑ x ʋ ɛ n
+Hecht::N	hauki	h æ æ k o	h ɑ w k i
+Schlange[Tier]::N	käärme	k ɛ ʏ r m w	k æ æ r m ɛ
+Wurm::N	mato	m o t ʊ	m ɑ t ɔ
+Spinne::N	hämähäkki	h o m i h æ k k ɛ	h æ m æ h æ k k i
+Ameise::N	muurahainen	m ʊ ɥ r ʊ h i ɛ n ʏ n	m u u r ɑ h ɑ i n ɛ n
+Laus::N	täi	t ʏ ɛ	t æ i
+Mücke::N	sääski	s y ʏ s k ʊ	s æ æ s k i
+Mücke::N	hyttynen	h ʋ t t ɥ n ɛ n	h ʏ t t ʏ n ɛ n
+Fliege::N	kärpänen	k ɑ r p ɔ n u n	k æ r p æ n ɛ n
+Schmetterling::N	perhonen	p i r h ɑ n i n	p ɛ r h ɔ n ɛ n
+Beere::N	marja	m ɛ r j u	m ɑ r j ɑ
+Apfel::N	omena	ʏ m œ n u	ɔ m ɛ n ɑ
+Pilz::N	sieni	s ɔ y n æ	s i ɛ n i
+Zwiebel::N	sipuli	s æ p ʊ l ʊ	s i p ʊ l i
+Saat::N	siemenet	s ɑ ɥ m ɥ n ʊ t	s i ɛ m ɛ n ɛ t
+Korn::N	jyvä	j ʏ ʊ ɔ	j ʏ ʋ æ
+Korn::N	vilja	u ʏ l j y	ʋ i l j ɑ
+Heu::N	heinä	h ɥ o n ʏ	h ɛ i n æ
+Schale::N	kuori	k œ y r ɛ	k u ɔ r i
+Grube::N	kuoppa	k i ʋ p p ɑ	k u ɔ p p ɑ
+Falle::N	loukku	l u ɔ k k y	l ɔ w k k ʊ
+Schlinge::N	ansa	w n s ʋ	ɑ n s ɑ
+Spur::N	jälki	j o l k ɑ	j æ l k i
+Asche::N	tuhka	t æ x k u	t ʊ x k ɑ
+Dreck::N	lika	l i k ɥ	l i k ɑ
+Eisen::N	rauta	r ʊ æ t y	r ɑ w t ɑ
+Gold::N	kulta	k i l t ɛ	k ʊ l t ɑ
+Silber::N	hopea	h ʋ p ɑ i	h ɔ p ɛ ɑ
+Kohle::N	hiili	h y ʊ l œ	h i i l i
+Glas::N	lasi	l œ s i	l ɑ s i
+Lehm::N	savi	s ɛ ʋ ɥ	s ɑ ʋ i
+Sand::N	hiekka	h œ i k k i	h i ɛ k k ɑ
+Mensch::N	ihminen	ʋ x m i n w n	i x m i n ɛ n
+Mann::N	mies	m æ œ s	m i ɛ s
+Frau::N	nainen	n ɑ ʋ n ʊ n	n ɑ i n ɛ n
+Kind::N	lapsi	l ʊ p s w	l ɑ p s i
+Junge::N	poika	p i o k ɥ	p ɔ i k ɑ
+Mädchen::N	tyttö	t ʏ t t o	t ʏ t t œ
+Familie::N	perhe	p ɔ r h ʋ	p ɛ r h ɛ
+Großvater::N	isoisä	ʊ s ɔ æ s ɔ	i s ɔ i s æ
+Großmutter::N	isoäiti	y s y ɑ y t ʏ	i s ɔ æ i t i
+Eltern::N	vanhemmat	ɑ ʋ n h w m m ʊ t	ʋ ɑ n h ɛ m m ɑ t
+Vater::N	isä	y s ʊ	i s æ
+Mutter::N	äiti	ɛ ɑ t w	æ i t i
+Sohn::N	poika	p ɔ w k ɑ	p ɔ i k ɑ
+Tochter::N	tytär	t ʊ t u r	t ʏ t æ r
+Bruder::N	veli	u œ l u	ʋ ɛ l i
+Schwester::N	sisko	s ɥ s k æ	s i s k ɔ
+Onkel::N	eno	ʊ n ɑ	ɛ n ɔ
+Onkel::N	setä	s y t ɔ	s ɛ t æ
+Tante::N	täti	t ɔ t ɥ	t æ t i
+Ehemann::N	mies	m y i s	m i ɛ s
+Ehemann::N	aviomies	ʋ ɥ œ ʋ m y w s	ɑ ʋ i ɔ m i ɛ s
+Ehefrau::N	vaimo	œ ɑ i m ɑ	ʋ ɑ i m ɔ
+Ehefrau::N	aviovaimo	æ ɛ y i u æ o m ʊ	ɑ ʋ i ɔ ʋ ɑ i m ɔ
+Freude::N	ilo	ɥ l ʏ	i l ɔ
+Freude::N	riemu	r ɥ ɔ m ʋ	r i ɛ m ʊ
+Gelächter::N	nauru	n ɑ ɛ r ʋ	n ɑ w r ʊ
+Glück::N	onni	ʊ n n œ	ɔ n n i
+Kummer::N	suru	s œ r u	s ʊ r ʊ
+Kummer::N	murhe	m y r h y	m ʊ r h ɛ
+Wunsch::N	toive	t y ʋ i i	t ɔ i ʋ ɛ
+Wunsch::N	toivomus	t ʊ w ʋ i m u s	t ɔ i ʋ ɔ m ʊ s
+Lust::N	himo	h œ m ɔ	h i m ɔ
+Geist::N	henki	h ɑ ŋ k u	h ɛ ŋ k i
+Gedanke::N	aate	ɔ ʋ t ʏ	ɑ ɑ t ɛ
+Gedanke::N	ajatus	ɑ j w t w s	ɑ j ɑ t ʊ s
+Gedächtnis::N	muisti	m ɥ ɥ s t u	m u i s t i
+Verstand::N	äly	o l o	æ l ʏ
+Verstand::N	järki	j ʏ r k ʏ	j æ r k i
+Verstand::N	ymmärrys	y m m i r r œ s	ʏ m m æ r r ʏ s
+Sinn::N	merkitys	m œ r k ɥ t ɑ s	m ɛ r k i t ʏ s
+Grund::N	syy	s ʊ i	s y y
+Grund::N	peruste	p ʊ r u s t ʊ	p ɛ r ʊ s t ɛ
+Wahrheit::N	tosi	t u s i	t ɔ s i
+Wahrheit::N	totuus	t ɑ t ʊ y s	t ɔ t u u s
+Gespräch::N	puhelu	p w h i l ʊ	p ʊ h ɛ l ʊ
+Gespräch::N	keskustelu	k ɛ s k ʊ s t ɑ l ʏ	k ɛ s k ʊ s t ɛ l ʊ
+Märchen::N	satu	s u t ʊ	s ɑ t ʊ
+Erzählung::N	tarina	t ɔ r y n u	t ɑ r i n ɑ
+Erzählung::N	kertomus	k ʊ r t ʊ m o s	k ɛ r t ɔ m ʊ s
+Nachricht::N	tieto	t w ɥ t u	t i ɛ t ɔ
+Nachricht::N	ilmoitus	i l m ʋ y t ɥ s	i l m ɔ i t ʊ s
+Neuigkeit::N	uutinen	u ɛ t ɥ n u n	u u t i n ɛ n
+Name::N	nimi	n ʊ m ɥ	n i m i
+Rätsel::N	arvoitus	ɑ r w w ɛ t æ s	ɑ r ʋ ɔ i t ʊ s
+Rede::N	puhe	p w h ɥ	p ʊ h ɛ
+Sprache::N	kieli	k o i l ɔ	k i ɛ l i
+Stimme::N	ääni	ɑ ɛ n ɔ	æ æ n i
+Wort::N	sana	s ɛ n ʊ	s ɑ n ɑ
+Zeichen::N	merkki	m ʊ r k k ʏ	m ɛ r k k i
+Ruf::N	kutsu	k ʋ t͡s o	k ʊ t͡s ʊ
+Lärm::N	melu	m œ l ʏ	m ɛ l ʊ
+Lärm::N	hälinä	h ɑ l ɔ n ʊ	h æ l i n æ
+Laut::N	ääni	ɑ ɥ n ɥ	æ æ n i
+Ton::N	sävel	s o i o l	s æ ʋ ɛ l
+Lied::N	laulu	l w y l ɛ	l ɑ w l ʊ
+Ruhe::N	lepo	l ɑ p ɥ	l ɛ p ɔ
+Ruhe::N	rauha	r y ʏ h œ	r ɑ w h ɑ
+Leute::N	väki	ʋ ɛ k y	ʋ æ k i
+Leute::N	ihmiset	ɥ x m ʋ s ʊ t	i x m i s ɛ t
+Volk::N	kansa	k ɥ n s u	k ɑ n s ɑ
+Arbeit::N	työ	t ʏ ʏ	t y œ
+Gast::N	vieras	o ʋ w r ɛ s	ʋ i ɛ r ɑ s
+Geschenk::N	lahja	l w h j y	l ɑ h j ɑ
+Spiel::N	peli	p i l y	p ɛ l i
+Spiel::N	leikki	l i ʊ k k ʏ	l ɛ i k k i
+Gesellschaft::N	seura	s ʏ u r w	s ɛ ʊ r ɑ
+Hilfe::N	apu	ʏ p ʊ	ɑ p ʊ
+Freund::N	ystävä	ɥ s t ʏ œ ɛ	ʏ s t æ ʋ æ
+Kamerad::N	toveri	t o ɑ ʊ r i	t ɔ ʋ ɛ r i
+Angelegenheit::N	asia	u s ɑ ʊ	ɑ s i ɑ
+Anzahl::N	lukumäärä	l æ k y m œ ʊ r æ	l ʊ k ʊ m æ æ r æ
+Art::N	laji	l ɛ j ɛ	l ɑ j i
+Stück::N	pala	p w l o	p ɑ l ɑ
+Stück::N	kappale	k ʏ p p œ l æ	k ɑ p p ɑ l ɛ
+Teil::N	osa	ʋ s ɑ	ɔ s ɑ
+Hälfte::N	puoli	p i o l ʊ	p u ɔ l i
+Kreis::N	ympyrä	ɑ m p ɔ r ʏ	ʏ m p ʏ r æ
+Kreuz::N	risti	r œ s t ɛ	r i s t i
+Linie::N	viiva	o ɑ æ æ ʊ	ʋ i i ʋ ɑ
+Strich::N	piirto	p w ɥ r t ɥ	p i i r t ɔ
+Abstand::N	väli	œ ɛ l œ	ʋ æ l i
+Abstand::N	väljyys	u œ l j u ɔ s	ʋ æ l j y y s
+Entfernung::N	etäisyys	ʏ t ʊ ɑ s ʋ æ s	ɛ t æ i s y y s
+Gegend::N	seutu	s ɔ y t i	s ɛ ʊ t ʊ
+Platz::N	tila	t w l ʋ	t i l ɑ
+Ort::N	kohta	k ɔ x t ɥ	k ɔ x t ɑ
+Ort::N	paikka	p ʏ ɛ k k i	p ɑ i k k ɑ
+Seite::N	sivu	s ɑ u ʋ	s i ʋ ʊ
+Seite::N	kylki	k i l k ɔ	k ʏ l k i
+Mitte::N	keskus	k y s k æ s	k ɛ s k ʊ s
+Mitte::N	puoliväli	p ɥ y l æ ɑ ɔ l ʏ	p u ɔ l i ʋ æ l i
+Gegenstand::N	kalu	k u l w	k ɑ l ʊ
+Gegenstand::N	esine	ʋ s ʊ n ɥ	ɛ s i n ɛ
+Sache::N	asia	ɔ s ʏ u	ɑ s i ɑ
+Rand::N	ääri	u ɛ r u	æ æ r i
+Rand::N	syrjä	s æ r j ʏ	s ʏ r j æ
+Kante::N	särmä	s ɔ r m ʋ	s æ r m æ
+Ecke::N	nurkka	n ɑ r k k ɛ	n ʊ r k k ɑ
+Spitze::N	terä	t ɛ r æ	t ɛ r æ
+Spitze::N	kärki	k o r k ɔ	k æ r k i
+Ende::N	pää	p u ɑ	p æ æ
+Ende::N	perä	p w r o	p ɛ r æ
+Loch::N	kolo	k ɥ l o	k ɔ l ɔ
+Loch::N	reikä	r w ʋ k ɑ	r ɛ i k æ
+Winkel::N	kulma	k ɥ l m y	k ʊ l m ɑ
+Muster::N	kuvio	k ɥ æ ɑ y	k ʊ ʋ i ɔ
+Größe::N	koko	k u k ʋ	k ɔ k ɔ
+Größe::N	suuruus	s i ʊ r ʋ u s	s u u r u u s
+Länge::N	pituus	p o t ʋ œ s	p i t u u s
+Höhe::N	korkeus	k ʋ r k u u s	k ɔ r k ɛ ʊ s
+Gewicht::N	paino	p w ɑ n ʏ	p ɑ i n ɔ
+Menge::N	määrä	m o w r o	m æ æ r æ
+Haufen::N	kasa	k ɥ s w	k ɑ s ɑ
+Reihe::N	rivi	r ʋ ʏ u	r i ʋ i
+Boot::N	vene	ʊ i n ɑ	ʋ ɛ n ɛ
+Ruder::N	airo	y ɔ r ʊ	ɑ i r ɔ
+Schlitten::N	reki	r ʋ k w	r ɛ k i
+Schlitten::N	kelkka	k ʋ l k k ɥ	k ɛ l k k ɑ
+Ski::N	suksi	s i k s ʊ	s ʊ k s i
+Lagerfeuer::N	nuotio	n ɛ y t u ɑ	n u ɔ t i ɔ
+Last::N	kuorma	k ɥ y r m ʏ	k u ɔ r m ɑ
+Gang::N	kulku	k y l k i	k ʊ l k ʊ
+Gang::N	käynti	k ʏ ɔ n t i	k æ ɥ n t i
+Schritt::N	askel	ʏ s k ɔ l	ɑ s k ɛ l
+Norden::N	pohjoinen	p ɥ h j i ɔ n ʋ n	p ɔ h j ɔ i n ɛ n
+Süden::N	etelä	ʋ t u l ɑ	ɛ t ɛ l æ
+Westen::N	länsi	l i n s w	l æ n s i
+Osten::N	itä	w t o	i t æ
+Holz::N	puu	p w w	p u u
+Brett::N	lauta	l ɔ ʋ t æ	l ɑ w t ɑ
+Platte::N	levy	l i i ɔ	l ɛ ʋ ʏ
+Stütze::N	noja	n o j ɔ	n ɔ j ɑ
+Stange::N	tanko	t ɥ ŋ k ʊ	t ɑ ŋ k ɔ
+Stock::N	keppi	k ʏ p p o	k ɛ p p i
+Stab::N	sauva	s y ɑ w ɥ	s ɑ w ʋ ɑ
+Stab::N	seiväs	s i ʏ y i s	s ɛ i ʋ æ s
+Rohr::N	putki	p o t k ʋ	p ʊ t k i
+Haus::N	talo	t ʊ l y	t ɑ l ɔ
+Heim::N	koti	k ʊ t æ	k ɔ t i
+Ofen::N	uuni	ʏ ʋ n i	u u n i
+Fußboden::N	lattia	l u t t o ʊ	l ɑ t t i ɑ
+Tisch::N	pöytä	p ʊ o t ɔ	p œ ɥ t æ
+Stuhl::N	tuoli	t ʏ ɔ l ʊ	t u ɔ l i
+Wiege::N	kehto	k y x t ɔ	k ɛ x t ɔ
+Bett::N	sänky	s w ŋ k ɥ	s æ ŋ k ʏ
+Regal::N	hylly	h ʊ l l ɛ	h ʏ l l ʏ
+Kiste::N	arkku	œ r k k ɛ	ɑ r k k ʊ
+Kiste::N	kirstu	k ɔ r s t ʏ	k i r s t ʊ
+Kiste::N	laatikko	l œ ɑ t o k k æ	l ɑ ɑ t i k k ɔ
+Fenster::N	ikkuna	i k k ɛ n ɛ	i k k ʊ n ɑ
+Tür::N	ovi	æ y ɛ	ɔ ʋ i
+Tor::N	portti	p ɥ r t t ɥ	p ɔ r t t i
+Zaun::N	aita	ʏ y t ɥ	ɑ i t ɑ
+Dach::N	katto	k o t t o	k ɑ t t ɔ
+Leiter::N	tikkaat	t u k k i œ t	t i k k ɑ ɑ t
+Leiter::N	tikapuut	t y k ɥ p ʊ ɛ t	t i k ɑ p u u t
+Besen::N	luuta	l u ɥ t æ	l u u t ɑ
+Spaten::N	lapio	l y p ɑ u	l ɑ p i ɔ
+Schaufel::N	lapio	l ʋ p ɑ y	l ɑ p i ɔ
+Gabel::N	haarukka	h y w r u k k ɔ	h ɑ ɑ r ʊ k k ɑ
+Löffel::N	lusikka	l ɔ s ʊ k k i	l ʊ s i k k ɑ
+Messer::N	veitsi	ɛ ʏ y t͡s ʋ	ʋ ɛ i t͡s i
+Nagel::N	naula	n u i l æ	n ɑ w l ɑ
+Netz::N	verkko	ʊ ʏ r k k y	ʋ ɛ r k k ɔ
+Haken::N	haka	h ɔ k ɥ	h ɑ k ɑ
+Haken::N	koukku	k æ ɑ k k ɑ	k ɔ w k k ʊ
+Griff::N	ripa	r ɛ p œ	r i p ɑ
+Griff::N	kahva	k o x ɔ ʊ	k ɑ x ʋ ɑ
+Schloss::N	lukko	l æ k k ɔ	l ʊ k k ɔ
+Bild::N	kuva	k ɔ ʋ ɛ	k ʊ ʋ ɑ
+Figur::N	kuvio	k y œ ɥ œ	k ʊ ʋ i ɔ
+Puppe::N	nukke	n ɑ k k ʋ	n ʊ k k ɛ
+Beutel::N	pussi	p ɛ s s ʊ	p ʊ s s i
+Bündel::N	nippu	n o p p i	n i p p ʊ
+Bündel::N	kimppu	k ɥ m p p u	k i m p p ʊ
+Tasche::N	laukku	l ʋ o k k y	l ɑ w k k ʊ
+Eimer::N	sanko	s i ŋ k ʊ	s ɑ ŋ k ɔ
+Eimer::N	ämpäri	ʋ m p u r ʋ	æ m p æ r i
+Deckel::N	kansi	k i n s œ	k ɑ n s i
+Geschirr::N	astia	o s t œ ʊ	ɑ s t i ɑ
+Sack::N	säkki	s æ k k œ	s æ k k i
+Tasse::N	kuppi	k w p p y	k ʊ p p i
+Topf::N	pata	p œ t o	p ɑ t ɑ
+Kessel::N	kattila	k ɑ t t ʏ l i	k ɑ t t i l ɑ
+Essen::N	syönti	s ɑ ʊ n t i	s y œ n t i
+Nahrung::N	ruoka	r ʋ y k ʊ	r u ɔ k ɑ
+Nahrung::N	ravinto	r ʊ ɔ u n t u	r ɑ ʋ i n t ɔ
+Speise::N	ruoka	r ʋ i k ʏ	r u ɔ k ɑ
+Fleisch::N	liha	l ɛ h ɔ	l i h ɑ
+Getreide::N	vilja	ʏ ɥ l j o	ʋ i l j ɑ
+Brei::N	puuro	p ɔ w r ʋ	p u u r ɔ
+Brot::N	leipä	l ʋ o p ɑ	l ɛ i p æ
+Scheibe::N	viipale	o œ ʋ p ɛ l ʏ	ʋ i i p ɑ l ɛ
+Fett::N	rasva	r i s ɥ i	r ɑ s ʋ ɑ
+Butter::N	voi	w ʊ ɛ	ʋ ɔ i
+Öl::N	öljy	ɔ l j æ	œ l j ʏ
+Salz::N	suola	s ɔ i l i	s u ɔ l ɑ
+Suppe::N	keitto	k i æ t t y	k ɛ i t t ɔ
+Honig::N	hunaja	h i n u j u	h ʊ n ɑ j ɑ
+Milch::N	maito	m ʋ i t o	m ɑ i t ɔ
+Tee::N	tee	t ɥ ʏ	t ɛ ɛ
+Leder::N	nahka	n o x k w	n ɑ x k ɑ
+Wolle::N	villa	ɛ w l l u	ʋ i l l ɑ
+Stoff::N	kangas	k œ ŋ ŋ œ s	k ɑ ŋ ŋ ɑ s
+Nadel::N	neula	n o i l o	n ɛ ʊ l ɑ
+Faden::N	lanka	l o ŋ k ɑ	l ɑ ŋ k ɑ
+Knopf::N	nappi	n ɑ p p ɥ	n ɑ p p i
+Knoten::N	solmu	s ʊ l m i	s ɔ l m ʊ
+Farbe::N	maali	m ʏ u l ɥ	m ɑ ɑ l i
+Kleidung::N	vaatteet	ɑ u ʋ t t ʊ ɔ t	ʋ ɑ ɑ t t ɛ ɛ t
+Hemd::N	paita	p ʏ ɑ t w	p ɑ i t ɑ
+Kragen::N	kaulus	k ɑ ɥ l w s	k ɑ w l ʊ s
+Ärmel::N	hiha	h ɛ h ʋ	h i h ɑ
+Hose::N	housut	h y u s ʋ t	h ɔ w s ʊ t
+Gürtel::N	vyö	w ʊ æ	ʋ y œ
+Mütze::N	lakki	l ɑ k k i	l ɑ k k i
+Schuh::N	kenkä	k y ŋ k æ	k ɛ ŋ k æ
+Stiefel::N	saapas	s i i p ɥ s	s ɑ ɑ p ɑ s
+Ring::N	sormus	s ɔ r m œ s	s ɔ r m ʊ s
+Band::N	nauha	n i ʊ h ɛ	n ɑ w h ɑ
+Kamm::N	kampa	k ɥ m p ɑ	k ɑ m p ɑ
+Spiegel::N	peili	p o y l i	p ɛ i l i
+Riemen::N	hihna	h ɥ x n ʏ	h i x n ɑ
+Schnur::N	naru	n ɑ r ɥ	n ɑ r ʊ
+Schnur::N	nuora	n ʋ o r œ	n u ɔ r ɑ
+Leine::N	talutushihna	t ɛ l o t o s h ʊ x n ɛ	t ɑ l ʊ t ʊ s h i x n ɑ
+Decke::N	peite	p ɑ ʊ t ɑ	p ɛ i t ɛ
+Kissen::N	tyyny	t ɔ o n œ	t y y n ʏ
+Kissen::N	pielus	p æ y l ɥ s	p i ɛ l ʊ s
+Tuch::N	huivi	h ɔ œ ɛ y	h u i ʋ i
+Handtuch::N	pyyheliina	p w ʏ h ʏ l i æ n ʋ	p y y h ɛ l i i n ɑ
+Kraft::N	väki	ɛ ɛ k w	ʋ æ k i
+Kraft::N	voima	ɥ ʋ æ m u	ʋ ɔ i m ɑ
+Stärke::N	vahvuus	œ æ x ɥ w ɥ s	ʋ ɑ x ʋ u u s
+Gesundheit::N	terveys	t ɛ r ɛ y y s	t ɛ r ʋ ɛ ɥ s
+Krankheit::N	tauti	t ʏ æ t o	t ɑ w t i
+Krankheit::N	sairaus	s æ u r æ ʏ s	s ɑ i r ɑ w s
+Schmerz::N	kipu	k ɑ p ɑ	k i p ʊ
+Schmerz::N	särky	s u r k ʏ	s æ r k ʏ
+Wunde::N	haava	h ʏ ɛ ɑ ɔ	h ɑ ɑ ʋ ɑ
+Fieber::N	kuume	k œ æ m ɑ	k u u m ɛ
+Arznei::N	lääke	l u ɔ k o	l æ æ k ɛ
+Brücke::N	silta	s u l t o	s i l t ɑ
+Brunnen::N	kaivo	k ʊ ʊ ɥ i	k ɑ i ʋ ɔ
+Weide::N	laidun	l æ ʏ d ɛ n	l ɑ i d ʊ n
+Pfad::N	polku	p u l k ɥ	p ɔ l k ʊ
+Weg::N	tie	t ʊ æ	t i ɛ
+Straße::N	katu	k i t ɥ	k ɑ t ʊ
+Dorf::N	kylä	k ɑ l u	k ʏ l æ
+Stadt::N	kaupunki	k o y p œ ŋ k i	k ɑ w p ʊ ŋ k i
+Brief::N	kirje	k ɑ r j ɥ	k i r j ɛ
+Buch::N	kirja	k æ r j œ	k i r j ɑ
+Buchstabe::N	kirjain	k ʊ r j ɛ ɑ n	k i r j ɑ i n
+Zeitung::N	lehti	l æ x t u	l ɛ x t i
+Zeitung::N	sanomalehti	s i n ʏ m u l ɥ x t y	s ɑ n ɔ m ɑ l ɛ x t i
+Leben::N	elo	y l ʋ	ɛ l ɔ
+Leben::N	elämä	œ l æ m œ	ɛ l æ m æ
+Tod::N	kuolema	k ɔ w l o m ɛ	k u ɔ l ɛ m ɑ
+Grab::N	hauta	h ɛ æ t y	h ɑ w t ɑ
+Kirche::N	kirkko	k ɥ r k k ʏ	k i r k k ɔ
+Sünde::N	synti	s ʏ n t w	s ʏ n t i
+Gott::N	jumala	j æ m ɛ l ɛ	j ʊ m ɑ l ɑ
+Arbeiter::N	työläinen	t ʏ ɑ l æ u n ɑ n	t y œ l æ i n ɛ n
+Chef::N	päällikkö	p ʋ i l l æ k k ɛ	p æ æ l l i k k œ
+Meister::N	mestari	m i s t ʋ r i	m ɛ s t ɑ r i
+Arzt::N	lääkäri	l y ɥ k u r ɥ	l æ æ k æ r i
+Lehrer::N	opettaja	y p o t t u j ɛ	ɔ p ɛ t t ɑ j ɑ
+Geld::N	raha	r æ h ɔ	r ɑ h ɑ
+Geschäft::N	liike	l ʋ y k ʋ	l i i k ɛ
+Laden::N	puoti	p u ʊ t o	p u ɔ t i
+Laden::N	kauppa	k œ œ p p i	k ɑ w p p ɑ
+Preis::N	hinta	h ʊ n t ʋ	h i n t ɑ
+Ware::N	tavara	t u æ y r ɑ	t ɑ ʋ ɑ r ɑ
+Nutzen::N	hyöty	h æ w t æ	h y œ t ʏ
+Reichtum::N	rikkaus	r o k k ɛ ɥ s	r i k k ɑ w s
+Welt::N	maailma	m ɑ y w l m u	m ɑ ɑ i l m ɑ
+Land::N	maa	m ʏ ʊ	m ɑ ɑ
+Staat::N	valtio	ʋ y l t i u	ʋ ɑ l t i ɔ
+König::N	kuningas	k y n ʏ ŋ ŋ o s	k ʊ n i ŋ ŋ ɑ s
+Macht::N	mahti	m ʏ x t u	m ɑ x t i
+Grenze::N	raja	r œ j æ	r ɑ j ɑ
+Krieg::N	sota	s u t ɥ	s ɔ t ɑ
+Feind::N	vihollinen	æ w h i l l œ n ʊ n	ʋ i h ɔ l l i n ɛ n
+Gewalt::N	väkivalta	u y k ʏ ɔ w l t u	ʋ æ k i ʋ ɑ l t ɑ
+Kampf::N	taistelu	t o ʋ s t æ l ɔ	t ɑ i s t ɛ l ʊ
+Bogen[Waffe]::N	jousi	j w ɔ s ɔ	j ɔ w s i
+Pfeil::N	nuoli	n o ʏ l ɔ	n u ɔ l i
+Gewehr::N	kivääri	k ɑ i ɛ ʊ r i	k i ʋ æ æ r i
+Fehler::N	vika	ɥ æ k ɑ	ʋ i k ɑ
+Fehler::N	virhe	ʋ ɛ r h y	ʋ i r h ɛ
+Lüge::N	valhe	ʊ u l h w	ʋ ɑ l h ɛ
+Schaden::N	vaurio	y æ ʊ r ʊ ɥ	ʋ ɑ w r i ɔ
+Schaden::N	vahinko	ɔ ʋ h ɑ ŋ k ɔ	ʋ ɑ h i ŋ k ɔ
+Unglück::N	vahinko	æ ɥ h o ŋ k ɔ	ʋ ɑ h i ŋ k ɔ
+Unglück::N	onnettomuus	y n n ɛ t t ɑ m u ʋ s	ɔ n n ɛ t t ɔ m u u s
+Schuld::N	syy	s ʊ ʋ	s y y
+Alter::N	ikä	ʋ k w	i k æ
+Schluss::N	loppu	l i p p ɥ	l ɔ p p ʊ
+Zeit::N	aika	œ w k o	ɑ i k ɑ
+Tag::N	päivä	p ɛ o o ɛ	p æ i ʋ æ
+Morgen::N	aamu	o ʏ m y	ɑ ɑ m ʊ
+Morgen::N	huomen	h ʏ æ m ʊ n	h u ɔ m ɛ n
+Mittag::N	keskipäivä	k y s k ɥ p o ɥ ʏ ɛ	k ɛ s k i p æ i ʋ æ
+Abend::N	ilta	ɔ l t i	i l t ɑ
+Nacht::N	yö	ɑ ʋ	y œ
+Woche::N	viikko	ʋ ɑ ɥ k k ɥ	ʋ i i k k ɔ
+Monat::N	kuukausi	k ʋ y k ɛ ʏ s ʏ	k u u k ɑ w s i
+Jahr::N	vuosi	ʏ i ʏ s i	ʋ u ɔ s i
+Frühling::N	kevät	k u u ʏ t	k ɛ ʋ æ t
+Sommer::N	kesä	k ʊ s æ	k ɛ s æ
+Herbst::N	syksy	s ɑ k s u	s ʏ k s ʏ
+Winter::N	talvi	t o l ɔ ɔ	t ɑ l ʋ i
+Januar::N	tammikuu	t œ m m u k æ ɛ	t ɑ m m i k u u
+Februar::N	helmikuu	h y l m u k ɛ w	h ɛ l m i k u u
+März::N	maaliskuu	m ɔ œ l u s k i ɑ	m ɑ ɑ l i s k u u
+April::N	huhtikuu	h œ x t ʏ k œ ʏ	h ʊ x t i k u u
+Mai::N	toukokuu	t i œ k y k œ ɑ	t ɔ w k ɔ k u u
+Juni::N	kesäkuu	k æ s ɔ k u y	k ɛ s æ k u u
+Juli::N	heinäkuu	h o w n i k ɛ i	h ɛ i n æ k u u
+August::N	elokuu	ʊ l æ k ʋ ɥ	ɛ l ɔ k u u
+September::N	syyskuu	s œ œ s k ɛ ɔ	s y y s k u u
+Oktober::N	lokakuu	l w k ɔ k œ ʏ	l ɔ k ɑ k u u
+November::N	marraskuu	m y r r ʏ s k ʋ ɥ	m ɑ r r ɑ s k u u
+Dezember::N	joulukuu	j ɛ i l œ k o œ	j ɔ w l ʊ k u u
+Montag::N	maanantai	m ɥ ʊ n æ n t œ w	m ɑ ɑ n ɑ n t ɑ i
+Dienstag::N	tiistai	t œ ɑ s t ɛ o	t i i s t ɑ i
+Mittwoch::N	keskiviikko	k w s k u ɔ ɛ w k k ʏ	k ɛ s k i ʋ i i k k ɔ
+Donnerstag::N	torstai	t ɔ r s t w ɔ	t ɔ r s t ɑ i
+Freitag::N	perjantai	p ʊ r j o n t ʋ ɥ	p ɛ r j ɑ n t ɑ i
+Samstag::N	lauantai	l œ y u n t ɛ ɑ	l ɑ w ɑ n t ɑ i
+Sonntag::N	sunnuntai	s i n n w n t ʋ ɥ	s ʊ n n ʊ n t ɑ i
+groß::A	iso	ʋ s æ	i s ɔ
+groß::A	suuri	s œ ɛ r ɥ	s u u r i
+klein::A	pieni	p ɥ ɛ n ʏ	p i ɛ n i
+lang::A	pitkä	p œ t k ɑ	p i t k æ
+kurz::A	lyhyt	l i h y t	l ʏ h ʏ t
+breit::A	leveä	l y u ʊ ɔ	l ɛ ʋ ɛ æ
+schmal::A	kapea	k ʋ p i ʋ	k ɑ p ɛ ɑ
+dicht::A	taaja	t ʋ ʊ j ɥ	t ɑ ɑ j ɑ
+dick[Gegenstand]::A	paksu	p ʋ k s ʊ	p ɑ k s ʊ
+dünn::A	ohut	ɔ h ʊ t	ɔ h ʊ t
+fein::A	hieno	h u ɑ n æ	h i ɛ n ɔ
+fest::A	luja	l y j ɔ	l ʊ j ɑ
+flach::A	litteä	l ɔ t t u ʋ	l i t t ɛ æ
+flach::A	tasainen	t i s y ʊ n u n	t ɑ s ɑ i n ɛ n
+glatt::A	sileä	s ɥ l ʏ æ	s i l ɛ æ
+glatt::A	siloinen	s ɛ l œ æ n æ n	s i l ɔ i n ɛ n
+hart::A	kova	k o o ɥ	k ɔ ʋ ɑ
+weich::A	pehmeä	p ɛ x m ʊ ʋ	p ɛ x m ɛ æ
+rund::A	pyöreä	p ʋ u r y ɑ	p y œ r ɛ æ
+spitz::A	terävä	t æ r y u ʊ	t ɛ r æ ʋ æ
+scharf::A	terävä	t ʊ r ʋ u y	t ɛ r æ ʋ æ
+stumpf::A	tylsä	t ɥ l s ɥ	t ʏ l s æ
+schwer::A	raskas	r ʏ s k i s	r ɑ s k ɑ s
+schwer::A	painava	p ɥ ɥ n i ʊ ʋ	p ɑ i n ɑ ʋ ɑ
+schön::A	kaunis	k i ɑ n æ s	k ɑ w n i s
+heiß::A	kuuma	k œ o m u	k u u m ɑ
+warm::A	lämmin	l o m m æ n	l æ m m i n
+kalt::A	kylmä	k u l m i	k ʏ l m æ
+kalt::A	viluinen	ʊ ɑ l œ ʊ n ɑ n	ʋ i l u i n ɛ n
+kühl::A	viileä	ɑ o ɛ l ʏ i	ʋ i i l ɛ æ
+frisch::A	tuore	t æ œ r i	t u ɔ r ɛ
+feucht::A	kostea	k ʋ s t æ ʏ	k ɔ s t ɛ ɑ
+nass::A	märkä	m ɑ r k œ	m æ r k æ
+trocken::A	kuiva	k æ ɑ æ œ	k u i ʋ ɑ
+voll::A	täysi	t ʏ ɔ s ɥ	t æ ɥ s i
+leer::A	tyhjä	t w h j o	t ʏ h j æ
+offen::A	avonainen	æ i œ n ʏ i n o n	ɑ ʋ ɔ n ɑ i n ɛ n
+geschlossen::A	suljettu	s ɑ l j œ t t w	s ʊ l j ɛ t t ʊ
+sauber::A	puhdas	p ɑ x d æ s	p ʊ x d ɑ s
+schmutzig::A	likainen	l u k w o n ʏ n	l i k ɑ i n ɛ n
+roh::A	raaka	r w ɑ k o	r ɑ ɑ k ɑ
+reif::A	kypsä	k æ p s ʋ	k ʏ p s æ
+lecker::A	herkullinen	h w r k ɔ l l ɥ n œ n	h ɛ r k ʊ l l i n ɛ n
+süß::A	makea	m ɔ k ɥ ʊ	m ɑ k ɛ ɑ
+bitter::A	karvas	k u r i w s	k ɑ r ʋ ɑ s
+bitter::A	kitkerä	k ʏ t k y r ɔ	k i t k ɛ r æ
+sauer::A	hapan	h w p ɑ n	h ɑ p ɑ n
+hell::A	kirkas	k ɥ r k y s	k i r k ɑ s
+hell::A	valoisa	ʊ œ l ʊ ʋ s æ	ʋ ɑ l ɔ i s ɑ
+dunkel::A	pimeä	p ɔ m ʏ o	p i m ɛ æ
+schwarz::A	musta	m ɑ s t ʏ	m ʊ s t ɑ
+weiß::A	valkea	o æ l k ʏ œ	ʋ ɑ l k ɛ ɑ
+rot::A	punainen	p ɛ n ɥ œ n œ n	p ʊ n ɑ i n ɛ n
+gelb::A	keltainen	k æ l t ʋ ɑ n ʏ n	k ɛ l t ɑ i n ɛ n
+blau::A	sininen	s ɔ n ʊ n w n	s i n i n ɛ n
+grün::A	vihreä	ʊ ʊ x r i u	ʋ i x r ɛ æ
+grau::A	harmaa	h ɑ r m ɛ œ	h ɑ r m ɑ ɑ
+bunt::A	kirjava	k ɑ r j œ ɑ ʏ	k i r j ɑ ʋ ɑ
+billig::A	halpa	h æ l p ʊ	h ɑ l p ɑ
+billig::A	huokea	h ʋ w k ɥ ɛ	h u ɔ k ɛ ɑ
+teuer::A	kallis	k ɥ l l y s	k ɑ l l i s
+wertvoll::A	arvokas	ɛ r ɥ i k ɔ s	ɑ r ʋ ɔ k ɑ s
+blind::A	sokea	s ʊ k ʋ ɔ	s ɔ k ɛ ɑ
+taub::A	kuuro	k o u r y	k u u r ɔ
+kräftig::A	väkevä	ɔ ɛ k o u œ	ʋ æ k ɛ ʋ æ
+kräftig::A	voimakas	ʊ ɛ w m u k o s	ʋ ɔ i m ɑ k ɑ s
+stark::A	vahva	u u x w ɛ	ʋ ɑ x ʋ ɑ
+schwach::A	heikko	h ɔ y k k o	h ɛ i k k ɔ
+fett::A	lihava	l œ h ʋ ʏ u	l i h ɑ ʋ ɑ
+schlank::A	hoikka	h ɛ ʏ k k ɑ	h ɔ i k k ɑ
+schlank::A	solakka	s œ l æ k k ʋ	s ɔ l ɑ k k ɑ
+hübsch::A	soma	s ɥ m ʊ	s ɔ m ɑ
+hübsch::A	sievä	s ʋ y ɛ ʏ	s i ɛ ʋ æ
+böse::A	paha	p œ h ɥ	p ɑ h ɑ
+böse::A	häijy	h ʊ ɑ j ɔ	h æ i j ʏ
+dumm::A	tyhmä	t æ x m u	t ʏ x m æ
+dumm::A	typerä	t i p i r ʊ	t ʏ p ɛ r æ
+faul::A	laiska	l o i s k ɑ	l ɑ i s k ɑ
+fleißig::A	ahkera	ʋ x k ɥ r ʏ	ɑ x k ɛ r ɑ
+geizig::A	saita	s ɛ u t i	s ɑ i t ɑ
+klug::A	älykäs	ɥ l œ k ɛ s	æ l ʏ k æ s
+geschickt::A	taitava	t i ʊ t ɔ y ʊ	t ɑ i t ɑ ʋ ɑ
+lieb::A	rakas	r ʏ k i s	r ɑ k ɑ s
+lustig::A	hauska	h ɑ ʋ s k w	h ɑ w s k ɑ
+lustig::A	iloinen	i l ɛ ʏ n æ n	i l ɔ i n ɛ n
+sanft::A	lauha	l ɛ y h ɔ	l ɑ w h ɑ
+sanft::A	lempeä	l y m p ɔ ʊ	l ɛ m p ɛ æ
+hungrig::A	nälkäinen	n ʊ l k u ɑ n ɛ n	n æ l k æ i n ɛ n
+krank::A	sairas	s u ʏ r œ s	s ɑ i r ɑ s
+nackt::A	alaston	æ l ɥ s t ʋ n	ɑ l ɑ s t ɔ n
+traurig::A	surullinen	s ʊ r i l l ɑ n y n	s ʊ r ʊ l l i n ɛ n
+traurig::A	murheellinen	m ɥ r h i o l l ɑ n ʋ n	m ʊ r h ɛ ɛ l l i n ɛ n
+lebendig::A	elävä	ʊ l u i y	ɛ l æ ʋ æ
+gut::A	hyvä	h w ʋ æ	h ʏ ʋ æ
+schlecht::A	paha	p œ h ɔ	p ɑ h ɑ
+schlecht::A	huono	h ʏ œ n ʋ	h u ɔ n ɔ
+richtig::A	oikea	o ʏ k ɑ y	ɔ i k ɛ ɑ
+schlimm::A	paha	p ɥ h i	p ɑ h ɑ
+wahr::A	tosi	t ɑ s i	t ɔ s i
+alt::A	vanha	ʊ ɔ n h o	ʋ ɑ n h ɑ
+neu::A	uusi	ɔ ɥ s ɥ	u u s i
+ehemalig::A	entinen	i n t ɑ n y n	ɛ n t i n ɛ n
+ehemalig::A	muinainen	m w i n æ ɥ n œ n	m u i n ɑ i n ɛ n
+alt[Lebewesen]::A	vanha	ʏ ʊ n h ɛ	ʋ ɑ n h ɑ
+jung::A	nuori	n y ʊ r ʏ	n u ɔ r i
+arm::A	köyhä	k æ o h w	k œ ɥ h æ
+reich::A	rikas	r y k ʏ s	r i k ɑ s
+bekannt::A	tuttu	t ɛ t t y	t ʊ t t ʊ
+bekannt::A	tunnettu	t ɛ n n u t t ʋ	t ʊ n n ɛ t t ʊ
+berühmt::A	kuuluisa	k œ i l ɑ œ s ʋ	k u u l u i s ɑ
+fremd::A	vieras	ɥ u ʋ r ʊ s	ʋ i ɛ r ɑ s
+verschieden::A	eri	w r u	ɛ r i
+verschieden::A	erilainen	o r u l o i n ɔ n	ɛ r i l ɑ i n ɛ n
+nah::A	läheinen	l y h i w n ɔ n	l æ h ɛ i n ɛ n
+fern::A	etäinen	o t ʋ i n ɛ n	ɛ t æ i n ɛ n
+linker::A	vasen	ɥ æ s ʊ n	ʋ ɑ s ɛ n
+rechter::A	oikea	æ y k ɑ i	ɔ i k ɛ ɑ
+anderer::A	muu	m u i	m u u
+anderer::A	toinen	t u o n œ n	t ɔ i n ɛ n
+erster::A	ensimmäinen	ʏ n s ɥ m m æ œ n o n	ɛ n s i m m æ i n ɛ n
+zweiter::A	toinen	t ɑ ʋ n ɔ n	t ɔ i n ɛ n
+dritter::A	kolmas	k i l m ɑ s	k ɔ l m ɑ s
+letzter::A	viimeinen	ʏ ɥ o m ɔ u n i n	ʋ i i m ɛ i n ɛ n
+allein::ADV	yksin	ɔ k s ɑ n	ʏ k s i n
+auf einmal::ADV	yhdellä kertaa	y x d ɥ l l u _ k œ r t ʋ ɔ	ʏ x d ɛ l l æ _ k ɛ r t ɑ ɑ
+zusammen::ADV	yhdessä	æ x d ɔ s s ɛ	ʏ x d ɛ s s æ
+lange::ADV	kauan	k ɛ u ɔ n	k ɑ w ɑ n
+lange::ADV	pitkään	p ʏ t k ʏ ɑ n	p i t k æ æ n
+plötzlich::ADV	äkkiä	u k k w ɥ	æ k k i æ
+sofort::ADV	heti	h w t œ	h ɛ t i
+später::ADV	myöhemmin	m w w h ʋ m m ɔ n	m y œ h ɛ m m i n
+jetzt::ADV	nyt	n ɑ t	n ʏ t
+heute::ADV	tänään	t ɑ n ʊ ɔ n	t æ n æ æ n
+morgen::ADV	huomenna	h ɑ æ m u n n œ	h u ɔ m ɛ n n ɑ
+bald::ADV	pian	p u ʋ n	p i ɑ n
+dann::ADV	sitten	s ɑ t t œ n	s i t t ɛ n
+gestern::ADV	eilen	œ ɛ l ɛ n	ɛ i l ɛ n
+einst::ADV	aikanaan	œ i k æ n æ w n	ɑ i k ɑ n ɑ ɑ n
+damals::ADV	silloin	s ɛ l l ɥ ʋ n	s i l l ɔ i n
+damals::ADV	siihen aikaan	s u ɛ h ɥ n _ œ ʊ k æ œ n	s i i h ɛ n _ ɑ i k ɑ ɑ n
+danach::ADV	sen jälkeen	s œ n _ j o l k i u n	s ɛ n _ j æ l k ɛ ɛ n
+vorher::ADV	ennen	ʊ n n œ n	ɛ n n ɛ n
+zuerst::ADV	ensin	œ n s ʋ n	ɛ n s i n
+zuerst::ADV	ensiksi	y n s ɥ k s o	ɛ n s i k s i
+einmal::ADV	kerran	k i r r ʊ n	k ɛ r r ɑ n
+manchmal::ADV	joskus	j i s k ʋ s	j ɔ s k ʊ s
+oft::ADV	usein	ʋ s ɑ æ n	ʊ s ɛ i n
+immer::ADV	aina	æ ʋ n w	ɑ i n ɑ
+niemals::ADV	ei koskaan	o ʋ _ k y s k ɑ u n	ɛ i _ k ɔ s k ɑ ɑ n
+hier::ADV	tässä	t œ s s o	t æ s s æ
+hier::ADV	täällä	t ɥ w l l u	t æ æ l l æ
+hierhin::ADV	tähän	t ɑ h ɔ n	t æ h æ n
+von hier::ADV	tästä	t ʋ s t æ	t æ s t æ
+von hier::ADV	täältä	t u ʋ l t ʏ	t æ æ l t æ
+dort::ADV	siinä	s ɔ ʋ n o	s i i n æ
+dort::ADV	siellä	s ɔ ʏ l l ʏ	s i ɛ l l æ
+dorthin::ADV	sinne	s y n n œ	s i n n ɛ
+dorthin::ADV	tuonne	t ʊ ɥ n n y	t u ɔ n n ɛ
+geradeaus::ADV	suoraan	s ɑ ʏ r o ɛ n	s u ɔ r ɑ ɑ n
+vorwärts::ADV	eteenpäin	æ t ʊ y n p ʋ ʊ n	ɛ t ɛ ɛ n p æ i n
+rückwärts::ADV	taaksepäin	t o æ k s œ p ɥ u n	t ɑ ɑ k s ɛ p æ i n
+zurück::ADV	takaisin	t ɔ k ʏ ʏ s ʏ n	t ɑ k ɑ i s i n
+unten::ADV	alhaalla	ɥ l h ɛ o l l ʏ	ɑ l h ɑ ɑ l l ɑ
+hinab::ADV	alas	ɔ l ʏ s	ɑ l ɑ s
+oben::ADV	ylhäällä	ʊ l h u y l l ʊ	ʏ l h æ æ l l æ
+hinauf::ADV	ylös	ʏ l ɔ s	ʏ l œ s
+überall::ADV	kaikkialla	k ɥ ʋ k k w æ l l w	k ɑ i k k i ɑ l l ɑ
+nicht::ADV	ei	æ ɥ	ɛ i
+ein wenig::ADV	vähän	ɔ o h ʏ n	ʋ æ h æ n
+kaum::ADV	tuskin	t i s k i n	t ʊ s k i n
+sehr::ADV	kovin	k o i ʋ n	k ɔ ʋ i n
+sehr::ADV	oikein	y i k o y n	ɔ i k ɛ i n
+so::ADV	näin	n ɛ ɔ n	n æ i n
+noch::ADV	vielä	œ ɔ ʊ l œ	ʋ i ɛ l æ
+nur::ADV	vain	œ y ɥ n	ʋ ɑ i n
+nur::ADV	ainoastaan	ɔ o n ʊ ɥ s t œ ɔ n	ɑ i n ɔ ɑ s t ɑ ɑ n
+schon::ADV	jo	j ɛ	j ɔ
+wieder::ADV	taas	t ʊ ʋ s	t ɑ ɑ s
+wieder::ADV	jälleen	j œ l l w y n	j æ l l ɛ ɛ n
+vergebens::ADV	turhaan	t ɛ r h ʊ œ n	t ʊ r h ɑ ɑ n
+vor::PRP	edessä	ɑ d y s s w	ɛ d ɛ s s æ
+hinter::PRP	takana	t ɔ k ɑ n i	t ɑ k ɑ n ɑ
+unter::PRP	alla	o l l u	ɑ l l ɑ
+durch::PRP	läpi	l æ p o	l æ p i
+durch::PRP	kautta	k ɛ ʋ t t œ	k ɑ w t t ɑ
+neben::PRP	vieressä	ɑ ɥ ʏ r ʋ s s œ	ʋ i ɛ r ɛ s s æ
+zwischen::PRP	välillä	æ ɛ l œ l l ɔ	ʋ æ l i l l æ
+wegen::PRP	takia	t y k ʋ w	t ɑ k i ɑ
+wegen::PRP	vuoksi	o ɔ o k s y	ʋ u ɔ k s i
+dies::PRN	tämä	t ɔ m ɛ	t æ m æ
+das::PRN	se	s u	s ɛ
+alles::PRN	kaikki	k o ɛ k k o	k ɑ i k k i
+ich::PRN	minä	m u n ɛ	m i n æ
+du::PRN	sinä	s y n ʋ	s i n æ
+er::PRN	hän	h i n	h æ n
+wir::PRN	me	m i	m ɛ
+ihr::PRN	te	t ɛ	t ɛ
+sie::PRN	he	h y	h ɛ
+was::FPRN	mikä	m æ k ɑ	m i k æ
+wer::FPRN	ken	k ɔ n	k ɛ n
+wer::FPRN	kuka	k i k ʋ	k ʊ k ɑ
+wo::FADV	missä	m ɛ s s y	m i s s æ
+wohin::FADV	mihin	m o h ɛ n	m i h i n
+wie::FADV	miten	m w t y n	m i t ɛ n
+wie::FADV	kuinka	k ʏ ɛ ŋ k ʏ	k u i ŋ k ɑ
+warum::FADV	miksi	m u k s œ	m i k s i
+wieviel::FNUM	paljonko	p y l j u ŋ k œ	p ɑ l j ɔ ŋ k ɔ
+wieviel::FNUM	kuinka paljon	k w ʊ ŋ k i _ p ɥ l j y n	k u i ŋ k ɑ _ p ɑ l j ɔ n
+eins::NUM	yksi	w k s w	ʏ k s i
+zwei::NUM	kaksi	k œ k s ʋ	k ɑ k s i
+drei::NUM	kolme	k ɑ l m i	k ɔ l m ɛ
+vier::NUM	neljä	n u l j ʊ	n ɛ l j æ
+fünf::NUM	viisi	i ɛ ɔ s o	ʋ i i s i
+sechs::NUM	kuusi	k ʋ o s æ	k u u s i
+sieben::NUM	seitsemän	s ʊ i t͡s ɥ m i n	s ɛ i t͡s ɛ m æ n
+acht::NUM	kahdeksan	k ʋ x d æ k s æ n	k ɑ x d ɛ k s ɑ n
+neun::NUM	yhdeksän	ʏ x d o k s i n	ʏ x d ɛ k s æ n
+zehn::NUM	kymmenen	k ʊ m m œ n œ n	k ʏ m m ɛ n ɛ n
+elf::NUM	yksitoista	ʏ k s ʏ t ɛ ɔ s t ɑ	ʏ k s i t ɔ i s t ɑ
+zwölf::NUM	kaksitoista	k o k s w t œ ɔ s t u	k ɑ k s i t ɔ i s t ɑ
+zwanzig::NUM	kaksikymmentä	k ʊ k s ʏ k w m m ɔ n t u	k ɑ k s i k ʏ m m ɛ n t æ
+dreißig::NUM	kolmekymmentä	k ɛ l m w k ɥ m m o n t ʏ	k ɔ l m ɛ k ʏ m m ɛ n t æ
+vierzig::NUM	neljäkymmentä	n u l j ʊ k ɥ m m œ n t y	n ɛ l j æ k ʏ m m ɛ n t æ
+fünfzig::NUM	viisikymmentä	ʏ o ʏ s æ k y m m y n t ʋ	ʋ i i s i k ʏ m m ɛ n t æ
+sechzig::NUM	kuusikymmentä	k ʊ ʏ s ʋ k u m m æ n t ɥ	k u u s i k ʏ m m ɛ n t æ
+siebzig::NUM	seitsemänkymmentä	s ɛ ʊ t͡s ɔ m u ŋ k ɥ m m i n t w	s ɛ i t͡s ɛ m æ ŋ k ʏ m m ɛ n t æ
+achtzig::NUM	kahdeksankymmentä	k i x d o k s œ ŋ k o m m ʊ n t w	k ɑ x d ɛ k s ɑ ŋ k ʏ m m ɛ n t æ
+neunzig::NUM	yhdeksänkymmentä	w x d u k s ɥ ŋ k u m m y n t ɑ	ʏ x d ɛ k s æ ŋ k ʏ m m ɛ n t æ
+hundert::NUM	sata	s ʏ t æ	s ɑ t ɑ
+tausend::NUM	tuhat	t i h u t	t ʊ h ɑ t
+und::CNJ	ja	j o	j ɑ
+oder::CNJ	tai	t ʏ o	t ɑ i
+stehen::V	seisoa	s œ i s ʏ y	s ɛ i s ɔ ɑ
+sitzen::V	istua	ʋ s t o ɔ	i s t ʊ ɑ
+liegen::V	maata	m œ ɛ t y	m ɑ ɑ t ɑ
+hängen::V	riippua	r ʊ ʊ p p ɑ æ	r i i p p ʊ ɑ
+werden::V	tulla	t ʋ l l u	t ʊ l l ɑ
+werden::V	joutua	j ʋ ɑ t ɛ œ	j ɔ w t ʊ ɑ
+passieren::V	sattua	s ɥ t t ɛ ʋ	s ɑ t t ʊ ɑ
+passieren::V	tapahtua	t ʋ p ʏ x t ɑ ɑ	t ɑ p ɑ x t ʊ ɑ
+beginnen::V	alkaa	ʏ l k ɑ œ	ɑ l k ɑ ɑ
+enden::V	loppua	l o p p ɑ o	l ɔ p p ʊ ɑ
+enden::V	päättyä	p ʋ ɑ t t ɑ ʏ	p æ æ t t ʏ æ
+wechseln::V	vaihtua	ʏ u ɥ x t ɥ œ	ʋ ɑ i x t ʊ ɑ
+wechseln::V	vaihdella	ɥ ʏ ɑ x d ɑ l l ʊ	ʋ ɑ i x d ɛ l l ɑ
+aufgehen[Sonne]::V	nousta	n ʊ ʏ s t ʊ	n ɔ w s t ɑ
+untergehen[Sonne]::V	laskea	l ɑ s k æ ʊ	l ɑ s k ɛ ɑ
+scheinen[Sonne]::V	paistaa	p ɔ ʏ s t ɥ ɥ	p ɑ i s t ɑ ɑ
+donnern::V	jyristä	j i r i s t o	j ʏ r i s t æ
+wehen::V	tuulla	t ɔ æ l l ɔ	t u u l l ɑ
+wehen::V	puhaltaa	p y h æ l t ʊ ɛ	p ʊ h ɑ l t ɑ ɑ
+strömen::V	virrata	o æ r r ɑ t ʋ	ʋ i r r ɑ t ɑ
+fließen::V	valua	æ ʏ l æ ʊ	ʋ ɑ l ʊ ɑ
+fließen::V	juosta	j i ʊ s t o	j u ɔ s t ɑ
+sich drehen::V	pyöriä	p i u r y w	p y œ r i æ
+schwanken::V	horjua	h ɥ r j w ʊ	h ɔ r j ʊ ɑ
+schwingen::V	heilua	h æ ɛ l ɛ æ	h ɛ i l ʊ ɑ
+schwingen::V	värähdellä	ɛ i r o x d æ l l ɛ	ʋ æ r æ x d ɛ l l æ
+fallen::V	pudota	p ɑ d ʊ t ʊ	p ʊ d ɔ t ɑ
+fallen::V	langeta	l ɥ ŋ ŋ œ t ɛ	l ɑ ŋ ŋ ɛ t ɑ
+brennen::V	palaa	p ʊ l æ o	p ɑ l ɑ ɑ
+rauchen::V	savuta	s ɥ œ ʊ t æ	s ɑ ʋ ʊ t ɑ
+regnen::V	sataa	s ʏ t y y	s ɑ t ɑ ɑ
+gefrieren::V	jäätyä	j o o t o ʋ	j æ æ t ʏ æ
+tauen::V	sulaa	s ʏ l y ɥ	s ʊ l ɑ ɑ
+schmelzen::V	sulaa	s æ l ʊ œ	s ʊ l ɑ ɑ
+trocknen::V	kuivua	k y o ʏ i ʋ	k u i ʋ ʊ ɑ
+sieden::V	kiehua	k y æ h ʏ ʋ	k i ɛ h ʊ ɑ
+faulen::V	mädätä	m ʏ d ɥ t ʋ	m æ d æ t æ
+verfaulen::V	mädätä	m æ d ɛ t y	m æ d æ t æ
+verfaulen::V	mädäntyä	m ɔ d ʏ n t œ o	m æ d æ n t ʏ æ
+reißen::V	revetä	r y ɔ ɑ t ɑ	r ɛ ʋ ɛ t æ
+versinken::V	upota	ʊ p y t ɥ	ʊ p ɔ t ɑ
+versinken::V	vajota	y ʋ j y t ɔ	ʋ ɑ j ɔ t ɑ
+vergehen::V	kulua	k ɑ l æ w	k ʊ l ʊ ɑ
+erscheinen::V	ilmestyä	ɑ l m ʋ s t æ ɑ	i l m ɛ s t ʏ æ
+verschwinden::V	kadota	k æ d ɛ t w	k ɑ d ɔ t ɑ
+sinken::V	vajota	ɔ œ j i t ʊ	ʋ ɑ j ɔ t ɑ
+abnehmen::V	vähetä	ɥ ɛ h o t ɛ	ʋ æ h ɛ t æ
+zunehmen::V	kasvaa	k w s ɥ w y	k ɑ s ʋ ɑ ɑ
+zunehmen::V	lisääntyä	l ɑ s u ɛ n t i œ	l i s æ æ n t ʏ æ
+steigen::V	nousta	n œ ɑ s t w	n ɔ w s t ɑ
+wachsen::V	kasvaa	k ʋ s ʏ w ɥ	k ɑ s ʋ ɑ ɑ
+glänzen::V	kiiltää	k i æ l t ɥ u	k i i l t æ æ
+funkeln::V	kipinöidä	k ɑ p ʋ n ʊ œ d ɛ	k i p i n œ i d æ
+lärmen::V	meluta	m y l u t o	m ɛ l ʊ t ɑ
+läuten::V	soida	s ɑ ɥ d y	s ɔ i d ɑ
+klingeln::V	soida	s ʏ y d w	s ɔ i d ɑ
+klirren::V	kalista	k ɛ l ʏ s t u	k ɑ l i s t ɑ
+brausen::V	kohista	k o h ɥ s t i	k ɔ h i s t ɑ
+rauschen::V	kohista	k y h æ s t w	k ɔ h i s t ɑ
+klingen::V	soida	s i i d œ	s ɔ i d ɑ
+bellen::V	haukkua	h u ɥ k k w ɥ	h ɑ w k k ʊ ɑ
+heulen::V	ulvoa	i l o i ɔ	ʊ l ʋ ɔ ɑ
+blasen::V	puhaltaa	p ɔ h ʋ l t y ɛ	p ʊ h ɑ l t ɑ ɑ
+pfeifen::V	viheltää	ɥ ʋ h w l t ʋ ɥ	ʋ i h ɛ l t æ æ
+schreien::V	kirkua	k ʋ r k ʋ o	k i r k ʊ ɑ
+stöhnen::V	voihkia	ʋ ɥ œ x k ɛ œ	ʋ ɔ i x k i ɑ
+zittern::V	vapista	ɑ ɛ p ɥ s t ɑ	ʋ ɑ p i s t ɑ
+leben::V	elää	o l i ɛ	ɛ l æ æ
+geboren werden::V	syntyä	s y n t u i	s ʏ n t ʏ æ
+atmen::V	hengittää	h w ŋ ŋ ɑ t t ɑ i	h ɛ ŋ ŋ i t t æ æ
+trinken::V	juoda	j œ ɛ d ʋ	j u ɔ d ɑ
+essen::V	syödä	s ɛ i d ɔ	s y œ d æ
+schlucken::V	niellä	n ʊ ɛ l l i	n i ɛ l l æ
+müde werden::V	uupua	ɥ ɥ p ɑ o	u u p ʊ ɑ
+einschlafen::V	uinahtaa	ʏ w n o x t ɥ ʏ	u i n ɑ x t ɑ ɑ
+schlafen::V	maata	m ʋ y t æ	m ɑ ɑ t ɑ
+schlafen::V	nukkua	n w k k i ɛ	n ʊ k k ʊ ɑ
+aufwachen::V	herätä	h ʏ r ʊ t œ	h ɛ r æ t æ
+aufstehen::V	nousta	n ɔ ɑ s t ɛ	n ɔ w s t ɑ
+aufstehen::V	nousta ylös	n ɔ ʋ s t ʏ _ u l ɛ s	n ɔ w s t ɑ _ ʏ l œ s
+sich erholen::V	levätä	l w ɔ o t u	l ɛ ʋ æ t æ
+krank werden::V	sairastua	s ɛ ɔ r ɑ s t ʋ ʏ	s ɑ i r ɑ s t ʊ ɑ
+krank sein::V	potea	p ɔ t ʊ ʋ	p ɔ t ɛ ɑ
+krank sein::V	sairastaa	s u ɥ r œ s t i ɔ	s ɑ i r ɑ s t ɑ ɑ
+schmerzen::V	särkeä	s ʊ r k w ʏ	s æ r k ɛ æ
+schmerzen::V	kivistää	k ɛ ɥ ɥ s t œ ɑ	k i ʋ i s t æ æ
+husten::V	yskiä	ʏ s k ɔ i	ʏ s k i æ
+genesen::V	toipua	t w ɑ p æ ɥ	t ɔ i p ʊ ɑ
+sterben::V	kuolla	k ɛ w l l y	k u ɔ l l ɑ
+umkommen::V	saada surmansa	s u ɛ d ʊ _ s ʋ r m y n s i	s ɑ ɑ d ɑ _ s ʊ r m ɑ n s ɑ
+umkommen::V	kuolla	k ɥ y l l ʊ	k u ɔ l l ɑ
+sich bewegen::V	liikkua	l æ ɥ k k w u	l i i k k ʊ ɑ
+sich rühren::V	liikahtaa	l æ ɥ k o x t œ œ	l i i k ɑ x t ɑ ɑ
+sich erheben::V	nousta	n ɑ y s t y	n ɔ w s t ɑ
+sich setzen::V	istuutua	ɑ s t ɥ y t æ u	i s t u u t ʊ ɑ
+hinfallen::V	kaatua	k ɥ ɑ t ɔ ʊ	k ɑ ɑ t ʊ ɑ
+laufen::V	kävellä	k y i ɛ l l œ	k æ ʋ ɛ l l æ
+schreiten::V	astua	ʏ s t ʊ i	ɑ s t ʊ ɑ
+schreiten::V	astella	ɛ s t i l l y	ɑ s t ɛ l l ɑ
+spazierengehen::V	kävellä	k w ɑ i l l ʋ	k æ ʋ ɛ l l æ
+eilen::V	kiirehtiä	k ɑ ɑ r ɛ x t i ɥ	k i i r ɛ x t i æ
+sich beeilen::V	kiirehtiä	k æ u r ɛ x t i u	k i i r ɛ x t i æ
+sich beeilen::V	olla kiireissään	æ l l ʋ _ k y w r w y s s o ɑ n	ɔ l l ɑ _ k i i r ɛ i s s æ æ n
+sausen::V	rynnätä	r ɑ n n œ t ʏ	r ʏ n n æ t æ
+sausen::V	viilettää	w œ ɔ l ɑ t t ʊ ɛ	ʋ i i l ɛ t t æ æ
+rennen::V	juosta	j y y s t i	j u ɔ s t ɑ
+springen::V	hypätä	h œ p ʏ t i	h ʏ p æ t æ
+klettern::V	kiivetä	k w ʊ ɛ ɛ t ɥ	k i i ʋ ɛ t æ
+schaukeln::V	kiikkua	k o ɥ k k ɔ ɥ	k i i k k ʊ ɑ
+kriechen::V	ryömiä	r w u m ʋ æ	r y œ m i æ
+schwimmen::V	uida	æ i d ʏ	u i d ɑ
+tauchen::V	sukeltaa	s œ k ʋ l t ɥ w	s ʊ k ɛ l t ɑ ɑ
+rudern::V	soutaa	s ʊ ɛ t ɛ ɛ	s ɔ w t ɑ ɑ
+fahren::V	ajaa	ʊ j œ ɑ	ɑ j ɑ ɑ
+fahren::V	kulkea	k i l k ɛ o	k ʊ l k ɛ ɑ
+fliegen::V	lentää	l i n t ʏ ɥ	l ɛ n t æ æ
+gehen::V	käydä	k ɥ o d ʊ	k æ ɥ d æ
+weggehen::V	lähteä	l y x t w ʋ	l æ x t ɛ æ
+weggehen::V	poistua	p y ɑ s t u u	p ɔ i s t ʊ ɑ
+abfahren::V	lähteä	l ʋ x t ʏ o	l æ x t ɛ æ
+anhalten::V	pysähtyä	p ʊ s u x t ɑ o	p ʏ s æ x t ʏ æ
+anhalten::V	seisahtua	s œ ʊ s ɛ x t ʊ æ	s ɛ i s ɑ x t ʊ ɑ
+hineingehen::V	mennä sisään	m u n n ʋ _ s i s ʊ o n	m ɛ n n æ _ s i s æ æ n
+eintreten::V	astua sisään	u s t o i _ s æ s i ʏ n	ɑ s t ʊ ɑ _ s i s æ æ n
+kommen::V	tulla	t ɑ l l w	t ʊ l l ɑ
+ankommen::V	saapua	s ɑ ɔ p ɑ o	s ɑ ɑ p ʊ ɑ
+zurückkommen::V	palata	p o l u t w	p ɑ l ɑ t ɑ
+bleiben::V	jäädä	j ɔ æ d ɛ	j æ æ d æ
+bleiben::V	viipyä	ʋ ɥ ɛ p ɛ ʋ	ʋ i i p ʏ æ
+warten::V	odottaa	ʊ d ɥ t t ʋ w	ɔ d ɔ t t ɑ ɑ
+erwarten::V	odottaa	ʊ d ʊ t t w o	ɔ d ɔ t t ɑ ɑ
+suchen::V	etsiä	u t͡s ɑ i	ɛ t͡s i æ
+finden::V	löytää	l ɥ æ t ɥ ʊ	l œ ɥ t æ æ
+versuchen::V	yrittää	æ r w t t ɑ ɥ	ʏ r i t t æ æ
+vorbereiten::V	valmistaa	ʊ ɔ l m ɔ s t y œ	ʋ ɑ l m i s t ɑ ɑ
+lieben::V	pitää	p ɔ t ʋ ɔ	p i t æ æ
+lieben::V	rakastaa	r æ k ɔ s t ʋ ɥ	r ɑ k ɑ s t ɑ ɑ
+mögen::V	pitää	p ʋ t ʊ i	p i t æ æ
+mögen::V	tykätä	t ɔ k ɑ t u	t ʏ k æ t æ
+lachen::V	nauraa	n o œ r ɔ æ	n ɑ w r ɑ ɑ
+rühren::V	liikuttaa	l ɛ æ k i t t ʏ u	l i i k ʊ t t ɑ ɑ
+weinen::V	itkeä	u t k ɛ æ	i t k ɛ æ
+schimpfen::V	haukkua	h w i k k ʏ ɔ	h ɑ w k k ʊ ɑ
+sich ärgern::V	suuttua	s i w t t o u	s u u t t ʊ ɑ
+sich fürchten::V	pelätä	p ʏ l ʏ t ɛ	p ɛ l æ t æ
+fürchten::V	pelätä	p ʏ l œ t ɛ	p ɛ l æ t æ
+fliehen::V	paeta	p ɥ y t æ	p ɑ ɛ t ɑ
+flüchten::V	paeta	p ɔ o t u	p ɑ ɛ t ɑ
+sehen::V	nähdä	n o x d w	n æ x d æ
+anschauen::V	katsoa	k ɥ t͡s ʊ y	k ɑ t͡s ɔ ɑ
+ansehen::V	katsoa	k ʏ t͡s i i	k ɑ t͡s ɔ ɑ
+hören::V	kuulla	k y œ l l ɑ	k u u l l ɑ
+zuhören::V	kuunnella	k w œ n n ɑ l l æ	k u u n n ɛ l l ɑ
+probieren::V	maistaa	m y ʋ s t ʊ i	m ɑ i s t ɑ ɑ
+riechen::V	haistaa	h ʋ i s t ɑ w	h ɑ i s t ɑ ɑ
+fühlen::V	tuntea	t ɛ n t ɥ ʏ	t ʊ n t ɛ ɑ
+scheinen::V	tuntua	t ɑ n t æ w	t ʊ n t ʊ ɑ
+zu sehen sein::V	näkyä	n o k w œ	n æ k ʏ æ
+vernehmen::V	kuulla	k æ ɑ l l ɛ	k u u l l ɑ
+frieren::V	palella	p ɑ l ɛ l l i	p ɑ l ɛ l l ɑ
+tun::V	tehdä	t æ x d u	t ɛ x d æ
+können::V	osata	o s o t ɛ	ɔ s ɑ t ɑ
+wollen::V	tahtoa	t æ x t œ ʋ	t ɑ x t ɔ ɑ
+anfangen::V	ruveta	r ʏ ʏ ʋ t i	r ʊ ʋ ɛ t ɑ
+anfangen::V	aloittaa	ɛ l ɛ æ t t ʋ ɑ	ɑ l ɔ i t t ɑ ɑ
+beenden::V	lopettaa	l w p o t t ɛ ʋ	l ɔ p ɛ t t ɑ ɑ
+aufhören::V	loppua	l ɑ p p y œ	l ɔ p p ʊ ɑ
+gelingen::V	onnistua	æ n n u s t ɔ w	ɔ n n i s t ʊ ɑ
+geraten::V	sujua	s ɥ j ʊ ɑ	s ʊ j ʊ ɑ
+geraten::V	joutua	j u ʋ t œ ɛ	j ɔ w t ʊ ɑ
+öffnen::V	avata	ʏ ʏ ɔ t i	ɑ ʋ ɑ t ɑ
+öffnen::V	aukaista	ɔ y k i ʋ s t y	ɑ w k ɑ i s t ɑ
+schließen::V	sulkea	s ʏ l k ʋ æ	s ʊ l k ɛ ɑ
+stellen::V	panna	p y n n ʏ	p ɑ n n ɑ
+stellen::V	asettaa	ɛ s o t t œ ʏ	ɑ s ɛ t t ɑ ɑ
+setzen::V	panna	p u n n œ	p ɑ n n ɑ
+setzen::V	istuttaa	u s t ʊ t t ʏ ɛ	i s t ʊ t t ɑ ɑ
+legen::V	panna	p ʋ n n y	p ɑ n n ɑ
+legen::V	asettaa	ɔ s i t t y œ	ɑ s ɛ t t ɑ ɑ
+berühren::V	koskea	k i s k ɥ ʋ	k ɔ s k ɛ ɑ
+berühren::V	koskettaa	k ɥ s k ɥ t t ʊ ɑ	k ɔ s k ɛ t t ɑ ɑ
+verbinden::V	liittää	l ʋ ɥ t t æ y	l i i t t æ æ
+verbinden::V	yhdistää	i x d i s t o ɑ	ʏ x d i s t æ æ
+bedecken::V	kattaa	k u t t i w	k ɑ t t ɑ ɑ
+bedecken::V	peittää	p ɔ ɥ t t ɛ ʊ	p ɛ i t t æ æ
+aufhängen::V	ripustaa	r w p w s t ɛ w	r i p ʊ s t ɑ ɑ
+anzünden::V	sytyttää	s ɑ t ɔ t t o ʏ	s ʏ t ʏ t t æ æ
+aufheben::V	ylös nostaa	ʏ l ɔ s _ n o s t œ ɑ	ʏ l œ s _ n ɔ s t ɑ ɑ
+aufheben::V	nostaa	n ʏ s t ɔ y	n ɔ s t ɑ ɑ
+zurücklassen::V	jättää	j ʏ t t ɑ ʊ	j æ t t æ æ
+verlieren::V	kadottaa	k œ d ɔ t t ɥ w	k ɑ d ɔ t t ɑ ɑ
+fallen lassen::V	pudottaa	p ʋ d y t t w ʏ	p ʊ d ɔ t t ɑ ɑ
+machen::V	tehdä	t ɥ x d o	t ɛ x d æ
+herstellen::V	tuottaa	t ɛ æ t t w w	t u ɔ t t ɑ ɑ
+herstellen::V	valmistaa	o ɥ l m ʏ s t u æ	ʋ ɑ l m i s t ɑ ɑ
+bauen::V	rakentaa	r ɛ k æ n t ɔ o	r ɑ k ɛ n t ɑ ɑ
+reparieren::V	korjata	k ʋ r j u t y	k ɔ r j ɑ t ɑ
+verbessern::V	parantaa	p ʊ r œ n t ɔ y	p ɑ r ɑ n t ɑ ɑ
+ändern::V	muuttaa	m y ʊ t t ɥ æ	m u u t t ɑ ɑ
+graben::V	kaivaa	k o ɔ u o ɑ	k ɑ i ʋ ɑ ɑ
+beugen::V	taivuttaa	t ʏ i w i t t ʋ o	t ɑ i ʋ ʊ t t ɑ ɑ
+biegen::V	taivuttaa	t o i œ æ t t ʋ ʋ	t ɑ i ʋ ʊ t t ɑ ɑ
+drehen::V	kääntää	k ʋ œ n t ɑ œ	k æ æ n t æ æ
+wenden::V	kääntää	k ɥ w n t ɥ æ	k æ æ n t æ æ
+umdrehen::V	kääntää	k ɛ ʊ n t u ʏ	k æ æ n t æ æ
+heben::V	nostaa	n ʏ s t i ɔ	n ɔ s t ɑ ɑ
+heben::V	kohottaa	k ɛ h o t t i i	k ɔ h ɔ t t ɑ ɑ
+hochheben::V	nostaa	n i s t ɛ y	n ɔ s t ɑ ɑ
+ergreifen::V	tarttua	t y r t t ʋ æ	t ɑ r t t ʊ ɑ
+halten::V	pitää	p ɔ t ɑ u	p i t æ æ
+drücken::V	painaa	p ʋ i n ʊ y	p ɑ i n ɑ ɑ
+drücken::V	puristaa	p ɥ r ɛ s t u ɥ	p ʊ r i s t ɑ ɑ
+schieben::V	työntää	t o ʋ n t y ʋ	t y œ n t æ æ
+kratzen::V	raapia	r ɥ ɔ p ɥ ɛ	r ɑ ɑ p i ɑ
+lecken::V	nuolla	n ɑ ɛ l l w	n u ɔ l l ɑ
+beißen::V	purra	p y r r u	p ʊ r r ɑ
+abreißen::V	repiä	r i p w w	r ɛ p i æ
+abschneiden::V	leikata poikki	l œ u k ɑ t ɔ _ p ʏ ɛ k k ɥ	l ɛ i k ɑ t ɑ _ p ɔ i k k i
+abschneiden::V	leikata	l i ɥ k y t ʋ	l ɛ i k ɑ t ɑ
+binden::V	sitoa	s ɥ t æ ʊ	s i t ɔ ɑ
+stecken::V	pistää	p œ s t ɔ ʊ	p i s t æ æ
+brechen::V	murtaa	m œ r t œ ɔ	m ʊ r t ɑ ɑ
+klopfen::V	koputtaa	k i p w t t y æ	k ɔ p ʊ t t ɑ ɑ
+klopfen::V	kolkuttaa	k ɛ l k ɥ t t æ œ	k ɔ l k ʊ t t ɑ ɑ
+hauen::V	lyödä	l ʋ ɥ d y	l y œ d æ
+kleben::V	liimata	l ɛ ɔ m u t ɔ	l i i m ɑ t ɑ
+reiben::V	hieroa	h ɛ u r o w	h i ɛ r ɔ ɑ
+reiben::V	hangata	h ʋ ŋ ŋ ɥ t y	h ɑ ŋ ŋ ɑ t ɑ
+streichen::V	sivellä	s æ ɥ æ l l ʊ	s i ʋ ɛ l l æ
+schleifen::V	hioa	h æ ʏ ɥ	h i ɔ ɑ
+schneiden::V	leikata	l ɛ ʋ k w t ʋ	l ɛ i k ɑ t ɑ
+rütteln::V	ravistaa	r ɥ y ʋ s t æ ʋ	r ɑ ʋ i s t ɑ ɑ
+schütteln::V	pudistaa	p ɛ d œ s t o ɔ	p ʊ d i s t ɑ ɑ
+schwenken::V	heiluttaa	h y œ l w t t ɔ œ	h ɛ i l ʊ t t ɑ ɑ
+schütten::V	kaataa	k ɑ ʊ t ɑ w	k ɑ ɑ t ɑ ɑ
+füllen::V	täyttää	t ʊ æ t t œ i	t æ ɥ t t æ æ
+einwickeln::V	kääriä	k ɑ ɑ r i œ	k æ æ r i æ
+tragen::V	kantaa	k ʊ n t ʊ ɔ	k ɑ n t ɑ ɑ
+schleppen::V	raahata	r ɥ ɔ h ʋ t o	r ɑ ɑ h ɑ t ɑ
+ziehen::V	vetää	ɛ ʏ t æ ɔ	ʋ ɛ t æ æ
+aufbewahren::V	säilyttää	s o y l œ t t w ɑ	s æ i l ʏ t t æ æ
+werfen::V	viskata	y ɥ s k œ t w	ʋ i s k ɑ t ɑ
+fangen::V	napata	n ʏ p i t ɔ	n ɑ p ɑ t ɑ
+fangen::V	ottaa kiinni	ʋ t t u œ _ k ɔ ɑ n n ʊ	ɔ t t ɑ ɑ _ k i i n n i
+packen::V	tarttua	t ʋ r t t ɔ u	t ɑ r t t ʊ ɑ
+verstecken::V	kätkeä	k ʊ t k i æ	k æ t k ɛ æ
+verstecken::V	piilottaa	p ʋ ʊ l ʋ t t ɔ ʊ	p i i l ɔ t t ɑ ɑ
+teilen::V	jakaa	j ʊ k ʋ o	j ɑ k ɑ ɑ
+schicken::V	lähettää	l ɥ h ɔ t t ɥ ɔ	l æ h ɛ t t æ æ
+bringen::V	viedä	o œ i d ʊ	ʋ i ɛ d æ
+hinzufügen::V	lisätä	l ɔ s u t y	l i s æ t æ
+bekommen::V	saada	s u u d œ	s ɑ ɑ d ɑ
+erhalten::V	saada	s ɛ u d i	s ɑ ɑ d ɑ
+nehmen::V	ottaa	ʏ t t o w	ɔ t t ɑ ɑ
+wählen::V	valita	w ʋ l ʋ t w	ʋ ɑ l i t ɑ
+auswählen::V	valikoida	ʊ œ l ɛ k u y d u	ʋ ɑ l i k ɔ i d ɑ
+bewahren::V	säilyttää	s ɔ ɔ l ɑ t t ʏ ɛ	s æ i l ʏ t t æ æ
+behindern::V	estää	ɔ s t w o	ɛ s t æ æ
+verderben::V	pilata	p u l ʏ t ʏ	p i l ɑ t ɑ
+verderben::V	turmella	t ʊ r m w l l ʊ	t ʊ r m ɛ l l ɑ
+beschädigen::V	vioittaa	ɑ ɛ ɥ w t t w i	ʋ i ɔ i t t ɑ ɑ
+beschädigen::V	vahingoittaa	œ æ h œ ŋ ŋ ɑ ʏ t t ɥ u	ʋ ɑ h i ŋ ŋ ɔ i t t ɑ ɑ
+zerbrechen::V	rikkoa	r ɑ k k o w	r i k k ɔ ɑ
+zerreißen::V	repiä rikki	r u p y ʏ _ r u k k ʊ	r ɛ p i æ _ r i k k i
+zerreißen::V	repiä palasiksi	r i p œ i _ p ʋ l ɔ s w k s w	r ɛ p i æ _ p ɑ l ɑ s i k s i
+zerstören::V	hävittää	h i ɔ ʊ t t œ æ	h æ ʋ i t t æ æ
+verbrennen::V	polttaa	p u l t t y i	p ɔ l t t ɑ ɑ
+geben::V	antaa	y n t ʋ u	ɑ n t ɑ ɑ
+reichen::V	ojentaa	y j ɛ n t ɛ i	ɔ j ɛ n t ɑ ɑ
+schenken::V	lahjoittaa	l o h j ʊ ɛ t t w ʋ	l ɑ h j ɔ i t t ɑ ɑ
+versprechen::V	luvata	l œ i ɑ t ɑ	l ʊ ʋ ɑ t ɑ
+wünschen::V	toivottaa	t æ œ ɑ ʊ t t ʏ ʏ	t ɔ i ʋ ɔ t t ɑ ɑ
+loben::V	ylistää	ɛ l ɔ s t œ ʋ	ʏ l i s t æ æ
+küssen::V	suudella	s ʋ i d o l l u	s u u d ɛ l l ɑ
+wiegen::V	tuudittaa	t ʊ æ d ʋ t t ʏ ɔ	t u u d i t t ɑ ɑ
+wiegen::V	keinuttaa	k u æ n y t t y ɛ	k ɛ i n ʊ t t ɑ ɑ
+zudecken::V	peittää	p u œ t t ʋ u	p ɛ i t t æ æ
+wecken::V	herättää	h ʏ r y t t ɛ ɑ	h ɛ r æ t t æ æ
+zeigen::V	näyttää	n ʊ æ t t ɛ y	n æ ɥ t t æ æ
+zeigen::V	osoittaa	u s u ɔ t t ɔ ʋ	ɔ s ɔ i t t ɑ ɑ
+führen::V	johdattaa	j ʋ x d o t t u ɔ	j ɔ x d ɑ t t ɑ ɑ
+lehren::V	opettaa	ʊ p ɑ t t ɛ ɛ	ɔ p ɛ t t ɑ ɑ
+unterrichten::V	opettaa	æ p ɔ t t i o	ɔ p ɛ t t ɑ ɑ
+aufziehen::V	kasvattaa	k y s æ œ t t æ o	k ɑ s ʋ ɑ t t ɑ ɑ
+leiten::V	johtaa	j y x t æ i	j ɔ x t ɑ ɑ
+antreiben::V	hoputtaa	h ɔ p ɥ t t œ u	h ɔ p ʊ t t ɑ ɑ
+lassen::V	antaa	æ n t y ʏ	ɑ n t ɑ ɑ
+einladen::V	kutsua	k ʏ t͡s w ɑ	k ʊ t͡s ʊ ɑ
+vereinigen::V	yhdistää	ɑ x d ɔ s t o ɥ	ʏ x d i s t æ æ
+besuchen::V	vierailla	ɑ i y r ɔ ɥ l l ɑ	ʋ i ɛ r ɑ i l l ɑ
+treffen::V	tavata	t u æ ʊ t ɑ	t ɑ ʋ ɑ t ɑ
+sich versammeln::V	kokoontua	k ɔ k o o n t œ i	k ɔ k o o n t ʊ ɑ
+spielen::V	pelata	p y l œ t ʋ	p ɛ l ɑ t ɑ
+spielen::V	leikkiä	l u w k k ɔ œ	l ɛ i k k i æ
+singen::V	laulaa	l w ʊ l o u	l ɑ w l ɑ ɑ
+tanzen::V	tanssia	t ɔ n s s ɛ o	t ɑ n s s i ɑ
+sich trennen::V	erota	u r œ t ʋ	ɛ r ɔ t ɑ
+verlassen::V	jättää	j æ t t u ɔ	j æ t t æ æ
+retten::V	pelastaa	p ʏ l w s t ʊ w	p ɛ l ɑ s t ɑ ɑ
+bewachen::V	vartioida	u i r t ɑ w ʋ d y	ʋ ɑ r t i ɔ i d ɑ
+schützen::V	suojella	s ʊ w j æ l l w	s u ɔ j ɛ l l ɑ
+verteidigen::V	puolustaa	p ʏ œ l ɥ s t ɔ ɥ	p u ɔ l ʊ s t ɑ ɑ
+sich schlagen::V	tapella	t ʏ p i l l ʏ	t ɑ p ɛ l l ɑ
+schießen::V	ampua	ɥ m p ɥ æ	ɑ m p ʊ ɑ
+siegen::V	voittaa	y ɔ ɛ t t ʋ ʊ	ʋ ɔ i t t ɑ ɑ
+ärgern::V	ärsyttää	y r s ɔ t t o æ	æ r s ʏ t t æ æ
+schlagen::V	lyödä	l ʊ ʏ d ʊ	l y œ d æ
+treten::V	potkaista	p w t k ʊ ʏ s t æ	p ɔ t k ɑ i s t ɑ
+stechen::V	pistää	p o s t u æ	p i s t æ æ
+stoßen::V	sysätä	s o s œ t æ	s ʏ s æ t æ
+stoßen::V	työntää	t œ ɑ n t w y	t y œ n t æ æ
+stehlen::V	varastaa	ʊ ɥ r o s t ʊ i	ʋ ɑ r ɑ s t ɑ ɑ
+stören::V	häiritä	h ɔ u r ʏ t ʊ	h æ i r i t æ
+belästigen::V	häiritä	h i ɔ r ɑ t ɑ	h æ i r i t æ
+verbergen::V	kätkeä	k ʊ t k ɛ ʋ	k æ t k ɛ æ
+täuschen::V	harhauttaa	h y r h u ɥ t t u æ	h ɑ r h ɑ w t t ɑ ɑ
+betrügen::V	pettää	p œ t t ɑ y	p ɛ t t æ æ
+betrügen::V	petkuttaa	p æ t k i t t ʋ œ	p ɛ t k ʊ t t ɑ ɑ
+töten::V	tappaa	t œ p p æ ɛ	t ɑ p p ɑ ɑ
+wohnen::V	asua	œ s ɥ w	ɑ s ʊ ɑ
+arbeiten::V	tehdä työtä	t ɑ x d ʋ _ t œ ɔ t æ	t ɛ x d æ _ t y œ t æ
+arbeiten::V	työskennellä	t æ w s k ɑ n n æ l l œ	t y œ s k ɛ n n ɛ l l æ
+sammeln::V	koota	k œ œ t ɛ	k o o t ɑ
+sammeln::V	kerätä	k ɛ r œ t i	k ɛ r æ t æ
+pflücken::V	poimia	p w i m ʋ æ	p ɔ i m i ɑ
+jagen::V	metsästää	m i t͡s i s t ɑ y	m ɛ t͡s æ s t æ æ
+fischen::V	kalastaa	k y l o s t œ w	k ɑ l ɑ s t ɑ ɑ
+fassen::V	pyydystää	p i œ d ɑ s t æ ʏ	p y y d ʏ s t æ æ
+fassen::V	saalistaa	s o u l o s t y ɔ	s ɑ ɑ l i s t ɑ ɑ
+hüten::V	paimentaa	p i y m w n t ʊ ʏ	p ɑ i m ɛ n t ɑ ɑ
+treiben::V	ajaa	i j ɑ ɛ	ɑ j ɑ ɑ
+anbinden::V	kytkeä	k ɥ t k ɑ ʊ	k ʏ t k ɛ æ
+füttern::V	ruokkia	r ʊ ɔ k k y æ	r u ɔ k k i ɑ
+melken::V	lypsää	l ɛ p s o u	l ʏ p s æ æ
+hacken::V	hakata	h i k u t ʏ	h ɑ k ɑ t ɑ
+gießen::V	kastella	k o s t o l l u	k ɑ s t ɛ l l ɑ
+reifen::V	kypsyä	k u p s w ʊ	k ʏ p s ʏ æ
+zubereiten::V	valmistaa	ʏ ɔ l m u s t ɛ ʋ	ʋ ɑ l m i s t ɑ ɑ
+kochen::V	keittää	k æ œ t t o i	k ɛ i t t æ æ
+backen::V	leipoa	l o ɛ p ɥ y	l ɛ i p ɔ ɑ
+braten::V	paistaa	p i ɥ s t o ɔ	p ɑ i s t ɑ ɑ
+umrühren::V	hämmentää	h œ m m ɑ n t ɑ y	h æ m m ɛ n t æ æ
+stricken::V	kutoa	k ɥ t y œ	k ʊ t ɔ ɑ
+stricken::V	neuloa	n ʊ y l œ o	n ɛ ʊ l ɔ ɑ
+nähen::V	ommella	ɑ m m œ l l w	ɔ m m ɛ l l ɑ
+färben::V	värjätä	ʊ o r j w t œ	ʋ æ r j æ t æ
+färben::V	värittää	ɥ w r u t t ɔ i	ʋ æ r i t t æ æ
+reinigen::V	puhdistaa	p ɑ x d œ s t œ ɛ	p ʊ x d i s t ɑ ɑ
+waschen::V	pestä	p y s t ʊ	p ɛ s t æ
+abwischen::V	pyyhkiä	p i æ x k ɛ ɔ	p y y x k i æ
+spülen::V	huuhtoa	h æ ʊ x t ɛ ʊ	h u u x t ɔ ɑ
+fegen::V	pyyhkäistä	p œ æ x k i ʊ s t ɛ	p y y x k æ i s t æ
+kehren::V	lakaista	l ɔ k w i s t ɑ	l ɑ k ɑ i s t ɑ
+baden::V	kylpeä	k u l p ʊ ʊ	k ʏ l p ɛ æ
+sich waschen::V	peseytyä	p y s ɔ ʋ t ɑ ʋ	p ɛ s ɛ ɥ t ʏ æ
+ausziehen::V	riisua	r ʊ œ s y æ	r i i s ʊ ɑ
+anziehen::V	pukea ylleen	p u k æ y _ ʏ l l y ɑ n	p ʊ k ɛ ɑ _ ʏ l l ɛ ɛ n
+sich anziehen::V	pukeutua	p i k ɥ u t œ œ	p ʊ k ɛ ʊ t ʊ ɑ
+kämmen::V	kammata	k w m m ɥ t ʏ	k ɑ m m ɑ t ɑ
+schmücken::V	koristaa	k w r ɔ s t w ɑ	k ɔ r i s t ɑ ɑ
+schmücken::V	kaunistaa	k w ɑ n u s t æ y	k ɑ w n i s t ɑ ɑ
+sagen::V	sanoa	s ʏ n ɥ ɛ	s ɑ n ɔ ɑ
+sprechen::V	puhua	p ʏ h œ œ	p ʊ h ʊ ɑ
+reden::V	keskustella	k ʋ s k ɔ s t ʊ l l æ	k ɛ s k ʊ s t ɛ l l ɑ
+sich unterhalten::V	jutella	j ʊ t œ l l œ	j ʊ t ɛ l l ɑ
+fragen::V	kysyä	k ʊ s w ɛ	k ʏ s ʏ æ
+bitten::V	pyytää	p i ʋ t œ i	p y y t æ æ
+erzählen::V	kertoa	k i r t w æ	k ɛ r t ɔ ɑ
+mitteilen::V	ilmoittaa	i l m i ɑ t t u ɥ	i l m ɔ i t t ɑ ɑ
+nennen::V	kutsua	k æ t͡s i o	k ʊ t͡s ʊ ɑ
+nennen::V	nimittää	n ɔ m ʏ t t ʊ i	n i m i t t æ æ
+rufen::V	kutsua	k ɔ t͡s w o	k ʊ t͡s ʊ ɑ
+prahlen::V	kerskailla	k œ r s k o ʋ l l ɥ	k ɛ r s k ɑ i l l ɑ
+übersetzen::V	kääntää	k ʊ æ n t ʊ ɛ	k æ æ n t æ æ
+denken::V	miettiä	m ʊ ɑ t t i o	m i ɛ t t i æ
+denken::V	ajatella	u j ɔ t ʏ l l w	ɑ j ɑ t ɛ l l ɑ
+glauben::V	uskoa	ɑ s k æ œ	ʊ s k ɔ ɑ
+bemerken::V	huomata	h ʋ ɥ m i t y	h u ɔ m ɑ t ɑ
+erkennen::V	tunnistaa	t ɥ n n ʊ s t w ʋ	t ʊ n n i s t ɑ ɑ
+begreifen::V	ymmärtää	œ m m æ r t i æ	ʏ m m æ r t æ æ
+verstehen::V	ymmärtää	o m m ɔ r t u ɔ	ʏ m m æ r t æ æ
+lernen::V	oppia	ʋ p p o i	ɔ p p i ɑ
+wissen::V	tietää	t ʏ ʊ t y ɔ	t i ɛ t æ æ
+sich erinnern an::V	muistaa	m ʏ ʊ s t ɥ ɔ	m u i s t ɑ ɑ
+vergessen::V	unohtaa	w n ɥ x t o ɥ	ʊ n ɔ x t ɑ ɑ
+messen::V	mitata	m ʊ t œ t w	m i t ɑ t ɑ
+zählen::V	laskea	l w s k ɥ ɔ	l ɑ s k ɛ ɑ
+rechnen::V	laskea	l ɥ s k ɑ ʋ	l ɑ s k ɛ ɑ
+lesen::V	lukea	l ɥ k ʋ ʋ	l ʊ k ɛ ɑ
+malen::V	maalata	m o ɛ l ɔ t æ	m ɑ ɑ l ɑ t ɑ
+zeichnen::V	piirtää	p o ʊ r t ʋ ʏ	p i i r t æ æ
+zeichnen::V	piirustaa	p ɛ o r ɑ s t ʏ ɛ	p i i r ʊ s t ɑ ɑ
+schreiben::V	kirjoittaa	k y r j ʋ ɛ t t ɔ ɛ	k i r j ɔ i t t ɑ ɑ
+besitzen::V	omistaa	ʊ m ʊ s t ʋ o	ɔ m i s t ɑ ɑ
+kaufen::V	ostaa	w s t ʋ u	ɔ s t ɑ ɑ
+verkaufen::V	myydä	m ʊ ɥ d o	m y y d æ
+bezahlen::V	maksaa	m i k s ʊ i	m ɑ k s ɑ ɑ
+zahlen::V	maksaa	m ɛ k s w ɑ	m ɑ k s ɑ ɑ
+beherrschen::V	hallita	h æ l l w t ʊ	h ɑ l l i t ɑ
+ertragen::V	kestää	k y s t ɛ ɛ	k ɛ s t æ æ

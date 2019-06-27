@@ -1,0 +1,1286 @@
+Auge::N	нүд	n u t	n u t
+Ohr::N	чих	t͡ʃ ʰʲ i x	t͡ʃ ʰʲ i x
+Nase::N	хамар	x o m a r	x a m a r
+Mund::N	ам	ʊ m	a m
+Zahn::N	шүд	ʃ a t	ʃ u t
+Zunge::N	хэл	x w ɮ	x e ɮ
+Lippe::N	уруул	ʊ r o ɮ	ʊ r ʊ ɮ
+Wange::N	хацар	x i t͡s ʰ i r	x a t͡s ʰ a r
+Gesicht::N	царай	t͡s ʰ i r ɔ iʲ	t͡s ʰ a r a i
+Gesicht::N	нүүр	n iʲ i r	n u u r
+Stirn::N	дух	t ʊ x	t ʊ x
+Haar::N	үс	u s	u s
+Schnurrbart::N	дээд сахал	t o iʲ t _ s o x e ɮ	t e e t _ s a x a ɮ
+Schnurrbart::N	живэр сахал	t͡ʃ ʲ u w ɔ r _ s a x w ɮ	t͡ʃ ʲ i w e r _ s a x a ɮ
+Bart::N	сахал	s ɵ x ʊ ɮ	s a x a ɮ
+Kinn::N	эрүү	ʊ r w	e r u
+Kiefer[Anatomie]::N	эрүү	e r e	e r u
+Kehle::N	хоолой	x ɔ ɵ ɮ ɵ iʲ	x ɔ ɔ ɮ ɔ i
+Hals::N	хүзүү	x ɵ t͡s iʲ	x u t͡s u
+Genick::N	шил	ʃʲ a ɮ	ʃʲ i ɮ
+Genick::N	хүзүү	x i t͡s u	x u t͡s u
+Kopf::N	толгой	tʰ e ɮ ɢ ʊ u	tʰ ɔ ɮ ɢ ɔ i
+Rücken::N	ар	a r	a r
+Rücken::N	нуруу	n o r ɔ	n ʊ r ʊ
+Bauch::N	хэвлий	x ɵ u ɮʲ u	x e w ɮʲ i
+Bauch::N	гэдэс	ɡ a t i s	ɡ e t e s
+Nabel::N	хүйс	x w ɵ i s	x u u i s
+Busen::N	хөх	x ɔ x	x ɵ x
+Brust::N	цээж	t͡s ʰ ʊ ɵ t͡ʃ	t͡s ʰ e e t͡ʃ
+Schulter::N	мөр	m u r	m ɵ r
+Schulter::N	бугалга	p u ɢ iʲ ɮ ɢ o	p ʊ ɢ a ɮ ɢ a
+Arm::N	гар	ɢ i r	ɢ a r
+Ellenbogen::N	тохой	tʰ o x ɔ ʊ	tʰ ɔ x ɔ i
+Hand::N	гар	ɢ e r	ɢ a r
+Hand::N	алга	e ɮ ɢ a	a ɮ ɢ a
+Handfläche::N	алга	u ɮ ɢ iʲ	a ɮ ɢ a
+Finger::N	хуруу	x u r w	x ʊ r ʊ
+Fingernagel::N	хурууны хумс	x o r i n w _ x ɵ m s	x ʊ r ʊ n i _ x ʊ m s
+Nagel[Anatomie]::N	хумс	x o m s	x ʊ m s
+Zeh::N	хуруу	x u r ɔ	x ʊ r ʊ
+Fuß::N	хөл	x ɵ ɮ	x ɵ ɮ
+Ferse::N	өсгий	e s ɡʲ ɔ	ɵ s ɡʲ i
+Knie::N	өвдөг	o o t ɵ ɡ	ɵ w t ɵ ɡ
+Oberschenkel::N	гуя	ɢ w j w	ɢ ʊ j a
+Bein::N	хөл	x e ɮ	x ɵ ɮ
+Körper::N	бие	pʲ ɵʲ a	pʲ iʲ i
+Haut::N	арьс	ʊ rʲ s	a rʲ s
+Blut::N	цус	t͡s ʰ o s	t͡s ʰ ʊ s
+Ader::N	судас	s iʲ t o s	s ʊ t a s
+Sehne::N	бүлх	p w ɮ x	p u ɮ x
+Sehne::N	шандас	ʃ o n t w s	ʃ a n t a s
+Knochen::N	яс	j i s	j a s
+Gehirn::N	тархи	tʰ e r xʲ ɵ	tʰ a r xʲ i
+Herz::N	зүрх	t͡s w r x	t͡s u r x
+Magen::N	ходоод	x ɔ t u t	x ɔ t ɔ t
+Leber::N	элэг	u ɮ ɵ ɡ	e ɮ e ɡ
+Atem::N	амьсгаа	ɵ mʲ s ɢ ʊ	a mʲ s ɢ a
+Hunger::N	өлсгөлөн	ʊ ɮ s ɡ o ɮ e n	ɵ ɮ s ɡ ɵ ɮ ɵ n
+Träne::N	нулимс	n a ɮʲ iʲ m s	n ʊ ɮʲ i m s
+Geschmack::N	амт	a m tʰ	a m tʰ
+Geruch::N	үнэр	u n iʲ r	u n e r
+Schlaf::N	нойр	n w w w r	n ɔ ɔ i r
+Traum::N	зүүд	t͡s ɵ o t	t͡s u u t
+Himmel::N	тэнгэр	tʰ a n ɡ w r	tʰ e n ɡ e r
+Himmel::N	огторгуй	u ɢ tʰ u r ɢ o ɵ	ɔ ɢ tʰ ɔ r ɢ ʊ i
+Sonne::N	нар	n iʲ r	n a r
+Mond::N	сар	s iʲ r	s a r
+Stern::N	од	e t	ɔ t
+Luft::N	агаар	ʊ ɢ e r	a ɢ a r
+Wind::N	салхи	s i ɮ xʲ ɵ	s a ɮ xʲ i
+Welle::N	долгио	t i ɮ ɡʲ e ʊ	t ɔ ɮ ɡʲ i ɔ
+Welle::N	давалгаа	t ʊ ɵ iʲ ɮ ɢ w	t a w a ɮ ɢ a
+Wasser::N	ус	ʊ s	ʊ s
+Stein::N	чулуу	t͡ʃ ʰ ɔ ɮ ɵ	t͡ʃ ʰ ʊ ɮ ʊ
+Boden::N	хөрс	x ɔ r s	x ɵ r s
+Erde::N	газар	ɢ o t͡s ʊ r	ɢ a t͡s a r
+Erde::N	шороо	ʃ ʊ r o	ʃ ɔ r ɔ
+Staub::N	тоос	tʰ e a s	tʰ ɔ ɔ s
+Rauch::N	утаа	u tʰ ɵ	ʊ tʰ a
+Funke::N	оч	o t͡ʃ ʰ	ɔ t͡ʃ ʰ
+Feuer::N	гал	ɢ iʲ ɮ	ɢ a ɮ
+Licht::N	гэрэл	ɡ ʊ r e ɮ	ɡ e r e ɮ
+Licht::N	гэгээ	ɡ e ɡ ɔ	ɡ e ɡ e
+Schatten::N	сүүдэр	s u ɔ t ɔ r	s u u t e r
+Wetter::N	тэнгэр	tʰ iʲ n ɡ w r	tʰ e n ɡ e r
+Wetter::N	цаг уур	t͡s ʰ i ɢ _ ʊ r	t͡s ʰ a ɢ _ ʊ r
+Nebel::N	будан	p iʲ t i n	p ʊ t a n
+Wolke::N	үүл	e iʲ ɮ	u u ɮ
+Regen::N	бороо	p a r ʊ	p ɔ r ɔ
+Schnee::N	цас	t͡s ʰ u s	t͡s ʰ a s
+Eis::N	мөс	m i s	m ɵ s
+Frost::N	хүйт	x ʊ ɵ w tʰ	x u u i tʰ
+Kälte::N	хүйт	x ɔ ɔ ʊ tʰ	x u u i tʰ
+Hitze::N	халуун	x w ɮ o ŋ	x a ɮ ʊ ŋ
+Raureif::N	цан	t͡s ʰ i n	t͡s ʰ a n
+Raureif::N	хяруу	xʲ ʊ r u	xʲ a r ʊ
+Regenbogen::N	солонго	s w ɮ a n ɢ w	s ɔ ɮ ɔ n ɢ ɔ
+Donner::N	тэнгэрийн дуу	tʰ o n ɡ ʊ rʲ i n _ t a	tʰ e n ɡ e rʲ i n _ t ʊ
+Strömung::N	урсгал	iʲ r s ɢ ɵ ɮ	ʊ r s ɢ a ɮ
+Tropfen::N	дусал	t iʲ s o ɮ	t ʊ s a ɮ
+Schaum::N	хөөс	x o e s	x o o s
+Schmutz::N	хир	xʲ ɵ r	xʲ i r
+Schmutz::N	шавхай	ʃ u u x iʲ o	ʃ a w x a i
+See::N	нуур	n iʲ iʲ r	n ʊ ʊ r
+Sumpf::N	намаг	n o m e ɢ	n a m a ɢ
+Sumpf::N	балчиг	p u ɮ t͡ʃ ʰʲ u ɡ	p a ɮ t͡ʃ ʰʲ i ɡ
+Moor::N	хүлрийн намаг	x ɵ ɮ rʲ ɵ n _ n a m i ɢ	x u ɮ rʲ i n _ n a m a ɢ
+Wiese::N	нуга	n ɔ ɢ e	n ʊ ɢ a
+Wald::N	ой	e ɔ ɔ	ɔ ɔ i
+Hügel::N	болдог	p ʊ ɮ t u ɢ	p ɔ ɮ t ɔ ɢ
+Anhöhe::N	гүвээ	ɡ ʊ iʲ ɵ	ɡ u w e
+Berg::N	уул	i w ɮ	ʊ ʊ ɮ
+Gipfel::N	орой	a r a ɔ	ɔ r ɔ i
+Gipfel::N	оргил	w r ɡʲ u ɮ	ɔ r ɡʲ i ɮ
+Höhle::N	агуй	ɔ ɢ iʲ w	a ɢ ʊ i
+Abhang::N	хүр	x i r	x u r
+Quelle::N	булаг	p o ɮ ɔ ɢ	p ʊ ɮ a ɢ
+Bach::N	горхи	ɢ w r xʲ a	ɢ ɔ r xʲ i
+Fluss::N	гол	ɢ ʊ ɮ	ɢ ɔ ɮ
+Fluss::N	мөрөн	m w r iʲ ŋ	m ɵ r ɵ ŋ
+Ufer::N	эрэг	u r i ɡ	e r e ɡ
+Küste::N	эрэг	a r iʲ ɡ	e r e ɡ
+Festland::N	хуурай газар	x e i r o ɵ _ ɢ ɵ t͡s ɵ r	x ʊ ʊ r a i _ ɢ a t͡s a r
+Meer::N	далай	t u ɮ w ʊ	t a ɮ a i
+Meer::N	тэнгис	tʰ w n ɡʲ o s	tʰ e n ɡʲ i s
+Bucht::N	булан	p u ɮ ɔ n	p ʊ ɮ a n
+Bucht::N	далайн тохой	t w ɮ e e n _ tʰ ʊ x ɵ u	t a ɮ a i n _ tʰ ɔ x ɔ i
+Insel::N	арал	a r ʊ ɮ	a r a ɮ
+Blume::N	цэцэг	t͡s ʰ i t͡s ʰ ʊ ɡ	t͡s ʰ e t͡s ʰ e ɡ
+Gras::N	өвс	w o s	ɵ w s
+Gras::N	ногоо	n i ɢ i	n ɔ ɢ ɔ
+Wurzel::N	үндэс	ɵ n t ɔ s	u n t e s
+Baum::N	мод	m e t	m ɔ t
+Stamm::N	иш	ʲ a ʃ	ʲ i ʃ
+Stamm::N	гуалин	ɢ a i ɮʲ ʊ n	ɢ ʊ a ɮʲ i n
+Rinde::N	холтос	x ɵ ɮ tʰ a s	x ɔ ɮ tʰ ɔ s
+Ast::N	гишүү	ɡʲ ʊ ʃ o	ɡʲ i ʃ u
+Zweig::N	салаа	s ɵ ɮ w	s a ɮ a
+Blatt::N	навч	n e e t͡ʃ ʰ	n a w t͡ʃ ʰ
+Birke::N	хус	x e s	x ʊ s
+Kiefer[Baum]::N	нарс	n a r s	n a r s
+Weide[Baum]::N	уд	ɔ t	ʊ t
+Weide[Baum]::N	бургас	p e r ɢ i s	p ʊ r ɢ a s
+Tanne::N	гачуур	ɢ w t͡ʃ ʰ w r	ɢ a t͡ʃ ʰ ʊ r
+Horn::N	эвэр	e u ɔ r	e w e r
+Feder::N	өд	u t	ɵ t
+Fell::N	арьс	o rʲ s	a rʲ s
+Flügel::N	жигүүр	t͡ʃ ʲ w ɡ ɵ r	t͡ʃ ʲ i ɡ u r
+Flügel::N	далавч	t ɵ ɮ o o t͡ʃ ʰ	t a ɮ a w t͡ʃ ʰ
+Klaue::N	савар	s ɔ ʊ e r	s a w a r
+Klaue::N	хумс	x ɔ m s	x ʊ m s
+Kralle::N	савар	s ʊ o u r	s a w a r
+Schwanz::N	сүүл	s ɵ w ɮ	s u u ɮ
+Ei::N	өндөг	u n t u ɡ	ɵ n t ɵ ɡ
+Nest::N	үүр	i o r	u u r
+Bau::N	нүх	n ɵ x	n u x
+Bau::N	элүү	a ɮ e	e ɮ u
+Tier::N	амьтан	ɔ mʲ tʰ ʊ ŋ	a mʲ tʰ a ŋ
+Tier::N	адгуус	iʲ t ɢ w s	a t ɢ ʊ s
+Herde::N	сүрэг	s ɵ r i ɡ	s u r e ɡ
+Kuh::N	үнээ	iʲ n ɔ	u n e
+Bulle::N	бух	p w x	p ʊ x
+Pferd::N	морь	m o rʲ	m ɔ rʲ
+Pferd::N	адуу	iʲ t ɔ	a t ʊ
+Schaf::N	хонь	x iʲ nʲ	x ɔ nʲ
+Schwein::N	гахай	ɢ ʊ x a ʊ	ɢ a x a i
+Hund::N	нохой	n ɔ x i w	n ɔ x ɔ i
+Katze::N	муур	m e ɵ r	m ʊ ʊ r
+Katze::N	мигуй	mʲ o ɢ i ɔ	mʲ i ɢ ʊ i
+Bär::N	баавгай	p i ɵ o ɢ u e	p a a w ɢ a i
+Eichhörnchen::N	хэрэм	x ɵ r i m	x e r e m
+Elch::N	хандгай	x ɔ n t ɢ ɵ i	x a n t ɢ a i
+Fuchs::N	үнэг	o n ʊ ɡ	u n e ɡ
+Hase::N	туулай	tʰ u w ɮ iʲ o	tʰ ʊ ʊ ɮ a i
+Maus::N	хулгана	x iʲ ɮ ɢ ʊ n ɵ	x ʊ ɮ ɢ a n a
+Wolf::N	чоно	t͡ʃ ʰ e n i	t͡ʃ ʰ ɔ n ɔ
+Vogel::N	шувуу	ʃ o w ɔ	ʃ ʊ w ʊ
+Schwarm::N	сүрэг	s e r a ɡ	s u r e ɡ
+Huhn::N	тахиа	tʰ u xʲ i w	tʰ a xʲ i a
+Hahn::N	эр тахиа	o r _ tʰ u xʲ ɵ iʲ	e r _ tʰ a xʲ i a
+Gans::N	галуу	ɢ ɵ ɮ ɔ	ɢ a ɮ ʊ
+Adler::N	бүргэд	p a r ɡ ɔ t	p u r ɡ e t
+Ente::N	нугас	n o ɢ w s	n ʊ ɢ a s
+Eule::N	ууль	u e ɮʲ	ʊ ʊ ɮʲ
+Kranich::N	тогоруу	tʰ ɔ ɢ e r a	tʰ ɔ ɢ ɔ r ʊ
+Krähe::N	хэрээ	x a r i	x e r e
+Kuckuck::N	хөхөө	x w x e	x ɵ x o
+Schwan::N	хун	x u n	x ʊ n
+Fisch::N	загас	t͡s ʊ ɢ i s	t͡s a ɢ a s
+Barsch::N	алгана	i ɮ ɢ w n i	a ɮ ɢ a n a
+Hecht::N	цурхай	t͡s ʰ ʊ r x iʲ iʲ	t͡s ʰ ʊ r x a i
+Schlange[Tier]::N	могой	m iʲ ɢ ɵ ɵ	m ɔ ɢ ɔ i
+Wurm::N	өт	u tʰ	ɵ tʰ
+Wurm::N	хорхой	x e r x ʊ o	x ɔ r x ɔ i
+Spinne::N	аалз	iʲ w ɮ t͡s	a a ɮ t͡s
+Ameise::N	шоргоолж	ʃ o r ɢ ɔ ɮ t͡ʃ	ʃ ɔ r ɢ ɔ ɮ t͡ʃ
+Laus::N	бөөс	p w ɵ s	p o o s
+Mücke::N	шумуул	ʃ ʊ m w ɮ	ʃ ʊ m ʊ ɮ
+Fliege::N	ялаа	j ɵ ɮ iʲ	j a ɮ a
+Schmetterling::N	эрвээхэй	ʊ r u i x ɔ j	e r w e x e j
+Beere::N	жимсгэнэ	t͡ʃ ʲ a m s ɡ w n ɔ	t͡ʃ ʲ i m s ɡ e n e
+Apfel::N	алим	a ɮʲ u m	a ɮʲ i m
+Pilz::N	мөөг	m iʲ e ɡ	m o o ɡ
+Zwiebel::N	сонгино	s ʊ n ɡʲ w n w	s ɔ n ɡʲ i n ɔ
+Saat::N	тариа	tʰ e rʲ o o	tʰ a rʲ i a
+Korn::N	үр	iʲ r	u r
+Korn::N	мөхлөг	m w x ɮ o ɡ	m ɵ x ɮ ɵ ɡ
+Heu::N	өвс	w ɵ s	ɵ w s
+Schale::N	хальс	x u ɮʲ s	x a ɮʲ s
+Grube::N	алам	ɵ ɮ w m	a ɮ a m
+Grube::N	нүх	n e x	n u x
+Falle::N	хавх	x a ɔ x	x a w x
+Falle::N	занга	t͡s ʊ n ɢ a	t͡s a n ɢ a
+Schlinge::N	урхи	ɔ r xʲ ɔ	ʊ r xʲ i
+Spur::N	мөр	m e r	m ɵ r
+Asche::N	үнс	u n s	u n s
+Dreck::N	хир	xʲ i r	xʲ i r
+Eisen::N	төмөр	tʰ u m ɔ r	tʰ ɵ m ɵ r
+Gold::N	алт	a ɮ tʰ	a ɮ tʰ
+Silber::N	мөнгө	m ɔ n ɡ iʲ	m ɵ n ɡ ɵ
+Kohle::N	нүүрс	n ʊ u r s	n u u r s
+Glas::N	шил	ʃʲ ɵ ɮ	ʃʲ i ɮ
+Lehm::N	шавар	ʃ iʲ ʊ ɔ r	ʃ a w a r
+Sand::N	элс	i ɮ s	e ɮ s
+Mensch::N	хүн	x w ŋ	x u ŋ
+Mann::N	эр	w r	e r
+Mann::N	эрэгтэй	e r ɵ ɡ tʰ o j	e r e ɡ tʰ e j
+Frau::N	эмэгтэй	i m ɔ ɡ tʰ w j	e m e ɡ tʰ e j
+Frau::N	хатагтай	x a tʰ ɵ ɢ tʰ ʊ a	x a tʰ a ɢ tʰ a i
+Kind::N	хүүхэд	x o a x w t	x u u x e t
+Junge::N	хүү	x u o	x u u
+Mädchen::N	охин	o xʲ ʊ ŋ	ɔ xʲ i ŋ
+Mädchen::N	бүсгүй	p iʲ s ɡ iʲ u	p u s ɡ u i
+Familie::N	айл	ʊ ʊ e ɮ	a a i ɮ
+Großvater::N	өвгөн аав	a ɵ ɡ ʊ n _ a u	ɵ w ɡ ɵ n _ a w
+Großmutter::N	эмэг эх	o m u ɡ _ w x	e m e ɡ _ e x
+Großmutter::N	эмгээ	ɔ m ɡ ɵ	e m ɡ e
+Eltern::N	эцэг эх	ɔ t͡s ʰ iʲ ɡ _ w x	e t͡s ʰ e ɡ _ e x
+Vater::N	аав	u ɔ ɔ	a a w
+Vater::N	эцэг	u t͡s ʰ iʲ ɡ	e t͡s ʰ e ɡ
+Mutter::N	эх	i x	e x
+Mutter::N	ээж	o i t͡ʃ	e e t͡ʃ
+Sohn::N	хүү	x o iʲ	x u u
+Tochter::N	охин	ɵ xʲ iʲ ŋ	ɔ xʲ i ŋ
+Bruder::N	ах	a x	a x
+Bruder::N	дүү	t e u	t u u
+Schwester::N	эгч	w ɡ t͡ʃ ʰ	e ɡ t͡ʃ ʰ
+Schwester::N	охин дүү	w xʲ ʊ n _ t ɵ	ɔ xʲ i n _ t u
+Onkel::N	авга ах	a ɔ ɢ i _ u x	a w ɢ a _ a x
+Onkel::N	нагац ах	n e ɢ o t͡s ʰ _ e x	n a ɢ a t͡s ʰ _ a x
+Tante::N	авга эгч	ʊ ɵ ɢ u _ iʲ ɡ t͡ʃ ʰ	a w ɢ a _ e ɡ t͡ʃ ʰ
+Tante::N	нагац эгч	n i ɢ ʊ t͡s ʰ _ i ɡ t͡ʃ ʰ	n a ɢ a t͡s ʰ _ e ɡ t͡ʃ ʰ
+Ehemann::N	нөхөр	n a x ɵ r	n ɵ x ɵ r
+Ehefrau::N	эхнэр	ɵ x n ʊ r	e x n e r
+Ehefrau::N	гэргий	ɡ iʲ r ɡʲ a	ɡ e r ɡʲ i
+Freude::N	баяр	p w j w r	p a j a r
+Freude::N	баясгалан	p ɔ j o s ɢ i ɮ e n	p a j a s ɢ a ɮ a n
+Gelächter::N	инээдэм	ʲ a n ʊ t o m	ʲ i n e t e m
+Glück::N	жаргалан	t͡ʃ o r ɢ w ɮ a n	t͡ʃ a r ɢ a ɮ a n
+Kummer::N	гаслан	ɢ iʲ s ɮ iʲ n	ɢ a s ɮ a n
+Wunsch::N	ерөөл	j u u r ʊ ɮ	j i i r o ɮ
+Lust::N	дур	t e r	t ʊ r
+Lust::N	хүсэл	x i s w ɮ	x u s e ɮ
+Geist::N	оюун	i j ɵ ŋ	ɔ j ʊ ŋ
+Gedanke::N	сэтгэл	s i tʰ ɡ ɔ ɮ	s e tʰ ɡ e ɮ
+Gedächtnis::N	ой	ɵ ɵ ɵ	ɔ ɔ i
+Gedächtnis::N	цээж	t͡s ʰ o i t͡ʃ	t͡s ʰ e e t͡ʃ
+Verstand::N	ухаан	ɵ x w ŋ	ʊ x a ŋ
+Sinn::N	утга	o tʰ ɢ a	ʊ tʰ ɢ a
+Grund::N	учир	iʲ t͡ʃ ʰʲ ʊ r	ʊ t͡ʃ ʰʲ i r
+Wahrheit::N	үнэн	ɵ n ɵ ŋ	u n e ŋ
+Gespräch::N	яриа	j o rʲ e ɔ	j a rʲ i a
+Märchen::N	явган үлгэр	j e ɔ ɢ ɔ n _ iʲ ɮ ɡ ɔ r	j a w ɢ a n _ u ɮ ɡ e r
+Erzählung::N	тууж	tʰ u iʲ t͡ʃ	tʰ ʊ ʊ t͡ʃ
+Nachricht::N	мэдээ	m a t i	m e t e
+Neuigkeit::N	сонин	s w nʲ i ŋ	s ɔ nʲ i ŋ
+Name::N	нэр	n i r	n e r
+Rätsel::N	оньсого	ɔ nʲ s ɔ ɢ ɵ	ɔ nʲ s ɔ ɢ ɔ
+Rede::N	хэлсэн үг	x ʊ ɮ s i n _ i ɡ	x e ɮ s e n _ u ɡ
+Sprache::N	хэл	x ʊ ɮ	x e ɮ
+Stimme::N	дуу	t iʲ a	t ʊ ʊ
+Wort::N	үг	ɵ ɡ	u ɡ
+Zeichen::N	тамга	tʰ u m ɢ iʲ	tʰ a m ɢ a
+Zeichen::N	тэмдэг	tʰ u m t ɔ ɡ	tʰ e m t e ɡ
+Ruf::N	дуудлага	t i ɔ t ɮ i ɢ w	t ʊ ʊ t ɮ a ɢ a
+Lärm::N	шуугиан	ʃ ɔ iʲ ɢʲ ʊ o ŋ	ʃ ʊ ʊ ɢʲ i a ŋ
+Lärm::N	чимээ	t͡ʃ ʰʲ e m a	t͡ʃ ʰʲ i m e
+Laut::N	анир	e nʲ a r	a nʲ i r
+Laut::N	дуу	t ɔ ʊ	t ʊ ʊ
+Ton::N	авиа	i ɵʲ e iʲ	a wʲ i a
+Ton::N	аялгуу	a j e ɮ ɢ u	a j a ɮ ɢ ʊ
+Lied::N	дуу	t ɵ ʊ	t ʊ ʊ
+Ruhe::N	энх	ɵ n x	e n x
+Ruhe::N	тайван	tʰ e ʊ ɵ a ʊ ŋ	tʰ a a i w a ŋ
+Leute::N	хүмүүс	x e m ɵ s	x u m u s
+Volk::N	улс	ɵ ɮ s	ʊ ɮ s
+Arbeit::N	ажил	i t͡ʃ ʲ o ɮ	a t͡ʃ ʲ i ɮ
+Arbeit::N	хөдөлмөр	x o t a ɮ m iʲ r	x ɵ t ɵ ɮ m ɵ r
+Gast::N	зочин	t͡s ɵ t͡ʃ ʰʲ e ŋ	t͡s ɔ t͡ʃ ʰʲ i ŋ
+Gast::N	айлчин	o iʲ iʲ ɮ t͡ʃ ʰʲ i ŋ	a a i ɮ t͡ʃ ʰʲ i ŋ
+Geschenk::N	бэлэг	p ɔ ɮ u ɡ	p e ɮ e ɡ
+Spiel::N	наадам	n ɵ ɔ t u m	n a a t a m
+Spiel::N	тоглоом	tʰ i ɢ ɮ ɵ m	tʰ ɔ ɢ ɮ ɔ m
+Gesellschaft::N	хамт байх	x ɵ m tʰ _ p w o x	x a m tʰ _ p a i x
+Hilfe::N	тусламж	tʰ ɔ s ɮ a m t͡ʃ	tʰ ʊ s ɮ a m t͡ʃ
+Freund::N	найз	n ɔ e o t͡s	n a a i t͡s
+Freund::N	нөхөр	n ʊ x ʊ r	n ɵ x ɵ r
+Kamerad::N	хань	x ʊ nʲ	x a nʲ
+Kamerad::N	нөхөр	n w x ɔ r	n ɵ x ɵ r
+Angelegenheit::N	хэрэг	x i r e ɡ	x e r e ɡ
+Anzahl::N	тоо	tʰ iʲ i	tʰ ɔ ɔ
+Art::N	төрөл	tʰ ɵ r a ɮ	tʰ ɵ r ɵ ɮ
+Art::N	янз	j ɔ n t͡s	j a n t͡s
+Stück::N	хэсэг	x iʲ s iʲ ɡ	x e s e ɡ
+Teil::N	хувь	x iʲ iʲ	x ʊ wʲ
+Teil::N	хэсэг	x e s o ɡ	x e s e ɡ
+Hälfte::N	хагас	x e ɢ e s	x a ɢ a s
+Kreis::N	тойрог	tʰ w u e r iʲ ɢ	tʰ ɔ ɔ i r ɔ ɢ
+Kreis::N	хүрээ	x o r e	x u r e
+Kreuz::N	загалмай	t͡s ɵ ɢ ɵ ɮ m ʊ e	t͡s a ɢ a ɮ m a i
+Linie::N	шугам	ʃ a ɢ iʲ m	ʃ ʊ ɢ a m
+Strich::N	зураас	t͡s ɔ r ʊ s	t͡s ʊ r a s
+Abstand::N	зай	t͡s ɔ w w	t͡s a a i
+Entfernung::N	зай	t͡s u e i	t͡s a a i
+Entfernung::N	хол ойр	x ɔ ɮ _ w ʊ r	x ɔ ɮ _ ɔ i r
+Gegend::N	хавь	x o iʲʲ	x a wʲ
+Gegend::N	газар	ɢ w t͡s e r	ɢ a t͡s a r
+Platz::N	зай	t͡s w i o	t͡s a a i
+Platz::N	завсар	t͡s a iʲ s ɔ r	t͡s a w s a r
+Ort::N	газар	ɢ o t͡s iʲ r	ɢ a t͡s a r
+Ort::N	байр	p a w iʲ r	p a a i r
+Seite::N	тал	tʰ w ɮ	tʰ a ɮ
+Seite::N	этгээд	a tʰ ɡ e t	e tʰ ɡ e t
+Mitte::N	төв	tʰ o ɵ	tʰ ɵ w
+Mitte::N	дунд	t ɔ n t	t ʊ n t
+Gegenstand::N	юм	j u m	j ʊ m
+Sache::N	үйл	ɔ ɔ w ɮ	u u i ɮ
+Sache::N	хэрэг	x u r a ɡ	x e r e ɡ
+Rand::N	зах	t͡s a x	t͡s a x
+Rand::N	хөвөө	x iʲ ɵ e	x ɵ w o
+Kante::N	ирмэг	ʲ i r m i ɡ	ʲ i r m e ɡ
+Ecke::N	өнцөг	o n t͡s ʰ a ɡ	ɵ n t͡s ʰ ɵ ɡ
+Spitze::N	үзүүр	iʲ t͡s iʲ r	u t͡s u r
+Ende::N	зах	t͡s e x	t͡s a x
+Ende::N	үзүүр	ʊ t͡s ɵ r	u t͡s u r
+Loch::N	цоорхой	t͡s ʰ o i r x ɔ u	t͡s ʰ ɔ ɔ r x ɔ i
+Loch::N	онгорхой	e n ɢ a r x i i	ɔ n ɢ ɔ r x ɔ i
+Winkel::N	өнцөг	i n t͡s ʰ ɵ ɡ	ɵ n t͡s ʰ ɵ ɡ
+Muster::N	хээ	x ɵ e	x e e
+Muster::N	угалз	e ɢ i ɮ t͡s	ʊ ɢ a ɮ t͡s
+Größe::N	хэмжээ	x o m t͡ʃ ʊ	x e m t͡ʃ e
+Länge::N	урт	e r tʰ	ʊ r tʰ
+Höhe::N	өндөр	e n t w r	ɵ n t ɵ r
+Gewicht::N	жин	t͡ʃ ʲ e n	t͡ʃ ʲ i n
+Menge::N	тоо	tʰ ɵ u	tʰ ɔ ɔ
+Haufen::N	бөөн	p i e ŋ	p o o ŋ
+Reihe::N	эгнээ	u ɡ n i	e ɡ n e
+Boot::N	завь	t͡s w eʲ	t͡s a wʲ
+Ruder::N	сэлүүр	s a ɮ i r	s e ɮ u r
+Schlitten::N	чарга	t͡ʃ ʰ e r ɢ ɵ	t͡ʃ ʰ a r ɢ a
+Ski::N	цана	t͡s ʰ o n e	t͡s ʰ a n a
+Lagerfeuer::N	түүдэг	tʰ a e t ʊ ɡ	tʰ u u t e ɡ
+Last::N	ачаа	w t͡ʃ ʰ u	a t͡ʃ ʰ a
+Gang::N	явдал	j ɵ ɵ t i ɮ	j a w t a ɮ
+Schritt::N	алхам	a ɮ x ɔ m	a ɮ x a m
+Norden::N	умар	ʊ m a r	ʊ m a r
+Süden::N	урд	w r t	ʊ r t
+Süden::N	өмнө	o m n e	ɵ m n ɵ
+Westen::N	өрнө	a r n i	ɵ r n ɵ
+Westen::N	баруун	p u r ɔ ŋ	p a r ʊ ŋ
+Osten::N	зүүн	t͡s u ɵ ŋ	t͡s u u ŋ
+Osten::N	дорно	t ʊ r n w	t ɔ r n ɔ
+Holz::N	мод	m ɔ t	m ɔ t
+Brett::N	банз	p ɔ n t͡s	p a n t͡s
+Platte::N	хавтан	x a iʲ tʰ ʊ n	x a w tʰ a n
+Stütze::N	тулгуур	tʰ u ɮ ɢ iʲ r	tʰ ʊ ɮ ɢ ʊ r
+Stütze::N	тулга	tʰ e ɮ ɢ i	tʰ ʊ ɮ ɢ a
+Stange::N	сургааг	s w r ɢ e ɡ	s ʊ r ɢ a ɡ
+Stock::N	саваа	s ʊ u o	s a w a
+Stab::N	таяг	tʰ e j ɔ ɢ	tʰ a j a ɢ
+Rohr::N	хоолой	x ɵ ʊ ɮ w i	x ɔ ɔ ɮ ɔ i
+Haus::N	гэр	ɡ u r	ɡ e r
+Haus::N	байшин	p o a ʊ ʃʲ i n	p a a i ʃʲ i n
+Heim::N	гэр	ɡ ʊ r	ɡ e r
+Ofen::N	зуух	t͡s u w x	t͡s ʊ ʊ x
+Ofen::N	пийшин	pʲ i ʃʲ w n	pʲ i ʃʲ i n
+Fußboden::N	шал	ʃ ɔ ɮ	ʃ a ɮ
+Tisch::N	ширээ	ʃʲ w r w	ʃʲ i r e
+Stuhl::N	сандал	s ɵ n t ɔ ɮ	s a n t a ɮ
+Wiege::N	өлгий	ɔ ɮ ɡʲ e	ɵ ɮ ɡʲ i
+Bett::N	ор	ʊ r	ɔ r
+Regal::N	тавиур	tʰ i wʲ a e r	tʰ a wʲ i ʊ r
+Kiste::N	авдар	e e t i r	a w t a r
+Kiste::N	хайрцаг	x u ʊ ʊ r t͡s ʰ i ɢ	x a a i r t͡s ʰ a ɢ
+Fenster::N	гэгээвч	ɡ w ɡ iʲ ʊ t͡ʃ ʰ	ɡ e ɡ e w t͡ʃ ʰ
+Tür::N	үүд	e ʊ t	u u t
+Tür::N	хаалга	x ʊ ɵ ɮ ɢ i	x a a ɮ ɢ a
+Tor::N	хаалга	x i ɔ ɮ ɢ e	x a a ɮ ɢ a
+Zaun::N	хашаа	x ɔ ʃ ɔ	x a ʃ a
+Dach::N	дээвэр	t e i ɵ e r	t e e w e r
+Leiter::N	шат	ʃ ʊ tʰ	ʃ a tʰ
+Besen::N	хамуур	x e m w r	x a m ʊ r
+Besen::N	туужуу	tʰ ʊ a t͡ʃ o	tʰ ʊ ʊ t͡ʃ ʊ
+Spaten::N	хүрз	x ɵ r t͡s	x u r t͡s
+Schaufel::N	хүрз	x a r t͡s	x u r t͡s
+Gabel::N	сэрээ	s ʊ r ɔ	s e r e
+Löffel::N	халбага	x iʲ ɮ p o ɢ w	x a ɮ p a ɢ a
+Messer::N	хутга	x ɵ tʰ ɢ o	x ʊ tʰ ɢ a
+Nagel::N	хадаас	x ɵ t a s	x a t a s
+Netz::N	өөш	w ɔ ʃ	o o ʃ
+Netz::N	тор	tʰ ʊ r	tʰ ɔ r
+Haken::N	гох	ɢ a x	ɢ ɔ x
+Griff::N	иш	ʲ e ʃ	ʲ i ʃ
+Griff::N	сэнж	s a n t͡ʃ	s e n t͡ʃ
+Schloss::N	цуурга	t͡s ʰ iʲ o r ɢ u	t͡s ʰ ʊ ʊ r ɢ a
+Schloss::N	цоож	t͡s ʰ u u t͡ʃ	t͡s ʰ ɔ ɔ t͡ʃ
+Bild::N	зураг	t͡s w r ɔ ɢ	t͡s ʊ r a ɢ
+Figur::N	баримал	p w rʲ w m iʲ ɮ	p a rʲ i m a ɮ
+Puppe::N	хүүхэлдэй	x a w x ɵ ɮ t iʲ j	x u u x e ɮ t e j
+Beutel::N	агсаа	ɔ ɢ s ʊ	a ɢ s a
+Beutel::N	уут	ʊ ɔ tʰ	ʊ ʊ tʰ
+Bündel::N	боодол	p iʲ ɔ t w ɮ	p ɔ ɔ t ɔ ɮ
+Tasche::N	цүнх	t͡s ʰ a n x	t͡s ʰ u n x
+Eimer::N	хөнөг	x ɵ n u ɡ	x ɵ n ɵ ɡ
+Eimer::N	хувин	x w iʲʲ iʲ n	x ʊ wʲ i n
+Deckel::N	таг	tʰ ɔ ɢ	tʰ a ɢ
+Deckel::N	хавхаг	x e i x a ɢ	x a w x a ɢ
+Geschirr::N	сав суулга	s o o _ s ɔ ɮ ɢ o	s a w _ s ʊ ɮ ɢ a
+Sack::N	шуудай	ʃ o o t iʲ ɵ	ʃ ʊ ʊ t a i
+Tasse::N	аяга	ʊ j w ɢ w	a j a ɢ a
+Topf::N	тогоо	tʰ u ɢ u	tʰ ɔ ɢ ɔ
+Kessel::N	тогоо	tʰ ɵ ɢ ʊ	tʰ ɔ ɢ ɔ
+Essen::N	идээ	ʲ i t ɵ	ʲ i t e
+Nahrung::N	хүнс	x w n s	x u n s
+Speise::N	идээ	ʲ iʲ t e	ʲ i t e
+Fleisch::N	мах	m iʲ x	m a x
+Getreide::N	будаа	p i t ɵ	p ʊ t a
+Brei::N	богшмол	p w ɢ ʃ m ɵ ɮ	p ɔ ɢ ʃ m ɔ ɮ
+Brei::N	будаа	p e t ɵ	p ʊ t a
+Brot::N	талх	tʰ u ɮ x	tʰ a ɮ x
+Scheibe::N	зүсэм	t͡s a s ʊ m	t͡s u s e m
+Scheibe::N	хэрчим	x o r t͡ʃ ʰʲ a m	x e r t͡ʃ ʰʲ i m
+Fett::N	өөх	u a x	o o x
+Butter::N	тос	tʰ a s	tʰ ɔ s
+Öl::N	тос	tʰ u s	tʰ ɔ s
+Salz::N	давс	t o i s	t a w s
+Suppe::N	шөл	ʃ iʲ ɮ	ʃ ɵ ɮ
+Honig::N	бал	p u ɮ	p a ɮ
+Milch::N	сүү	s u ɵ	s u u
+Tee::N	цай	t͡s ʰ ɵ e o	t͡s ʰ a a i
+Leder::N	арьс	iʲ rʲ s	a rʲ s
+Leder::N	савхи	s w i xʲ w	s a w xʲ i
+Wolle::N	ноос	n e iʲ s	n ɔ ɔ s
+Wolle::N	унгас	ʊ n ɢ a s	ʊ n ɢ a s
+Stoff::N	бөс	p u s	p ɵ s
+Nadel::N	зүү	t͡s o ɵ	t͡s u u
+Faden::N	боолт	p o ʊ ɮ tʰ	p ɔ ɔ ɮ tʰ
+Faden::N	утас	e tʰ o s	ʊ tʰ a s
+Knopf::N	товч	tʰ ʊ i t͡ʃ ʰ	tʰ ɔ w t͡ʃ ʰ
+Knoten::N	зангилаа	t͡s i n ɡʲ a ɮ u	t͡s a n ɡʲ i ɮ a
+Farbe::N	будаг	p u t o ɢ	p ʊ t a ɢ
+Kleidung::N	хувцас	x i i t͡s ʰ ʊ s	x ʊ w t͡s ʰ a s
+Hemd::N	цамц	t͡s ʰ w m t͡s ʰ	t͡s ʰ a m t͡s ʰ
+Kragen::N	зах заам	t͡s ɔ x _ t͡s ɔ m	t͡s a x _ t͡s a m
+Ärmel::N	ханцуй	x ʊ n t͡s ʰ ʊ ʊ	x a n t͡s ʰ ʊ i
+Hose::N	өмд	u m t	ɵ m t
+Gürtel::N	бүс	p ɔ s	p u s
+Mütze::N	малгай	m ɵ ɮ ɢ ɵ o	m a ɮ ɢ a i
+Mütze::N	бүрх	p ɵ r x	p u r x
+Schuh::N	туфли	tʰ ɵ f ɮʲ ɵ	tʰ ʊ f ɮʲ i
+Stiefel::N	гутал	ɢ o tʰ a ɮ	ɢ ʊ tʰ a ɮ
+Ring::N	бөгж	p ʊ ɡ t͡ʃ	p ɵ ɡ t͡ʃ
+Band::N	тууз	tʰ w a t͡s	tʰ ʊ ʊ t͡s
+Kamm::N	сам	s u m	s a m
+Spiegel::N	толь	tʰ w ɮʲ	tʰ ɔ ɮʲ
+Riemen::N	тасам	tʰ ɵ s u m	tʰ a s a m
+Riemen::N	сур	s o r	s ʊ r
+Schnur::N	татлага	tʰ u tʰ ɮ o ɢ u	tʰ a tʰ ɮ a ɢ a
+Leine::N	оосор	i e s ɵ r	ɔ ɔ s ɔ r
+Decke::N	хөнжил	x iʲ n t͡ʃ ʲ e ɮ	x ɵ n t͡ʃ ʲ i ɮ
+Decke::N	хучлага	x w t͡ʃ ʰ ɮ ɔ ɢ i	x ʊ t͡ʃ ʰ ɮ a ɢ a
+Kissen::N	дэр	t ɵ r	t e r
+Tuch::N	алчуур	iʲ ɮ t͡ʃ ʰ ʊ r	a ɮ t͡ʃ ʰ ʊ r
+Tuch::N	даавуу	t iʲ u e o	t a a w ʊ
+Handtuch::N	алчуур	u ɮ t͡ʃ ʰ iʲ r	a ɮ t͡ʃ ʰ ʊ r
+Kraft::N	чадал	t͡ʃ ʰ e t ɵ ɮ	t͡ʃ ʰ a t a ɮ
+Kraft::N	хүч	x ɔ t͡ʃ ʰ	x u t͡ʃ ʰ
+Stärke::N	эрч	e r t͡ʃ ʰ	e r t͡ʃ ʰ
+Stärke::N	тэнхээ	tʰ iʲ n x ɵ	tʰ e n x e
+Gesundheit::N	бие	pʲ eʲ e	pʲ iʲ i
+Gesundheit::N	эрүүл мэнд	a r ʊ ɮ _ m ɔ n t	e r u ɮ _ m e n t
+Krankheit::N	эмгэг	iʲ m ɡ iʲ ɡ	e m ɡ e ɡ
+Schmerz::N	өвчин	e ʊ t͡ʃ ʰʲ a ŋ	ɵ w t͡ʃ ʰʲ i ŋ
+Wunde::N	шарх	ʃ u r x	ʃ a r x
+Fieber::N	халуун	x ɵ ɮ ʊ ŋ	x a ɮ ʊ ŋ
+Arznei::N	эм	e m	e m
+Brücke::N	гүүр	ɡ w u r	ɡ u u r
+Brunnen::N	худаг	x ɵ t ɵ ɢ	x ʊ t a ɢ
+Weide::N	бэлчээр	p u ɮ t͡ʃ ʰ iʲ r	p e ɮ t͡ʃ ʰ e r
+Pfad::N	жим	t͡ʃ ʲ e m	t͡ʃ ʲ i m
+Pfad::N	зөрөг	t͡s o r iʲ ɡ	t͡s ɵ r ɵ ɡ
+Weg::N	зам	t͡s a m	t͡s a m
+Weg::N	харгуй	x u r ɢ iʲ i	x a r ɢ ʊ i
+Straße::N	зам	t͡s iʲ m	t͡s a m
+Straße::N	харгуй	x e r ɢ ɵ a	x a r ɢ ʊ i
+Dorf::N	тосгон	tʰ o s ɢ ɵ ŋ	tʰ ɔ s ɢ ɔ ŋ
+Dorf::N	гацаа	ɢ a t͡s ʰ ɵ	ɢ a t͡s ʰ a
+Stadt::N	хот	x i tʰ	x ɔ tʰ
+Brief::N	захидал	t͡s o xʲ ɵ t iʲ ɮ	t͡s a xʲ i t a ɮ
+Brief::N	захиа	t͡s u xʲ w ɔ	t͡s a xʲ i a
+Buch::N	ном	n ɵ m	n ɔ m
+Buch::N	бичиг	pʲ i t͡ʃ ʰʲ i ɡ	pʲ i t͡ʃ ʰʲ i ɡ
+Buchstabe::N	үсэг	u s w ɡ	u s e ɡ
+Zeitung::N	сонин	s o nʲ u ŋ	s ɔ nʲ i ŋ
+Leben::N	амь	ɔ mʲ	a mʲ
+Leben::N	амьдрал	a mʲ t r ʊ ɮ	a mʲ t r a ɮ
+Tod::N	үхэл	i x iʲ ɮ	u x e ɮ
+Grab::N	булш	p e ɮ ʃ	p ʊ ɮ ʃ
+Kirche::N	сүм	s ɔ m	s u m
+Sünde::N	нүгэл	n u ɡ ʊ ɮ	n u ɡ e ɮ
+Sünde::N	хилэнц	xʲ o ɮ i n t͡s ʰ	xʲ i ɮ e n t͡s ʰ
+Gott::N	бурхан	p u r x i ŋ	p ʊ r x a ŋ
+Arbeiter::N	ажилчин	iʲ t͡ʃ ʲ ɔ ɮ t͡ʃ ʰʲ a ŋ	a t͡ʃ ʲ i ɮ t͡ʃ ʰʲ i ŋ
+Arbeiter::N	хөдөлмөрчин	x e t o ɮ m ʊ r t͡ʃ ʰʲ e ŋ	x ɵ t ɵ ɮ m ɵ r t͡ʃ ʰʲ i ŋ
+Chef::N	дарга	t w r ɢ w	t a r ɢ a
+Meister::N	дархан	t w r x iʲ ŋ	t a r x a ŋ
+Arzt::N	эмч	iʲ m t͡ʃ ʰ	e m t͡ʃ ʰ
+Lehrer::N	багш	p ʊ ɢ ʃ	p a ɢ ʃ
+Geld::N	цаас	t͡s ʰ a o s	t͡s ʰ a a s
+Geld::N	мөнгө	m a n ɡ w	m ɵ n ɡ ɵ
+Geschäft::N	наймаа	n a u ɔ m e	n a a i m a
+Laden::N	дэлгүүр	t ɔ ɮ ɡ ɵ r	t e ɮ ɡ u r
+Preis::N	үнэ	u n ɔ	u n e
+Ware::N	таваар	tʰ iʲ u iʲ r	tʰ a w a r
+Ware::N	бараа	p w r u	p a r a
+Nutzen::N	ашиг	ɵ ʃʲ ɔ ɡ	a ʃʲ i ɡ
+Reichtum::N	баялаг	p a j a ɮ ɔ ɢ	p a j a ɮ a ɢ
+Welt::N	дэлхий	t o ɮ xʲ i	t e ɮ xʲ i
+Welt::N	орчлон	ʊ r t͡ʃ ʰ ɮ w n	ɔ r t͡ʃ ʰ ɮ ɔ n
+Land::N	улс	a ɮ s	ʊ ɮ s
+Land::N	орон	a r iʲ ŋ	ɔ r ɔ ŋ
+Staat::N	төр	tʰ ɔ r	tʰ ɵ r
+Staat::N	гүрэн	ɡ ʊ r iʲ ŋ	ɡ u r e ŋ
+König::N	ван	ʊ ɵ n	w a n
+Macht::N	засаг	t͡s ɔ s a ɢ	t͡s a s a ɢ
+Grenze::N	хил	xʲ w ɮ	xʲ i ɮ
+Krieg::N	дайн	t ɵ u o ŋ	t a a i ŋ
+Feind::N	дайсан	t i iʲ o s w ŋ	t a a i s a ŋ
+Gewalt::N	хүчирхэх	x iʲ t͡ʃ ʰʲ a r x w x	x u t͡ʃ ʰʲ i r x e x
+Kampf::N	тэмцэл	tʰ i m t͡s ʰ ɔ ɮ	tʰ e m t͡s ʰ e ɮ
+Kampf::N	байлдаан	p ʊ u u ɮ t a ŋ	p a a i ɮ t a ŋ
+Bogen[Waffe]::N	нум	n ʊ m	n ʊ m
+Pfeil::N	годил	ɢ ʊ tʲ ɵ ɮ	ɢ ɔ tʲ i ɮ
+Pfeil::N	сум	s ʊ m	s ʊ m
+Gewehr::N	буу	p ɔ i	p ʊ ʊ
+Fehler::N	эндэл	w n t ɔ ɮ	e n t e ɮ
+Fehler::N	алдаа	ɔ ɮ t ʊ	a ɮ t a
+Lüge::N	худал	x iʲ t i ɮ	x ʊ t a ɮ
+Schaden::N	хор	x e r	x ɔ r
+Schaden::N	хөнөөл	x w n e ɮ	x ɵ n o ɮ
+Unglück::N	гай	ɢ e ɵ	ɢ a i
+Unglück::N	гамшиг	ɢ w m ʃʲ iʲ ɡ	ɢ a m ʃʲ i ɡ
+Schuld::N	гэм	ɡ iʲ m	ɡ e m
+Schuld::N	буруу	p a r e	p ʊ r ʊ
+Alter::N	нас	n o s	n a s
+Schluss::N	эцэс	w t͡s ʰ ɔ s	e t͡s ʰ e s
+Schluss::N	төгсгөл	tʰ w ɡ s ɡ u ɮ	tʰ ɵ ɡ s ɡ ɵ ɮ
+Zeit::N	цаг	t͡s ʰ a ɢ	t͡s ʰ a ɢ
+Tag::N	өдөр	e t iʲ r	ɵ t ɵ r
+Morgen::N	өглөө	a ɡ ɮ i	ɵ ɡ ɮ o
+Mittag::N	үд	iʲ t	u t
+Abend::N	үдэш	ʊ t ɵ ʃ	u t e ʃ
+Nacht::N	шөнө	ʃ e n a	ʃ ɵ n ɵ
+Woche::N	долоо хоног	t ʊ ɮ e _ x u n ʊ ɢ	t ɔ ɮ ɔ _ x ɔ n ɔ ɢ
+Monat::N	сар	s a r	s a r
+Jahr::N	жил	t͡ʃ ʲ ɔ ɮ	t͡ʃ ʲ i ɮ
+Frühling::N	хавар	x w ʊ i r	x a w a r
+Sommer::N	зун	t͡s u ŋ	t͡s ʊ ŋ
+Herbst::N	намар	n i m u r	n a m a r
+Winter::N	өвөл	i ʊ o ɮ	ɵ w ɵ ɮ
+Januar::N	нэгдүгээр сар	n iʲ ɡ t i ɡ e r _ s e r	n e ɡ t u ɡ e r _ s a r
+Februar::N	хоёрдугаар сар	x w j a r t ɔ ɢ w r _ s e r	x ɔ j ɔ r t ʊ ɢ a r _ s a r
+März::N	гуравдугаар сар	ɢ a r i a t o ɢ ɵ r _ s e r	ɢ ʊ r a w t ʊ ɢ a r _ s a r
+April::N	дөрөвдүгээр сар	t u r ɔ iʲ t u ɡ ɵ r _ s ɵ r	t ɵ r ɵ w t u ɡ e r _ s a r
+Mai::N	тавдугаар сар	tʰ w i t ɵ ɢ a r _ s u r	tʰ a w t ʊ ɢ a r _ s a r
+Juni::N	зургаадугаар сар	t͡s w r ɢ i t w ɢ i r _ s ʊ r	t͡s ʊ r ɢ a t ʊ ɢ a r _ s a r
+Juli::N	долдугаар сар	t ɔ ɮ t ɵ ɢ iʲ r _ s e r	t ɔ ɮ t ʊ ɢ a r _ s a r
+August::N	наймдугаар сар	n i ɔ ʊ m t u ɢ w r _ s w r	n a a i m t ʊ ɢ a r _ s a r
+September::N	есдүгээр сар	j ɔ ɔ s t w ɡ ʊ r _ s u r	j i i s t u ɡ e r _ s a r
+Oktober::N	аравдугаар сар	e r iʲ w t o ɢ u r _ s i r	a r a w t ʊ ɢ a r _ s a r
+November::N	арван нэгдүгээр сар	w r iʲ w n _ n ʊ ɡ t ɵ ɡ a r _ s ʊ r	a r w a n _ n e ɡ t u ɡ e r _ s a r
+Dezember::N	арван хоёрдугаар сар	i r ɔ ɔ n _ x ʊ j iʲ r t ɵ ɢ e r _ s o r	a r w a n _ x ɔ j ɔ r t ʊ ɢ a r _ s a r
+Montag::N	даваа	t u i ɵ	t a w a
+Dienstag::N	мягмар	mʲ a ɢ m u r	mʲ a ɢ m a r
+Mittwoch::N	лхагва	ɮ x w ɢ o o	ɮ x a ɢ w a
+Donnerstag::N	пүрэв	p iʲ r ʊ o	p u r e w
+Freitag::N	баасан	p e a s ʊ n	p a a s a n
+Samstag::N	бямба	pʲ w m p w	pʲ a m p a
+Sonntag::N	ням	nʲ a m	nʲ a m
+groß::A	их	ʲ a x	ʲ i x
+groß::A	том	tʰ e m	tʰ ɔ m
+klein::A	бага	p ɵ ɢ e	p a ɢ a
+klein::A	жаахан	t͡ʃ ɔ i x a ŋ	t͡ʃ a a x a ŋ
+lang::A	урт	o r tʰ	ʊ r tʰ
+kurz::A	охор	ɵ x ɔ r	ɔ x ɔ r
+kurz::A	богино	p ɵ ɢʲ o n iʲ	p ɔ ɢʲ i n ɔ
+breit::A	өргөн	w r ɡ i ŋ	ɵ r ɡ ɵ ŋ
+schmal::A	уйтан	u ɵ i tʰ iʲ ŋ	ʊ ʊ i tʰ a ŋ
+schmal::A	нарийн	n a rʲ ʊ ŋ	n a rʲ i ŋ
+dicht::A	нягт	nʲ iʲ ɢ tʰ	nʲ a ɢ tʰ
+dicht::A	чигжүү	t͡ʃ ʰʲ a ɡ t͡ʃ e	t͡ʃ ʰʲ i ɡ t͡ʃ u
+dick[Gegenstand]::A	зузаан	t͡s e t͡s o ŋ	t͡s ʊ t͡s a ŋ
+dünn::A	нимгэн	nʲ e m ɡ e ŋ	nʲ i m ɡ e ŋ
+fein::A	нарийн	n a rʲ w ŋ	n a rʲ i ŋ
+fest::A	бөх	p ɔ x	p ɵ x
+fest::A	хатуу	x i tʰ i	x a tʰ ʊ
+flach::A	хавтгай	x ɵ iʲ tʰ ɢ i w	x a w tʰ ɢ a i
+glatt::A	цагаан	t͡s ʰ ɔ ɢ w ŋ	t͡s ʰ a ɢ a ŋ
+hart::A	хатуу	x u tʰ o	x a tʰ ʊ
+weich::A	зөөлөн	t͡s iʲ e ɮ ʊ ŋ	t͡s o o ɮ ɵ ŋ
+rund::A	дугуй	t ɔ ɢ i u	t ʊ ɢ ʊ i
+rund::A	дугариг	t ʊ ɢ o rʲ e ɡ	t ʊ ɢ a rʲ i ɡ
+spitz::A	шовх	ʃ e iʲ x	ʃ ɔ w x
+spitz::A	шовгор	ʃ ɔ u ɢ ɔ r	ʃ ɔ w ɢ ɔ r
+scharf::A	хурц	x ʊ r t͡s ʰ	x ʊ r t͡s ʰ
+scharf::A	иртэй	ʲ o r tʰ ʊ j	ʲ i r tʰ e j
+stumpf::A	мохоо	m ɔ x w	m ɔ x ɔ
+schwer::A	хүнд	x o n t	x u n t
+schön::A	гуа	ɢ e e	ɢ ʊ a
+schön::A	сайхан	s ʊ i i x iʲ ŋ	s a a i x a ŋ
+heiß::A	халуун	x a ɮ ɵ ŋ	x a ɮ ʊ ŋ
+warm::A	дулаан	t o ɮ i ŋ	t ʊ ɮ a ŋ
+kalt::A	хүйтэн	x a i a tʰ iʲ ŋ	x u u i tʰ e ŋ
+kühl::A	сэрүүн	s ʊ r u ŋ	s e r u ŋ
+frisch::A	эрүүл	a r e ɮ	e r u ɮ
+frisch::A	жихүүн	t͡ʃ ʲ o x ɵ ŋ	t͡ʃ ʲ i x u ŋ
+feucht::A	чийгтэй	t͡ʃ ʰʲ i ɡ tʰ o j	t͡ʃ ʰʲ i ɡ tʰ e j
+nass::A	нойтон	n ɵ w ɵ tʰ w ŋ	n ɔ ɔ i tʰ ɔ ŋ
+trocken::A	хатсан	x ʊ tʰ s a ŋ	x a tʰ s a ŋ
+voll::A	дүүрэн	t i u r i ŋ	t u u r e ŋ
+leer::A	хоосон	x e ɔ s ɔ ŋ	x ɔ ɔ s ɔ ŋ
+offen::A	онгорхой	ʊ n ɢ ɵ r x ʊ w	ɔ n ɢ ɔ r x ɔ i
+geschlossen::A	битүү	pʲ u tʰ ɵ	pʲ i tʰ u
+geschlossen::A	хаалтай	x w i ɮ tʰ a w	x a a ɮ tʰ a i
+sauber::A	цэвэр	t͡s ʰ e ɔ w r	t͡s ʰ e w e r
+sauber::A	хиргүй	xʲ u r ɡ iʲ ʊ	xʲ i r ɡ u i
+schmutzig::A	бохир	p w xʲ e r	p ɔ xʲ i r
+schmutzig::A	хиртэй	xʲ i r tʰ ɵ j	xʲ i r tʰ e j
+roh::A	түүхий	tʰ e o xʲ e	tʰ u u xʲ i
+reif::A	болсон	p ʊ ɮ s u ŋ	p ɔ ɮ s ɔ ŋ
+lecker::A	амттай	ɔ m tʰ tʰ iʲ u	a m tʰ tʰ a i
+süß::A	амттай	ɵ m tʰ tʰ iʲ o	a m tʰ tʰ a i
+süß::A	чихэрлэг	t͡ʃ ʰʲ a x ʊ r ɮ a ɡ	t͡ʃ ʰʲ i x e r ɮ e ɡ
+bitter::A	гашуун	ɢ iʲ ʃ i ŋ	ɢ a ʃ ʊ ŋ
+sauer::A	эсгэлэн	ɔ s ɡ w ɮ u ŋ	e s ɡ e ɮ e ŋ
+hell::A	гэгээн	ɡ o ɡ ɵ ŋ	ɡ e ɡ e ŋ
+hell::A	гэрэлтэй	ɡ ɔ r iʲ ɮ tʰ o j	ɡ e r e ɮ tʰ e j
+dunkel::A	бараан	p ɵ r w ŋ	p a r a ŋ
+dunkel::A	харанхуй	x w r ʊ n x a iʲ	x a r a n x ʊ i
+schwarz::A	хар	x o r	x a r
+weiß::A	цагаан	t͡s ʰ a ɢ ɔ ŋ	t͡s ʰ a ɢ a ŋ
+rot::A	улаан	o ɮ u ŋ	ʊ ɮ a ŋ
+gelb::A	шар	ʃ u r	ʃ a r
+blau::A	хөх	x i x	x ɵ x
+blau::A	цэнхэр	t͡s ʰ u n x ɔ r	t͡s ʰ e n x e r
+grün::A	ногоон	n u ɢ e ŋ	n ɔ ɢ ɔ ŋ
+grau::A	орог	e r i ɢ	ɔ r ɔ ɢ
+grau::A	саарал	s u o r u ɮ	s a a r a ɮ
+bunt::A	эрээн	e r o ŋ	e r e ŋ
+billig::A	хямд	xʲ ʊ m t	xʲ a m t
+teuer::A	үнэтэй	ʊ n u tʰ ɔ j	u n e tʰ e j
+wertvoll::A	үнэт	ɵ n o tʰ	u n e tʰ
+blind::A	сохор	s i x e r	s ɔ x ɔ r
+taub::A	чих хатуу	t͡ʃ ʰʲ e x _ x ɔ tʰ i	t͡ʃ ʰʲ i x _ x a tʰ ʊ
+kräftig::A	чийрэг	t͡ʃ ʰʲ iʲ r u ɡ	t͡ʃ ʰʲ i r e ɡ
+stark::A	хүчтэй	x w t͡ʃ ʰ tʰ w j	x u t͡ʃ ʰ tʰ e j
+stark::A	чадалтай	t͡ʃ ʰ ʊ t ɔ ɮ tʰ ʊ o	t͡ʃ ʰ a t a ɮ tʰ a i
+schwach::A	сул	s ɵ ɮ	s ʊ ɮ
+fett::A	тарган	tʰ a r ɢ u ŋ	tʰ a r ɢ a ŋ
+fett::A	голигор	ɢ iʲ ɮʲ iʲ ɢ o r	ɢ ɔ ɮʲ i ɢ ɔ r
+schlank::A	голшиг	ɢ a ɮ ʃʲ ʊ ɡ	ɢ ɔ ɮ ʃʲ i ɡ
+hübsch::A	сайхан	s o w e x o ŋ	s a a i x a ŋ
+hübsch::A	хөөрхөн	x u u r x iʲ ŋ	x o o r x ɵ ŋ
+böse::A	муу	m ɔ e	m ʊ ʊ
+böse::A	хортой	x w r tʰ ɔ e	x ɔ r tʰ ɔ i
+dumm::A	тэнэг	tʰ u n i ɡ	tʰ e n e ɡ
+faul::A	залхуу	t͡s w ɮ x a	t͡s a ɮ x ʊ
+fleißig::A	чармайлтгай	t͡ʃ ʰ iʲ r m ɔ iʲ ɮ tʰ ɢ u e	t͡ʃ ʰ a r m a i ɮ tʰ ɢ a i
+geizig::A	харамч	x ɵ r e m t͡ʃ ʰ	x a r a m t͡ʃ ʰ
+klug::A	цэцэн	t͡s ʰ o t͡s ʰ u ŋ	t͡s ʰ e t͡s ʰ e ŋ
+geschickt::A	дүйтэй	t ɔ ɔ w tʰ ʊ j	t u u i tʰ e j
+lieb::A	хайрт	x w u iʲ r tʰ	x a a i r tʰ
+lustig::A	цэнгэлтэй	t͡s ʰ o n ɡ u ɮ tʰ e j	t͡s ʰ e n ɡ e ɮ tʰ e j
+sanft::A	наалинхай	n ʊ i ɮʲ u n x iʲ ʊ	n a a ɮʲ i n x a i
+hungrig::A	өлөн	w ɮ e ŋ	ɵ ɮ ɵ ŋ
+hungrig::A	өлссөн	i ɮ s s ɔ ŋ	ɵ ɮ s s ɵ ŋ
+krank::A	өвчтэй	ɔ i t͡ʃ ʰ tʰ a j	ɵ w t͡ʃ ʰ tʰ e j
+nackt::A	нүцгэн	n o t͡s ʰ ɡ o ŋ	n u t͡s ʰ ɡ e ŋ
+traurig::A	гунигт	ɢ u nʲ u ɡ tʰ	ɢ ʊ nʲ i ɡ tʰ
+lebendig::A	амьд	ɵ mʲ t	a mʲ t
+lebendig::A	амьтай	iʲ mʲ tʰ ʊ w	a mʲ tʰ a i
+gut::A	сайн	s ɵ i ɵ ŋ	s a a i ŋ
+schlecht::A	муу	m e iʲ	m ʊ ʊ
+schlecht::A	өөдгүй	u ʊ t ɡ i ɔ	o o t ɡ u i
+richtig::A	зөв	t͡s ʊ ɵ	t͡s ɵ w
+richtig::A	зүйтэй	t͡s ɔ ʊ a tʰ u j	t͡s u u i tʰ e j
+schlimm::A	муухай	m e o x ɵ ɔ	m ʊ ʊ x a i
+wahr::A	үнэн	u n o ŋ	u n e ŋ
+wahr::A	жинхэнэ	t͡ʃ ʲ i n x ʊ n iʲ	t͡ʃ ʲ i n x e n e
+alt::A	хуучин	x u ɵ t͡ʃ ʰʲ ʊ ŋ	x ʊ ʊ t͡ʃ ʰʲ i ŋ
+neu::A	шинэ	ʃʲ e n ɵ	ʃʲ i n e
+ehemalig::A	агсан	o ɢ s a ŋ	a ɢ s a ŋ
+ehemalig::A	байсан	p e o w s u ŋ	p a a i s a ŋ
+alt[Lebewesen]::A	өвгөн	a o ɡ iʲ ŋ	ɵ w ɡ ɵ ŋ
+alt[Lebewesen]::A	хижээл	xʲ ɵ t͡ʃ ɵ ɮ	xʲ i t͡ʃ e ɮ
+jung::A	залуу	t͡s iʲ ɮ ɔ	t͡s a ɮ ʊ
+arm::A	ядуу	j ɔ t ɔ	j a t ʊ
+reich::A	баян	p u j ʊ ŋ	p a j a ŋ
+reich::A	баялаг	p o j u ɮ a ɢ	p a j a ɮ a ɢ
+bekannt::A	танил	tʰ u nʲ i ɮ	tʰ a nʲ i ɮ
+berühmt::A	цуутай	t͡s ʰ iʲ i tʰ w ʊ	t͡s ʰ ʊ ʊ tʰ a i
+berühmt::A	алдартай	u ɮ t i r tʰ ʊ ʊ	a ɮ t a r tʰ a i
+fremd::A	харь	x w rʲ	x a rʲ
+fremd::A	гадаад	ɢ iʲ t ʊ t	ɢ a t a t
+verschieden::A	ондоо	ɵ n t iʲ	ɔ n t ɔ
+verschieden::A	янз янзын	j w n t͡s _ʲ ɔ n t͡s u ŋ	j a n t͡s _ʲ a n t͡s i ŋ
+nah::A	ойрын	ʊ u o r a ŋ	ɔ ɔ i r i ŋ
+nah::A	дөтийн	t a tʰʲ w ŋ	t ɵ tʰʲ i ŋ
+fern::A	холын	x ʊ ɮ u ŋ	x ɔ ɮ i ŋ
+linker::A	буруу	p o r w	p ʊ r ʊ
+rechter::A	баруун	p iʲ r u ŋ	p a r ʊ ŋ
+anderer::A	өөр	ɔ e r	o o r
+anderer::A	нөгөө	n u ɡ u	n ɵ ɡ o
+erster::A	нэгдэх	n e ɡ t w x	n e ɡ t e x
+erster::A	нэгдүгээр	n e ɡ t u ɡ u r	n e ɡ t u ɡ e r
+zweiter::A	хоёрдугаар	x iʲ j e r t ɵ ɢ ʊ r	x ɔ j ɔ r t ʊ ɢ a r
+dritter::A	гуравдугаар	ɢ e r a ɔ t ɔ ɢ u r	ɢ ʊ r a w t ʊ ɢ a r
+letzter::A	сүүлийн	s o iʲ ɮʲ o ŋ	s u u ɮʲ i ŋ
+allein::ADV	ганцаараа	ɢ e n t͡s ʰ w r a	ɢ a n t͡s ʰ a r a
+auf einmal::ADV	нэгмөсөн	n ɵ ɡ m iʲ s o ŋ	n e ɡ m ɵ s ɵ ŋ
+zusammen::ADV	цуг	t͡s ʰ o ɢ	t͡s ʰ ʊ ɢ
+zusammen::ADV	хамт	x ʊ m tʰ	x a m tʰ
+lange::ADV	удаан	iʲ t ɔ ŋ	ʊ t a ŋ
+plötzlich::ADV	гэнэт	ɡ a n ɵ tʰ	ɡ e n e tʰ
+sofort::ADV	дороо	t ɔ r ɔ	t ɔ r ɔ
+später::ADV	дараа	t u r ɵ	t a r a
+jetzt::ADV	өнөө	e n w	ɵ n o
+heute::ADV	өнөө	o n o	ɵ n o
+heute::ADV	өнөөдөр	iʲ n u t a r	ɵ n o t ɵ r
+morgen::ADV	маргааш	m iʲ r ɢ w ʃ	m a r ɢ a ʃ
+morgen::ADV	маргаадар	m e r ɢ o t ʊ r	m a r ɢ a t a r
+bald::ADV	түргэн	tʰ ʊ r ɡ w ŋ	tʰ u r ɡ e ŋ
+bald::ADV	удахгүй	ɵ t u x ɡ w iʲ	ʊ t a x ɡ u i
+dann::ADV	хожим	x ʊ t͡ʃ ʲ i m	x ɔ t͡ʃ ʲ i m
+dann::ADV	тэгээд	tʰ a ɡ a t	tʰ e ɡ e t
+gestern::ADV	өчигдөр	e t͡ʃ ʰʲ e ɡ t ɔ r	ɵ t͡ʃ ʰʲ i ɡ t ɵ r
+einst::ADV	нэг	n a ɡ	n e ɡ
+damals::ADV	тэгэхэд	tʰ ɵ ɡ a x ɵ t	tʰ e ɡ e x e t
+danach::ADV	тэгээд	tʰ e ɡ ɵ t	tʰ e ɡ e t
+danach::ADV	дараа нь	t e r ɵ _ nʲ	t a r a _ nʲ
+vorher::ADV	урьд	w rʲ t	ʊ rʲ t
+zuerst::ADV	анх	w n x	a n x
+zuerst::ADV	эхлээд	e x ɮ w t	e x ɮ e t
+einmal::ADV	нэг удаа	n o ɡ _ i t iʲ	n e ɡ _ ʊ t a
+manchmal::ADV	хааяа	x e e j ɵ	x a a j a
+manchmal::ADV	заримдаа	t͡s a rʲ a m t w	t͡s a rʲ i m t a
+oft::ADV	олонтоо	ɔ ɮ ʊ n tʰ o	ɔ ɮ ɔ n tʰ ɔ
+immer::ADV	байнга	p iʲ ɵ e n ɢ e	p a a i n ɢ a
+niemals::ADV	хэзээ ч	x u t͡s i _ t͡ʃ ʰ	x e t͡s e _ t͡ʃ ʰ
+niemals::ADV	хэдийд ч	x o tʲ ɵ t _ t͡ʃ ʰ	x e tʲ i t _ t͡ʃ ʰ
+hier::ADV	энд	a n t	e n t
+hierhin::ADV	нааш	n ɔ iʲ ʃ	n a a ʃ
+von hier::ADV	эндээс	iʲ n t i s	e n t e s
+dort::ADV	тэнд	tʰ ɔ n t	tʰ e n t
+dorthin::ADV	тийш	tʰʲ iʲ ʃ	tʰʲ i ʃ
+geradeaus::ADV	шулуун	ʃ w ɮ a ŋ	ʃ ʊ ɮ ʊ ŋ
+vorwärts::ADV	урагшаа	i r ɵ ɢ ʃ u	ʊ r a ɢ ʃ a
+rückwärts::ADV	буцаан	p i t͡s ʰ ɵ ŋ	p ʊ t͡s ʰ a ŋ
+rückwärts::ADV	сөөргөө	s w u r ɡ iʲ	s o o r ɡ o
+zurück::ADV	буцаж	p ʊ t͡s ʰ ɵ t͡ʃ	p ʊ t͡s ʰ a t͡ʃ
+zurück::ADV	гэдрэг	ɡ ɔ t r iʲ ɡ	ɡ e t r e ɡ
+unten::ADV	дор	t ɔ r	t ɔ r
+hinab::ADV	уруу	ɵ r ɔ	ʊ r ʊ
+oben::ADV	дээр	t i i r	t e e r
+hinauf::ADV	өөд	ɵ a t	o o t
+hinauf::ADV	дээш	t w u ʃ	t e e ʃ
+überall::ADV	хааяагүй	x e ʊ j e ɢ a a	x a a j a ɢ u i
+überall::ADV	энд тэндгүй	iʲ n t _ tʰ o n t ɡ ʊ ɵ	e n t _ tʰ e n t ɡ u i
+nicht::ADV	эс	ɵ s	e s
+nicht::ADV	-гүй	 ɡ w ɵ	 ɡ u i
+ein wenig::ADV	жаахан	t͡ʃ iʲ w x iʲ ŋ	t͡ʃ a a x a ŋ
+kaum::ADV	арай	e r a o	a r a i
+kaum::ADV	арай гэж	w r i e _ ɡ ɔ t͡ʃ	a r a i _ ɡ e t͡ʃ
+sehr::ADV	тун	tʰ ɔ ŋ	tʰ ʊ ŋ
+so::ADV	тэгж	tʰ ɔ ɡ t͡ʃ	tʰ e ɡ t͡ʃ
+so::ADV	ингээд	ʲ w n ɡ ɔ t	ʲ i n ɡ e t
+noch::ADV	дахин	t ʊ xʲ o ŋ	t a xʲ i ŋ
+noch::ADV	дахиад	t o xʲ o w t	t a xʲ i a t
+nur::ADV	зөвхөн	t͡s a i x ɔ ŋ	t͡s ɵ w x ɵ ŋ
+nur::ADV	гагцхүү	ɢ w ɡ t͡s ʰ x ɵ	ɢ a ɡ t͡s ʰ x u
+schon::ADV	нэгэнт	n iʲ ɡ ʊ n tʰ	n e ɡ e n tʰ
+wieder::ADV	дахин	t w xʲ a ŋ	t a xʲ i ŋ
+wieder::ADV	дахиад	t u xʲ ɔ ɵ t	t a xʲ i a t
+vergebens::ADV	хий	xʲ u	xʲ i
+vor::PRP	өмнө	ɵ m n o	ɵ m n ɵ
+hinter::PRP	ард	o r t	a r t
+unter::PRP	доор	t a ʊ r	t ɔ ɔ r
+durch::PRP	дундуур	t e n t ɵ r	t ʊ n t ʊ r
+neben::PRP	хажууд	x ɔ t͡ʃ ɵ t	x a t͡ʃ ʊ t
+zwischen::PRP	завсар	t͡s ʊ i s e r	t͡s a w s a r
+zwischen::PRP	хооронд	x ɵ i r u n t	x ɔ ɔ r ɔ n t
+wegen::PRP	төлөө	tʰ o ɮ ʊ	tʰ ɵ ɮ o
+wegen::PRP	дээрээс	t w w r i s	t e e r e s
+dies::PRN	энэ	a n ɔ	e n e
+das::PRN	тэр	tʰ u r	tʰ e r
+alles::PRN	цөм	t͡s ʰ i m	t͡s ʰ ɵ m
+alles::PRN	бүгд	p ɵ ɡ t	p u ɡ t
+ich::PRN	би	pʲ ɔ	pʲ i
+du::PRN	чи	t͡ʃ ʰʲ ʊ	t͡ʃ ʰʲ i
+er::PRN	тэр	tʰ w r	tʰ e r
+er::PRN	тэр хүн	tʰ i r _ x u ŋ	tʰ e r _ x u ŋ
+wir::PRN	бид	pʲ u t	pʲ i t
+ihr::PRN	та нар	tʰ w _ n i r	tʰ a _ n a r
+sie::PRN	тэд	tʰ ʊ t	tʰ e t
+was::FPRN	юу	j i ɵ	j ʊ ʊ
+wer::FPRN	хэн	x e ŋ	x e ŋ
+wo::FADV	хаа	x a u	x a a
+wo::FADV	хаана	x ɵ e n ʊ	x a a n a
+wohin::FADV	хааш	x iʲ o ʃ	x a a ʃ
+wohin::FADV	хаана	x w w n e	x a a n a
+wie::FADV	яаж	j i w t͡ʃ	j a a t͡ʃ
+wie::FADV	хэрхэн	x ʊ r x o ŋ	x e r x e ŋ
+warum::FADV	юунд	j u i n t	j ʊ ʊ n t
+warum::FADV	яагаад	j iʲ ɵ ɢ ɵ t	j a a ɢ a t
+wieviel::FNUM	хэдий	x ɔ tʲ a	x e tʲ i
+wieviel::FNUM	хэд	x u t	x e t
+eins::NUM	нэг	n e ɡ	n e ɡ
+zwei::NUM	хоёр	x e j ʊ r	x ɔ j ɔ r
+drei::NUM	гурав	ɢ e r e ɵ	ɢ ʊ r a w
+vier::NUM	дөрөв	t w r e ɵ	t ɵ r ɵ w
+fünf::NUM	тав	tʰ ʊ w	tʰ a w
+sechs::NUM	зургаа	t͡s e r ɢ a	t͡s ʊ r ɢ a
+sieben::NUM	долоо	t ʊ ɮ e	t ɔ ɮ ɔ
+acht::NUM	найм	n u i iʲ m	n a a i m
+neun::NUM	ес	j u ɵ s	j i i s
+zehn::NUM	арав	u r e w	a r a w
+elf::NUM	арван нэг	a r i o n _ n ɵ ɡ	a r w a n _ n e ɡ
+zwölf::NUM	арван хоёр	a r o o n _ x a j ɔ r	a r w a n _ x ɔ j ɔ r
+zwanzig::NUM	хорь	x a rʲ	x ɔ rʲ
+dreißig::NUM	гуч	ɢ ʊ t͡ʃ ʰ	ɢ ʊ t͡ʃ ʰ
+vierzig::NUM	дөч	t e t͡ʃ ʰ	t ɵ t͡ʃ ʰ
+fünfzig::NUM	тавь	tʰ ɵ iʲʲ	tʰ a wʲ
+sechzig::NUM	жар	t͡ʃ ɵ r	t͡ʃ a r
+siebzig::NUM	дал	t o ɮ	t a ɮ
+achtzig::NUM	ная	n o j e	n a j a
+neunzig::NUM	ер	j o u r	j i i r
+hundert::NUM	зуу	t͡s ɵ ɔ	t͡s ʊ ʊ
+tausend::NUM	мянга	mʲ e n ɢ i	mʲ a n ɢ a
+und::CNJ	ч	t͡ʃ ʰ	t͡ʃ ʰ
+und::CNJ	болон	p o ɮ ɔ ŋ	p ɔ ɮ ɔ ŋ
+oder::CNJ	буюу	p iʲ j ʊ	p ʊ j ʊ
+stehen::V	зогсох	t͡s iʲ ɢ s iʲ x	t͡s ɔ ɢ s ɔ x
+sitzen::V	суух	s u u x	s ʊ ʊ x
+liegen::V	хэвтэх	x o i tʰ e x	x e w tʰ e x
+hängen::V	өлгөөтэй байх	u ɮ ɡ o tʰ i j _ p iʲ ɔ x	ɵ ɮ ɡ o tʰ e j _ p a i x
+hängen::V	дүүжлээтэй байх	t i u t͡ʃ ɮ i tʰ i j _ p ɵ w x	t u u t͡ʃ ɮ e tʰ e j _ p a i x
+werden::V	болох	p ɵ ɮ ʊ x	p ɔ ɮ ɔ x
+passieren::V	тохиох	tʰ e xʲ w w x	tʰ ɔ xʲ i ɔ x
+beginnen::V	эхлэх	ɵ x ɮ iʲ x	e x ɮ e x
+enden::V	дүүрэх	t o ʊ r iʲ x	t u u r e x
+wechseln::V	хувирах	x ʊ eʲ iʲ r u x	x ʊ wʲ i r a x
+aufgehen[Sonne]::V	мандах	m ʊ n t ʊ x	m a n t a x
+untergehen[Sonne]::V	жаргах	t͡ʃ ɵ r ɢ a x	t͡ʃ a r ɢ a x
+scheinen[Sonne]::V	гэрэлтэх	ɡ iʲ r ɔ ɮ tʰ ʊ x	ɡ e r e ɮ tʰ e x
+donnern::V	дуугарах	t iʲ e ɢ ʊ r u x	t ʊ ʊ ɢ a r a x
+wehen::V	салхилах	s iʲ ɮ xʲ a ɮ o x	s a ɮ xʲ i ɮ a x
+wehen::V	хөөрөгдөх	x a i r iʲ ɡ t ʊ x	x o o r ɵ ɡ t ɵ x
+strömen::V	гүйх	ɡ ɵ a u x	ɡ u u i x
+strömen::V	урсах	a r s ɔ x	ʊ r s a x
+fließen::V	урсах	w r s e x	ʊ r s a x
+sich drehen::V	эргэлдэх	a r ɡ ɔ ɮ t iʲ x	e r ɡ e ɮ t e x
+schwanken::V	хэлбэлзэх	x a ɮ p ɔ ɮ t͡s ɵ x	x e ɮ p e ɮ t͡s e x
+schwingen::V	ганхах	ɢ ʊ n x a x	ɢ a n x a x
+schwingen::V	хэлбэлзэх	x e ɮ p w ɮ t͡s u x	x e ɮ p e ɮ t͡s e x
+fallen::V	унах	iʲ n i x	ʊ n a x
+brennen::V	шатах	ʃ iʲ tʰ i x	ʃ a tʰ a x
+rauchen::V	баагих	p w e ɢʲ ɔ x	p a a ɢʲ i x
+regnen::V	бороо орно	p a r w _ u r n a	p ɔ r ɔ _ ɔ r n ɔ
+gefrieren::V	хөлдөх	x u ɮ t ɔ x	x ɵ ɮ t ɵ x
+tauen::V	хайлах	x o ɔ iʲ ɮ ʊ x	x a a i ɮ a x
+schmelzen::V	уярах	i j ʊ r w x	ʊ j a r a x
+trocknen::V	хатах	x w tʰ e x	x a tʰ a x
+sieden::V	буцлах	p ɔ t͡s ʰ ɮ e x	p ʊ t͡s ʰ ɮ a x
+sieden::V	даргилах	t ɔ r ɡʲ i ɮ a x	t a r ɡʲ i ɮ a x
+faulen::V	үжрэх	i t͡ʃ r i x	u t͡ʃ r e x
+faulen::V	өмхийрөх	ɔ m xʲ a r iʲ x	ɵ m xʲ i r ɵ x
+verfaulen::V	бээх	p ɔ o x	p e e x
+verfaulen::V	өгрөх	i ɡ r u x	ɵ ɡ r ɵ x
+reißen::V	цуурах	t͡s ʰ e o r iʲ x	t͡s ʰ ʊ ʊ r a x
+versinken::V	живэх	t͡ʃ ʲ ʊ o u x	t͡ʃ ʲ i w e x
+vergehen::V	нөгчих	n u ɡ t͡ʃ ʰʲ w x	n ɵ ɡ t͡ʃ ʰʲ i x
+vergehen::V	өнгөрөх	i n ɡ a r ɔ x	ɵ n ɡ ɵ r ɵ x
+erscheinen::V	гарах	ɢ e r o x	ɢ a r a x
+erscheinen::V	бултайх	p e ɮ tʰ i i x	p ʊ ɮ tʰ a i x
+verschwinden::V	далд орох	t w ɮ t _ ʊ r e x	t a ɮ t _ ɔ r ɔ x
+verschwinden::V	алга болох	i ɮ ɢ u _ p e ɮ iʲ x	a ɮ ɢ a _ p ɔ ɮ ɔ x
+sinken::V	татрах	tʰ e tʰ r iʲ x	tʰ a tʰ r a x
+sinken::V	доошлох	t u i ʃ ɮ iʲ x	t ɔ ɔ ʃ ɮ ɔ x
+abnehmen::V	багасах	p e ɢ ɵ s ʊ x	p a ɢ a s a x
+abnehmen::V	хорогдох	x o r e ɢ t a x	x ɔ r ɔ ɢ t ɔ x
+zunehmen::V	ихсэх	ʲ e x s w x	ʲ i x s e x
+steigen::V	нэмэгдэх	n iʲ m ɵ ɡ t e x	n e m e ɡ t e x
+wachsen::V	өсөх	iʲ s e x	ɵ s ɵ x
+wachsen::V	ургах	ʊ r ɢ a x	ʊ r ɢ a x
+glänzen::V	гилгэнэх	ɡʲ w ɮ ɡ a n iʲ x	ɡʲ i ɮ ɡ e n e x
+glänzen::V	гилбэгнэх	ɡʲ ɵ ɮ p u ɡ n ɵ x	ɡʲ i ɮ p e ɡ n e x
+funkeln::V	гялжах	ɡʲ w ɮ t͡ʃ i x	ɡʲ a ɮ t͡ʃ a x
+funkeln::V	гялалзах	ɡʲ e ɮ ɵ ɮ t͡s ɔ x	ɡʲ a ɮ a ɮ t͡s a x
+lärmen::V	шуугих	ʃ e a ɢʲ a x	ʃ ʊ ʊ ɢʲ i x
+läuten::V	цохих	t͡s ʰ ɔ xʲ o x	t͡s ʰ ɔ xʲ i x
+klingeln::V	хонхдох	x ɵ n x t o x	x ɔ n x t ɔ x
+klingeln::V	дуугарах	t iʲ u ɢ ɔ r iʲ x	t ʊ ʊ ɢ a r a x
+klirren::V	хангир жингэр хийх	x ʊ n ɡʲ a r _ t͡ʃ ʲ ʊ n ɡ o r _ xʲ o x	x a n ɡʲ i r _ t͡ʃ ʲ i n ɡ e r _ xʲ i x
+brausen::V	бургилах	p o r ɡʲ w ɮ iʲ x	p ʊ r ɡʲ i ɮ a x
+rauschen::V	сэржигнэх	s ɵ r t͡ʃ ʲ iʲ ɡ n ʊ x	s e r t͡ʃ ʲ i ɡ n e x
+klingen::V	хангинах	x ɵ n ɡʲ ʊ n ʊ x	x a n ɡʲ i n a x
+bellen::V	хуцах	x ʊ t͡s ʰ a x	x ʊ t͡s ʰ a x
+heulen::V	улих	i ɮʲ w x	ʊ ɮʲ i x
+blasen::V	үлзэх	w ɮ t͡s ʊ x	u ɮ t͡s e x
+pfeifen::V	исгэрэх	ʲ o s ɡ iʲ r w x	ʲ i s ɡ e r e x
+schreien::V	хашгирах	x ʊ ʃ ɡʲ ɔ r e x	x a ʃ ɡʲ i r a x
+stöhnen::V	ёолох	j ɔ iʲ ɮ a x	j ɔ ɔ ɮ ɔ x
+stöhnen::V	гэнгэнэх	ɡ w n ɡ i n a x	ɡ e n ɡ e n e x
+zittern::V	дагжих	t i ɢ t͡ʃ ʲ u x	t a ɢ t͡ʃ ʲ i x
+leben::V	амьдрах	ʊ mʲ t r ʊ x	a mʲ t r a x
+geboren werden::V	төрөх	tʰ u r o x	tʰ ɵ r ɵ x
+atmen::V	амьсгалах	ɔ mʲ s ɢ ɵ ɮ a x	a mʲ s ɢ a ɮ a x
+trinken::V	уух	e u x	ʊ ʊ x
+essen::V	идэх	ʲ ʊ t ʊ x	ʲ i t e x
+schlucken::V	залгих	t͡s w ɮ ɡʲ e x	t͡s a ɮ ɡʲ i x
+müde werden::V	ядрах	j o t r o x	j a t r a x
+einschlafen::V	унтчих	a n tʰ t͡ʃ ʰʲ u x	ʊ n tʰ t͡ʃ ʰʲ i x
+schlafen::V	унтах	u n tʰ ɔ x	ʊ n tʰ a x
+aufwachen::V	сэрэх	s ɔ r iʲ x	s e r e x
+aufstehen::V	босох	p e s i x	p ɔ s ɔ x
+sich erholen::V	амрах	i m r e x	a m r a x
+krank werden::V	өвдөж эхлэх	ɔ i t u t͡ʃ _ w x ɮ ʊ x	ɵ w t ɵ t͡ʃ _ e x ɮ e x
+krank sein::V	өвдөх	ʊ a t o x	ɵ w t ɵ x
+schmerzen::V	өвдөх	ʊ ɵ t ɵ x	ɵ w t ɵ x
+schmerzen::V	шархирах	ʃ e r xʲ u r e x	ʃ a r xʲ i r a x
+husten::V	ханиах	x w nʲ iʲ w x	x a nʲ i a x
+genesen::V	засрах	t͡s w s r e x	t͡s a s r a x
+sterben::V	үхэх	ɔ x ɔ x	u x e x
+sterben::V	нас барах	n ʊ s _ p ɵ r i x	n a s _ p a r a x
+umkommen::V	үхэх	ʊ x ɵ x	u x e x
+sich bewegen::V	хөдлөх	x ʊ t ɮ ɵ x	x ɵ t ɮ ɵ x
+sich rühren::V	хөдлөх	x u t ɮ ɵ x	x ɵ t ɮ ɵ x
+sich erheben::V	босох	p a s a x	p ɔ s ɔ x
+sich setzen::V	суух	s ʊ e x	s ʊ ʊ x
+hinfallen::V	ойчих	a e w t͡ʃ ʰʲ a x	ɔ ɔ i t͡ʃ ʰʲ i x
+laufen::V	явган явах	j o i ɢ ɔ n _ʲ a ɵ i x	j a w ɢ a n _ʲ a w a x
+schreiten::V	алхах	iʲ ɮ x ʊ x	a ɮ x a x
+spazierengehen::V	зугаалах	t͡s i ɢ o ɮ ʊ x	t͡s ʊ ɢ a ɮ a x
+eilen::V	хурдлах	x i r t ɮ ɔ x	x ʊ r t ɮ a x
+sich beeilen::V	яарах	j o iʲ r iʲ x	j a a r a x
+sich beeilen::V	шамдах	ʃ a m t o x	ʃ a m t a x
+sausen::V	давхих	t u w xʲ ʊ x	t a w xʲ i x
+rennen::V	гүйх	ɡ iʲ i iʲ x	ɡ u u i x
+springen::V	харайх	x a r w u x	x a r a i x
+springen::V	дэвхрэх	t iʲ ʊ x r ɵ x	t e w x r e x
+klettern::V	авирах	u uʲ o r iʲ x	a wʲ i r a x
+schaukeln::V	ганхалзах	ɢ i n x e ɮ t͡s e x	ɢ a n x a ɮ t͡s a x
+kriechen::V	мөлхөх	m i ɮ x o x	m ɵ ɮ x ɵ x
+schwimmen::V	сэлэх	s e ɮ o x	s e ɮ e x
+tauchen::V	шунгах	ʃ ʊ n ɢ iʲ x	ʃ ʊ n ɢ a x
+rudern::V	сэлүүрдэх	s iʲ ɮ i r t ʊ x	s e ɮ u r t e x
+fahren::V	явах	j i w i x	j a w a x
+fliegen::V	нисэх	nʲ e s a x	nʲ i s e x
+gehen::V	явах	j w ʊ e x	j a w a x
+weggehen::V	явах	j ɔ a o x	j a w a x
+abfahren::V	одох	u t i x	ɔ t ɔ x
+abfahren::V	хөдлөх	x ʊ t ɮ i x	x ɵ t ɮ ɵ x
+anhalten::V	зогсох	t͡s iʲ ɢ s ɔ x	t͡s ɔ ɢ s ɔ x
+hineingehen::V	орох	w r a x	ɔ r ɔ x
+eintreten::V	орох	o r u x	ɔ r ɔ x
+kommen::V	ирэх	ʲ i r ɵ x	ʲ i r e x
+ankommen::V	хүрэх	x iʲ r u x	x u r e x
+zurückkommen::V	харих	x e rʲ a x	x a rʲ i x
+zurückkommen::V	буцаж ирэх	p iʲ t͡s ʰ u t͡ʃ _ʲ ɔ r ɔ x	p ʊ t͡s ʰ a t͡ʃ _ʲ i r e x
+bleiben::V	үлдэх	a ɮ t ʊ x	u ɮ t e x
+warten::V	хүлээх	x e ɮ ʊ x	x u ɮ e x
+erwarten::V	хүлээх	x o ɮ ɔ x	x u ɮ e x
+suchen::V	эрэх	e r o x	e r e x
+suchen::V	бэдрэх	p w t r w x	p e t r e x
+finden::V	олох	o ɮ e x	ɔ ɮ ɔ x
+versuchen::V	оролдох	ɔ r ɵ ɮ t iʲ x	ɔ r ɔ ɮ t ɔ x
+vorbereiten::V	бэлтгэх	p o ɮ tʰ ɡ ɔ x	p e ɮ tʰ ɡ e x
+lieben::V	янаглах	j iʲ n u ɢ ɮ e x	j a n a ɢ ɮ a x
+mögen::V	таалах	tʰ w i ɮ u x	tʰ a a ɮ a x
+lachen::V	инээх	ʲ ɵ n o x	ʲ i n e x
+rühren::V	сэтгэл уяруулах	s u tʰ ɡ a ɮ _ iʲ j u r ɔ ɮ ɔ x	s e tʰ ɡ e ɮ _ ʊ j a r ʊ ɮ a x
+weinen::V	уйлах	o a w ɮ a x	ʊ ʊ i ɮ a x
+schimpfen::V	хараах	x u r i x	x a r a x
+sich ärgern::V	уурлах	ɔ w r ɮ i x	ʊ ʊ r ɮ a x
+sich fürchten::V	айх	i o e x	a a i x
+fürchten::V	айх	a i o x	a a i x
+fliehen::V	зугтах	t͡s i ɢ tʰ u x	t͡s ʊ ɢ tʰ a x
+fliehen::V	гүйж очих	ɡ u ʊ e t͡ʃ _ ɔ t͡ʃ ʰʲ a x	ɡ u u i t͡ʃ _ ɔ t͡ʃ ʰʲ i x
+flüchten::V	оргох	iʲ r ɢ ʊ x	ɔ r ɢ ɔ x
+sehen::V	үзэх	i t͡s i x	u t͡s e x
+anschauen::V	харах	x ɔ r w x	x a r a x
+ansehen::V	харах	x ɔ r ɔ x	x a r a x
+hören::V	дуулах	t i e ɮ o x	t ʊ ʊ ɮ a x
+zuhören::V	чагнах	t͡ʃ ʰ w ɢ n ʊ x	t͡ʃ ʰ a ɢ n a x
+probieren::V	амсаж үзэх	u m s o t͡ʃ _ o t͡s e x	a m s a t͡ʃ _ u t͡s e x
+riechen::V	үнэрлэх	ɔ n iʲ r ɮ o x	u n e r ɮ e x
+fühlen::V	мэдрэх	m u t r u x	m e t r e x
+scheinen::V	шиг үзэгдэх	ʃʲ ɵ ɡ _ ʊ t͡s o ɡ t a x	ʃʲ i ɡ _ u t͡s e ɡ t e x
+zu sehen sein::V	үзэгдэх	iʲ t͡s ɵ ɡ t e x	u t͡s e ɡ t e x
+zu sehen sein::V	харагдах	x a r ɔ ɢ t o x	x a r a ɢ t a x
+vernehmen::V	дуулах	t e w ɮ o x	t ʊ ʊ ɮ a x
+frieren::V	даарах	t i o r ʊ x	t a a r a x
+tun::V	хийх	xʲ ɵ x	xʲ i x
+tun::V	үйлдэх	o iʲ i ɮ t ɔ x	u u i ɮ t e x
+können::V	болох	p w ɮ ɔ x	p ɔ ɮ ɔ x
+wollen::V	хүсэх	x w s i x	x u s e x
+anfangen::V	эхлэх	ʊ x ɮ a x	e x ɮ e x
+beenden::V	дуусгах	t u e s ɢ ɔ x	t ʊ ʊ s ɢ a x
+aufhören::V	болих	p o ɮʲ e x	p ɔ ɮʲ i x
+aufhören::V	зогсох	t͡s a ɢ s ʊ x	t͡s ɔ ɢ s ɔ x
+gelingen::V	бүтэх	p ʊ tʰ u x	p u tʰ e x
+geraten::V	илрэх	ʲ a ɮ r ɔ x	ʲ i ɮ r e x
+öffnen::V	нээх	n i ɵ x	n e e x
+öffnen::V	тайлах	tʰ ɵ ʊ o ɮ i x	tʰ a a i ɮ a x
+schließen::V	хаах	x iʲ iʲ x	x a a x
+stellen::V	тавих	tʰ ɔ ɵʲ u x	tʰ a wʲ i x
+stellen::V	босгох	p ɔ s ɢ i x	p ɔ s ɢ ɔ x
+setzen::V	суулгах	s w i ɮ ɢ ɔ x	s ʊ ʊ ɮ ɢ a x
+legen::V	хийх	xʲ o x	xʲ i x
+legen::V	тавих	tʰ iʲ uʲ e x	tʰ a wʲ i x
+berühren::V	шүргэх	ʃ iʲ r ɡ iʲ x	ʃ u r ɡ e x
+verbinden::V	залгах	t͡s iʲ ɮ ɢ o x	t͡s a ɮ ɢ a x
+bedecken::V	бүрэх	p i r e x	p u r e x
+aufhängen::V	өлгөх	o ɮ ɡ ʊ x	ɵ ɮ ɡ ɵ x
+aufhängen::V	дүүжлэх	t i u t͡ʃ ɮ w x	t u u t͡ʃ ɮ e x
+anzünden::V	асаах	ɔ s e x	a s a x
+anzünden::V	ноцоох	n a t͡s ʰ e x	n ɔ t͡s ʰ ɔ x
+aufheben::V	өргөх	w r ɡ ɔ x	ɵ r ɡ ɵ x
+zurücklassen::V	орхих	iʲ r xʲ o x	ɔ r xʲ i x
+zurücklassen::V	үлдээх	o ɮ t iʲ x	u ɮ t e x
+verlieren::V	гээх	ɡ ɔ u x	ɡ e e x
+fallen lassen::V	унагах	ɵ n a ɢ i x	ʊ n a ɢ a x
+machen::V	хийх	xʲ ɔ x	xʲ i x
+machen::V	гаргах	ɢ i r ɢ i x	ɢ a r ɢ a x
+herstellen::V	бүтээх	p iʲ tʰ a x	p u tʰ e x
+bauen::V	барих	p e rʲ u x	p a rʲ i x
+reparieren::V	засах	t͡s w s ɵ x	t͡s a s a x
+reparieren::V	сэлбэх	s u ɮ p ɵ x	s e ɮ p e x
+verbessern::V	засах	t͡s ɔ s ʊ x	t͡s a s a x
+verbessern::V	сайжруулах	s o ʊ i t͡ʃ r w ɮ ɔ x	s a a i t͡ʃ r ʊ ɮ a x
+ändern::V	өөрчлөх	ɔ i r t͡ʃ ʰ ɮ e x	o o r t͡ʃ ʰ ɮ ɵ x
+graben::V	малтах	m w ɮ tʰ ʊ x	m a ɮ tʰ a x
+beugen::V	бөгтийлгөх	p ɔ ɡ tʰʲ ʊ ɮ ɡ o x	p ɵ ɡ tʰʲ i ɮ ɡ ɵ x
+biegen::V	матах	m w tʰ iʲ x	m a tʰ a x
+biegen::V	муруйлгах	m ɔ r o iʲ ɮ ɢ w x	m ʊ r ʊ i ɮ ɢ a x
+drehen::V	эргүүлэх	iʲ r ɡ i ɮ o x	e r ɡ u ɮ e x
+wenden::V	эргүүлэх	e r ɡ ʊ ɮ o x	e r ɡ u ɮ e x
+umdrehen::V	хөрвүүлэх	x iʲ r e u ɮ i x	x ɵ r w u ɮ e x
+heben::V	өргөх	u r ɡ u x	ɵ r ɡ ɵ x
+hochheben::V	өргөх	a r ɡ ʊ x	ɵ r ɡ ɵ x
+ergreifen::V	атгах	o tʰ ɢ w x	a tʰ ɢ a x
+halten::V	барих	p ʊ rʲ ɵ x	p a rʲ i x
+drücken::V	дарах	t i r w x	t a r a x
+schieben::V	түлхэх	tʰ i ɮ x ɵ x	tʰ u ɮ x e x
+kratzen::V	хусах	x a s w x	x ʊ s a x
+kratzen::V	маажих	m u e t͡ʃ ʲ a x	m a a t͡ʃ ʲ i x
+lecken::V	долоох	t u ɮ e x	t ɔ ɮ ɔ x
+beißen::V	зуух	t͡s u o x	t͡s ʊ ʊ x
+beißen::V	хазах	x ɔ t͡s e x	x a t͡s a x
+abreißen::V	таслах	tʰ i s ɮ u x	tʰ a s ɮ a x
+abschneiden::V	тайрах	tʰ u o iʲ r ɔ x	tʰ a a i r a x
+binden::V	боох	p e i x	p ɔ ɔ x
+binden::V	хүлэх	x ɔ ɮ ɔ x	x u ɮ e x
+stecken::V	шаах	ʃ ɵ i x	ʃ a a x
+stecken::V	шигтгэх	ʃʲ a ɡ tʰ ɡ e x	ʃʲ i ɡ tʰ ɡ e x
+brechen::V	хугалах	x e ɢ o ɮ ɵ x	x ʊ ɢ a ɮ a x
+klopfen::V	цохих	t͡s ʰ u xʲ i x	t͡s ʰ ɔ xʲ i x
+klopfen::V	тогших	tʰ w ɢ ʃʲ ɔ x	tʰ ɔ ɢ ʃʲ i x
+hauen::V	дэлдэх	t ʊ ɮ t ɔ x	t e ɮ t e x
+kleben::V	наах	n u e x	n a a x
+reiben::V	нухах	n ɔ x ɔ x	n ʊ x a x
+reiben::V	нидчих	nʲ iʲ t t͡ʃ ʰʲ ɵ x	nʲ i t t͡ʃ ʰʲ i x
+streichen::V	нялах	nʲ a ɮ iʲ x	nʲ a ɮ a x
+streichen::V	түрхэх	tʰ i r x e x	tʰ u r x e x
+schleifen::V	билүүдэх	pʲ w ɮ ʊ t ɵ x	pʲ i ɮ u t e x
+schleifen::V	гуранздах	ɢ a r w n t͡s t ɵ x	ɢ ʊ r a n t͡s t a x
+schneiden::V	огтлох	e ɢ tʰ ɮ o x	ɔ ɢ tʰ ɮ ɔ x
+rütteln::V	холхнулах	x o ɮ x n ɵ ɮ ʊ x	x ɔ ɮ x n ʊ ɮ a x
+schütteln::V	сэгсрэх	s ɔ ɡ s r o x	s e ɡ s r e x
+schwenken::V	дэвэх	t i i w x	t e w e x
+schwenken::V	даллах	t i ɮ ɮ w x	t a ɮ ɮ a x
+schütten::V	цутгах	t͡s ʰ iʲ tʰ ɢ ɵ x	t͡s ʰ ʊ tʰ ɢ a x
+schütten::V	аягалах	w j iʲ ɢ w ɮ u x	a j a ɢ a ɮ a x
+füllen::V	дүүргэх	t e i r ɡ iʲ x	t u u r ɡ e x
+einwickeln::V	боох	p ɵ ɔ x	p ɔ ɔ x
+einwickeln::V	ороох	ɵ r i x	ɔ r ɔ x
+tragen::V	авчрах	e e t͡ʃ ʰ r o x	a w t͡ʃ ʰ r a x
+schleppen::V	чирэх	t͡ʃ ʰʲ iʲ r w x	t͡ʃ ʰʲ i r e x
+ziehen::V	татах	tʰ iʲ tʰ w x	tʰ a tʰ a x
+aufbewahren::V	хадгалах	x ɔ t ɢ iʲ ɮ a x	x a t ɢ a ɮ a x
+werfen::V	хаях	x a j ɵ x	x a j a x
+werfen::V	шидэх	ʃʲ i t iʲ x	ʃʲ i t e x
+fangen::V	барих	p u rʲ ʊ x	p a rʲ i x
+packen::V	шүүрэх	ʃ iʲ ɵ r a x	ʃ u u r e x
+verstecken::V	нуух	n a i x	n ʊ ʊ x
+teilen::V	хуваах	x e i ɔ x	x ʊ w a x
+schicken::V	илгээх	ʲ w ɮ ɡ o x	ʲ i ɮ ɡ e x
+schicken::V	явуулах	j ʊ iʲ a ɮ w x	j a w ʊ ɮ a x
+bringen::V	авчрах	i iʲ t͡ʃ ʰ r ʊ x	a w t͡ʃ ʰ r a x
+bringen::V	аваачих	i i ʊ t͡ʃ ʰʲ o x	a w a t͡ʃ ʰʲ i x
+hinzufügen::V	нэмэх	n ɵ m u x	n e m e x
+bekommen::V	хүлээн авах	x w ɮ w n _ o ɵ ɔ x	x u ɮ e n _ a w a x
+erhalten::V	хүлээн авах	x w ɮ u n _ u ɔ i x	x u ɮ e n _ a w a x
+nehmen::V	авах	ɔ iʲ ʊ x	a w a x
+wählen::V	сонгох	s i n ɢ e x	s ɔ n ɢ ɔ x
+auswählen::V	шилэх	ʃʲ ɔ ɮ iʲ x	ʃʲ i ɮ e x
+bewahren::V	гамнах	ɢ w m n ʊ x	ɢ a m n a x
+behindern::V	саад хийх	s e u t _ xʲ a x	s a a t _ xʲ i x
+behindern::V	тотгор болох	tʰ w tʰ ɢ ɔ r _ p u ɮ i x	tʰ ɔ tʰ ɢ ɔ r _ p ɔ ɮ ɔ x
+verderben::V	эвдэх	ʊ w t u x	e w t e x
+beschädigen::V	гэмтээх	ɡ iʲ m tʰ w x	ɡ e m tʰ e x
+zerbrechen::V	хагалах	x ɔ ɢ o ɮ i x	x a ɢ a ɮ a x
+zerbrechen::V	хага цохих	x e ɢ iʲ _ t͡s ʰ o xʲ a x	x a ɢ a _ t͡s ʰ ɔ xʲ i x
+zerreißen::V	урах	ɵ r e x	ʊ r a x
+zerstören::V	эвдэх	i ɔ t i x	e w t e x
+zerstören::V	сүйтгэх	s ɔ w u tʰ ɡ a x	s u u i tʰ ɡ e x
+verbrennen::V	шатаах	ʃ u tʰ ʊ x	ʃ a tʰ a x
+geben::V	өгөх	w ɡ u x	ɵ ɡ ɵ x
+reichen::V	өгөх	i ɡ a x	ɵ ɡ ɵ x
+reichen::V	дамжуулах	t i m t͡ʃ w ɮ i x	t a m t͡ʃ ʊ ɮ a x
+schenken::V	бэлэглэх	p a ɮ ɵ ɡ ɮ iʲ x	p e ɮ e ɡ ɮ e x
+versprechen::V	амлах	o m ɮ ɔ x	a m ɮ a x
+wünschen::V	ерөөх	j o ʊ r u x	j i i r o x
+loben::V	магтах	m e ɢ tʰ o x	m a ɢ tʰ a x
+loben::V	сайшаах	s u ɵ w ʃ i x	s a a i ʃ a x
+küssen::V	озох	w t͡s ɔ x	ɔ t͡s ɔ x
+küssen::V	үнсэх	ʊ n s w x	u n s e x
+wiegen::V	бүүвэйлэх	p ɵ u w ɵ j ɮ ʊ x	p u u w e j ɮ e x
+zudecken::V	хучих	x u t͡ʃ ʰʲ a x	x ʊ t͡ʃ ʰʲ i x
+zudecken::V	бүтээх	p w tʰ o x	p u tʰ e x
+wecken::V	сэрээх	s e r a x	s e r e x
+zeigen::V	үзүүлэх	e t͡s a ɮ i x	u t͡s u ɮ e x
+führen::V	хөтлөх	x o tʰ ɮ w x	x ɵ tʰ ɮ ɵ x
+lehren::V	заах	t͡s a o x	t͡s a a x
+unterrichten::V	сургах	s iʲ r ɢ iʲ x	s ʊ r ɢ a x
+aufziehen::V	өсгөх	ɔ s ɡ ɔ x	ɵ s ɡ ɵ x
+aufziehen::V	хүмүүжүүлэх	x ʊ m ɵ t͡ʃ i ɮ o x	x u m u t͡ʃ u ɮ e x
+leiten::V	удирдах	ɔ tʲ w r t u x	ʊ tʲ i r t a x
+antreiben::V	шамдуулах	ʃ w m t e ɮ o x	ʃ a m t ʊ ɮ a x
+lassen::V	-уулах	 ɔ ɮ a x	 ʊ ɮ a x
+einladen::V	залах	t͡s u ɮ ɵ x	t͡s a ɮ a x
+vereinigen::V	нэгтгэх	n e ɡ tʰ ɡ ʊ x	n e ɡ tʰ ɡ e x
+vereinigen::V	хамтруулах	x ɵ m tʰ r iʲ ɮ ɵ x	x a m tʰ r ʊ ɮ a x
+besuchen::V	зочлох	t͡s o t͡ʃ ʰ ɮ ʊ x	t͡s ɔ t͡ʃ ʰ ɮ ɔ x
+treffen::V	учрах	iʲ t͡ʃ ʰ r w x	ʊ t͡ʃ ʰ r a x
+treffen::V	дайралдах	t a e ɔ r ɔ ɮ t ʊ x	t a a i r a ɮ t a x
+sich versammeln::V	хуралдах	x e r ʊ ɮ t u x	x ʊ r a ɮ t a x
+spielen::V	наадах	n ʊ ɔ t a x	n a a t a x
+singen::V	дуулах	t iʲ a ɮ i x	t ʊ ʊ ɮ a x
+tanzen::V	бүжиглэх	p ɵ t͡ʃ ʲ u ɡ ɮ o x	p u t͡ʃ ʲ i ɡ ɮ e x
+sich trennen::V	салах	s i ɮ iʲ x	s a ɮ a x
+verlassen::V	хаях	x i j w x	x a j a x
+retten::V	гэтэлгэх	ɡ iʲ tʰ a ɮ ɡ w x	ɡ e tʰ e ɮ ɡ e x
+bewachen::V	сахих	s iʲ xʲ w x	s a xʲ i x
+schützen::V	хамгаалах	x ɵ m ɢ u ɮ w x	x a m ɢ a ɮ a x
+verteidigen::V	хамгаалах	x ɔ m ɢ a ɮ iʲ x	x a m ɢ a ɮ a x
+sich schlagen::V	зодолдох	t͡s iʲ t ɔ ɮ t w x	t͡s ɔ t ɔ ɮ t ɔ x
+schießen::V	харвах	x iʲ r o ʊ x	x a r w a x
+schießen::V	буу буудах	p ʊ e _ p iʲ t ɔ x	p ʊ ʊ _ p ʊ t a x
+siegen::V	ялах	j i ɮ i x	j a ɮ a x
+ärgern::V	уурлуулах	ɔ ɵ r ɮ e ɮ iʲ x	ʊ ʊ r ɮ ʊ ɮ a x
+ärgern::V	уур хүргэх	ʊ w r _ x a r ɡ u x	ʊ ʊ r _ x u r ɡ e x
+schlagen::V	цохих	t͡s ʰ o xʲ iʲ x	t͡s ʰ ɔ xʲ i x
+treten::V	өшиглөх	e ʃʲ e ɡ ɮ iʲ x	ɵ ʃʲ i ɡ ɮ ɵ x
+stechen::V	хатгах	x iʲ tʰ ɢ u x	x a tʰ ɢ a x
+stoßen::V	ёврох	j a w r ɵ x	j ɔ w r ɔ x
+stoßen::V	нудрах	n ɔ t r ɔ x	n ʊ t r a x
+stehlen::V	хулгайлах	x ɵ ɮ ɢ ɔ i ɮ i x	x ʊ ɮ ɢ a i ɮ a x
+stören::V	саад болох	s i e t _ p o ɮ w x	s a a t _ p ɔ ɮ ɔ x
+belästigen::V	зовоох	t͡s iʲ w a x	t͡s ɔ w ɔ x
+belästigen::V	амраахгүй байх	ɵ m r u x ɡ a iʲ _ p iʲ ɵ x	a m r a x ɡ u i _ p a i x
+verbergen::V	нуух	n iʲ iʲ x	n ʊ ʊ x
+verbergen::V	далдлах	t ɔ ɮ t ɮ u x	t a ɮ t ɮ a x
+täuschen::V	мэхлэх	m ʊ x ɮ o x	m e x ɮ e x
+betrügen::V	хуурах	x ʊ ʊ r i x	x ʊ ʊ r a x
+töten::V	алах	iʲ ɮ u x	a ɮ a x
+wohnen::V	суух	s a ʊ x	s ʊ ʊ x
+wohnen::V	амьдрах	a mʲ t r i x	a mʲ t r a x
+arbeiten::V	ажиллах	e t͡ʃ ʲ ɔ ɮ ɮ u x	a t͡ʃ ʲ i ɮ ɮ a x
+arbeiten::V	хөдөлмөрлөх	x ɔ t a ɮ m i r ɮ ɵ x	x ɵ t ɵ ɮ m ɵ r ɮ ɵ x
+sammeln::V	түүх	tʰ ɔ u x	tʰ u u x
+sammeln::V	хураах	x w r i x	x ʊ r a x
+pflücken::V	түүх	tʰ ɵ o x	tʰ u u x
+jagen::V	агнах	e ɢ n a x	a ɢ n a x
+jagen::V	гөрөөлөх	ɡ ɔ r e ɮ ʊ x	ɡ ɵ r o ɮ ɵ x
+fischen::V	загасчлах	t͡s iʲ ɢ i s t͡ʃ ʰ ɮ ɔ x	t͡s a ɢ a s t͡ʃ ʰ ɮ a x
+fischen::V	загас барих	t͡s o ɢ ʊ s _ p u rʲ w x	t͡s a ɢ a s _ p a rʲ i x
+fassen::V	барих	p iʲ rʲ ɵ x	p a rʲ i x
+hüten::V	маллах	m i ɮ ɮ u x	m a ɮ ɮ a x
+hüten::V	хариулах	x ɵ rʲ ʊ ʊ ɮ iʲ x	x a rʲ i ʊ ɮ a x
+treiben::V	туух	tʰ ʊ iʲ x	tʰ ʊ ʊ x
+anbinden::V	уях	w j ɵ x	ʊ j a x
+füttern::V	тэжээх	tʰ w t͡ʃ ɔ x	tʰ e t͡ʃ e x
+melken::V	саах	s a w x	s a a x
+hacken::V	цавчих	t͡s ʰ ɵ w t͡ʃ ʰʲ ɔ x	t͡s ʰ a w t͡ʃ ʰʲ i x
+gießen::V	услах	e s ɮ a x	ʊ s ɮ a x
+reifen::V	боловсрох	p ɔ ɮ w a s r i x	p ɔ ɮ ɔ w s r ɔ x
+zubereiten::V	бэлдэх	p ɵ ɮ t ɵ x	p e ɮ t e x
+kochen::V	чанах	t͡ʃ ʰ i n a x	t͡ʃ ʰ a n a x
+backen::V	жигнэх	t͡ʃ ʲ ɵ ɡ n i x	t͡ʃ ʲ i ɡ n e x
+braten::V	шарах	ʃ w r a x	ʃ a r a x
+braten::V	хайрах	x a i a r o x	x a a i r a x
+umrühren::V	хутгах	x w tʰ ɢ u x	x ʊ tʰ ɢ a x
+stricken::V	нэхэх	n e x w x	n e x e x
+stricken::V	сүлжих	s ɔ ɮ t͡ʃ ʲ ʊ x	s u ɮ t͡ʃ ʲ i x
+nähen::V	оёх	i j i x	ɔ j ɔ x
+färben::V	будах	p u t ɔ x	p ʊ t a x
+reinigen::V	арилгах	iʲ rʲ w ɮ ɢ w x	a rʲ i ɮ ɢ a x
+reinigen::V	цэвэрлэх	t͡s ʰ ɔ u e r ɮ w x	t͡s ʰ e w e r ɮ e x
+waschen::V	угаах	ɔ ɢ ɵ x	ʊ ɢ a x
+abwischen::V	арчих	ɵ r t͡ʃ ʰʲ w x	a r t͡ʃ ʰʲ i x
+spülen::V	зайлах	t͡s e e iʲ ɮ ɵ x	t͡s a a i ɮ a x
+fegen::V	хамах	x ɔ m w x	x a m a x
+fegen::V	шүүрдэх	ʃ e u r t w x	ʃ u u r t e x
+kehren::V	шүүрдэх	ʃ w e r t o x	ʃ u u r t e x
+kehren::V	туужуудах	tʰ i ɵ t͡ʃ ʊ t ʊ x	tʰ ʊ ʊ t͡ʃ ʊ t a x
+baden::V	усанд орох	iʲ s ʊ n t _ i r u x	ʊ s a n t _ ɔ r ɔ x
+sich waschen::V	биеэ угаах	pʲ ɵʲ o u _ i ɢ ɵ x	pʲ iʲ i e _ ʊ ɢ a x
+ausziehen::V	тайлах	tʰ ɵ ɵ i ɮ i x	tʰ a a i ɮ a x
+anziehen::V	өмсөх	u m s a x	ɵ m s ɵ x
+sich anziehen::V	хувцаслах	x e u t͡s ʰ ɔ s ɮ o x	x ʊ w t͡s ʰ a s ɮ a x
+kämmen::V	самнах	s ʊ m n a x	s a m n a x
+schmücken::V	гоёх	ɢ a j ʊ x	ɢ ɔ j ɔ x
+schmücken::V	чимэх	t͡ʃ ʰʲ ɔ m u x	t͡ʃ ʰʲ i m e x
+sagen::V	гэх	ɡ ɔ x	ɡ e x
+sagen::V	хэлэх	x u ɮ e x	x e ɮ e x
+sprechen::V	ярих	j i rʲ ɔ x	j a rʲ i x
+sprechen::V	өгүүлэх	ʊ ɡ ɔ ɮ a x	ɵ ɡ u ɮ e x
+reden::V	хэлэх	x iʲ ɮ iʲ x	x e ɮ e x
+reden::V	хөөрөлдөх	x iʲ ɵ r e ɮ t iʲ x	x o o r ɵ ɮ t ɵ x
+sich unterhalten::V	ярилцах	j ʊ rʲ iʲ ɮ t͡s ʰ u x	j a rʲ i ɮ t͡s ʰ a x
+fragen::V	асуух	ʊ s u x	a s ʊ x
+bitten::V	гуйх	ɢ ʊ u x	ɢ ʊ i x
+erzählen::V	өгүүлэх	i ɡ u ɮ ɔ x	ɵ ɡ u ɮ e x
+mitteilen::V	дуулгах	t iʲ w ɮ ɢ a x	t ʊ ʊ ɮ ɢ a x
+mitteilen::V	мэдээлэх	m u t ɵ ɮ ɵ x	m e t e ɮ e x
+nennen::V	нэрлэх	n ɵ r ɮ iʲ x	n e r ɮ e x
+rufen::V	дуудах	t ʊ ʊ t ɔ x	t ʊ ʊ t a x
+prahlen::V	бардах	p ɵ r t ɵ x	p a r t a x
+prahlen::V	сайрхах	s ʊ e ɔ r x o x	s a a i r x a x
+übersetzen::V	орчуулах	iʲ r t͡ʃ ʰ ʊ ɮ u x	ɔ r t͡ʃ ʰ ʊ ɮ a x
+denken::V	санах	s o n ʊ x	s a n a x
+glauben::V	итгэх	ʲ ɵ tʰ ɡ ɔ x	ʲ i tʰ ɡ e x
+bemerken::V	ажих	ɵ t͡ʃ ʲ o x	a t͡ʃ ʲ i x
+bemerken::V	ажиглах	w t͡ʃ ʲ ʊ ɡ ɮ u x	a t͡ʃ ʲ i ɡ ɮ a x
+erkennen::V	таних	tʰ o nʲ a x	tʰ a nʲ i x
+begreifen::V	ойлгох	ɔ iʲ w ɮ ɢ ɵ x	ɔ ɔ i ɮ ɢ ɔ x
+verstehen::V	мэдэж авах	m o t e t͡ʃ _ e ɔ a x	m e t e t͡ʃ _ a w a x
+lernen::V	сурах	s w r a x	s ʊ r a x
+wissen::V	мэдэх	m w t o x	m e t e x
+sich erinnern an::V	дурсах	t w r s i x	t ʊ r s a x
+vergessen::V	мартах	m a r tʰ ɵ x	m a r tʰ a x
+messen::V	хэмжих	x ɵ m t͡ʃ ʲ ʊ x	x e m t͡ʃ ʲ i x
+zählen::V	тоолох	tʰ ɵ ɔ ɮ u x	tʰ ɔ ɔ ɮ ɔ x
+rechnen::V	тооцоох	tʰ ɵ o t͡s ʰ ɔ x	tʰ ɔ ɔ t͡s ʰ ɔ x
+lesen::V	унших	ʊ n ʃʲ ɵ x	ʊ n ʃʲ i x
+malen::V	зурах	t͡s u r o x	t͡s ʊ r a x
+zeichnen::V	дүрслэн бичих	t iʲ r s ɮ o n _ pʲ iʲ t͡ʃ ʰʲ ʊ x	t u r s ɮ e n _ pʲ i t͡ʃ ʰʲ i x
+schreiben::V	бичих	pʲ w t͡ʃ ʰʲ ɵ x	pʲ i t͡ʃ ʰʲ i x
+besitzen::V	эзэмших	w t͡s e m ʃʲ a x	e t͡s e m ʃʲ i x
+kaufen::V	худалдан авах	x iʲ t u ɮ t u n _ o o i x	x ʊ t a ɮ t a n _ a w a x
+verkaufen::V	худалдах	x w t ɔ ɮ t ɵ x	x ʊ t a ɮ t a x
+bezahlen::V	төлөх	tʰ ɔ ɮ ɔ x	tʰ ɵ ɮ ɵ x
+zahlen::V	төлөх	tʰ ʊ ɮ w x	tʰ ɵ ɮ ɵ x
+beherrschen::V	эзэмших	o t͡s i m ʃʲ e x	e t͡s e m ʃʲ i x
+ertragen::V	тэсэх	tʰ u s e x	tʰ e s e x
