@@ -14,6 +14,9 @@ And install your appropriate version of [PyTorch](https://pytorch.org/get-starte
 
 ## Parse data
 
+First, download NorthEuraLex data from [this link](http://www.northeuralex.org/) and put it in the `datasets/northeuralex` folder.
+Then, parse it using the following command:
+
 ```bash
 $ python data_layer/parse.py --data northeuralex
 ```
