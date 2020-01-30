@@ -1,6 +1,6 @@
 # phonotactic-complexity
 
-This repository contains code for analysing phonotactics.
+This repository contains code for analysing phonotactics. It accompanying the paper: [Phonotactic Complexity and Its Trade-offs (Pimentel et al., TACL 2020)](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00296).
 
 It is a study about languages phonotactics and how it relates to other language features, such as word length.
 
@@ -120,6 +120,27 @@ $ python visualization_layer/plot_artificial_scatter.py
 ```
 
 ## Extra Information
+
+
+#### Citation
+
+If this code or the paper were usefull to you, consider citing it:
+
+
+```bash
+@article{pimentel-etal-2020-phonotactics,
+    title={Phonotactic Complexity and its Trade-offs},
+    author={Pimentel, Tiago and Roark, Brian and Cotterell, Ryan},
+    journal={Transactions of the Association for Computational Linguistics},
+    volume={8},
+    pages={1--18},
+    year={2020},
+    publisher={MIT Press},
+    doi={10.1162/tacl\_a\_00296},
+    url={https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00296}
+}
+```
+
 
 #### Dependencies
 
