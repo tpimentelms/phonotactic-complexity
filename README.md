@@ -1,6 +1,6 @@
 # phonotactic-complexity
 
-This repository contains code for analysing phonotactics. It accompanying the paper: [Phonotactic Complexity and Its Trade-offs (Pimentel et al., TACL 2020)](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00296).
+This repository contains code for analysing phonotactics. It accompanies the paper: [Phonotactic Complexity and Its Trade-offs (Pimentel et al., TACL 2020)](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00296).
 
 It is a study about languages phonotactics and how it relates to other language features, such as word length.
 
